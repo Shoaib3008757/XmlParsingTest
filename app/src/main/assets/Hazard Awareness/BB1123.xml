@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1123" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90-91</xref>
+		<text>You are about to drive home. You feel very tired and have a severe headache. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1123-1"/>
+<explanation>
+		<text>All your concentration should be on your driving. Any pain you feel will distract you and you should avoid driving when drowsy. The safest course of action is to wait until you have rested and feel better.</text>
+		<voice id="BB1123-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>wait until you are fit and well before driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive home, but take a tablet for headaches</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive home if you can stay awake for the journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait for a short time, then drive home slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

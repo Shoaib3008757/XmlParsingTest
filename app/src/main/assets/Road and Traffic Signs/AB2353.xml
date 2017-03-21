@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2353" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p72</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2353.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2353-1"/>
+	<explanation>
+		<text>These have been put in place to slow the traffic down. They’re usually found in residential areas. Slow down to an appropriate speed.</text>
+		<voice id="AB2353-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Hump bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Humps in the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Entrance to tunnel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Soft verges</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

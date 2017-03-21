@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2384" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>A red traffic light means</text>
+		<graphic>AB2384.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2384-1"/>
+	<explanation>
+		<text>Make sure you learn and understand the sequence of traffic lights. Whatever light appears you will then know what light is going to appear next and be able to take the appropriate action. For example if amber is showing on its own you’ll know that red will appear next, giving you ample time to slow and stop safely.</text>
+		<voice id="AB2384-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you should stop unless turning left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop, if you are able to brake safely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you must stop and wait behind the stop line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>proceed with caution</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

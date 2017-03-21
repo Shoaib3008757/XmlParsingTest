@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1506" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>You have third-party insurance. What does this cover?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1506-1"/>
+	<explanation>
+		<text>Third party insurance doesn’t cover damage to your own vehicle or injury to yourself. If you have a crash and your vehicle is damaged you might have to carry out the repairs at your own expense.</text>
+		<voice id="BB1506-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Damage to your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Fire damage to your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flood damage to your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Damage to other vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

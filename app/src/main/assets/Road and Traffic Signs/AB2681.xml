@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2681" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r130, HC p114, KYTS p64</xref>
+		<text>What is the reason for the area marked in red and white along the centre of this road?</text>
+		<graphic>AB2681.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2681-1"/>
+	<explanation>
+		<text>Areas of ‘hatched markings’ such as these are to separate traffic streams which could be a danger to each other. They are often seen on bends or where the road becomes narrow. If the area is bordered by a solid white line, you must not enter it except in an emergency.</text>
+		<voice id="AB2681-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>It is to separate traffic flowing in opposite directions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It marks an area to be used by overtaking motorcyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is a temporary marking to warn of the roadworks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is separating the two sides of the dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

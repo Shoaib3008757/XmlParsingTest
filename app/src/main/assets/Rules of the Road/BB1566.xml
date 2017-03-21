@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1566" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13</xref>
+		<text>You are driving at night with full beam headlights on. A vehicle is overtaking you. You should dip your lights</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1566-1"/>
+	<explanation>
+		<text>On full beam your lights could dazzle the driver in front. Make sure that your light beam falls short of the vehicle in front.</text>
+		<voice id="BB1566-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>some time after the vehicle has passed you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>before the vehicle starts to pass you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only if the other driver dips their headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>as soon as the vehicle passes you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2012" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>At a pelican crossing the flashing amber light means you MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2012-1"/>
+
+<explanation>
+		<text>Pelican crossings are signal-controlled crossings operated by pedestrians. Push-button controls change the signals. Pelican crossings have no red-and-amber stage before green. Instead, they have a flashing amber light, which means you MUST give way to pedestrians already on the crossing, but if it is clear, you may continue.</text>
+		<voice id="AB2012-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stop and wait for the green light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and wait for the red light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give way to pedestrians waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to pedestrians already on the crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

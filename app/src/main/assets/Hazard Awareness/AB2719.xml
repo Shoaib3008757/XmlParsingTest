@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2719" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r205-206</xref>
+		<text>What hazard should you be aware of when travelling along this street?</text>
+		<graphic>AB2719.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2719-1"/>
+	<explanation>
+		<text>On roads where there are many parked vehicles, you might not be able to see children between parked cars and they may run out into the road without looking.</text>
+		<voice id="AB2719-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Glare from the sun</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lack of road markings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Children running out between vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Large goods vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

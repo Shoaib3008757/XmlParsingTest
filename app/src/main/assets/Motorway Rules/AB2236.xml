@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2236" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r276</xref>
+		<text>After a breakdown you need to rejoin the main carriageway of a motorway from the hard shoulder. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2236-1"/>
+	<explanation>
+		<text>Wait for a safe gap in the traffic before you move out. Indicate your intention and use the hard shoulder to gain speed but don’t force your way into the traffic.</text>
+		<voice id="AB2236-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move out onto the carriageway then build up your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move out onto the carriageway using your hazard lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>gain speed on the hard shoulder before moving out onto the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait on the hard shoulder until someone flashes their headlights at you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

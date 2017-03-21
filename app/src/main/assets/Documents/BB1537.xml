@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1537" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>What information is found on a vehicle registration document?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1537-1"/>
+	<explanation>
+		<text>Every vehicle used on the road has a registration document. This shows the vehicle’s details, including date of first registration, registration number, registered keeper, previous keeper, make of vehicle, engine size, chassis number, year of manufacture and colour.</text>
+		<voice id="BB1537-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>The registered keeper</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The type of insurance cover</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The service history details</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The date of the MOT</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2250" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r124</xref>
+		<text>Where you see street lights but no speed limit signs the limit is usually</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2250-1"/>
+	<explanation>
+		<text>The presence of street lights generally shows that there is a 30 mph speed limit, unless signs tell you otherwise.</text>
+		<voice id="AB2250-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

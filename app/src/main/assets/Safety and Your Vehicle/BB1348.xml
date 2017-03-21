@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1348" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Driving at 70 mph uses more fuel than driving at 50 mph by up to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1348-1"/>
+	<explanation>
+		<text>Your vehicle will use less fuel if you avoid heavy acceleration. The higher the engine revs, the more fuel you will use. Using the same gear, a vehicle travelling at 70mph will use up to 30% more fuel to cover the same distance, than at 50mph. However, don’t travel so slowly that you inconvenience or endanger other road users.</text>
+		<voice id="BB1348-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>10%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>30%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>75%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>100%</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

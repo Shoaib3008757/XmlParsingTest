@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1743" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90</xref>
+		<text>After passing your driving test, you suffer from ill health. This affects your driving. You MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1743-1"/>
+	<explanation>
+		<text>The licensing authority won’t automatically take away your licence without investigation. For advice, contact the Driver and Vehicle Licensing Agency (or DVA in Northern Ireland).</text>
+		<voice id="BB1743-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>inform your local police station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>avoid using motorways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>always drive accompanied</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>inform the licensing authority</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

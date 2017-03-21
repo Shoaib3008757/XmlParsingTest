@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2609" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r264</xref>
+		<text>On a three-lane motorway which lane should you normally use?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2609-1"/>
+	<explanation>
+		<text>On a three-lane motorway you should travel in the left-hand lane unless you’re overtaking. This applies regardless of the speed at which you’re travelling.</text>
+		<voice id="AB2609-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Centre</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Either the right or centre</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

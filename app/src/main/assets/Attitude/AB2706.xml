@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2706" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r223</xref>
+		<text>A bus has stopped at a bus stop ahead of you. Its right-hand indicator is flashing. You should</text>
+		<graphic>AB2706.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2706-1"/>
+
+<explanation>
+		<text>Give way to buses whenever you can do so safely, especially when they signal to pull away from bus stops. Look out for people leaving the bus and crossing the road.</text>
+		<voice id="AB2706-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>flash your headlights and slow down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down and give way if it is safe to do so</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn and keep going</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slow down and then sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1727" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You are waiting to emerge at a junction. Your view is restricted by parked vehicles. What can help you to see traffic on the road you are joining?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1727-1"/>
+	<explanation>
+		<text>When your view is restricted into the new road you must still be completely sure it is safe to emerge. Try to look for traffic through the windows of the parked cars or the reflections in shop windows. Keep looking in all directions as you slowly edge forwards until you can see it is safe.</text>
+		<voice id="BB1727-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Looking for traffic behind you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Reflections of traffic in shop windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Making eye contact with other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Checking for traffic in your interior mirror</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

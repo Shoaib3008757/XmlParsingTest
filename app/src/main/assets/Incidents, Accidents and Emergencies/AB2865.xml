@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2865" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>A casualty is not breathing normally. Chest compressions should be given. At what rate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2865-1"/>
+	<explanation>
+		<text>If a casualty is not breathing normally chest compressions may be needed to maintain circulation. Place two hands on the centre of the chest and press down hard and fast – around 5–6 centimetres and about twice a second.</text>
+		<voice id="AB2865-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>10 per minute</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>120 per minute</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 per minute</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>240 per minute</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

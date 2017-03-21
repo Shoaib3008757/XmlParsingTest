@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2769" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p106</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2769.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2769-1"/>
+	<explanation>
+		<text>To ease the congestion in town centres, some cities and towns provide park-and-ride schemes. These allow you to park in a designated area and ride by bus into the centre. Park-and-ride schemes are usually cheaper and easier than car parking in the town centre.</text>
+		<voice id="AB2769-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Direction to park-and-ride car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No parking for buses or coaches</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Directions to bus and coach park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parking area for cars and coaches</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

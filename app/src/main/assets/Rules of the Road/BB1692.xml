@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1692" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r200</xref>
+		<text>You are parked in a busy high street. What is the safest way to turn your vehicle around so you can go the opposite way?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1692-1"/>
+	<explanation>
+		<text>Make sure you carry out the manoeuvre without causing a hazard to other vehicles. Choose a place to turn which is safe and convenient for you and for other road users.</text>
+		<voice id="BB1692-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Find a quiet side road to turn round in</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive into a side road and reverse into the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Get someone to stop the traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Do a U-turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

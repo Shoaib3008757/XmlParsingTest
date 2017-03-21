@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1445" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195</xref>
+		<text>You stop for pedestrians waiting to cross at a zebra crossing. They do not start to cross. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1445-1"/>
+
+	<explanation>
+		<text>If you stop for pedestrians and they don’t start to cross don’t wave them across or sound your horn. This could be dangerous if another vehicle is approaching which hasn’t seen or heard your signal.</text>
+		<voice id="BB1445-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Be patient and wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Carry on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wave them to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

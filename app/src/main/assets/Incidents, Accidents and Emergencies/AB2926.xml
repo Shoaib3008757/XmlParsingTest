@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2926" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You arrive at the scene of a motorcycle crash. No other vehicle is involved. The rider is unconscious and lying in the middle of the road. The FIRST thing you should do is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2926-1"/>
+	<explanation>
+		<text>The motorcyclist is in an extremely vulnerable position, exposed to further danger from traffic. Approaching vehicles need advance warning in order to slow down and safely take avoiding action or stop. Don’t put yourself or anyone else at risk. Use the hazard warning lights on your vehicle to alert other road users to the danger.</text>
+		<voice id="AB2926-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move the rider out of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>warn other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>clear the road of debris</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give the rider reassurance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

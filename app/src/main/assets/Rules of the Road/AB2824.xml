@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2824" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p40</xref>
+		<text>What is the national speed limit on a single carriageway road for cars and motorcycles?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2824-1"/>
+	<explanation>
+		<text>Exceeding the speed limit is dangerous and can result in you receiving penalty points on your licence. It isn’t worth it. You should know the speed limit for the road that you’re on by observing the road signs. Different speed limits apply if you are towing a trailer.</text>
+		<voice id="AB2824-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

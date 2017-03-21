@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2304" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p17</xref>
+		<text>Which sign means ‘no entry’?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2304-1"/>
+	<explanation>
+		<text>Look out for traffic signs. Disobeying or not seeing a sign could be dangerous. It may also be an offence for which you could be prosecuted.</text>
+		<voice id="AB2304-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2304a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2304b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2304c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2304d.png</graphic>
+		</answer>
+	</answers>
+
+
+</QF>

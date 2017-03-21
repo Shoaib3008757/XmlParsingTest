@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2293" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p9, KYTS p16</xref>
+		<text>You MUST obey signs giving orders. These signs are mostly in</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2293-1"/>
+	<explanation>
+		<text>There are three basic types of traffic sign, those that warn, inform or give orders. Generally, triangular signs warn, rectangular ones give information or directions, and circular signs usually give orders. An exception is the eight-sided ‘STOP’ sign.</text>
+		<voice id="AB2293-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>green rectangles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>red triangles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>blue rectangles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>red circles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2718" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p117</xref>
+		<text>This yellow sign on a vehicle indicates this is</text>
+		<graphic>AB2718.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2718-1"/>
+	<explanation>
+		<text>Buses which carry children to and from school may stop at places other than scheduled bus stops. Be aware that they might pull over at any time to allow children to get on or off. This will normally be when traffic is heavy during rush hour.</text>
+		<voice id="AB2718-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>a broken-down vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>a school bus</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an ice cream van</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a private ambulance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2850" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195-199</xref>
+		<text>You are approaching this crossing. You should</text>
+		<graphic>AB2850.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2850-1"/>
+	<explanation>
+		<text>Be courteous and prepare to stop. Do not wave people across as this could be dangerous if another vehicle is approaching the crossing.</text>
+		<voice id="AB2850-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>prepare to slow down and stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and wave the pedestrians across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>speed up and pass by quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>continue unless the pedestrians step out</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

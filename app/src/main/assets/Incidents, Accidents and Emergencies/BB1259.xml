@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1259" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC p129, HC r275</xref>
+		<text>Your vehicle has a puncture on a motorway. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1259-1"/>
+	<explanation>
+		<text>Pull up on the hard shoulder and make your way to the nearest emergency telephone to call for assistance. Do not attempt to repair your vehicle while it is on the hard shoulder because of the risk posed by traffic passing at high speeds.</text>
+		<voice id="BB1259-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Drive slowly to the next service area to get assistance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull up on the hard shoulder. Change the wheel as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pull up on the hard shoulder. Use the emergency phone to get assistance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on your hazard lights. Stop in your lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

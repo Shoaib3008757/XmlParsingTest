@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2838" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>Who is legally responsible for ensuring that a vehicle registration certificate (V5C) is updated?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2838-1"/>
+	<explanation>
+		<text>It is your legal responsibility to keep the details of your vehicle registration certificate (V5C) up to date. You should tell the licensing authority of any changes. These include your name, address, or vehicle details. If you don’t do this you may have problems when you sell your vehicle.</text>
+		<voice id="AB2838-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>The registered vehicle keeper</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicle manufacturer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your insurance company</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The licensing authority</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

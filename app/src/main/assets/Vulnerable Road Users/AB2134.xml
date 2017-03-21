@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2134" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p36</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2134.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2134-1"/>
+	<explanation>
+		<text>This sign shows a shared route for pedestrians and cyclists: when it ends, the cyclists will be rejoining the main road.</text>
+		<voice id="AB2134-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No route for pedestrians and cyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A route for pedestrians only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A route for cyclists only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A route for pedestrians and cyclists</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

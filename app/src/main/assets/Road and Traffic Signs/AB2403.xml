@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2403" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p114, KYTS p68</xref>
+		<text>You see this line across the road at the entrance to a roundabout. What does it mean?</text>
+		<graphic>AB2403.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2403-1"/>
+	<explanation>
+		<text>Slow down as you approach the roundabout and check for traffic from the right. If you need to stop and give way, stay behind the broken line until it is safe to emerge onto the roundabout.</text>
+		<voice id="AB2403-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Give way to traffic from the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic from the left has right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You have right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop at the line</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

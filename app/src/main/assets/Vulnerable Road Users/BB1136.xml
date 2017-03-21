@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1136" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r180</xref>
+		<text>You are at the front of a queue of traffic waiting to turn right into a side road. Why is it important to check your right mirror just before turning?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1136-1"/>
+	<explanation>
+		<text>There could be a motorcyclist riding along the outside of the queue. Always check your mirror before turning as situations behind you can change in the time you have been waiting to turn.</text>
+		<voice id="BB1136-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To look for pedestrians about to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To check for overtaking vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To make sure the side road is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To check for emerging traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

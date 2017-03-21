@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2025" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, DES s11, HC r126</xref>
+		<text>You are following a vehicle on a wet road. You should leave a time gap of at least</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2025-1"/>
+<explanation>
+		<text>Wet roads will reduce your tyres’ grip on the road. The safe separation gap of at least two seconds in dry conditions should be doubled in wet weather.</text>
+		<voice id="AB2025-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>one second</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>two seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>three seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>four seconds</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2357" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p11</xref>
+		<text>Which of these signs means the end of a dual carriageway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2357-1"/>
+	<explanation>
+		<text>If you’re overtaking make sure you move back safely into the left-hand lane before you reach the end of the dual carriageway.</text>
+		<voice id="AB2357-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2357a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2357b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2357c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2357d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

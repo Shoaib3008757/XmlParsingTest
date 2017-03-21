@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2273" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r138</xref>
+		<text>Where may you overtake on a one-way street?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2273-1"/>
+	<explanation>
+		<text>You can overtake other traffic on either side when travelling in a one-way street. Make full use of your mirrors and ensure that it’s clear all around before you attempt to overtake. Look for signs and road markings and use the most suitable lane for your destination.</text>
+		<voice id="AB2273-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Only on the left-hand side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtaking is not allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only on the right-hand side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Either on the right or the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

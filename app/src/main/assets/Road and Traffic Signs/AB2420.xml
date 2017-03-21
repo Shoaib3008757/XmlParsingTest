@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2420" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p90</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2420.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2420-1"/>
+	<explanation>
+		<text>You should move into the lanes as directed by the sign. Here the right-hand lane is closed and the left-hand and centre lanes are available. Merging in turn is recommended when it’s safe and traffic is going slowly, for example at road works or a road traffic incident. When vehicles are travelling at speed this is not advisable and you should move into the appropriate lane in good time.</text>
+		<voice id="AB2420-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Through traffic to use left lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right-hand lane T-junction only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Right-hand lane closed ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>11 tonne weight limit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

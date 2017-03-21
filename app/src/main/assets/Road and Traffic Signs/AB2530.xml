@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2530" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p111, KYTS p107</xref>
+		<text>This sign is advising you to</text>
+		<graphic>AB2530.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2530-1"/>
+	<explanation>
+		<text>When a diversion route has been put in place, drivers are advised to follow a symbol which may be a triangle, square, circle or diamond shape on a yellow background.</text>
+		<voice id="AB2530-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>follow the route diversion</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>follow the signs to the picnic area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give way to pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give way to cyclists</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

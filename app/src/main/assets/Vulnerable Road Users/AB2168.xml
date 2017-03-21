@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2168" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r187, HC r215</xref>
+		<text>You’re approaching a roundabout. There are horses just ahead of you. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2168-1"/>
+	<explanation>
+		<text>Horse riders often keep to the outside of the roundabout even if they’re turning right. Give them plenty of room and remember that they may have to cross lanes of traffic.</text>
+		<voice id="AB2168-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sound your horn as a warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Treat them like any other vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give them plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerate past as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

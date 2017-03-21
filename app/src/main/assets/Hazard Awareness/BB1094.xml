@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1094" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r178, HC r211-213</xref>
+		<text>When the traffic lights change to green the white car should</text>
+		<graphic>BB1094.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1094-1"/>
+	<explanation>
+		<text>If you are waiting at traffic lights, check all around you before you move away, as cyclists often filter through waiting traffic. Allow the cyclist to move off safely.</text>
+		<voice id="BB1094-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>wait for the cyclist to pull away</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move off quickly and turn in front of the cyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move close up to the cyclist to beat the lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound the horn to warn the cyclist</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

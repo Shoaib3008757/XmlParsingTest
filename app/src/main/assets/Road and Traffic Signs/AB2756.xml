@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2756" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p69</xref>
+		<text>Where would you find these road markings?</text>
+		<graphic>AB2756.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2756-1"/>
+	<explanation>
+		<text>These markings show the direction in which the traffic should go at a mini-roundabout.</text>
+		<voice id="AB2756-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>At a railway crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>At a mini-roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a pedestrian crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

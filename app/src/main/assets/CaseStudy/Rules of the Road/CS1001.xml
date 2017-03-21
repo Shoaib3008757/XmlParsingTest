@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1001" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r124, HC p40</xref>
+		<text>It’s early evening and street lamps are lit. Anita is driving home at 30 mph, although there are no speed limit signs. The road is a single carriageway and Anita is alone in her vehicle.  Sleet is falling steadily and it’s cold.  Ahead, a vehicle is spreading salt on the road.  In town there are high-occupancy vehicle lanes which Anita does not use. Her home is level with a zebra crossing but she parks beyond its markings further down the road.</text>
+		<part>How has Anita identified a 30 mph requirement?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1001-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>There are many retail outlets still open in the town</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>There are regularly-spaced street lights in the area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There are yellow lines painted on the road surface</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There are plenty of pedestrians and cyclists around</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1001-2"/>
+	</explanation>
+</QF>

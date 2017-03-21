@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1607" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>When leaving your vehicle where should you park if possible?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1607-1"/>
+	<explanation>
+		<text>Whenever possible leave your car in a secure car park. This will help stop thieves.</text>
+		<voice id="BB1607-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Opposite a traffic island</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In a secure car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At or near a taxi rank</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

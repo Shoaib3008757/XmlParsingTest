@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2880" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r126</xref>
+		<text>You are travelling at 50 mph on a good, dry road. What is your typical overall stopping distance?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2880-1"/>
+	<explanation>
+		<text>Even in good conditions it will usually take you further than you think to stop. Don’t just learn the figures, make sure you understand how far the distance is.</text>
+		<voice id="AB2880-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>36 metres (118 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>53 metres (175 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>75 metres (245 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>96 metres (315 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

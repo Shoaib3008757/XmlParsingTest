@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2179" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are following a long vehicle. It approaches a crossroads and signals left, but moves out to the right. You should</text>
+		<graphic>AB2179.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2179-1"/>
+	<explanation>
+		<text>A lorry may swing out to the right as it approaches a left turn. This is to allow the rear wheels to clear the kerb as it turns. Don’t try to filter through if you see a gap on the nearside.</text>
+		<voice id="AB2179-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>get closer in order to pass it quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stay well back and give it room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>assume the signal is wrong and it is really turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake as it starts to slow down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

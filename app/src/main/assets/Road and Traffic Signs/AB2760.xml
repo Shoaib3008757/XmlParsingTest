@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2760" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p90</xref>
+		<text>You see this signal overhead on the motorway. What does it mean?</text>
+		<graphic>AB2760.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2760-1"/>
+	<explanation>
+		<text>You will see this sign if there has been an incident ahead and the motorway is closed. You MUST obey the sign. Make sure that you prepare to leave as soon as you see the warning sign. Don’t pull over at the last moment or cut across other traffic.</text>
+		<voice id="AB2760-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>All vehicles use the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sharp bend to the left ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop, all lanes ahead closed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

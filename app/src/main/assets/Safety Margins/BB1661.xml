@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1661" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>Your car is fitted with anti-lock brakes. You need to stop in an emergency. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1661-1"/>
+	<explanation>
+		<text>Keep pressure on the brake pedal until you have come to a stop. The anti-lock mechanism will activate automatically if it senses the wheels are about to lock.</text>
+		<voice id="BB1661-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>brake normally and avoid turning the steering wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>press the brake pedal promptly and firmly until you have stopped</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep pushing and releasing the foot brake quickly to prevent skidding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply the handbrake to reduce the stopping distance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

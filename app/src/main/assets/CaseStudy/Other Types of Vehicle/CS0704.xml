@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0704" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r224, HC r302</xref>
+		<text>It’s dry but very windy. On the motorway, you see a car towing a large caravan in the middle lane. You then move onto a long open stretch of single carriageway, where you pass a motorcyclist. Later, you are travelling behind a long vehicle and want to overtake. Once in town, there are trams directed by traffic light signals and you have to drive across their tracks. Further on, a bus is signalling its intention to pull out from a bus stop.</text>
+		<part>Why is it important not to obstruct these tracks?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0704-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Electric power to the tram may be disrupted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The wheels of your vehicle could get stuck</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your tyre treads could be seriously damaged</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Trams are unable to steer round obstructions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0704-2"/>
+	</explanation>
+</QF>

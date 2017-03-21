@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1090" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s7, KYTS p26</xref>
+		<text>While driving, you see this sign ahead. You should</text>
+		<graphic>BB1090.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1090-1"/>
+	<explanation>
+		<text>Drive around the bend at a steady speed in the correct gear. Be aware that you might have to stop for approaching trains.</text>
+		<voice id="BB1090-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stop at the sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow, but continue around the bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slow to a crawl and continue</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and look for open farm gates</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

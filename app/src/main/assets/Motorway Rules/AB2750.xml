@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2750" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>You are travelling along the left-hand lane of a three-lane motorway. Traffic is joining from a slip road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2750-1"/>
+	<explanation>
+		<text>You should move to another lane if it is safe to do so. This can greatly assist the flow of traffic joining the motorway, especially at peak times.</text>
+		<voice id="AB2750-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>race the other vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>move to another lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>maintain a steady speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch on your hazard flashers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

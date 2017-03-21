@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1317" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>Anti-lock brakes may not work as effectively if the road surface is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1317-1"/>
+	<explanation>
+		<text>Poor contact with the road surface could cause one or more of the tyres to lose grip on the road. This is more likely to happen when braking in poor weather conditions and when the road has a loose or uneven surface.</text>
+		<voice id="BB1317-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>dry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>loose</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>firm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>smooth</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

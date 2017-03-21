@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2363" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p26</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2363.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2363-1"/>
+	<explanation>
+		<text>Some crossings have gates but no attendant or signals. You should stop, look both ways, listen and make sure that there is no train approaching. If there is a telephone, contact the signal operator to make sure that it’s safe to cross.</text>
+		<voice id="AB2363-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Level crossing with gate or barrier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Gated road ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Level crossing without gate or barrier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cattle grid ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

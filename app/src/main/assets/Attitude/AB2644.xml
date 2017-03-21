@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2644" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r146</xref>
+		<text>You are approaching unmarked crossroads. How should you deal with this type of junction?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2644-1"/>
+
+<explanation>
+		<text>Be extra-cautious, especially when your view is restricted by hedges, bushes, walls and large vehicles etc. In the summer months these junctions can become more difficult to deal with when growing foliage may obscure your view.</text>
+		<voice id="AB2644-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Accelerate and keep to the middle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow down and keep to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerate looking to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down and look both ways</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

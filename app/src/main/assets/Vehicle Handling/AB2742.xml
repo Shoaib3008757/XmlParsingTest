@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2742" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r155</xref>
+		<text>You see a vehicle coming towards you on a single-track road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2742-1"/>
+	<explanation>
+		<text>You must take extra care when on single track roads. You may not be able to see around bends due to high hedges or fences. Proceed with caution and expect to meet oncoming vehicles around the next bend. If you do, pull into or opposite a passing place.</text>
+		<voice id="AB2742-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>go back to the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>do an emergency stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop at a passing place</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>put on your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

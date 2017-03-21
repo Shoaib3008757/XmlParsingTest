@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2160" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r212</xref>
+		<text>Motorcyclists will often look round over their right shoulder just before turning right. This is because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2160-1"/>
+	<explanation>
+		<text>If you see a motorcyclist take a quick glance over their shoulder, this could mean they are about to change direction. Recognising a clue like this helps you to be prepared and take appropriate action, making you safer on the road.</text>
+		<voice id="AB2160-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>they need to listen for following traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>motorcycles do not have mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>looking around helps them balance as they turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>they need to check for traffic in their blind area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2721" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r147</xref>
+		<text>A driver’s behaviour has upset you. It may help if you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2721-1"/>
+	<explanation>
+		<text>Tiredness may make you more irritable than you would be normally. You might react differently to situations because of it. If you feel yourself becoming tense, take a break.</text>
+		<voice id="AB2721-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>stop and take a break</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>shout abusive language</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>gesture to them with your hand</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>follow their car, flashing your headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

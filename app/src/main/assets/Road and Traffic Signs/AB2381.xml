@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2381" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s11, HC r139</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2381.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2381-1"/>
+	<explanation>
+		<text>Where there’s a long, steep, uphill gradient on a motorway, a crawler lane may be provided. This helps the traffic to flow by diverting the slower heavy vehicles into a dedicated lane on the left.</text>
+		<voice id="AB2381-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave motorway at next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Lane for heavy and slow vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>All lorries use the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rest area for lorries</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

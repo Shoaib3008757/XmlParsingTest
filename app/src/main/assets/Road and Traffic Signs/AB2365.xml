@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2365" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p12</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2365.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2365-1"/>
+	<explanation>
+		<text>This sign will give you an early warning that the road ahead will slope downhill. Prepare to alter your speed and gear. Looking at the sign from left to right will show you whether the road slopes uphill or downhill.</text>
+		<voice id="AB2365-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Adverse camber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Steep hill downwards</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Uneven road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steep hill upwards</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

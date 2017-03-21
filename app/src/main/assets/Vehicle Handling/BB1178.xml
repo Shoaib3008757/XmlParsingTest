@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1178" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r226</xref>
+		<text>You should switch your rear fog lights on when visibility drops below</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1178-1"/>
+	<explanation>
+		<text>If visibility falls below 100 metres (328 feet) in fog, switching on your rear fog lights will help following road users to see you. Don’t forget to turn them off once visibility improves: their brightness might be mistaken for brake lights and they could dazzle other drivers.</text>
+		<voice id="BB1178-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your overall stopping distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>ten car lengths</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>200 metres (656 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

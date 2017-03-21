@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1728" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Missing out some gears saves fuel by reducing the amount of time you spend</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1728-1"/>
+	<explanation>
+		<text>It is not always necessary to change up or down through each gear. Missing out intermediate gears helps to reduce the amount of time you are accelerating. Because fuel consumption is at its highest when accelerating this can save fuel.</text>
+		<voice id="BB1728-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>coasting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steering</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>accelerating</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2639" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r121</xref>
+		<text>You have just gone through deep water. To dry off the brakes you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2639-1"/>
+	<explanation>
+		<text>Water on the brakes will act as a lubricant, causing them to work less efficiently. Using the brakes lightly as you go along will dry them out.</text>
+		<voice id="AB2639-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>accelerate and keep to a high speed for a short time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>go slowly while gently applying the brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>avoid using the brakes at all for a few miles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop for at least an hour to allow them time to dry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

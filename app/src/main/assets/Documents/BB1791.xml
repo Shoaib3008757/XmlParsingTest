@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1791" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>Your motor insurance policy has an excess of £100. What does this mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1791-1"/>
+	<explanation>
+		<text>This is a method used by insurance companies to keep annual premiums down. Generally, the higher the excess you choose to pay, the lower the annual premium you will be charged.</text>
+		<voice id="BB1791-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The insurance company will pay the first £100 of any claim</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will be paid £100 if you do not have a crash</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle is insured for a value of £100 if it is stolen</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You will have to pay the first £100 of any claim</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

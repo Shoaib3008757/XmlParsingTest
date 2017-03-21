@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1303" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>To reduce the volume of traffic on the roads, you could</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1303-1"/>
+	<explanation>
+		<text>Walking and cycling are good ways to get exercise. Using public transport also gives the opportunity for exercise if you walk to the railway station or bus stop. Leave the car at home whenever you can.</text>
+		<voice id="BB1303-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>drive in a bus lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use a car with a smaller engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>walk or cycle on short journeys</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>travel by car at all times</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

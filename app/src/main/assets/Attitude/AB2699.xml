@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2699" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, DES s11, HC r126</xref>
+		<text>The conditions are good and dry. You could use the ‘two-second rule’</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2699-1"/>
+
+<explanation>
+		<text>To measure this, choose a fixed reference point such as a bridge, sign or tree. When the vehicle ahead passes the object, say to yourself ‘Only a fool breaks the two-second rule.’ If you reach the object before you finish saying this, you’re TOO CLOSE.</text>
+		<voice id="AB2699-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>before restarting the engine after it has stalled</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>to keep a safe gap from the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>before using the ‘Mirror-Signal-Manoeuvre’ routine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>when emerging on wet roads</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

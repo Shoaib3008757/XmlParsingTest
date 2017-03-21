@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1025" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r215</xref>
+		<text>You’re driving along a country road. A horse and rider are approaching. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1025-1"/>
+
+	<explanation>
+		<text>It’s important that you reduce your speed. Passing too closely at speed could startle the horse and unseat the rider.</text>
+		<voice id="BB1025-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Increase your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Drive slowly past</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

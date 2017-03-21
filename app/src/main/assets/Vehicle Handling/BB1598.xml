@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1598" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12</xref>
+		<text>Why are vehicles fitted with rear fog lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1598-1"/>
+	<explanation>
+		<text>Rear fog lights make it easier to spot a vehicle ahead in foggy conditions. Avoid the temptation to use other vehicles’ lights as a guide, as they may give you a false sense of security.</text>
+		<voice id="BB1598-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To be seen when driving at high speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To use if broken down in a dangerous position</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To make them more visible in thick fog</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn drivers following closely to drop back</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

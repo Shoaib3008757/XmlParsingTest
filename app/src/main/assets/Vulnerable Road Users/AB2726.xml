@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2726" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p107, KYTS p35</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2726.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2726-1"/>
+	<explanation>
+		<text>The picture of a cycle will also usually be painted on the road, sometimes with a different coloured surface. Leave these clear for cyclists and don’t pass too closely when you overtake.</text>
+		<voice id="AB2726-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Contraflow pedal cycle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>With-flow pedal cycle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pedal cycles and buses only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No pedal cycles or buses</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

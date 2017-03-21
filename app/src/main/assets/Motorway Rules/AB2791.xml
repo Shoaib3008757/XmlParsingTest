@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2791" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>The aim of an Active Traffic Management scheme on a motorway is to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2791-1"/>
+	<explanation>
+		<text>Active Traffic Management schemes are intended to reduce congestion and make journey times more reliable. In these areas the hard shoulder may be used as a running lane to ease congestion at peak times or in the event of an incident. It may appear that you could travel faster for a short distance, but keeping traffic flow at a constant speed may improve your journey time.</text>
+		<voice id="AB2791-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>prevent overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reduce rest stops</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>prevent tailgating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce congestion</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

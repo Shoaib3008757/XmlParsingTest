@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2851" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r207</xref>
+		<text>You see a pedestrian with a dog. The dog has a yellow or burgundy coat. This especially warns you that the pedestrian is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2851-1"/>
+	<explanation>
+		<text>Take extra care as the pedestrian may not be aware of vehicles approaching.</text>
+		<voice id="AB2851-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>elderly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>dog training</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>colour blind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>deaf</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

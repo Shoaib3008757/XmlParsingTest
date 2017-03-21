@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2804" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>It is a good idea to plan your journey to avoid busy times. This is because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2804-1"/>
+	<explanation>
+		<text>Having a pleasant journey can have safety benefits. You will be less tired and stressed and this will allow you to concentrate more on your driving or riding.</text>
+		<voice id="AB2803-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your vehicle will use more fuel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you will see less road works</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>it will help to ease congestion</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you will travel a much shorter distance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text>Avoiding busy times means that you are not adding needlessly to traffic congestion. Other advantages are that you will use less fuel and feel less stressed.</text>
+		<voice id="AB2804-2"/>
+	</explanation>
+</QF>

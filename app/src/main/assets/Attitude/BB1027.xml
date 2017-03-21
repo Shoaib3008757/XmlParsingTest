@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1027" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r215</xref>
+		<text>When overtaking a horse and rider you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1027-1"/>
+
+	<explanation>
+		<text>Horses can become startled by the sound of a car engine or the rush of air caused by passing too closely. Keep well back and only pass when it is safe; leave them plenty of room. You may have to use the other side of the road to go past: if you do, first make sure there is no oncoming traffic.</text>
+		<voice id="BB1027-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound your horn as a warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go past as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights as a warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>go past slowly and carefully</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

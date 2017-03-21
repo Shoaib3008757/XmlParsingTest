@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2914" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131–132</xref>
+		<text>You’re the first person to arrive at an incident where people are badly injured. You’ve switched on your hazard warning lights and checked all engines are stopped. What else should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2914-1"/>
+	<explanation>
+		<text>If you’re the first to arrive at a crash scene the first concerns are the risk of further collision and fire. Ensuring that vehicle engines are switched off will reduce the risk of fire. Use hazard warning lights so that other traffic knows there’s a need for caution. Make sure the emergency services are contacted, don’t assume this has already been done.</text>
+		<voice id="AB2914-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Make sure that an ambulance is called for</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop other cars and ask the drivers for help</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Try and get people who are injured to drink something</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move the people who are injured clear of their vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

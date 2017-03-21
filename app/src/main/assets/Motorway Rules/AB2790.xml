@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2790" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>You are on a motorway in an Active Traffic Management (ATM) area. A mandatory speed limit is displayed above the hard shoulder. What does this mean?</text>
+		<graphic>AB2790.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2790-1"/>
+	<explanation>
+		<text>A mandatory speed limit sign above the hard shoulder shows that it can be used as a running lane between junctions. You must stay within the speed limit. Look out for vehicles that may have broken down and could be blocking the hard shoulder.</text>
+		<voice id="AB2790-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You should not travel in this lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The hard shoulder can be used as a running lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You can park on the hard shoulder if you feel tired</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You can pull up in this lane to answer a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

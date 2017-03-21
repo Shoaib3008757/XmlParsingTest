@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0102" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r115</xref>
+		<text>James has a two-hour drive to make on a motorway. He has a cold and his nose is also slightly blocked.  He takes an off-the-shelf cold remedy to help reduce the symptoms. It is a cold and dull day and the car heater is on. James also turns on his dipped headlights. An hour into the boring journey, James begins to feel drowsy.</text>
+		<part>Why would James be using lights in daylight?  </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0102-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To observe other vehicles more clearly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To improve his view of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To catch sight of road signs easily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To maximise his visibility to others</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0102-2"/>
+	</explanation>
+</QF>

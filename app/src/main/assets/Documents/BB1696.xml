@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1696" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>To supervise a learner driver you must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1696-1"/>
+	<explanation>
+		<text>Learner drivers benefit by combining professional driving lessons with private practice. However, you need to be at least 21 years old and have held your driving licence for at least 3 years before you can supervise a learner driver.</text>
+		<voice id="BB1696-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>have held a licence for at least a year</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>be at least 21 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>be an approved driving instructor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>hold an advanced driving certificate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

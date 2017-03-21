@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2705" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>A vehicle has a flashing green beacon. What does this mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2705-1"/>
+
+<explanation>
+		<text>A doctor attending an emergency may show a green flashing beacon on their vehicle. Give way to them when you can do so safely as they will need to reach their destination quickly. Be aware that they might pull over suddenly.</text>
+		<voice id="AB2705-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>A doctor is answering an emergency call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicle is slow-moving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is a motorway police patrol vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicle is carrying hazardous chemicals</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2733" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r223</xref>
+		<text>When you approach a bus signalling to move off from a bus stop you should</text>
+		<graphic>AB2733.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2733-1"/>
+	<explanation>
+		<text>Try to give way to buses if you can do so safely, especially when they signal to pull away from bus stops. Look out for people who’ve stepped off the bus or are running to catch it, and may try to cross the road without looking. Don’t try to accelerate past before it moves away or flash your lights as other road users may be misled by this signal.</text>
+		<voice id="AB2733-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>get past before it moves</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>allow it to pull away, if it is safe to do so</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights as you approach</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>signal left and wave the bus on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

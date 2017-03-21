@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1720" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232</xref>
+		<text>It is a very windy day and you are about to overtake a cyclist. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1720-1"/>
+	<explanation>
+		<text>Cyclists, and motorcyclists, are very vulnerable in crosswinds. They can easily be blown well off course and veer into your path. Always allow plenty of room when overtaking them. Passing too close could cause a draught and unbalance the rider.</text>
+		<voice id="BB1720-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake very closely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep close as you pass</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn repeatedly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Allow extra room</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

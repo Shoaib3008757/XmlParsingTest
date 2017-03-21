@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2736" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r135</xref>
+		<text>Some two-way roads are divided into three lanes. Why are these particularly dangerous?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2736-1"/>
+	<explanation>
+		<text>If you intend to overtake you must consider that approaching traffic could be planning the same manoeuvre. When you have considered the situation and have decided it is safe, indicate your intentions early. This will show the approaching traffic that you intend to pull out.</text>
+		<voice id="AB2736-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Traffic in both directions can use the middle lane to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic can travel faster in poor weather conditions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic can overtake on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic uses the middle lane for emergencies only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1392" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14</xref>
+		<text>Unbalanced wheels on a car may cause</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1392-1"/>
+	<explanation>
+		<text>If your wheels are out of balance it will cause the steering to vibrate at certain speeds. It is not a fault that will rectify itself. You will have to take your vehicle to a garage or tyre fitting firm as this is specialist work.</text>
+		<voice id="BB1392-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the steering to pull to one side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the steering to vibrate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the brakes to fail</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the tyres to deflate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

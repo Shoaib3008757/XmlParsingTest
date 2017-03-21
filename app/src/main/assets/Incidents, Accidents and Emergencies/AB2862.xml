@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2862" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You are at an incident where a casualty is unconscious. Their breathing should be checked. This should be done for at least</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2862-1"/>
+	<explanation>
+		<text>Once the airway is open, check breathing. Listen and feel for breath. Do this by placing your cheek over their mouth and nose, and look to see if the chest rises. This should be done for up to 10 seconds.</text>
+		<voice id="AB2862-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>2 seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>10 seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>1 minute</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>2 minutes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

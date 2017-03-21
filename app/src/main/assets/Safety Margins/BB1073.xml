@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1073" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s7, HC r160</xref>
+		<text>You are about to go down a steep hill. To control the speed of your vehicle you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1073-1"/>
+	<explanation>
+		<text>When going down a steep hill your vehicle will speed up. This will make it more difficult for you to stop. Select a lower gear to give you more engine braking and control. Use this in combination with careful use of the brakes.</text>
+		<voice id="BB1073-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>select a high gear and use the brakes carefully</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>select a high gear and use the brakes firmly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>select a low gear and use the brakes carefully</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>select a low gear and avoid using the brakes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

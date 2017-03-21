@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2343" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p10</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2343.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2343-1"/>
+	<explanation>
+		<text>The priority through the junction is shown by the broader line. You need to be aware of the hazard posed by traffic crossing or pulling out onto a major road.</text>
+		<voice id="AB2343-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Crossroads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Level crossing with gate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Level crossing without gate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ahead only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

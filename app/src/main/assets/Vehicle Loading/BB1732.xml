@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1732" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>Why would you fit a stabiliser before towing a caravan?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1732-1"/>
+	<explanation>
+		<text>Fitting a stabiliser to your tow bar will help to reduce snaking by the caravan especially where there are crosswinds. However, this does not take away your responsibility to ensure that your vehicle/caravan combination is loaded correctly.</text>
+		<voice id="BB1732-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>It will help with stability when driving in crosswinds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will allow heavy items to be loaded behind the axle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will help you to raise and lower the jockey wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will allow you to tow without the breakaway cable</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

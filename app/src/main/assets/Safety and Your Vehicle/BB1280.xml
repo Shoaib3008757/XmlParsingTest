@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1280" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r100</xref>
+		<text>You are carrying two 13 year old children and their parents in your car. Who is responsible for seeing that the children wear seat belts?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1280-1"/>
+	<explanation>
+		<text>Seat belts save lives and reduce the risk of injury. If you are carrying passengers under 14 years of age it’s your responsibility as the driver to ensure that their seat belts are fastened or they are seated in an approved child restraint.</text>
+		<voice id="BB1280-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The children’s parents</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You, the driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The front-seat passenger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The children</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

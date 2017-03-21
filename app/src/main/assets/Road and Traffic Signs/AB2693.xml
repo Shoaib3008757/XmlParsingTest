@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2693" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r110</xref>
+		<text>Other drivers may sometimes flash their headlights at you. In which situation are they allowed to do this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2693-1"/>
+	<explanation>
+		<text>If other drivers flash their headlights this isn’t a signal to show priority. The flashing of headlights has the same meaning as sounding the horn, it’s a warning of their presence.</text>
+		<voice id="AB2693-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To warn of a radar speed trap ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To show that they are giving way to you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To warn you of their presence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To let you know there is a fault with your vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2402" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p114, KYTS p9, KYTS p67</xref>
+		<text>At this junction there is a stop sign with a solid white line on the road surface. Why is there a stop sign here?</text>
+		<graphic>AB2402.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2402-1"/>
+	<explanation>
+		<text>If your view is restricted at a road junction you must stop. There may also be a ‘stop’ sign. Don’t emerge until you’re sure there’s no traffic approaching. IF YOU DON’T KNOW, DON’T GO.</text>
+		<voice id="AB2402-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Speed on the major road is de-restricted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is a busy junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Visibility along the major road is restricted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There are hazard warning lines in the centre of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

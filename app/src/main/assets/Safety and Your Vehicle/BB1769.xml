@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1769" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17, HC r123</xref>
+		<text>You are parked at the side of the road. You will be waiting for some time for a passenger. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1769-1"/>
+	<explanation>
+		<text>If your vehicle is stationary and is likely to remain so for some time, switch off the engine. We should all try to reduce global warming and pollution.</text>
+		<voice id="BB1769-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Switch off the engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Apply the steering lock</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch off the radio</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use your headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

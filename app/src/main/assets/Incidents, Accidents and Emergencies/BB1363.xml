@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1363" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r299</xref>
+		<text>You have stalled in the middle of a level crossing and cannot restart the engine. The warning bell starts to ring. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1363-1"/>
+	<explanation>
+		<text>Try to stay calm, especially if you have passengers on board. If you can’t restart your engine before the warning bells ring, leave the vehicle and get yourself and any passengers well clear of the crossing.</text>
+		<voice id="BB1363-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>get out and clear of the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>run down the track to warn the signal operator</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>carry on trying to restart the engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>push the vehicle clear of the crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

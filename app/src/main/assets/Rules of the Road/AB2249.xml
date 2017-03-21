@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2249" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r124</xref>
+		<text>There are no speed limit signs on the road. How is a 30 mph limit indicated?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2249-1"/>
+	<explanation>
+		<text>There is usually a 30 mph speed limit where there are street lights unless there are signs showing another limit.</text>
+		<voice id="AB2249-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>By hazard warning lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By street lighting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By pedestrian islands</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By double or single yellow lines</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

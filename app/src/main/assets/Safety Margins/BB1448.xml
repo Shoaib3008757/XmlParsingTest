@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1448" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r126</xref>
+		<text>Your overall stopping distance will be much longer when driving</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1448-1"/>
+	<explanation>
+		<text>Extra care should be taken in wet weather as, on wet roads, your stopping distance could be double that necessary for dry conditions.</text>
+		<voice id="BB1448-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>in the rain</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in fog</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at night</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in strong winds</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

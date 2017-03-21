@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2765" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p11</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2765.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2765-1"/>
+	<explanation>
+		<text>Be prepared for traffic approaching from junctions on either side of you. Try to avoid unnecessary changing of lanes just before the junction.</text>
+		<voice id="AB2765-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Two-way traffic straight ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Two-way traffic crosses a one-way road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Two-way traffic over a bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Two-way traffic crosses a two-way road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

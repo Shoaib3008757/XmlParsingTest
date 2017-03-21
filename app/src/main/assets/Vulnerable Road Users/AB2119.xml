@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2119" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r170</xref>
+		<text>You are turning left at a junction. Pedestrians have started to cross the road. You should</text>
+		<graphic>AB2119.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2119-1"/>
+	<explanation>
+		<text>If you’re turning into a side road, pedestrians already crossing the road have priority and you should give way to them. Don’t wave them across the road, sound your horn, flash your lights or give any other misleading signal. Other road users may misinterpret your signal and this may lead the pedestrians into a dangerous situation. If a pedestrian is slow or indecisive be patient and wait. Don’t hurry them across by revving your engine.</text>
+		<voice id="AB2119-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>go on, giving them plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and wave at them to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>blow your horn and proceed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to them</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

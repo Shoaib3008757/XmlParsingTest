@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2884" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r186</xref>
+		<text>You are going straight ahead at a roundabout. How should you signal?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2884-1"/>
+	<explanation>
+		<text>To go straight ahead at a roundabout you should normally approach in the left-hand lane. You will not normally need to signal, but look out for the road markings. At some roundabouts the left lane on approach is marked as ‘left turn only’, so make sure you use the correct lane to go ahead. Signal before you leave as other road users need to know your intentions.</text>
+		<voice id="AB2884-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Signal right on the approach and then left to leave the roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Signal left after you leave the roundabout and enter the new road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Signal right on the approach to the roundabout and keep the signal on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Signal left just after you pass the exit before the one you will take</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

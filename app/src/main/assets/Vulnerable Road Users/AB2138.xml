@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2138" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r207</xref>
+		<text>What action would you take when elderly people are crossing the road?</text>
+		<graphic>AB2138.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2138-1"/>
+	<explanation>
+		<text>Be aware that older people might take a long time to cross the road. They might also be hard of hearing and not hear you approaching. Don’t hurry older people across the road by getting too close to them or revving your engine.</text>
+		<voice id="AB2138-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Wave them across so they know that you have seen them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be patient and allow them to cross in their own time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rev the engine to let them know that you are waiting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tap the horn in case they are hard of hearing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2158" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211-213</xref>
+		<text>There is a slow-moving motorcyclist ahead of you. You are unsure what the rider is going to do. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2158-1"/>
+	<explanation>
+		<text>If a motorcyclist is travelling slowly it may be that they are looking for a turning or entrance. Be patient and stay behind them in case they need to make a sudden change of direction.</text>
+		<voice id="AB2158-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>pass on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pass on the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stay behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move closer</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2424" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r132, KYTS p71</xref>
+		<text>Where can you find reflective amber studs on a motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2424-1"/>
+	<explanation>
+		<text>At night or in poor visibility reflective studs on the road help you to judge your position on the carriageway.</text>
+		<voice id="AB2424-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Separating the slip road from the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On the left-hand edge of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On the right-hand edge of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Separating the lanes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

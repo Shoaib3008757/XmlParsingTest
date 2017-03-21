@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2255" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r163</xref>
+		<text>There is a tractor ahead of you. You wish to overtake but you are NOT sure if it is safe to do so. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2255-1"/>
+	<explanation>
+		<text>Never overtake if you’re not sure whether it’s safe. Can you see far enough down the road to ensure that you can complete the manoeuvre safely? If the answer is no, DON’T GO.</text>
+		<voice id="AB2255-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>follow another overtaking vehicle through</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn to the slow vehicle to pull over</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>speed through but flash your lights to oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>not overtake if you are in doubt</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

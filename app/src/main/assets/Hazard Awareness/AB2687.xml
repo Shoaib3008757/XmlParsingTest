@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2687" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s4</xref>
+		<text>Why are mirrors often slightly curved (convex)?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2687-1"/>
+	<explanation>
+		<text>Although a convex mirror gives a wide view of the scene behind, you should be aware that it will not show you everything behind or to the side of the vehicle. Before you move off you will need to check over your shoulder to look for anything not visible in the mirrors.</text>
+		<voice id="AB2687-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>They give a wider field of vision</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They totally cover blind spots</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They make it easier to judge the speed of following traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They make following traffic look bigger</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

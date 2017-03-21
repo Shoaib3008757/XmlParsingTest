@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2755" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r173</xref>
+		<text>The dual carriageway you are turning right onto has a very narrow central reservation. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2755-1"/>
+	<explanation>
+		<text>When the central reservation is narrow you should treat a dual carriageway as one road. Wait until the road is clear in both directions before emerging to turn right. If you try to treat it as two separate roads and wait in the middle, you are likely to cause an obstruction and possibly a collision.</text>
+		<voice id="AB2755-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Proceed to the central reservation and wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Wait until the road is clear in both directions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop in the first lane so that other vehicles give way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Emerge slightly to show your intentions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

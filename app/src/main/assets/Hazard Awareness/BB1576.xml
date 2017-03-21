@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1576" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r170</xref>
+		<text>You want to turn left at this junction. The view of the main road is restricted. What should you do?</text>
+		<graphic>BB1576.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1576-1"/>
+	<explanation>
+		<text>You should slow right down, and stop if necessary, at any junction where the view is restricted. Edge forward until you can see properly. Only then can you decide if it is safe to go.</text>
+		<voice id="BB1576-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stay well back and wait to see if something comes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Build up your speed so that you can emerge quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop and apply the handbrake even if the road is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Approach slowly and edge out until you can see more clearly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

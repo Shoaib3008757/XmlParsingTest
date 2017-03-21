@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1744" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>Why is travelling in neutral for long distances (known as coasting) wrong?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1744-1"/>
+	<explanation>
+		<text>Try to look ahead and read the road. Plan your approach to junctions and select the correct gear in good time. This will give you the control you need to deal with any hazards that occur. You’ll coast a little every time you change gear. This can’t be avoided, but it should be kept to a minimum.</text>
+		<voice id="BB1744-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It will cause the car to skid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will make the engine stall</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The engine will run faster</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>There is no engine braking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

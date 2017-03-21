@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1670" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r116, HC r274</xref>
+		<text>For which of these may you use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1670-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>When driving on a motorway to warn traffic behind of a hazard ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you are double-parked on a two-way road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When your direction indicators are not working</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When warning oncoming traffic that you intend to stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

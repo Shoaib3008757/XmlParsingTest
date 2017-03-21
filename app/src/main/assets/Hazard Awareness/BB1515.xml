@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1515" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91</xref>
+		<text>What would help to keep you alert during a long journey?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1515-1"/>
+	<explanation>
+		<text>Make sure that the vehicle you’re driving is well ventilated. A warm, stuffy atmosphere will make you feel drowsy. Opening a window and turning down the heating can help you to remain alert on a long journey.</text>
+		<voice id="BB1515-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Using the heater to keep the car warm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keeping off the motorways and using country roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Making sure that you get plenty of fresh air</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drinking a sugary drink while driving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

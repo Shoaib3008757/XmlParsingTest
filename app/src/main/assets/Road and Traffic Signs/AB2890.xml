@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2890" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p11</xref>
+		<text>Which sign means there will be two-way traffic crossing your route ahead?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2890-1"/>
+	<explanation>
+		<text>This sign is found in or at the end of a one-way system. It warns you that traffic will be crossing your path from both directions.</text>
+		<voice id="AB2890-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2890a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2890b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2890c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2890d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

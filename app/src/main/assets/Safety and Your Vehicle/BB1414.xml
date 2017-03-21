@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1414" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>You have to leave valuables in your car. It would be safer to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1414-1"/>
+	<explanation>
+		<text>If you have to leave valuables in your car, always lock them out of sight. If you can see them, so can a thief.</text>
+		<voice id="BB1414-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>put them in a carrier bag</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park near a school entrance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>lock them out of sight</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park near a bus stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

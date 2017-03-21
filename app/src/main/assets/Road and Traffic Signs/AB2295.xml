@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2295" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p9, KYTS p16</xref>
+		<text>Which type of sign tells you NOT to do something?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2295-1"/>
+	<explanation>
+		<text>Signs in the shape of a circle give orders. A sign with a red circle means that you aren’t allowed to do something. Study Know Your Traffic Signs to ensure that you understand what the different traffic signs mean.</text>
+		<voice id="AB2295-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2295a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2295b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2295c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2295d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

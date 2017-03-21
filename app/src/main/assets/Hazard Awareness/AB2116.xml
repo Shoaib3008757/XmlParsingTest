@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2116" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r216</xref>
+		<text>An elderly person’s driving ability could be affected because they may be unable to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2116-1"/>
+	<explanation>
+		<text>Be tolerant of older drivers. Poor eyesight and hearing could affect the speed with which they react to a hazard and may cause them to be hesitant.</text>
+		<voice id="AB2116-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>obtain car insurance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>understand road signs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>react very quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give signals correctly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

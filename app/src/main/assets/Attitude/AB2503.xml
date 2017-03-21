@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2503" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r25, KYTS p124</xref>
+		<text>At which type of crossing are cyclists allowed to ride across with pedestrians?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2503-1"/>
+
+<explanation>
+		<text>A toucan crossing is designed to allow pedestrians and cyclists to cross at the same time. Look out for cyclists approaching the crossing at speed.</text>
+		<voice id="AB2503-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Toucan</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Puffin</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pelican</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Zebra</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

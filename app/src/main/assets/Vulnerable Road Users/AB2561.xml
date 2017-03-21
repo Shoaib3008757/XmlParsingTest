@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2561" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r77, HC r187</xref>
+		<text>You are following two cyclists. They approach a roundabout in the left-hand lane. In which direction should you expect the cyclists to go?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2561-1"/>
+	<explanation>
+		<text>Cyclists approaching a roundabout in the left-hand lane may be turning right but may not have been able to get into the correct lane due to the heavy traffic. They may also feel safer keeping to the left all the way round the roundabout. Be aware of them and give them plenty of room.</text>
+		<voice id="AB2561-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Any direction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Straight ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

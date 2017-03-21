@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2282" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174</xref>
+		<text>You may wait in a yellow box junction when</text>
+		<graphic>AB2282.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2282-1"/>
+	<explanation>
+		<text>The purpose of this road marking is to keep the junction clear of queuing traffic. You may only wait in the marked area when you’re turning right and your exit lane is clear but you can’t complete the turn because of oncoming traffic.</text>
+		<voice id="AB2282-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>oncoming traffic is preventing you from turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you are in a queue of traffic turning left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you are in a queue of traffic to go ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you are on a roundabout</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

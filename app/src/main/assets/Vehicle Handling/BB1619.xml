@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1619" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>While you are driving in fog, it becomes necessary to use front fog lights. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1619-1"/>
+	<explanation>
+		<text>It is an offence to have your fog lights on in conditions other than seriously reduced visibility, ie. less than 100 metres (328 feet).</text>
+		<voice id="BB1619-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>only turn them on in heavy traffic conditions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>remember not to use them on motorways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only use them on dual carriageways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>remember to switch them off as visibility improves</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

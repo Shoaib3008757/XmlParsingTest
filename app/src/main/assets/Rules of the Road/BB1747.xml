@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1747" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r140</xref>
+		<text>You’re driving on a road that has a cycle lane. The lane is marked by a broken white line. This means that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1747-1"/>
+	<explanation>
+		<text>Where signs or road markings show lanes are for cyclists only, leave them free. Do not drive or park in a cycle lane unless it’s unavoidable.</text>
+		<voice id="BB1747-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>you shouldn’t drive in the lane unless it’s unavoidable</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there’s a reduced speed limit for motor vehicles using the lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cyclists can travel in both directions in that lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the lane must be used by motorcyclists in heavy traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

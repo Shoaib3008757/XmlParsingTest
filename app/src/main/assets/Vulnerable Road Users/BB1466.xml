@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1466" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r180</xref>
+		<text>You are driving on a main road. You intend to turn right into a side road. Just before turning you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1466-1"/>
+	<explanation>
+		<text>A last check in the offside mirror and blind spot will allow you sight of any cyclist or motorcyclist overtaking as you wait to turn.</text>
+		<voice id="BB1466-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>adjust your interior mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlamps</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steer over to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check for traffic overtaking on your right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

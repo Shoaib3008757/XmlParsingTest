@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2889" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2889.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2889-1"/>
+	<explanation>
+		<text>Look well ahead and be ready to stop for any pedestrians crossing, or about to cross, the road. Also check the pavements for anyone who looks like they might step or run into the road.</text>
+		<voice id="AB2889-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>School crossing patrol</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No pedestrians allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pedestrian zone – no vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Zebra crossing ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1301" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>How can drivers help the environment?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1301-1"/>
+	<explanation>
+		<text>Rapid acceleration and heavy braking lead to increased
+		<unorderedlist>
+        <item>• fuel consumption</item>
+		<item>• wear on your vehicle.</item>
+		</unorderedlist>
+		Having your vehicle serviced regularly will maintain its efficiency, produce cleaner emissions and reduce the risk of a breakdown.</text>
+		<voice id="BB1301-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>By accelerating harshly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By accelerating gently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By using leaded fuel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By driving faster</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

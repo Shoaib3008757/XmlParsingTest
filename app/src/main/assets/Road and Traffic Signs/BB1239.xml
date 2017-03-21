@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1239" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r104, HC r170</xref>
+		<text>You are waiting at a T-junction. A vehicle is coming from the right with the left signal flashing. What should you do?</text>
+		<graphic>BB1239.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1239-1"/>
+	<explanation>
+		<text>Other road users may give misleading signals. When you’re waiting at a junction don’t emerge until you’re sure of their intentions.</text>
+		<voice id="BB1239-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Move out and accelerate hard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Wait until the vehicle starts to turn in</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull out before the vehicle reaches the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move out slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

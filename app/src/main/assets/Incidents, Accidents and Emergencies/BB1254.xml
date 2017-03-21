@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1254" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r299, KYTS p27</xref>
+		<text>You break down on a level crossing. The lights have not yet begun to flash. What’s the first thing you should do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1254-1"/>
+	<explanation>
+		<text>If your vehicle breaks down on a level crossing, your first priority is to get everyone out of the vehicle and clear of the crossing. Then use the railway telephone, if there is one, to tell the signal operator. If you have time before the train arrives, move the vehicle clear of the crossing, but only do this if alarm signals are not on.</text>
+		<voice id="BB1254-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Tell drivers behind what has happened</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Leave your vehicle and get everyone clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Walk down the track and signal the next train</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stay in your car until you’re told to move</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

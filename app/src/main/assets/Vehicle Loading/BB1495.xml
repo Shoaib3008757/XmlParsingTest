@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1495" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19, HC r98</xref>
+		<text>You are towing a caravan along a motorway. The caravan begins to swerve from side to side. What should you do?</text>
+		<graphic>BB1495.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1495-1"/>
+	<explanation>
+		<text>Try not to brake or steer heavily as this will only make matters worse and you could lose control altogether. Keep calm and regain control by easing off the accelerator.</text>
+		<voice id="BB1495-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Ease off the accelerator slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steer sharply from side to side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Do an emergency stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up very quickly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

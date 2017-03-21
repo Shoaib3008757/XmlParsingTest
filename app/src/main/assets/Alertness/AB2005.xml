@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2005" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r163, HC r166</xref>
+		<text>In which of these situations should you avoid overtaking?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2005-1"/>
+<explanation>
+		<text>As you begin to think about overtaking, ask yourself if it’s really necessary. If you can’t see well ahead stay back and wait for a safer place to pull out.</text>
+		<voice id="AB2005-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Just after a bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a 30 mph road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Approaching a dip in the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

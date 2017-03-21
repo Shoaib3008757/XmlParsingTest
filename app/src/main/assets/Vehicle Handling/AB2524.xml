@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2524" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r153</xref>
+		<text>Traffic calming measures are used to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2524-1"/>
+	<explanation>
+		<text>Traffic calming measures are used to make the roads safer for vulnerable road users, such as cyclists, pedestrians and children. These can be designed as chicanes, road humps or other obstacles that encourage drivers and riders to slow down.</text>
+		<voice id="AB2524-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stop road rage</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>help overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow traffic down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>help parking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

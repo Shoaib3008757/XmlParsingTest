@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0402" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>You have a short but essential journey to make. It is early morning and the roads are icy in places.  It is very cold and snow is falling. Your tyres are making almost no sound. On turning left, the back of your vehicle slides a little to the right.  Further on there is a slow-moving vehicle spreading salt on the road surface.</text>
+		<part>How should you brake under the conditions described? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0402-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Quickly and heavily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Gently and quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slowly and heavily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Gently and slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0402-2"/>
+	</explanation>
+</QF>

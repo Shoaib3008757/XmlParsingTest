@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2091" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r205-206</xref>
+		<text>What should the driver of the grey car (arrowed) be especially aware of?</text>
+		<graphic>AB2091.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2091-1"/>
+	<explanation>
+		<text>When passing parked cars, there’s a risk that a driver or passenger may not check before opening the door into the road. A defensive driver will drive slowly and be looking for people who may be about to get out of their car.</text>
+		<voice id="AB2091-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The uneven road surface</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic following behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Doors opening on parked cars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Empty parking spaces</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

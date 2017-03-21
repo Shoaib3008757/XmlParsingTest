@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2576" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r132</xref>
+		<text>You are on a motorway. What colour are the reflective studs on the left of the carriageway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2576-1"/>
+	<explanation>
+		<text>Red studs are placed between the edge of the carriageway and the hard shoulder. Where slip roads leave or join the motorway the studs are green.</text>
+		<voice id="AB2576-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Green</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Red</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>White</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Amber</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

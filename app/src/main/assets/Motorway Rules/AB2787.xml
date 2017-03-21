@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2787" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>What is an Emergency Refuge Area on a motorway for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2787-1"/>
+	<explanation>
+		<text>In cases of breakdown or emergency try to get your vehicle into an Emergency Refuge Area. This is safer than just stopping on the hard shoulder as it gives you greater distance from the main carriageway. If you are able to re-join the motorway you must take extra care, especially when the hard shoulder is being used as a running lane.</text>
+		<voice id="AB2787-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>An area to park in when you want to use a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To use in cases of emergency or breakdown</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>For an emergency recovery vehicle to park in a contraflow system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To drive in when there is queuing traffic ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

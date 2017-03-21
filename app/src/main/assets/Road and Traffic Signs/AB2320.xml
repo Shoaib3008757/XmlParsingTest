@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2320" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p73</xref>
+		<text>What is the meaning of this traffic sign?</text>
+		<graphic>AB2320.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2320-1"/>
+	<explanation>
+		<text>Don’t force your way through. Show courtesy and consideration to other road users. Although you have priority, make sure oncoming traffic is going to give way before you continue.</text>
+		<voice id="AB2320-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>End of two-way road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give priority to vehicles coming towards you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You have priority over vehicles coming towards you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Bus lane ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2939" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You are going through a tunnel. What systems are provided to warn of any incidents, collisions or congestion?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2939-1"/>
+	<explanation>
+		<text>Take notice of any instructions given on variable message signs or by tunnel officials. They will warn you of any incidents or congestion ahead and advise you what to do.</text>
+		<voice id="AB2939-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Double white centre lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Variable message signs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Chevron ‘distance markers’</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rumble strips</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

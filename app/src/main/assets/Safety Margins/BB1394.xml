@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1394" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>The roads are icy. You should drive slowly</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1394-1"/>
+	<explanation>
+		<text>Driving at a slow speed in a high gear will reduce the likelihood of wheel-spin and help your vehicle maintain the best possible grip.</text>
+		<voice id="BB1394-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>in the highest gear possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in the lowest gear possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with the handbrake partly on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with your left foot on the brake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

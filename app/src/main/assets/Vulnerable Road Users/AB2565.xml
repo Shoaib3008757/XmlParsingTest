@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2565" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r217</xref>
+		<text>How would you react to drivers who appear to be inexperienced?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2565-1"/>
+	<explanation>
+		<text>Learners might not have confidence when they first start to drive. Allow them plenty of room and don’t react adversely to their hesitation. We all learn from experience, but new drivers will have had less practice in dealing with all the situations that might occur.</text>
+		<voice id="AB2565-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sound your horn to warn them of your presence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be patient and prepare for them to react more slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your headlights to indicate that it is safe for them to proceed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtake them as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

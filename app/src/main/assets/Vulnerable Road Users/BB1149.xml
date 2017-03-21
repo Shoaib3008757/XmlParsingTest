@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1149" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r215</xref>
+		<text>How should you overtake horse riders?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1149-1"/>
+	<explanation>
+		<text>When you’re on country roads be aware of particular dangers. Be prepared for farm animals, horses, pedestrians, farm vehicles and wild animals. Always be prepared to slow down or stop.</text>
+		<voice id="BB1149-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Drive up close and overtake as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed is not important but allow plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use your horn just once to warn them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Drive slowly and leave plenty of room</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

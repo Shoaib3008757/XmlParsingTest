@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1794" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r105-109, HC r286</xref>
+		<text>When MUST you stop your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1794-1"/>
+	<explanation>
+		<text>You MUST stop your vehicle when signalled to do so by a
+		<unorderedlist>
+        <item>• police or traffic officer</item>
+		<item>• traffic warden</item>
+		<item>• school crossing patrol</item>
+		<item>• red traffic light.</item>
+		</unorderedlist>
+		You must also stop if you’re involved in an incident which causes damage or injury to any other person, vehicle, animal or property.</text>
+		<voice id="BB1794-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>If you’re involved in an incident that causes damage or injury</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At a junction where there are ‘give way’ lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At the end of a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Before merging onto a motorway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

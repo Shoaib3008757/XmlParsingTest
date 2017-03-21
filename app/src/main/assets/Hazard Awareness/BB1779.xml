@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1779" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r91</xref>
+		<text>Your motorway journey seems boring and you feel drowsy. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1779-1"/>
+	<explanation>
+		<text>Never stop on the hard shoulder to rest. If there is no service station for several miles, leave the motorway at the next exit and find somewhere safe and legal to pull over.</text>
+		<voice id="BB1779-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop on the hard shoulder for a sleep</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Open a window and stop as soon as it’s safe and legal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up to arrive at your destination sooner</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow down and let other drivers overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

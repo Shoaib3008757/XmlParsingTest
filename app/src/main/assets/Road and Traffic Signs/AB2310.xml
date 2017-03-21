@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2310" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p18</xref>
+		<text>Which sign means no overtaking?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2310-1"/>
+	<explanation>
+		<text>This sign indicates that overtaking here is not allowed and you could face prosecution if you ignore this prohibition.</text>
+		<voice id="AB2310-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2310a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2310b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2310c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2310d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

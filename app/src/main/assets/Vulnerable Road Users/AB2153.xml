@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2153" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r86</xref>
+		<text>In daylight, an approaching motorcyclist is using a dipped headlight. Why?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2153-1"/>
+	<explanation>
+		<text>A motorcycle can be lost from sight behind another vehicle. The use of the headlight helps to make it more conspicuous and therefore more easily seen.</text>
+		<voice id="AB2153-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>So that the rider can be seen more easily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To stop the battery overcharging</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To improve the rider’s vision</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The rider is inviting you to proceed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

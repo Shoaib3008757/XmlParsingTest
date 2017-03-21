@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1378" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r227</xref>
+		<text>You are driving in heavy rain. Your steering suddenly becomes very light. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1378-1"/>
+	<explanation>
+		<text>If the steering becomes light in these conditions it is probably due to a film of water that has built up between your tyres and the road surface. Easing off the accelerator should allow your tyres to displace the film of water and they should then regain their grip on the road.</text>
+		<voice id="BB1378-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>steer towards the side of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply gentle acceleration</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake firmly to reduce speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>ease off the accelerator</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

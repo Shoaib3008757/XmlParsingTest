@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1787" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, DES s21</xref>
+		<text>What should you carry for use in the event of a collision?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1787-1"/>
+	<explanation>
+		<text>Various items – such as a first aid kit and a fire extinguisher – can provide invaluable help in the event of a collision or breakdown. They could even save a life.</text>
+		<voice id="BB1787-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Road map</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Can of petrol</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Jump leads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Fire extinguisher</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

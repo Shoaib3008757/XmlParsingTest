@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2629" topic="Rules of the Road" category="C&amp;M" ni_exempt="yes">
+	<question>
+		<xref>HC r243</xref>
+		<text>You MUST NOT park</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2629-1"/>
+	<explanation>
+		<text>It’s important not to park at or near a bus stop, as this could inconvenience passengers and may put them at risk as they get on or off the bus.</text>
+		<voice id="AB2629-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>on a road with a 40 mph speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>at or near a bus stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>where there is no pavement</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>within 20 metres (65 feet) of a junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

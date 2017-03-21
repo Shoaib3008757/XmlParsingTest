@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1614" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You are driving through a tunnel. Your vehicle breaks down. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1614-1"/>
+	<explanation>
+		<text>If your vehicle breaks down in a tunnel it could present a danger to other traffic. First switch on your hazard warning lights and then call for help from an emergency telephone point. Don’t rely on being found by the police or being seen by a CCTV camera. The longer the vehicle stays in an exposed position, the more danger it poses to other drivers.</text>
+		<voice id="BB1614-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Switch on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Remain in your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait for the police to find you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rely on CCTV cameras seeing you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1706" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>You are planning to tow a caravan. Which of these will mostly help to aid the vehicle handling?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1706-1"/>
+	<explanation>
+		<text>Towing a caravan or trailer affects the way the tow vehicle handles. It is highly recommended that you take a caravan manoeuvring course. These are provided by various organisations for anyone wishing to tow a trailer.</text>
+		<voice id="BB1706-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A jockey wheel fitted to the towbar</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Power steering fitted to the towing vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Anti-lock brakes fitted to the towing vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A stabiliser fitted to the towbar</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2874" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>For which of these MUST you show your insurance certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2874-1"/>
+	<explanation>
+		<text>You MUST be able to produce your valid insurance certificate when requested by a police officer. If you can’t do this immediately you may be asked to take it to a police station. Other documents you may be asked to produce are your driving licence and MOT certificate.</text>
+		<voice id="AB2874-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When making a SORN</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When buying or selling a vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When a police officer asks you for it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When having an MOT inspection</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

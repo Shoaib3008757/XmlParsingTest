@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2690" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r126</xref>
+		<text>You are going through a congested tunnel and have to stop. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2690-1"/>
+	<explanation>
+		<text>It’s important to keep a safe distance from the vehicle in front at all times. This still applies in congested tunnels even if you are moving very slowly or have stopped. If the vehicle in front breaks down you may need room to manoeuvre past it.</text>
+		<voice id="AB2690-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Pull up very close to the vehicle in front to save space</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ignore any message signs as they are never up to date</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Keep a safe distance from the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make a U-turn and find another route</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

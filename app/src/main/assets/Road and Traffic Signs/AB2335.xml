@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2335" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p33, KYTS p35</xref>
+		<text>Where would you see a contraflow bus and cycle lane?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2335-1"/>
+	<explanation>
+		<text>In a contraflow lane the traffic permitted to use it travels in the opposite direction to traffic in the other lanes on the road.</text>
+		<voice id="AB2335-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>On a dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On an urban motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On a one-way street</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1604" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>When leaving your car unattended for a few minutes you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1604-1"/>
+	<explanation>
+		<text>Always switch off the engine, remove the key and lock your car, even if you are only leaving it for a few minutes.</text>
+		<voice id="BB1604-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>leave the engine running</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch the engine off but leave the key in</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>lock it and remove the key</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park near a traffic warden</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

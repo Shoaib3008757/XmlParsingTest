@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1331" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Front fog lights should be used ONLY when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1331-1"/>
+	<explanation>
+		<text>Fog lights will help others see you, but remember, they must only be used if visibility is seriously reduced to less than 100 metres (328 feet).</text>
+		<voice id="BB1331-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>travelling in very light rain</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>visibility is seriously reduced</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>daylight is fading</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving after midnight</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

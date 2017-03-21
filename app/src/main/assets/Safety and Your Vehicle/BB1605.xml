@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1605" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>When parking and leaving your car for a few minutes you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1605-1"/>
+	<explanation>
+		<text>Always remove the key and lock your car even if you only leave it for a few minutes.</text>
+		<voice id="BB1605-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>leave it unlocked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>lock it and remove the key</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the hazard warning lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the interior light on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

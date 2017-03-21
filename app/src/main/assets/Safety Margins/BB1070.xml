@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1070" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s22</xref>
+		<text>The MAIN benefit of having four-wheel drive is to improve</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1070-1"/>
+	<explanation>
+		<text>By driving all four wheels there is improved grip, but this does not replace the skills you need to drive safely. The extra grip helps road holding when travelling on slippery or uneven roads.</text>
+		<voice id="BB1070-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>road holding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stopping distances</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>passenger comfort</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

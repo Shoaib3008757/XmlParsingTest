@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1286" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r148-150</xref>
+		<text>You're most likely to lose concentration when driving if you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1286-1"/>
+<explanation>
+		<text>Using a mobile phone distracts your attention away from driving. Distractions caused by mobile phones are known to be potentially dangerous. Avoid being distracted by your phone by turning it off before you start driving.</text>
+		<voice id="BB1286-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>use a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>check road signs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch on the heated rear window</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>look at the door mirrors</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

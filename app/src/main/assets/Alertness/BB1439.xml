@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1439" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r212</xref>
+		<text>You are travelling along this narrow country road. When passing the cyclist you should go</text>
+		<graphic>BB1439.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1439-1"/>
+
+<explanation>
+		<text>Look well ahead and only pull out if it is safe. You will need to use all of the road to pass the cyclist, so be extra-cautious. Look out for entrances to fields where tractors or other farm machinery could be waiting to pull out.</text>
+		<voice id="BB1439-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>slowly, sounding the horn as you pass</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>quickly, leaving plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slowly, leaving plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>quickly, sounding the horn as you pass</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

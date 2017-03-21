@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2288" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195</xref>
+		<text>Someone is waiting to cross at a zebra crossing. They are standing on the pavement. You should normally</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2288-1"/>
+	<explanation>
+		<text>By standing on the pavement, the pedestrian is showing an intention to cross. If you are looking well down the road you will give yourself enough time to slow down and stop safely. Don’t forget to check your mirrors before slowing down.</text>
+		<voice id="AB2288-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>go on quickly before they step onto the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop before you reach the zigzag lines and let them cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop, let them cross, wait patiently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>ignore them as they are still on the pavement</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

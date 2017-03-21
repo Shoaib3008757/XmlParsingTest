@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2844" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r220</xref>
+		<text>You are on a dual carriageway. Ahead you see a vehicle with an amber flashing light. What could this be?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2844-1"/>
+	<explanation>
+		<text>An amber flashing light on a vehicle indicates that it is slow-moving. Battery powered vehicles used by disabled people are limited to 8 mph. It’s not advisable for them to be used on dual carriageways where the speed limit exceeds 50 mph. If they are then an amber flashing light must be used.</text>
+		<voice id="AB2844-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>An ambulance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A fire engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A doctor on call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A disabled person’s vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

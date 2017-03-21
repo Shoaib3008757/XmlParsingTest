@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2572" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p75</xref>
+		<text>A rumble device is designed to</text>
+		<graphic>AB2572.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2572-1"/>
+	<explanation>
+		<text>A rumble device consists of raised markings or strips across the road. It gives drivers an audible, visual and tactile warning. They are found along the hard shoulder on the motorway and approaching some hazards to alert drivers of the need to slow down.</text>
+		<voice id="AB2572-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>give directions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>prevent cattle escaping</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>alert you to low tyre pressure</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>alert you to a hazard</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

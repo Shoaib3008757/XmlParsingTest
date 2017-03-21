@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1707" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>Are passengers allowed to ride in a caravan that is being towed?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1707-1"/>
+	<explanation>
+		<text>Riding in a towed caravan is highly dangerous. The safety of the entire unit is dependent on the stability of the trailer. Moving passengers would make the caravan unstable and could cause loss of control.</text>
+		<voice id="BB1707-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Yes, if they are over fourteen</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No, not at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only if all the seats in the towing vehicle are full</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only if a stabiliser is fitted</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

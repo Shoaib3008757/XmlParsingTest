@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2771" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>You are approaching traffic lights. Red and amber are showing. This means</text>
+		<graphic>AB2771.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2771-1"/>
+	<explanation>
+		<text>Be aware that other traffic might still be clearing the junction. Make sure the way is clear before continuing.</text>
+		<voice id="AB2771-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>pass the lights if the road is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is a fault with the lights – take care</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>wait for the green light before you cross the stop line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the lights are about to change to red</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

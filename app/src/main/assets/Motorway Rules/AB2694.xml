@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2694" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r288</xref>
+		<text>You are approaching roadworks on a motorway. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2694-1"/>
+	<explanation>
+		<text>Collisions can often happen at roadworks. Be aware of the speed limits, slow down in good time and keep your distance from the vehicle in front.</text>
+		<voice id="AB2694-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Speed up to clear the area quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always use the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Obey all speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stay very close to the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

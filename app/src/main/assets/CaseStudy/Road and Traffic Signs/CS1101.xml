@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1101" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p106</xref>
+		<text>Ajay is driving through an area where there are many pedestrians.  There is a turning ahead with a red-bordered round sign, showing a car with a motorcycle above it.  Outside town, the single carriageway road has a double unbroken white centre line. Ajay sees several signs with brown backgrounds.  He approaches a traffic light signal which is showing green. The signal changes just before Ajay reaches it.</text>
+		<part>What is meant by the round sign described above?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1101-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No large vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No motor vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No through road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No vehicle parking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1101-2"/>
+	</explanation>
+</QF>

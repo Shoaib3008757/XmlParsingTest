@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1741" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Fuel consumption is at its highest when you are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1741-1"/>
+	<explanation>
+		<text>Always try to use the accelerator smoothly. Taking your foot off the accelerator allows the momentum of the car to take you forward, especially when going downhill. This can save a considerable amount of fuel without any loss of control over the vehicle.</text>
+		<voice id="BB1741-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>coasting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>accelerating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steering</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

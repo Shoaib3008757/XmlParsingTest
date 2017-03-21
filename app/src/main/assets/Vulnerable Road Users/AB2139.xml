@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2139" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r207</xref>
+		<text>You see two elderly pedestrians about to cross the road ahead. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2139-1"/>
+	<explanation>
+		<text>Older people may have impaired hearing, vision, concentration and judgement. They may also walk slowly and so could take a long time to cross the road.</text>
+		<voice id="AB2139-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>expect them to wait for you to pass</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>speed up to get past them quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and wave them across the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>be careful, they may misjudge your speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

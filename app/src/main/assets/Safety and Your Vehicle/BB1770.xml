@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1770" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r101</xref>
+		<text>You are using a rear-facing baby seat. You want to put it on the front passenger seat which is protected by a frontal airbag. What MUST you do before setting off?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1770-1"/>
+	<explanation>
+		<text>If the airbag activates near a baby seat, it could cause serious injury or even death to the child. It is illegal to fit a rear-facing baby seat into a passenger seat protected by an active frontal airbag. You MUST secure it in a different seat or deactivate the relevant airbag. Follow the manufacturers advice when fitting a baby seat.</text>
+		<voice id="BB1770-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Deactivate the airbag</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn the seat to face sideways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ask a passenger to hold the baby</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put the child in an adult seat belt</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

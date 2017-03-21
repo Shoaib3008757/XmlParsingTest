@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1355" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174</xref>
+		<text>You want to turn right at a box junction. There is oncoming traffic. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1355-1"/>
+	<explanation>
+		<text>You can move into the box junction to wait as long as your exit is clear. The oncoming traffic will stop when the traffic lights change, allowing you to proceed.</text>
+		<voice id="BB1355-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>wait in the box junction if your exit is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait before the junction until it is clear of all traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive on, you cannot turn right at a box junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive slowly into the box junction when signalled by oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

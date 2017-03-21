@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1145" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r180</xref>
+		<text>You want to turn right from a main road into a side road. Just before turning you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1145-1"/>
+	<explanation>
+		<text>Motorcyclists often overtake queues of vehicles. Make one last check in your mirror and your blind spot to avoid turning across their path.</text>
+		<voice id="BB1145-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>cancel your right-turn signal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>select first gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check for traffic overtaking on your right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and set the handbrake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1304" topic="Accidents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>Marco witnesses a road traffic incident involving three vehicles. He stops his vehicle, quickly places a warning triangle on the road then telephones the emergency services. He checks on the people involved. Two people are slightly injured and another is in shock. Marco stays with them until the emergency services arrive. While paramedics check the three casualties, Marco explains the situation to the police and offers his own contact details. The officers then speak to the casualties.</text>
+		<part>Why would Marco provide his own details?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1304-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>He might be required to supply a witness statement</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>He wanted to get his triangular warning sign back later</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>He needed the police to keep him informed of progress</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>He was interested in becoming involved in emergency work</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1304-2"/>
+	</explanation>
+</QF>

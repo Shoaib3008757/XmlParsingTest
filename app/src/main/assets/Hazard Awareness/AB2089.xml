@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2089" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195</xref>
+		<text>What should the driver of the car approaching the crossing do?</text>
+		<graphic>AB2089.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2089-1"/>
+	<explanation>
+		<text>Look well ahead to see if any hazards are developing. This will give you more time to deal with them in the correct way. The man in the picture is clearly intending to cross the road. You should be travelling at a speed that allows you to check your mirror, slow down and stop in good time. You shouldn’t have to brake harshly.</text>
+		<voice id="AB2089-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Continue at the same speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive through quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down and get ready to stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

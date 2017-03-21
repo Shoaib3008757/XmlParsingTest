@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1322" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>You are driving a vehicle fitted with anti-lock brakes. You need to stop in an emergency. You should apply the footbrake</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1322-1"/>
+	<explanation>
+		<text>Look well ahead down the road as you drive and give yourself time and space to react safely to any hazards. You may have to stop in an emergency due to a misjudgement by another driver or a hazard arising suddenly such as a child running out into the road. In this case, if your vehicle has anti-lock brakes, you should apply the brakes immediately and keep them firmly applied until you stop.</text>
+		<voice id="BB1322-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>slowly and gently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slowly but firmly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rapidly and gently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>rapidly and firmly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

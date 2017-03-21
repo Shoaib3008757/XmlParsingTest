@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2161" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r207, HC r211</xref>
+		<text>Which is the most vulnerable road user at road junctions?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2161-1"/>
+	<explanation>
+		<text>Pedestrians and riders on two wheels can be harder to see than other road users. Make sure you look for them, especially at junctions. Effective observation, coupled with appropriate action, can save lives.</text>
+		<voice id="AB2161-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Car driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tractor driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lorry driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Motorcyclist</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2904" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r126</xref>
+		<text>Overall stopping distance is made up of thinking and braking distance. You are on a good, dry road surface with good brakes and tyres. What is the typical BRAKING distance from 50 mph?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2904-1"/>
+	<explanation>
+		<text>Be aware this is just the braking distance. You need to add the thinking distance to this to give the OVERALL STOPPING DISTANCE. At 50 mph the typical thinking distance will be 15 metres (50 feet), plus a braking distance of 38 metres (125 feet), giving an overall stopping distance of 53 metres (175 feet). The distance could be greater than this depending on your attention and response to any hazards. These figures are a general guide.</text>
+		<voice id="AB2904-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>14 metres (46 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>24 metres (80 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>38 metres (125 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>55 metres (180 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1205" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>Monique has just bought her first car, a good second-hand vehicle. It has passed its MOT, but the vehicle excise licence (road tax) expires in five days.  Monique arranges and pays for the highest level of insurance cover available and receives the usual form of temporary cover note for use until her full certificate arrives.  Taking her documents, she then goes to the local Post Office to renew the vehicle excise licence.</text>
+		<part>When renewing the vehicle excise licence at a post office, what two documents MUST Monique show?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1205-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Birth certificate and insurance certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving licence and MOT certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Insurance certificate and MOT certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Insurance certificate and driving licence</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1205-2"/>
+	</explanation>
+</QF>

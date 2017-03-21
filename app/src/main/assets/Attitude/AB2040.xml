@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2040" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s8, HC r143</xref>
+		<text>You are in a one-way street and want to turn right. You should position yourself</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2040-1"/>
+
+<explanation>
+		<text>If you’re travelling in a one-way street and wish to turn right you should take up a position in the right-hand lane. This will enable other road users not wishing to turn to proceed on the left. Indicate your intention and take up your position in good time.</text>
+		<voice id="AB2040-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>in the right-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in either lane, depending on the traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>just left of the centre line</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

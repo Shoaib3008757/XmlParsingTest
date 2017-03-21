@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2600" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r216</xref>
+		<text>You are following a car driven by an elderly driver. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2600-1"/>
+	<explanation>
+		<text>You must show consideration to other road users. The reactions of older drivers may be slower and they might need more time to deal with a situation. Be tolerant and don’t lose patience or show your annoyance.</text>
+		<voice id="AB2600-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>expect the driver to drive badly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your lights and overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>be aware that the driver’s reactions may not be as fast as yours</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stay very close behind but be careful</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2246" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p106, KYTS p20</xref>
+		<text>What is the meaning of this sign?</text>
+		<graphic>AB2246.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2246-1"/>
+	<explanation>
+		<text>This sign doesn’t tell you the speed limit in figures. You should know the speed limit for the type of road that you’re on. Study your copy of The Highway Code.</text>
+		<voice id="AB2246-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Local speed limit applies</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No waiting on the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>National speed limit applies</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No entry to vehicular traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

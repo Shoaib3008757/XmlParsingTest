@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"
+        android:drawable="@color/button_pressed" >
+    <!-- pressed -->
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dip" />
+            <stroke android:width="10dip" android:color="@color/button_pressed" />
+            <gradient android:angle="-90" android:startColor="@color/button_pressed" android:endColor="@color/button_pressed" />
+        </shape>
+    </item>
+
+    <item android:state_focused="true"
+        android:drawable="@color/button_focused" >
+    <!-- focused -->
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dip" />
+            <stroke android:width="10dip" android:color="@color/button_pressed" />
+            <gradient android:angle="-90" android:startColor="@color/button_pressed" android:endColor="@color/button_pressed" />
+        </shape>
+
+    </item>
+
+    <!--No State Default behaviour of button-->
+
+    <item >
+        <shape android:shape="rectangle"  >
+            <corners android:radius="10dip" />
+            <stroke android:width="10dip" android:color="@color/button_default" />
+            <gradient android:angle="-90" android:startColor="@color/button_default" android:endColor="@color/button_default" />
+        </shape>
+    </item>
+
+
+</selector>

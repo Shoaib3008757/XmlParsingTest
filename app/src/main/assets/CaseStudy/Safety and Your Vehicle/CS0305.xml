@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0305" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>Jeff drives through the city centre, choosing to travel outside the rush hour. In the city there are double red lines along the roadside. Later, Jeff reaches a major junction. The traffic lights are not working but there are very few vehicles on the road. At work, Jeff has to park on the roadside. When parking, his steering feels a little heavy. He picks up his laptop to take to work and locks the car.  He leaves his camera on the back seat.</text>
+		<part>What should Jeff do with his camera?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0305-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave it lying on the back seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put it in a bag on the front seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Lock it away securely out of sight</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cover it up with a thick blanket</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0305-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1460" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>How does alcohol affect you?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1460-1"/>
+	<explanation>
+		<text>Concentration and good judgement are needed at all times to be a good, safe driver. Don’t put yourself or others at risk by drinking and driving.</text>
+		<voice id="BB1460-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It speeds up your reactions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It increases your awareness</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It improves your coordination</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It reduces your concentration</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

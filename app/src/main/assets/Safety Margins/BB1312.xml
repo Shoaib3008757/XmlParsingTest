@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1312" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, DES s12, HC r120</xref>
+		<text>Anti-lock brakes prevent wheels from locking. This means the tyres are less likely to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1312-1"/>
+	<explanation>
+		<text>If an anti-lock braking system is fitted it activates automatically when maximum braking pressure is applied or when it senses that the wheels are about to lock. It prevents the wheels from locking so you can continue to steer the vehicle during braking. It does not remove the need for good driving practices such as anticipation and correct speed for the conditions.</text>
+		<voice id="BB1312-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>aquaplane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>skid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>puncture</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

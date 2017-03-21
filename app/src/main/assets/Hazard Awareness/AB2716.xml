@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2716" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r104</xref>
+		<text>You think the driver of the vehicle in front has forgotten to cancel their right indicator. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2716-1"/>
+	<explanation>
+		<text>The driver may be unsure of the location of a junction and turn suddenly. Be cautious and don’t attempt to overtake.</text>
+		<voice id="AB2716-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>flash your lights to alert the driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn before overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake on the left if there is room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stay behind and not overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

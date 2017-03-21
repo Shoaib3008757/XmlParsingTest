@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1435" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9</xref>
+		<text>Where is the safest place to park your vehicle at night?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1435-1"/>
+	<explanation>
+		<text>If you have a garage, use it. Your vehicle is less likely to be a victim of car crime if it’s in a garage. Also in winter the windows will be free from ice and snow.</text>
+		<voice id="BB1435-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>In a garage</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a busy road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In a quiet car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Near a red route</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

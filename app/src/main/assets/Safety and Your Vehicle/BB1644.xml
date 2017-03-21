@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1644" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>A driver causes more damage to the environment by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1644-1"/>
+	<explanation>
+		<text>Avoid using your car for short journeys. On a short journey the engine is unlikely to warm up fully and will therefore be running less efficiently; this will result in it using more fuel and producing higher levels of harmful emissions.</text>
+		<voice id="BB1644-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>choosing a fuel-efficient vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>having their vehicle serviced regularly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving in as high a gear as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>making a lot of short journeys</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

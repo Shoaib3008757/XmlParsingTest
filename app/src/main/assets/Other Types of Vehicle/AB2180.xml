@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2180" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are following a long vehicle approaching a crossroads. The driver signals right but moves close to the left-hand kerb. What should you do?</text>
+		<graphic>AB2180.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2180-1"/>
+	<explanation>
+		<text>When a long vehicle is going to turn right it may need to keep close to the left-hand kerb. This is to prevent the rear end of the trailer cutting the corner. You need to be aware of how long vehicles behave in such situations. Don’t overtake the lorry because it could turn as you’re alongside. Stay behind and wait for it to turn.</text>
+		<voice id="AB2180-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Warn the driver of the wrong signal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Wait behind the long vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Report the driver to the police</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtake on the right-hand side</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

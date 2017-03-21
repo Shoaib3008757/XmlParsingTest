@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1076" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r153</xref>
+		<text>You are driving in a built-up area. You approach a speed hump. You should</text>
+		<graphic>BB1076.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1076-1"/>
+	<explanation>
+		<text>Many towns have speed humps to slow down traffic. Slow down when driving over them. If you go too fast they may affect your steering and suspension, causing you to lose control or even damaging it. Be aware of pedestrians in these areas.</text>
+		<voice id="BB1076-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move across to the left-hand side of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait for any pedestrians to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow your vehicle right down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop and check both pavements</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

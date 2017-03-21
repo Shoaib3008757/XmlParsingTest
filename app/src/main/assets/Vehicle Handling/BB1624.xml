@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1624" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You are driving down a long steep hill. You suddenly notice your brakes are not working as well as normal. What is the usual cause of this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1624-1"/>
+	<explanation>
+		<text>This is more likely to happen on vehicles fitted with drum brakes but can apply to disc brakes as well. Using a lower gear will assist the braking and help you to keep control of your vehicle.</text>
+		<voice id="BB1624-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>The brakes overheating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Air in the brake fluid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Oil on the brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Badly adjusted brakes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

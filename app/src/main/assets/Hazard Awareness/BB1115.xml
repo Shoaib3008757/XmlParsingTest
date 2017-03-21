@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1115" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>You have been taking medicine for a few days which made you feel drowsy. Today you feel better but still need to take the medicine. You should only drive</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1115-1"/>
+	<explanation>
+		<text>Take care – it’s not worth taking risks. Always check with your doctor to be really sure. You may not feel drowsy now, but the medicine could have an effect on you later in the day.</text>
+		<voice id="BB1115-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>if your journey is necessary</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at night on quiet roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>if someone goes with you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>after checking with your doctor</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1113" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>What advice should you give to a driver who has had a few alcoholic drinks at a party?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1113-1"/>
+	<explanation>
+		<text>Drinking black coffee or waiting a few hours won’t make any difference. Alcohol takes time to leave the body. A driver who has been drinking should go home by public transport or taxi. They might even be unfit to drive the following morning.</text>
+		<voice id="BB1113-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Have a strong cup of coffee and then drive home</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive home carefully and slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Go home by public transport</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait a short while and then drive home</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

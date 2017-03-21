@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1753" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>Car passengers MUST wear a seat belt if one is available, unless they are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1753-1"/>
+	<explanation>
+		<text>When adult passengers are travelling in a vehicle, it is their own responsibility to wear a seat belt. However, you should still remind them to use a seat belt.</text>
+		<voice id="BB1753-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>in a vehicle fitted with air bags</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>travelling within a congestion charging zone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sitting in the rear seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>exempt for medical reasons</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

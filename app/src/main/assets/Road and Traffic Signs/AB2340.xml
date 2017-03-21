@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2340" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p10</xref>
+		<text>What are triangular signs for?</text>
+		<graphic>AB2340.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2340-1"/>
+	<explanation>
+		<text>This type of sign will warn you of hazards ahead. Make sure you look at each sign that you pass on the road, so that you do not miss any vital instructions or information.</text>
+		<voice id="AB2340-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To give warnings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To give information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To give orders</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To give directions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

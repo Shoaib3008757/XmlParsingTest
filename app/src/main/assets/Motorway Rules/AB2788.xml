@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2788" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r108</xref>
+		<text>Traffic officers operate on motorways and some primary routes in England. What are they authorised to do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2788-1"/>
+	<explanation>
+		<text>Traffic officers do not have enforcement powers but are able to stop and direct people on motorways and some ‘A’ class roads. They only operate in England and work in partnership with the police at incidents, providing a highly trained and visible service. They are recognised by an orange and yellow jacket and their vehicle has yellow and black markings.</text>
+		<voice id="AB2788-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop and arrest drivers who break the law</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Repair broken-down vehicles on the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Issue fixed penalty notices</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop and direct anyone on a motorway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

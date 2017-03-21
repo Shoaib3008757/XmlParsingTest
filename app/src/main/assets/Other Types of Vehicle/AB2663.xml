@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2663" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are following a long lorry. The driver signals to turn left into a narrow road. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2663-1"/>
+	<explanation>
+		<text>When turning into narrow roads articulated and long vehicles will need more room. Initially they will need to swing out in the opposite direction to which they intend to turn. They could mask another vehicle turning out of the same junction. DON’T be tempted to overtake them or pass on the inside.</text>
+		<voice id="AB2663-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake on the left before the lorry reaches the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtake on the right as soon as the lorry slows down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Do not overtake unless you can see there is no oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Do not overtake, stay well back and be prepared to stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

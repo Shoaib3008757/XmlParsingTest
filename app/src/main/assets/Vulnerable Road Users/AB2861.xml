@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2861" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r178</xref>
+		<text>At some traffic lights there are advance stop lines and a marked area. What are these for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2861-1"/>
+	<explanation>
+		<text>You should always stop at the first white line. Avoid going into the marked area which is reserved for cyclists only. However if you have crossed the first white line at the time the signal changes to red you must stop at the second line even if you are in the marked area.</text>
+		<voice id="AB2861-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To allow cyclists to position in front of other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To let pedestrians cross when the lights change</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To prevent traffic from jumping the lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To let passengers get off a bus which is queuing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

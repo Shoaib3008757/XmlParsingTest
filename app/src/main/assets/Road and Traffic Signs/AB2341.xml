@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2341" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p10</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2341.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2341-1"/>
+	<explanation>
+		<text>This type of sign will warn you of hazards ahead. Make sure you look at each sign and road markings that you pass, so that you do not miss any vital instructions or information. This particular sign shows there is a T-junction with priority over vehicles from the right.</text>
+		<voice id="AB2341-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn left ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>T-junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No through road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give way</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

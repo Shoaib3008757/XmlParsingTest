@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2429" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p20</xref>
+		<text>Which of these signs means that the national speed limit applies?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2429-1"/>
+	<explanation>
+		<text>You should know the speed limit for the road on which you are travelling, and the vehicle that you are driving. The different speed limits are shown in The Highway Code.</text>
+		<voice id="AB2429-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2429a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2429b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2429c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2429d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

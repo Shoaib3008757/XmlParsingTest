@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2488" topic="Vehicle Loading" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s19, HC r98, HC p40</xref>
+    <text>You’re towing a small trailer on a busy three-lane motorway. All the lanes are open. You must</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2488-1"/>
+  <explanation>
+    <text>The motorway regulations for towing a trailer state that you MUST NOT
+	<unorderedlist>
+        <item>• use the right-hand lane of a three-lane motorway, unless directed to do so (for example, at roadworks or due to a lane closure)</item>
+        <item>• exceed 60 mph.</item>
+    </unorderedlist>
+    </text>
+    <voice id="AB2488-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>not exceed 50 mph</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>not overtake</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>have a stabiliser fitted</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>use only the left and centre lanes</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

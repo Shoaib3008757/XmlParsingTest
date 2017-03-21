@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1735" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>You wish to tow a trailer. Where would you find the maximum noseweight of your vehicle’s tow ball?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1735-1"/>
+	<explanation>
+		<text>You must know how to load your trailer or caravan so that the hitch exerts a downward force onto the tow ball. This information can be found in your vehicle handbook or from your vehicle manufacturer’s agent.</text>
+		<voice id="BB1735-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>In the vehicle handbook</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In The Highway Code</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In your vehicle registration certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In your licence documents</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

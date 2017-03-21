@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1068" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>You are trying to move off on snow. You should use</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1068-1"/>
+	<explanation>
+		<text>If you attempt to move off in a low gear, such as first, the engine will rev at a higher speed. This could cause the wheels to spin and dig further into the snow.</text>
+		<voice id="BB1068-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the lowest gear you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the highest gear you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a high engine speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the handbrake and footbrake together</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

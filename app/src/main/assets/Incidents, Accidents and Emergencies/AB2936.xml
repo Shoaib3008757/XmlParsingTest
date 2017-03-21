@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2936" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r286, HC p122</xref>
+		<text>You’re involved in a collision. Afterwards, which document may the police ask you to produce?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2936-1"/>
+	<explanation>
+		<text>You MUST stop if you’ve been involved in a collision which results in injury or damage. The police may ask to see your driving licence and insurance details at the time or later at a police station.</text>
+		<voice id="AB2936-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Vehicle registration document</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Theory test certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicle service record</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

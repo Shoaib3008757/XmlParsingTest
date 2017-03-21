@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2876" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>Your vehicle needs a current MOT certificate. Until you have one you will NOT be able to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2876-1"/>
+	<explanation>
+		<text>If your vehicle is required to have an MOT certificate, you will need to make sure this is current before you are able to renew your vehicle excise licence (road tax). You can renew online, by phone or at certain post offices.</text>
+		<voice id="AB2876-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>renew your driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change your insurance company</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>renew your vehicle excise licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>notify a change of address</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1740" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>You are driving on a motorway and want to use your mobile phone. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1740-1"/>
+
+<explanation>
+		<text>Except in a genuine emergency you MUST NOT use your mobile phone when driving. If you need to use it leave the motorway and find a safe place to stop. Even a hands-free phone can distract your attention. Use your voicemail to receive calls. Driving requires all of your attention, all of the time.</text>
+		<voice id="BB1740-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Try to find a safe place on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Leave the motorway and stop in a safe place</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use the next exit and pull up on the slip road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move to the left lane and reduce your speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

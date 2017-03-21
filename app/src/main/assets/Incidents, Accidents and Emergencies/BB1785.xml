@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1785" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r299, KYTS p27</xref>
+		<text>Your vehicle has broken down on an automatic railway level crossing. What should you do FIRST?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1785-1"/>
+	<explanation>
+		<text>Firstly get yourself and anyone else well away from the crossing. If there’s a railway phone use that to get instructions from the signal operator. Then if there’s time move the vehicle clear of the crossing.</text>
+		<voice id="BB1785-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Get everyone out of the vehicle and clear of the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Telephone your vehicle recovery service to move it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Walk along the track to give warning to any approaching trains</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Try to push the vehicle clear of the crossing as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

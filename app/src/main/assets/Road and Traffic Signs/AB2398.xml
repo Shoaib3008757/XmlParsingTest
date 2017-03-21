@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2398" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r127, HC p114, KYTS p62</xref>
+		<text>What does this road marking mean?</text>
+		<graphic>AB2398.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2398-1"/>
+	<explanation>
+		<text>Road markings will warn you of a hazard ahead. A single, broken line along the centre of the road, with long markings and short gaps, is a hazard warning line. Don’t cross it unless you can see that the road is clear well ahead.</text>
+		<voice id="AB2398-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Do not cross the line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No stopping allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You are approaching a hazard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No overtaking allowed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

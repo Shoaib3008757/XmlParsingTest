@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2932" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>At an incident a casualty is unconscious but still breathing. You should only move them if</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2932-1"/>
+	<explanation>
+		<text>Do not move a casualty unless there is further danger, for example, from other traffic or fire. They may have unseen or internal injuries. Moving them unnecessarily could cause further injury. Do NOT remove a motorcyclists helmet unless it’s essential.</text>
+		<voice id="AB2932-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>an ambulance is on its way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bystanders advise you to</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>there is further danger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bystanders will help you to</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

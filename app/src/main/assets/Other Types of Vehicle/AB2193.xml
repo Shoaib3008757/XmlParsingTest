@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2193" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s12, HC r222, HC r227</xref>
+    <text>You are following a large lorry on a wet road. Spray makes it difficult to see. You should</text>
+    <graphic>AB2193.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2193-1"/>
+  <explanation>
+    <text>Large vehicles may throw up a lot of spray when the roads are wet. This will make it difficult for you to see ahead. Dropping back further will
+		<unorderedlist>
+			<item>• move you out of the spray and allow you to see further</item>
+			<item>• increase your separation distance. It takes longer to stop when the roads are wet and you need to allow more room.</item>
+		</unorderedlist>
+	Don’t
+        <unorderedlist>
+			<item>• follow the vehicle in front too closely</item>
+			<item>• overtake, unless you can see and are sure that the way ahead is clear.</item>
+		</unorderedlist>
+    </text>
+    <voice id="AB2193-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="yes">
+      <text>drop back until you can see better</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>put your headlights on full beam</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>keep close to the lorry, away from the spray</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>speed up and overtake quickly</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

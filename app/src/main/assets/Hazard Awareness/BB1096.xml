@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1096" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC p108, KYTS p10</xref>
+		<text>You should reduce your speed when driving along this road because</text>
+		<graphic>BB1096.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1096-1"/>
+	<explanation>
+		<text>Traffic could be turning off ahead of you, to the left or right. Vehicles turning left will be slowing down before the junction and any vehicles turning right may have to stop to allow oncoming traffic to clear. Be prepared for this as you might have to slow down or stop behind them.</text>
+		<voice id="BB1096-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>there is a staggered junction ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is a low bridge ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is a change in the road surface</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the road ahead narrows</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

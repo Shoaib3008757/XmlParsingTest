@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2794" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r258, HC r269</xref>
+		<text>You are travelling on a motorway. A red cross is shown above the hard shoulder. What does this mean?</text>
+		<graphic>AB2794.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2794-1"/>
+	<explanation>
+		<text>When a red cross is shown above the hard shoulder it should only be used for breakdowns or emergencies. Within Active Traffic Management (ATM) areas the hard shoulder may sometimes be used as a running lane. Speed limit signs directly above the hard shoulder will show that it’s open.</text>
+		<voice id="AB2794-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Use this lane as a rest area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use this as a normal running lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Do not use this lane to travel in</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>National speed limit applies in this lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

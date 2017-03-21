@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2590" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s11, DES s15, DES s16, HC r116, HC r274</xref>
+		<text>When should you use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2590-1"/>
+	<explanation>
+		<text>Hazard warning lights are fitted to all modern cars and some motorcycles. They should be used to warn
+		<unorderedlist>
+        <item>• other road users when your vehicle is causing a temporary obstruction; for example, after a collision or when it’s broken down</item>
+		<item>• following drivers on a motorway of a hazard or obstruction ahead.</item>
+		</unorderedlist>
+		They shouldn’t be used as an excuse for dangerous or illegal parking.</text>
+		<voice id="AB2590-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>When you slow down quickly on a motorway because of a hazard ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you leave your car at the roadside to visit a shop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you wish to stop on double yellow lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you need to park on the pavement</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2620" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, DES s11, HC r168</xref>
+		<text>You are travelling at the legal speed limit. A vehicle comes up quickly behind, flashing its headlights. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2620-1"/>
+
+<explanation>
+		<text>Don’t enforce the speed limit by blocking another vehicle’s progress. This will only lead to the other driver becoming more frustrated. Allow the other vehicle to pass when you can do so safely.</text>
+		<voice id="AB2620-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>accelerate to make a gap behind you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>touch the brakes sharply to show your brake lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>maintain your speed to prevent the vehicle from overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>allow the vehicle to overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

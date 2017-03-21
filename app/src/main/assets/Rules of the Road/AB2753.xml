@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2753" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r243</xref>
+		<text>You should NOT park</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2753-1"/>
+	<explanation>
+		<text>It may be tempting to park where you shouldn’t while you run a quick errand. Careless parking, such as by a bus stop or outside a school, is a selfish act and could endanger other road users.</text>
+		<voice id="AB2753-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>on a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>near a police station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>near a school entrance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

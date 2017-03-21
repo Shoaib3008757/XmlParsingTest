@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1558" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r153</xref>
+		<text>You enter a road where there are road humps. What should you do?</text>
+		<graphic>BB1558.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1558-1"/>
+	<explanation>
+		<text>The humps are there for a reason – to reduce the speed of the traffic. Don’t accelerate harshly between them as this means you will only have to brake harshly to negotiate the next hump. Harsh braking and accelerating uses more fuel.</text>
+		<voice id="BB1558-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Maintain a reduced speed throughout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerate quickly between each one</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always keep to the maximum legal speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive slowly at school times only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2256" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r187</xref>
+		<text>Which vehicle is most likely to take an unusual course at a roundabout?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2256-1"/>
+	<explanation>
+		<text>Long vehicles might have to take a slightly different position when approaching the roundabout or going around it. This is to stop the rear of the vehicle cutting in and mounting the kerb.</text>
+		<voice id="AB2256-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Estate car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Milk float</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Delivery van</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Long lorry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

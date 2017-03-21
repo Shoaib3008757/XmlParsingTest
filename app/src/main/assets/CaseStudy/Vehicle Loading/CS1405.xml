@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1405" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC p128-130</xref>
+		<text>Nathan and his family are going on holiday. Nathan will be driving.  He is loading the newly-purchased roof rack on their estate car. His wife Jane is helping the two young children with their seat belts in the rear seats. The family dog, Shadow, will be travelling in the rear compartment of the car. Once ready to go, they call at the service station to buy fuel and make final checks.</text>
+		<part>What should Nathan be checking?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1405-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>For any spilt fuel around the vehicle on the station forecourt</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To ensure that none of their luggage has been left behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>That the weather forecast will be good during their journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>That there’s appropriate pressure in all four tyres plus the spare</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1405-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1688" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r283</xref>
+		<text>Your vehicle breaks down on the hard shoulder of a motorway. You decide to use your mobile phone to call for help. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1688-1"/>
+	<explanation>
+		<text>The emergency services need to know your exact location so they can reach you as quickly as possible. Look for a number on the nearest marker post beside the hard shoulder. Give this number when you call the emergency services as it will help them to locate you. Be ready to describe where you are, for example, by reference to the last junction or service station you passed.</text>
+		<voice id="BB1688-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stand at the rear of the vehicle while making the call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>try to repair the vehicle yourself</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>get out of the vehicle by the right-hand door</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check your location from the marker posts on the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

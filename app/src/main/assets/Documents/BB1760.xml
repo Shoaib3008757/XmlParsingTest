@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1760" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>What does the Pass Plus scheme enable newly qualified drivers to do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1760-1"/>
+	<explanation>
+		<text>The Pass Plus scheme was created for newly qualified drivers. It aims to widen their driving experience and improve basic skills. After passing the practical driving test additional professional training can be taken with an Approved Driving Instructor (ADI). Some insurance companies also offer discounts to holders of a Pass Plus certificate.</text>
+		<voice id="BB1760-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Widen their driving experience</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Supervise a learner driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Increase their insurance premiums</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Avoid mechanical breakdowns</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

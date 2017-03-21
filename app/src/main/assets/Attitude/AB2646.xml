@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2646" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>You are approaching a pelican crossing. The amber light is flashing. You must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2646-1"/>
+
+<explanation>
+		<text>While the pedestrians are crossing don’t encourage them to cross by waving or flashing your headlights: other road users may misunderstand your signal. Don’t harass them by creeping forward or revving your engine.</text>
+		<voice id="AB2646-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>give way to pedestrians who are crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>encourage pedestrians to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>not move until the green light appears</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop even if the crossing is clear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

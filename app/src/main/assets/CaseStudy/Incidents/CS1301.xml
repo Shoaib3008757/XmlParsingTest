@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1301" topic="Accidents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC r283</xref>
+		<text>Marco witnesses a road traffic incident involving three vehicles. He stops his vehicle, quickly places a warning triangle on the road then telephones the emergency services. He checks on the people involved. Two people are slightly injured and another is in shock. Marco stays with them until the emergency services arrive. While paramedics check the three casualties, Marco explains the situation to the police and offers his own contact details. The officers then speak to the casualties.</text>
+		<part>How else could Marco have used his own vehicle to warn other traffic?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1301-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>By parking it in the middle of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By switching on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By leaving headlights on main beam</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By constantly sounding the horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1301-2"/>
+	</explanation>
+</QF>

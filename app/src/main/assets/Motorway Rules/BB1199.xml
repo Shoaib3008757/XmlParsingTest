@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1199" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r275</xref>
+		<text>You get a puncture on the motorway. You manage to get your vehicle onto the hard shoulder. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1199-1"/>
+	<explanation>
+		<text>Due to the danger from passing traffic you should park as far to the left as you can and leave the vehicle by the nearside door. Do not attempt even simple repairs. Instead walk to an emergency telephone on your side of the road and phone for assistance. While waiting for assistance to arrive wait near your car, keeping well away from the carriageway and hard shoulder.</text>
+		<voice id="BB1199-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>change the wheel yourself immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>use the emergency telephone and call for assistance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>try to wave down another vehicle for help</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only change the wheel if you have a passenger to help you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

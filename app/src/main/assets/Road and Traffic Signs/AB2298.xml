@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2298" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p17</xref>
+		<text>Which of these signs means no motor vehicles?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2298-1"/>
+	<explanation>
+		<text>If you are driving a motor vehicle or riding a motorcycle you MUST NOT travel past this sign. This area has been designated for use by pedestrians.</text>
+		<voice id="AB2298-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2298a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2298b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2298c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2298d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

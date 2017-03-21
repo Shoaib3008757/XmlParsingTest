@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1603" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r191, HC r240</xref>
+		<text>You are having difficulty finding a parking space in a busy town. You can see there is space on the zigzag lines of a zebra crossing. Can you park there?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1603-1"/>
+	<explanation>
+		<text>It’s an offence to park there. You will be causing an obstruction by obscuring the view of both pedestrians and drivers.</text>
+		<voice id="BB1603-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No, unless you stay with your car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Yes, in order to drop off a passenger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Yes, if you do not block people from crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No, not in any circumstances</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

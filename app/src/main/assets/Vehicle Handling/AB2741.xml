@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2741" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r300, KYTS p30</xref>
+		<text>Areas reserved for trams may have</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2741-1"/>
+	<explanation>
+		<text>Trams can run on roads used by other vehicles and pedestrians. The part of the road used by the trams is known as the reserved area and this should be kept clear. It often has a different surface and is usually edged with white road markings.</text>
+		<voice id="AB2741-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>metal studs around them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>zigzag markings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>a different surface texture</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>yellow hatch markings</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="xmlparsingtest.ranglerz.com.xmlparsingtest.ReviewAnswers"
+    tools:showIn="@layout/activity_review_answers">
+
+    <ListView
+        android:id="@+id/listViewReviewAnswers"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:divider="@android:color/white"
+        android:dividerHeight="8dp"
+        android:fadeScrollbars="true"
+        android:listSelector="@drawable/button"
+        android:padding="8dp"
+        android:scrollbarSize="8dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbarThumbVertical="@drawable/scroll_bar_thumb_drawable"
+        android:scrollbarTrackVertical="@drawable/scroll_bar_track_drawable"
+        android:scrollbars="vertical">
+
+
+    </ListView>
+
+
+</RelativeLayout>

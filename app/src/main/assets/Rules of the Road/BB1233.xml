@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1233" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r201</xref>
+		<text>When may you reverse from a side road into a main road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1233-1"/>
+	<explanation>
+		<text>Don’t reverse into a main road from a side road. The main road is likely to be busy and the traffic on it moving quickly. Cut down the risks by reversing into a quiet side road.</text>
+		<voice id="BB1233-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Only if both roads are clear of traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Not at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only if the main road is clear of traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

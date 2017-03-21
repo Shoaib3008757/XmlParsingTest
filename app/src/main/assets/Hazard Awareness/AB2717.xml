@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2717" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>What is the main hazard the driver of the red car (arrowed) should be aware of?</text>
+		<graphic>AB2717.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2717-1"/>
+	<explanation>
+		<text>If you can do so safely give way to buses signalling to move off at bus stops. Try to anticipate the actions of other road users around you. The driver of the red car should be prepared for the bus pulling out. As you approach a bus stop look to see how many passengers are waiting to board. If the last one has just got on, the bus is likely to move off.</text>
+		<voice id="AB2717-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Glare from the sun may affect the driver’s vision</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The black car may stop suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The bus may move out into the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Oncoming vehicles will assume the driver is turning right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

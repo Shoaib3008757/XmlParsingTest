@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2242" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r132</xref>
+		<text>On a motorway the amber reflective studs can be found between</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2242-1"/>
+	<explanation>
+		<text>On motorways reflective studs are located into the road to help you in the dark and in conditions of poor visibility. Amber-coloured studs are found on the right-hand edge of the main carriageway, next to the central reservation.</text>
+		<voice id="AB2242-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the hard shoulder and the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the acceleration lane and the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the central reservation and the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>each pair of the lanes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

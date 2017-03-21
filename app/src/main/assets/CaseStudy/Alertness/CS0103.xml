@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0103" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r262</xref>
+		<text>James has a two-hour drive to make on a motorway. He has a cold and his nose is also slightly blocked.  He takes an off-the-shelf cold remedy to help reduce the symptoms. It is a cold and dull day and the car heater is on. James also turns on his dipped headlights. An hour into the boring journey, James begins to feel drowsy.</text>
+		<part>How is the boring journey physically affecting James?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0103-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>He becomes happy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>He becomes drowsy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>He becomes angry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>He becomes attentive</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0103-2"/>
+	</explanation>
+</QF>

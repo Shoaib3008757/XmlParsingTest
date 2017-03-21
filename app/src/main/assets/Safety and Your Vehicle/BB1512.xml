@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1512" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>To reduce the damage your vehicle causes to the environment, you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1512-1"/>
+	<explanation>
+		<text>By looking well ahead and recognising hazards in good time, you can avoid last-minute harsh braking. Watch the traffic flow and look well ahead for potential hazards so you can control your speed accordingly. Avoid over-revving the engine and accelerating harshly as this increases wear to the engine and uses more fuel.</text>
+		<voice id="BB1512-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use narrow side streets</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake harshly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use busy routes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>anticipate well ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

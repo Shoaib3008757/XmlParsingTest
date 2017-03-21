@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2601" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r212</xref>
+		<text>You are following a cyclist. You wish to turn left just ahead. You should</text>
+		<graphic>AB2601.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2601-1"/>
+	<explanation>
+		<text>Make allowances for cyclists. Allow them plenty of room. Don’t try to overtake and then immediately turn left. Be patient and stay behind them until they have passed the junction.</text>
+		<voice id="AB2601-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtake the cyclist before the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull alongside the cyclist and stay level until after the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>hold back until the cyclist has passed the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go around the cyclist on the junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

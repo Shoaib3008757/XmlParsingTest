@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1577" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r238, KYTS p56</xref>
+		<text>The road outside this school is marked with yellow zigzag lines. What do these lines mean?</text>
+		<graphic>BB1577.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1577-1"/>
+	<explanation>
+		<text>Parking here would block the view of the school entrance and would endanger the lives of children on their way to and from school.</text>
+		<voice id="BB1577-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You may park on the lines when dropping off schoolchildren</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You may park on the lines when picking schoolchildren up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You must not wait or park your vehicle here at all</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You must stay with your vehicle if you park here</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

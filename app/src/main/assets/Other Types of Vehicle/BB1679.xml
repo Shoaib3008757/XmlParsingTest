@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1679" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>You are towing a caravan. Which is the safest type of rear-view mirror to use?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1679-1"/>
+	<explanation>
+		<text>Towing a large trailer or caravan can greatly reduce your view of the road behind. You need to use the correct equipment to make sure you can see clearly behind and down both sides of the caravan or trailer.</text>
+		<voice id="BB1679-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Interior wide-angle mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Extended-arm side mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ordinary door mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ordinary interior mirror</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

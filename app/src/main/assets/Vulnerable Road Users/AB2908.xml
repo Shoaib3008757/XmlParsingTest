@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2908" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r214</xref>
+		<text>What should you do when passing sheep on a road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2908-1"/>
+	<explanation>
+		<text>Slow down and be ready to stop if you see animals in the road ahead. Animals are easily frightened by noise and vehicles passing too close to them. Stop if signalled to do so by the person in charge.</text>
+		<voice id="AB2908-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Briefly sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Go very slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pass quickly but quietly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Herd them to the side of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

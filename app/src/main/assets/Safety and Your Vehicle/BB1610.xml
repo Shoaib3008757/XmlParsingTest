@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1610" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r243</xref>
+		<text>Where would parking cause an obstruction to others?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1610-1"/>
+	<explanation>
+		<text>Think about the effect your parking will have on other road users. Don’t forget that not all vehicles are the size of a car. Large vehicles will need more room to pass and might need more time too. Parking out of the view of traffic, such as before the brow of a hill, causes unnecessary risks. Think before you park.</text>
+		<voice id="BB1610-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Near the brow of a hill</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In a lay-by</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Where the kerb is raised</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On your driveway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

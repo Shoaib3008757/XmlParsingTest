@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1002" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC p128</xref>
+		<text>Objects hanging from your interior mirror may</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1002-1"/>
+
+<explanation>
+		<text>Ensure that you can see clearly through the windscreen of your vehicle. Stickers or hanging objects could affect your field of vision or draw your eyes away from the road.</text>
+		<voice id="BB1002-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>restrict your view</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve your driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep you focused</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>help your concentration</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

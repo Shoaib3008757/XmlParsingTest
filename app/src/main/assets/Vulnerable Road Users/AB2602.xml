@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2602" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r215</xref>
+		<text>A horse rider is in the left-hand lane approaching a roundabout. You should expect the rider to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2602-1"/>
+	<explanation>
+		<text>Horses and their riders will move more slowly than other road users. They might not have time to cut across heavy traffic to take up positions in the offside lane. For this reason a horse and rider may approach a roundabout in the left-hand lane, even though they’re turning right.</text>
+		<voice id="AB2602-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>go in any direction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

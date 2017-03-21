@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2037" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r306</xref>
+		<text>On a road where trams operate, which of these vehicles will be most at risk from the tram rails?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2037-1"/>
+
+<explanation>
+		<text>The narrow wheels of a bicycle can become stuck in the tram rails, causing the cyclist to stop suddenly, wobble or even lose balance altogether. The tram lines are also slippery which could cause a cyclist to slide or fall off.</text>
+		<voice id="AB2037-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Cars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Cycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Buses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lorries</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2689" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s13</xref>
+		<text>You are parked on the road at night. Where must you use parking lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2689-1"/>
+	<explanation>
+		<text>When parking at night, park in the direction of the traffic. This will enable other road users to see the reflectors on the rear of your vehicle. Use your parking lights if the speed limit is over 30 mph.</text>
+		<voice id="AB2689-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Where there are continuous white lines in the middle of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Where the speed limit exceeds 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Where you are facing oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Where you are near a bus stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

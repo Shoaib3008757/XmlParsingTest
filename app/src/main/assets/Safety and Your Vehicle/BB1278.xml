@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1278" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p129</xref>
+		<text>It is illegal to drive with tyres that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1278-1"/>
+	<explanation>
+		<text>When checking your tyres for cuts and bulges in the side walls, don’t forget the inner walls (ie those facing each other under the vehicle).</text>
+		<voice id="BB1278-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>have been bought second-hand</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>have a large deep cut in the side wall</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>are of different makes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>are of different tread patterns</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

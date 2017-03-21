@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2222" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r261, HC p40</xref>
+		<text>What is the national speed limit on motorways for cars and motorcycles?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2222-1"/>
+	<explanation>
+		<text>Travelling at the national speed limit doesn’t allow you to hog the right-hand lane. Always use the left-hand lane whenever possible. When leaving a motorway get into the left-hand lane well before your exit. Reduce your speed on the slip road and look out for sharp bends or curves and traffic queuing at roundabouts.</text>
+		<voice id="AB2222-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

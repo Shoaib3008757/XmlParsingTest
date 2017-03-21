@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2934" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>At an incident it is important to look after any casualties. When the area is safe, you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2934-1"/>
+	<explanation>
+		<text>When the area is safe and there’s no danger from other traffic or fire it’s better not to move casualties. Moving them may cause further injury.</text>
+		<voice id="AB2934-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>get them out of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give them a drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give them something to eat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep them in the vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

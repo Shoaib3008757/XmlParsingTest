@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1097" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC p108, KYTS p10</xref>
+		<text>You are driving at 60 mph. As you approach this hazard you should</text>
+		<graphic>BB1097.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1097-1"/>
+	<explanation>
+		<text>There could be stationary traffic ahead, waiting to turn right. Other traffic could be emerging and it may take time for them to gather speed.</text>
+		<voice id="BB1097-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>maintain your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>take the next right turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>take the next left turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

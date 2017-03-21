@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2894" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r233</xref>
+		<text>What should you do when overtaking a motorcyclist in strong winds?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2894-1"/>
+	<explanation>
+		<text>In strong winds riders of two-wheeled vehicles are particularly vulnerable. When you overtake them allow plenty of room. Always check to the left as you pass.</text>
+		<voice id="AB2894-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Pass close</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pass quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pass wide</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pass immediately</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

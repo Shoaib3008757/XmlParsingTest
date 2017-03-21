@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1004" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p112, KYTS p140-141</xref>
+		<text>It’s early evening and street lamps are lit. Anita is driving home at 30 mph, although there are no speed limit signs. The road is a single carriageway and Anita is alone in her vehicle.  Sleet is falling steadily and it’s cold.  Ahead, a vehicle is spreading salt on the road.  In town there are high-occupancy vehicle lanes which Anita does not use. Her home is level with a zebra crossing but she parks beyond its markings further down the road.</text>
+		<part>Why would Anita not use this type of lane on her journey?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1004-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It is for vehicles of all types, but only at certain times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It is for vehicles which have two or more occupants</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is for vehicles of as many types and sizes as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is for vehicles which have flashing amber beacons</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1004-2"/>
+	</explanation>
+</QF>

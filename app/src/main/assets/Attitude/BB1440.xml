@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1440" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195</xref>
+		<text>You are approaching a zebra crossing. Pedestrians are waiting to cross. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1440-1"/>
+
+	<explanation>
+		<text>Look out on the approach especially for children and older pedestrians. They may walk across without looking. Zebra crossings have flashing amber beacons on both sides of the road, black and white stripes on the crossing and white zigzag markings on both sides of the crossing. Where you can see pedestrians waiting to cross, slow down and prepare to stop.</text>
+		<voice id="BB1440-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>give way to the elderly and infirm only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down and prepare to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use your headlights to indicate they can cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wave at them to cross the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

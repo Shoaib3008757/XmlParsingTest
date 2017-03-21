@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1240" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r116</xref>
+		<text>When may you use hazard warning lights when driving?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1240-1"/>
+	<explanation>
+		<text>When there’s queuing traffic ahead and you have to slow down or even stop, showing your hazard warning lights will alert following traffic to the hazard. Don’t forget to switch them off as the queue forms behind you.</text>
+		<voice id="BB1240-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Instead of sounding the horn in a built-up area between 11.30 pm and 7 am</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On a motorway or unrestricted dual carriageway, to warn of a hazard ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On rural routes, after a warning sign of animals</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On the approach to toucan crossings where cyclists are waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

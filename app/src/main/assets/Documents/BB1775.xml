@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1775" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>For which of these must you show your motor insurance certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1775-1"/>
+	<explanation>
+		<text>When you take out motor insurance you’ll be issued with a certificate. This contains details explaining who and what is insured. If a police officer asks to see your insurance certificate you must produce it at the time or at a police station within a specified period. You also need to have current valid insurance when renewing your vehicle excise duty (road tax).</text>
+		<voice id="BB1775-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When you are taking your driving test</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When buying or selling a vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When a police officer asks you for it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When having an MOT inspection</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

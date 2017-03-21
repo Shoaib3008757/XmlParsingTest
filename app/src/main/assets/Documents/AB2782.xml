@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2782" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>For how long is a Statutory Off Road Notification (SORN) valid?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2782-1"/>
+<explanation>
+		<text>A SORN allows you to keep a vehicle off road and untaxed. SORN will end when the vehicle is taxed, sold or scrapped.</text>
+		<voice id="AB2782-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Until the vehicle is taxed, sold or scrapped</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Until the vehicle is insured and MOT'd</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Until the vehicle is repaired or modified</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Until the vehicle is used on the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2393" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p13, KYTS p26, KYTS p120</xref>
+		<text>These flashing red lights mean STOP. Where would you find them?</text>
+		<graphic>AB2393.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2393-1"/>
+	<explanation>
+		<text>These signals are found at level crossings, swing or lifting bridges, some airfields and emergency access sites. The flashing red lights mean stop whether or not the way seems to be clear.</text>
+		<voice id="AB2393-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Pelican crossings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorway exits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Zebra crossings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Level crossings</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

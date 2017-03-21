@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2941" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r5</xref>
+		<text>At night you see a pedestrian wearing reflective clothing and carrying a bright red light. What does this mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2941-1"/>
+	<explanation>
+		<text>The people on the walk should be keeping to the left, but don’t assume this. Pass slowly, make sure you have time to do so safely. Be aware that the pedestrians have their backs to you and may not know that you’re there.</text>
+		<voice id="AB2941-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You are approaching roadworks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You are approaching an organised walk</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You are approaching a slow-moving vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You are approaching a traffic danger spot</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

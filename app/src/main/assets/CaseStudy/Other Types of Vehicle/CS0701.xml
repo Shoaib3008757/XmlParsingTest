@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0701" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p40</xref>
+		<text>It’s dry but very windy. On the motorway, you see a car towing a large caravan in the middle lane. You then move onto a long open stretch of single carriageway, where you pass a motorcyclist. Later, you are travelling behind a long vehicle and want to overtake. Once in town, there are trams directed by traffic light signals and you have to drive across their tracks. Further on, a bus is signalling its intention to pull out from a bus stop.</text>
+		<part>What is the national motorway speed limit for the vehicle and caravan?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0701-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0701-2"/>
+	</explanation>
+</QF>

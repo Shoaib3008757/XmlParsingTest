@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1755" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r100</xref>
+		<text>You are driving the children of a friend home from school. They are both under 14 years old. Who is responsible for making sure they wear a seat belt or approved child restraint where required?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1755-1"/>
+	<explanation>
+		<text>Passengers should always be secured and safe. Children should be encouraged to fasten their seat belts or approved restraints themselves from an early age so that it becomes a matter of routine. As the driver you must check that they are fastened securely. It’s your responsibility.</text>
+		<voice id="BB1755-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>An adult passenger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The children</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You, the driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your friend</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

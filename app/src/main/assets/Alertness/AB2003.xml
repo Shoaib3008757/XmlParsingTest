@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2003" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r112, HC r206</xref>
+		<text>As you approach this bridge you should</text>
+		<graphic>AB2003.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2003-1"/>
+<explanation>
+		<text>You should slow down and be cautious. The bridge is narrow and there may not be enough room for you to pass an oncoming vehicle at this point. There is also no footpath, so there may be pedestrians in the road.</text>
+		<voice id="AB2003-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep to 30 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

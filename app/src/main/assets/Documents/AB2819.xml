@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2819" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p126</xref>
+		<text>What is the maximum fine for driving without insurance?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2819-1"/>
+	<explanation>
+		<text>It’s a serious offence to drive without insurance. As well as an unlimited fine, you may be disqualified or incur penalty points.</text>
+		<voice id="AB2819-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Unlimited</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>£500</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>£1000</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>£5000</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

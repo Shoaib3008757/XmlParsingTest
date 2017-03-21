@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1330" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>You are driving with your front fog lights switched on. Earlier fog has now cleared. What should you do?</text>
+		<graphic>BB1330.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1330-1"/>
+	<explanation>
+		<text>Switch off your fog lights if the weather improves, but be prepared to use them again if visibility reduces to less than 100 metres (328 feet).</text>
+		<voice id="BB1330-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave them on if other drivers have their lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Switch them off as long as visibility remains good</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash them to warn oncoming traffic that it is foggy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive with them on instead of your headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

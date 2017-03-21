@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2921" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You’ve stopped at an incident to give help. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2921-1"/>
+	<explanation>
+		<text>There are a number of things you can do to help, even without expert training. Be aware of further danger from other traffic and fire; make sure the area is safe. People may be in shock. Don’t give them anything to eat or drink. Keep them warm and comfortable and reassure them. Don’t move injured people unless there’s a risk of further danger.</text>
+		<voice id="AB2921-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Keep injured people warm and comfortable</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give injured people something to eat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep injured people on the move by walking them around</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give injured people a warm drink</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

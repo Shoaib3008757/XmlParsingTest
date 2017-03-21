@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1433" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>Why could keeping the clutch down or selecting neutral for long periods of time be dangerous?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1433-1"/>
+	<explanation>
+		<text>Letting your vehicle roll or coast in neutral reduces your control over steering and braking. This can be dangerous on downhill slopes where your vehicle could pick up speed very quickly.</text>
+		<voice id="BB1433-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Fuel spillage will occur</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Engine damage may be caused</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You will have less steering and braking control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will wear tyres out more quickly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

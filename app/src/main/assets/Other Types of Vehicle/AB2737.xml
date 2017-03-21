@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2737" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>What should you do as you approach this lorry?</text>
+		<graphic>AB2737.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2737-1"/>
+	<explanation>
+		<text>When turning, long vehicles need much more room on the road than other vehicles. At junctions they may take up the whole of the road space, so be patient and allow them the room they need.</text>
+		<voice id="AB2737-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Slow down and be prepared to wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make the lorry wait for you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your lights at the lorry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move to the right-hand side of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

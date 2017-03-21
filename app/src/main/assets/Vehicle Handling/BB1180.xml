@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1180" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Whilst driving, the fog clears and you can see more clearly. You must remember to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1180-1"/>
+	<explanation>
+		<text>Bright rear fog lights might be mistaken for brake lights and could be misleading for the traffic behind.</text>
+		<voice id="BB1180-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>switch off the fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reduce your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch off the demister</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>close any open windows</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

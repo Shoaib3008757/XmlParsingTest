@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2143" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187</xref>
+		<text>You are coming up to a roundabout. A cyclist is signalling to turn right. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2143-1"/>
+	<explanation>
+		<text>If you’re following a cyclist who’s signalling to turn right at a roundabout leave plenty of room. Give them space and time to get into the correct lane.</text>
+		<voice id="AB2143-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake on the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give a horn warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Signal the cyclist to move across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give the cyclist plenty of room</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

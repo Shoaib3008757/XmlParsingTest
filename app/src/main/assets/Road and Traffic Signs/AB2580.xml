@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2580" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103, HC p103</xref>
+		<text>You are signalling to turn right in busy traffic. How would you confirm your intention safely?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2580-1"/>
+	<explanation>
+		<text>In some situations you may feel your indicators cannot be seen by other road users. If you think you need to make your intention more clearly seen, give the arm signal shown in The Highway Code.</text>
+		<voice id="AB2580-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give an arm signal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Position over the centre line</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

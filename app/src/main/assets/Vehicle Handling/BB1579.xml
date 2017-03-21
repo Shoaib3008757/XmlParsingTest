@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1579" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s7</xref>
+		<text>You will feel the effects of engine braking when you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1579-1"/>
+	<explanation>
+		<text>When going downhill, prolonged use of the brakes can cause them to overheat and lose their effectiveness. Changing to a lower gear will assist your braking.</text>
+		<voice id="BB1579-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>only use the handbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only use neutral</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>change to a lower gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change to a higher gear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

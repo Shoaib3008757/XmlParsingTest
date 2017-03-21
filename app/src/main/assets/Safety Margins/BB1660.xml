@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1660" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>Anti-lock brakes are most effective when you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1660-1"/>
+	<explanation>
+		<text>Releasing the brake before you have slowed right down will disable the system. If you have to brake in an emergency ensure that you keep your foot firmly on the brake pedal until the vehicle has stopped.</text>
+		<voice id="BB1660-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>keep pumping the foot brake to prevent skidding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake normally, but grip the steering wheel tightly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>brake promptly and firmly until you have slowed down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply the handbrake to reduce the stopping distance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

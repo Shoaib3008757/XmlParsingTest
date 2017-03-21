@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1683" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>You have just driven out of fog. Visibility is now good. You MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1683-1"/>
+	<explanation>
+		<text>You MUST turn off your fog lights if visibility is over 100 metres (328 feet). However, be prepared for the fact that the fog may be patchy.</text>
+		<voice id="BB1683-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>switch off all your fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep your rear fog lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep your front fog lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave fog lights on in case fog returns</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2122" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r170</xref>
+		<text>You are turning left into a side road. What hazards should you be especially aware of?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2122-1"/>
+	<explanation>
+		<text>Make sure that you have reduced your speed and are in the correct gear for the turn. Look into the road before you turn and always give way to any pedestrians who are crossing.</text>
+		<voice id="AB2122-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>One way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic congestion</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parked vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

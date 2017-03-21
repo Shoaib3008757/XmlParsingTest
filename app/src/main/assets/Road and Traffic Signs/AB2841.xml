@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2841" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p116</xref>
+		<text>You are in a tunnel and you see this sign. What does it mean?</text>
+		<graphic>AB2841.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2841-1"/>
+	<explanation>
+		<text>If you have to leave your vehicle in a tunnel and leave by an emergency exit, do so as quickly as you can. Follow the signs directing you to the nearest exit point. If there are several people using the exit, don’t panic but try to leave in a calm and orderly manner.</text>
+		<voice id="AB2841-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Direction to emergency pedestrian exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Beware of pedestrians, no footpath ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No access for pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Beware of pedestrians crossing ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0801" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12</xref>
+		<text>Alan is driving in very thick fog and the road surface is also rather damp.  Alan is using fog lights as well as headlights.  He leaves a larger gap than normal between himself and the vehicle in front.  Later, a gutter drain is being unblocked and the pumping vehicle is obstructing the road on
+Alan’s side. Still further on, there are rumble devices on approach to a roundabout.
+</text>
+		<part>How might the road condition affect Alan’s stopping distance? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0801-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It may be improved</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It could be doubled</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It remains unaffected</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It should be halved</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0801-2"/>
+	</explanation>
+</QF>

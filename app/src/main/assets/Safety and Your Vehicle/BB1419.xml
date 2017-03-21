@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1419" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>What should you do when leaving your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1419-1"/>
+	<explanation>
+		<text>When leaving your vehicle unattended it is best to take valuables with you. If you can't, then lock them out of sight in the boot. If you can see valuables in your car, so can a thief.</text>
+		<voice id="BB1419-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Put valuable documents under the seats</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Remove all valuables</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cover valuables with a blanket</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Leave the interior light on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

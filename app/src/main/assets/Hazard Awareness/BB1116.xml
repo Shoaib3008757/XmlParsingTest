@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1116" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>You are about to return home from holiday when you become ill. A doctor prescribes drugs which are likely to affect your driving. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1116-1"/>
+	<explanation>
+		<text>Find another way to get home even if this proves to be very inconvenient. You must not put other road users, your passengers or yourself at risk.</text>
+		<voice id="BB1116-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>drive only if someone is with you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>avoid driving on motorways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>not drive yourself</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>never drive at more than 30 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

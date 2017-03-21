@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2276" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187</xref>
+		<text>Which vehicle might have to use a different course to normal at roundabouts?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2276-1"/>
+	<explanation>
+		<text>A long vehicle may have to straddle lanes either on or approaching a roundabout so that the rear wheels don’t cut in over the kerb. If you’re following a long vehicle, stay well back and give it plenty of room.</text>
+		<voice id="AB2276-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sports car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Van</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Estate car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Long vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

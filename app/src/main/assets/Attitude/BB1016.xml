@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1016" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r168</xref>
+		<text>You are driving in traffic at the speed limit for the road. The driver behind is trying to overtake. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1016-1"/>
+
+<explanation>
+		<text>Keep a steady course to give the driver behind an opportunity to overtake safely. If necessary, slow down. Reacting incorrectly to another driver’s impatience can lead to danger.</text>
+		<voice id="BB1016-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move closer to the car ahead, so the driver behind has no room to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wave the driver behind to overtake when it is safe</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep a steady course and allow the driver behind to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate to get away from the driver behind</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

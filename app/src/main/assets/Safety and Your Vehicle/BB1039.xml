@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1039" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC p128</xref>
+		<text>While driving, this warning light on your dashboard comes on. It means</text>
+		<graphic>BB1039.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1039-1"/>
+	<explanation>
+		<text>Don’t ignore this warning light. A fault in your braking system could have dangerous consequences.</text>
+		<voice id="BB1039-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>a fault in the braking system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the engine oil is low</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a rear light has failed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your seat belt is not fastened</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

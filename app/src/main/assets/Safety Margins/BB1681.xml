@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1681" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r227</xref>
+		<text>You are on a wet motorway with surface spray. You should use</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1681-1"/>
+	<explanation>
+		<text>When surface spray reduces visibility switch on your dipped headlights. This will help other road users to see you.</text>
+		<voice id="BB1681-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>hazard flashers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sidelights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2103" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s10, KYTS p24</xref>
+		<text>What type of vehicle could you expect to meet in the middle of the road?</text>
+		<graphic>AB2103.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2103-1"/>
+	<explanation>
+		<text>The highest point of the bridge is in the centre so a large vehicle might have to move to the centre of the road to allow it enough room to pass under the bridge.</text>
+		<voice id="AB2103-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Lorry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Bicycle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorcycle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

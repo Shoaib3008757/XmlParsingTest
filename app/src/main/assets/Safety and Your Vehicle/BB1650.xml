@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1650" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>You are parking your car. You have some valuables which you are unable to take with you. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1650-1"/>
+	<explanation>
+		<text>Your vehicle is like a shop window for thieves. Either remove all valuables or lock them out of sight.</text>
+		<voice id="BB1650-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Park near a police station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put them under the driver’s seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Lock them out of sight</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park in an unlit side road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

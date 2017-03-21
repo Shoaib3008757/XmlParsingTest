@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1396" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>What would suggest you’re driving on ice?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1396-1"/>
+	<explanation>
+		<text>Drive extremely carefully when the roads are icy. When travelling on ice, tyres make virtually no noise and the steering feels light and unresponsive. In icy conditions, be very gentle when braking, accelerating and steering.</text>
+		<voice id="BB1396-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>There’s less wind noise</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>There’s less tyre noise</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There’s less transmission noise</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There’s less engine noise</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

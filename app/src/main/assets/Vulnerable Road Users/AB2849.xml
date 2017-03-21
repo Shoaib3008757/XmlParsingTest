@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2849" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r77, HC r187</xref>
+		<text>You are approaching this roundabout and see the cyclist signal right. Why is the cyclist keeping to the left?</text>
+		<graphic>AB2849.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2849-1"/>
+	<explanation>
+		<text>Cycling in today’s heavy traffic can be hazardous. Some cyclists may not feel happy about crossing the path of traffic to take up a position in an outside lane. Be aware of this and understand that, although in the left-hand lane, the cyclist might be turning right.</text>
+		<voice id="AB2849-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It is a quicker route for the cyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The cyclist is going to turn left instead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The cyclist thinks The Highway Code does not apply to bicycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The cyclist is slower and more vulnerable</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

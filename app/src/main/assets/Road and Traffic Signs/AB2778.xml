@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2778" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r293, HC p102</xref>
+		<text>At a railway level crossing the red light signal continues to flash after a train has gone by. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2778-1"/>
+	<explanation>
+		<text>You MUST always obey red flashing stop lights. If a train passes but the lights continue to flash, another train will be passing soon. Cross only when the lights go off and the barriers open.</text>
+		<voice id="AB2778-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Phone the signal operator</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Alert drivers behind you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Proceed with caution</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

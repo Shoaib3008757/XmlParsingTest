@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2117" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p109, KYTS p13</xref>
+		<text>Which sign means that there may be people walking along the road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2117-1"/>
+	<explanation>
+		<text>Always check the road signs. Triangular signs are warning signs and they’ll keep you informed of hazards ahead and help you to anticipate any problems. There are a number of different signs showing pedestrians. Learn the meaning of each one.</text>
+		<voice id="AB2117-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2117a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2117b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2117c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2117d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

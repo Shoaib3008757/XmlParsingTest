@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1772" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1</xref>
+		<text>Young, inexperienced and newly qualified drivers can often be involved in crashes. This is due to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1772-1"/>
+	<explanation>
+		<text>Newly qualified, and particularly young drivers, are more vulnerable in the first year after passing the test. Inexperience plays a part in this but it’s essential to have the correct attitude. Be responsible and always show courtesy and consideration to other road users.</text>
+		<voice id="BB1772-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>being too cautious at junctions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving in the middle of their lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>showing off and being competitive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>staying within the speed limit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

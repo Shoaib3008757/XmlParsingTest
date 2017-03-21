@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2105" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r171</xref>
+		<text>At this blind junction you must stop</text>
+		<graphic>AB2105.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2105-1"/>
+	<explanation>
+		<text>The ‘stop’ sign has been put here because there is a poor view into the main road. You must stop because it will not be possible to assess the situation on the move, however slowly you are travelling.</text>
+		<voice id="AB2105-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>behind the line, then edge forward to see clearly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>beyond the line at a point where you can see clearly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only if there is traffic on the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only if you are turning to the right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2308" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p18</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2308.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2308-1"/>
+	<explanation>
+		<text>Road signs that prohibit overtaking are placed in locations where passing the vehicle in front is dangerous. If you see this sign don’t attempt to overtake. The sign is there for a reason and you must obey it.</text>
+		<voice id="AB2308-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You have priority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No motor vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Two-way traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No overtaking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

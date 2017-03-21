@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2307" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p17</xref>
+		<text>Which sign means NO motor vehicles allowed?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2307-1"/>
+	<explanation>
+		<text>This sign is used to enable pedestrians to walk free from traffic. It’s often found in shopping areas.</text>
+		<voice id="AB2307-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2307a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2307b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2307c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2307d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

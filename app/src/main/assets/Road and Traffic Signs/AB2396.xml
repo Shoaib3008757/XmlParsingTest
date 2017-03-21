@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2396" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r129, HC p114, KYTS p64</xref>
+		<text>When may you cross a double solid white line in the middle of the road?</text>
+		<graphic>AB2396.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2396-1"/>
+	<explanation>
+		<text>You may cross the solid white line to pass a stationary vehicle, pedal cycle, horse or road maintenance vehicle if they are travelling at 10 mph or less. You may also cross the solid line to enter into a side road or access a property.</text>
+		<voice id="AB2396-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To pass traffic that is queuing back at a junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To pass a car signalling to turn left ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To pass a road maintenance vehicle travelling at 10 mph or less</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To pass a vehicle that is towing a trailer</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

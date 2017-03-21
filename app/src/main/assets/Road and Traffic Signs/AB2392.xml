@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2392" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6</xref>
+		<text>When traffic lights are out of order, who has priority?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2392-1"/>
+	<explanation>
+		<text>When traffic lights are out of order you should treat the junction as an unmarked crossroads. Be cautious as you may need to give way or stop. Keep a look out for traffic attempting to cross the junction at speed.</text>
+		<voice id="AB2392-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Traffic going straight on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Nobody</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic turning left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

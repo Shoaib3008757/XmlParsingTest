@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2578" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p138</xref>
+		<text>This traffic sign means there is</text>
+		<graphic>AB2578.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2578-1"/>
+	<explanation>
+		<text>The sign gives you an early warning of a speed restriction. If you are travelling at a higher speed, slow down in good time. You could come across queuing traffic due to roadworks or a temporary obstruction.</text>
+		<voice id="AB2578-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>a compulsory maximum speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an advisory maximum speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a compulsory minimum speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an advised separation distance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

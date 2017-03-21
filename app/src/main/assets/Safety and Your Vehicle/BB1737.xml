@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1737" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p129</xref>
+		<text>You are checking your trailer tyres. What is the legal minimum tread depth over the central three quarters of its breadth?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1737-1"/>
+	<explanation>
+		<text>Trailers and caravans may be left in storage over the winter months and tyres can deteriorate. It’s important to check their tread depth and also the pressures and general condition. The legal tread depth applies to the central three quarters of its breadth over its entire circumference.</text>
+		<voice id="BB1737-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>1 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>1.6 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>2 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>2.6 mm</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

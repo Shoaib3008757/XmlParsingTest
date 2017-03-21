@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2299" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p20</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2299.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2299-1"/>
+	<explanation>
+		<text>Where you see this sign the 20 mph restriction ends. Check all around for possible hazards and only increase your speed if it’s safe to do so.</text>
+		<voice id="AB2299-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>New speed limit 20 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No vehicles over 30 tonnes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Minimum speed limit 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>End of 20 mph zone</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

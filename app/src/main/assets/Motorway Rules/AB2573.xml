@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2573" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r259</xref>
+		<text>You are joining a motorway. Why is it important to make full use of the slip road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2573-1"/>
+	<explanation>
+		<text>Try to join the motorway without affecting the progress of the traffic already travelling on it. Always give way to traffic already on the motorway. At busy times you may have to slow down to merge into slow-moving traffic.</text>
+		<voice id="AB2573-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Because there is space available to turn round if you need to</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow you direct access to the overtaking lanes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To build up a speed similar to traffic on the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because you can continue on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

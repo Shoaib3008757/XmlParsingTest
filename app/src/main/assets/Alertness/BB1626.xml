@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1626" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s4, HC r159</xref>
+		<text>What does the term ‘blind spot’ mean for a driver?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1626-1"/>
+
+<explanation>
+		<text>Modern vehicles provide the driver with well-positioned mirrors which are essential to safe driving. However, they cannot see every angle of the scene behind and to the sides of the vehicle. This is why it is essential that you check over your shoulder, so that you are aware of any hazards not reflected in your mirrors.</text>
+		<voice id="BB1626-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>An area covered by your right-hand mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An area not covered by your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An area covered by your left-hand mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>An area not covered by your mirrors</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

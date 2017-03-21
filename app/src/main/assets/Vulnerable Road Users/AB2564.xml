@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2564" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r215</xref>
+		<text>You see a horse rider as you approach a roundabout. They are signalling right but keeping well to the left. You should</text>
+		<graphic>AB2564.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2564-1"/>
+	<explanation>
+		<text>Allow the horse rider to enter and exit the roundabout in their own time. They may feel safer keeping to the left all the way around the roundabout. Don’t get up close behind or alongside them. This is very likely to upset the horse and create a dangerous situation.</text>
+		<voice id="AB2564-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>proceed as normal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep close to them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cut in front of them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stay well back</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

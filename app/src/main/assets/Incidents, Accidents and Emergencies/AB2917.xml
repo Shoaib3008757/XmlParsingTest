@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2917" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at an incident. A motorcyclist is unconscious. Your FIRST priority is the casualty’s</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2917-1"/>
+	<explanation>
+		<text>At the scene of an incident always be aware of danger from further collisions or fire. The first priority when dealing with an unconscious person is to ensure they can breathe. This may involve clearing their airway if you can see an obstruction, or if they’re having difficulty breathing.</text>
+		<voice id="AB2917-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>breathing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bleeding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>broken bones</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bruising</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1351" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r121</xref>
+		<text>You are driving along a country road. You see this sign. AFTER dealing safely with the hazard you should always</text>
+		<graphic>BB1351.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1351-1"/>
+	<explanation>
+		<text>Deep water can affect your brakes, so you should check that they’re working properly before you build up speed again. Before you do this, remember to check your mirrors and consider what’s behind you.</text>
+		<voice id="BB1351-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>check your tyre pressures</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch on your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate briskly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>test your brakes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

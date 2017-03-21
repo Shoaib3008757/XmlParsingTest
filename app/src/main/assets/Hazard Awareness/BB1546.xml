@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1546" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r94</xref>
+		<text>Which of the following types of glasses should NOT be worn when driving at night?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1546-1"/>
+	<explanation>
+		<text>If you are driving at night or in poor visibility, tinted lenses will reduce the efficiency of your vision, by reducing the amount of available light reaching your eyes.</text>
+		<voice id="BB1546-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Half-moon</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Round</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Bi-focal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Tinted</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1171" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r119</xref>
+		<text>To correct a rear-wheel skid you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1171-1"/>
+	<explanation>
+		<text>Prevention is better than cure, so it’s important that you take every precaution to avoid a skid from starting. If you feel the rear wheels of your vehicle beginning to skid, try to steer in the same direction to recover control. Don’t brake suddenly – this will only make the situation worse.</text>
+		<voice id="BB1171-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>not steer at all</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steer away from it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>steer into it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply your handbrake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

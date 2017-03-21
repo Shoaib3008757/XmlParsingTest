@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1685" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Why is it dangerous to leave rear fog lights on when they’re not needed?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1685-1"/>
+	<explanation>
+		<text>If your rear fog lights are left on when it isn’t foggy, the glare they cause makes it difficult for road users behind to know whether you’re braking or you’ve just forgotten to turn off your rear fog lights. This can be a particular problem on wet roads and on motorways. If you leave your rear fog lights on at night, road users behind you are likely to be dazzled and this could put them at risk.</text>
+		<voice id="BB1685-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>They may be confused with brake lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The bulbs would fail</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Electrical systems could be overloaded</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Direction indicators may not work properly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1014" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r114</xref>
+		<text>You are waiting in a traffic queue at night. To avoid dazzling following drivers you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1014-1"/>
+
+<explanation>
+		<text>You should consider drivers behind as brake lights can dazzle. However, if you are driving in fog it’s safer to keep your foot on the footbrake. In this case it will give the vehicle behind extra warning of your presence.</text>
+		<voice id="BB1014-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>apply the handbrake only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply the footbrake only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch off your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use both the handbrake and footbrake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

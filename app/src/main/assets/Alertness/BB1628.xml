@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1628" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>Your vehicle is fitted with a hands-free phone system. Using this equipment whilst driving</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1628-1"/>
+
+<explanation>
+		<text>Using a hands-free system doesn’t mean that you can safely drive and use a mobile phone. This type of mobile phone can still distract your attention from the road. As a driver, it is your responsibility to keep yourself and other road users safe at all times.</text>
+		<voice id="BB1628-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>is quite safe as long as you slow down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>could distract your attention from the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>is recommended by The Highway Code</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>could be very good for road safety</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

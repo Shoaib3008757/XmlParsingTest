@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1177" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r235</xref>
+		<text>You are driving in fog. Why should you keep well back from the vehicle in front?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1177-1"/>
+	<explanation>
+		<text>If you’re following another road user in fog stay well back. The driver in front won’t be able to see hazards until they’re close and might brake suddenly. Another reason why it is important to maintain a good separation distance in fog is that the road surface is likely to be wet and slippery.</text>
+		<voice id="BB1177-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>In case it changes direction suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In case its fog lights dazzle you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In case it stops suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In case its brake lights dazzle you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

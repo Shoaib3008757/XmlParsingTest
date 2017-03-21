@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2339" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p100</xref>
+		<text>This sign means</text>
+		<graphic>AB2339.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2339-1"/>
+	<explanation>
+		<text>These signs indicate places of interest and are designed to guide you by the easiest route. They are particularly useful if you are unfamiliar with the area.</text>
+		<voice id="AB2339-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>tourist attraction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>beware of trains</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>beware of trams</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

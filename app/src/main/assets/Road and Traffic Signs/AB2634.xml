@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2634" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r112</xref>
+		<text>When may you sound the horn?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2634-1"/>
+	<explanation>
+		<text>Never sound the horn aggressively. You MUST NOT sound it when driving in a built-up area between 11.30 pm and 7.00 am or when you are stationary, an exception to this is when another road user poses a danger. Do not scare animals by sounding your horn.</text>
+		<voice id="AB2634-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To give you right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To attract a friend’s attention</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To warn others of your presence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To make slower drivers move over</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

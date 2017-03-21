@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2390" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p139</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2390.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2390-1"/>
+	<explanation>
+		<text>Where traffic lights are out of order you might see this sign. Proceed with caution as nobody has priority at the junction.</text>
+		<voice id="AB2390-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Traffic lights out of order</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Amber signal out of order</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Temporary traffic lights ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>New traffic lights ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

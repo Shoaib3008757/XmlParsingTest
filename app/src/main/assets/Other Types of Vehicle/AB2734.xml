@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2734" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r164</xref>
+		<text>You wish to overtake a long, slow-moving vehicle on a busy road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2734-1"/>
+	<explanation>
+		<text>If you want to overtake a long vehicle, stay well back so that you can get a better view of the road ahead. The closer you get the less you will be able to see of the road ahead. Be patient, overtaking calls for sound judgement. DON’T take a gamble, only overtake when you are certain that you can complete the manoeuvre safely.</text>
+		<voice id="AB2734-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>follow it closely and keep moving out to see the road ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights for the oncoming traffic to give way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stay behind until the driver waves you past</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep well back until you can see that it is clear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

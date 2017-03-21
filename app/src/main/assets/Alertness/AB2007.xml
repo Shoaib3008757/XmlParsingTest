@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2007" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r162-167, KYTS p63</xref>
+		<text>This road marking warns</text>
+		<graphic>AB2007.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2007-1"/>
+
+<explanation>
+		<text>You should plan your overtaking to take into account any hazards ahead. In this picture the marking indicates that you are approaching a junction. You will not have time to overtake and move back into the left safely.</text>
+		<voice id="AB2007-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>drivers to use the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtaking drivers there is a bend to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>overtaking drivers to move back to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drivers that it is safe to overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

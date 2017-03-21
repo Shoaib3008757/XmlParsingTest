@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1418" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>Which of the following should not be kept in your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1418-1"/>
+	<explanation>
+		<text>Never leave the vehicle registration document inside your car. This document would help a thief to dispose of your car more easily.</text>
+		<voice id="BB1418-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The car dealer's details</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The owner's manual</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The service record</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The vehicle registration document</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

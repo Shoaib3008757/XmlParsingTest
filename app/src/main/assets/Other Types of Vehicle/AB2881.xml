@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2881" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r164</xref>
+		<text>Why is it more difficult to overtake a large vehicle than a car?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2881-1"/>
+	<explanation>
+		<text>Depending on relevant speed, it will usually take you longer to pass a lorry than other vehicles. Some hazards to watch for include oncoming traffic, junctions ahead, bends or dips which could restrict your view, and signs or road markings that prohibit overtaking. Make sure you can see that it’s safe to complete the manoeuvre before you start to overtake.</text>
+		<voice id="AB2881-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>It takes longer to pass one</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They may suddenly pull up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Their brakes are not as good</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They climb hills more slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

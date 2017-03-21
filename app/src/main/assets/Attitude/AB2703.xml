@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2703" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r199</xref>
+		<text>At a puffin crossing, which colour follows the green signal?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2703-1"/>
+
+<explanation>
+		<text>Puffin crossings have infra-red sensors which detect when pedestrians are crossing and hold the red traffic signal until the crossing is clear. The use of a sensor means there is no flashing amber phase as there is with a pelican crossing.</text>
+		<voice id="AB2703-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Steady red</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flashing amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Steady amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flashing green</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

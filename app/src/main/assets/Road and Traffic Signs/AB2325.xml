@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2325" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p16</xref>
+		<text>At a junction you see this sign partly covered by snow. What does it mean?</text>
+		<graphic>AB2325.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2325-1"/>
+	<explanation>
+		<text>The STOP sign is the only road sign that is octagonal. This is so that it can be recognised and obeyed even if it is obscured, for example by snow.</text>
+		<voice id="AB2325-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Cross roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1209" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p40</xref>
+		<text>You are towing a small caravan on a dual carriageway. You must not exceed</text>
+		<graphic>BB1209.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1209-1"/>
+	<explanation>
+		<text>The speed limit is reduced for vehicles towing caravans and trailers, to lessen the risk of the outfit becoming unstable. Due to the increased weight and size of the vehicle and caravan combination, you should plan well ahead. Be extra-careful in windy weather, as strong winds could cause a caravan or large trailer to snake from side to side.</text>
+		<voice id="BB1209-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

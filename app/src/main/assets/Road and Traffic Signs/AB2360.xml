@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2360" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p12</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2360.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2360-1"/>
+	<explanation>
+		<text>A warning sign with a picture of a windsock will indicate there may be strong crosswinds. This sign is often found on exposed roads.</text>
+		<voice id="AB2360-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Crosswinds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road noise</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Airport</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Adverse camber</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

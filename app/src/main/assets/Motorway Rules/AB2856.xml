@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2856" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>You are on a three-lane motorway. A red cross is shown above the hard shoulder and mandatory speed limits above all other lanes. This means</text>
+		<graphic>AB2856.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2856-1"/>
+	<explanation>
+		<text>A red cross above the hard shoulder shows it is closed as a running lane and should only be used for emergencies or breakdowns. At busy times within an Active Traffic Management (ATM) area the hard shoulder may be used as a running lane. This will be shown by a mandatory speed limit on the gantry above.</text>
+		<voice id="AB2856-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the hard shoulder can be used as a rest area if you feel tired</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the hard shoulder is for emergency or breakdown use only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the hard shoulder can be used as a normal running lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the hard shoulder has a speed limit of 50 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

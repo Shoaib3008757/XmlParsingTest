@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2949" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>There has been a collision. A motorcyclist is lying injured and unconscious. Unless it’s essential, why should you usually NOT attempt to remove their helmet?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2949-1"/>
+	<explanation>
+		<text>When someone is injured, any movement which is not absolutely necessary should be avoided since it could make injuries worse. Unless it is essential, it’s generally safer to leave a motorcyclist’s helmet in place.</text>
+		<voice id="AB2949-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Because they may not want you to</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>This could result in more serious injury</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They will get too cold if you do this</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because you could scratch the helmet</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

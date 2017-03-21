@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1404" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121-122</xref>
+		<text>A newly qualified driver must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1404-1"/>
+	<explanation>
+		<text>It is your responsibility to make sure you are properly insured for the vehicle you are driving.</text>
+		<voice id="BB1404-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>display green ‘L’ plates</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>not exceed 40 mph for 12 months</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>be accompanied on a motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>have valid motor insurance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

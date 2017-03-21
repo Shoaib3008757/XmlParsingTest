@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1242" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>To drive on the road learners MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1242-1"/>
+	<explanation>
+		<text>Before you drive on the road you MUST have a valid provisional licence, for the category of vehicle that you’re driving. It must show your signature, it isn’t valid without it.</text>
+		<voice id="BB1242-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>have NO penalty points on their licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>have taken professional instruction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>have a signed, valid provisional licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>apply for a driving test within 12 months</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2389" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>You are in the left-hand lane at traffic lights. You are waiting to turn left. At which of these traffic lights must you NOT move on?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2389-1"/>
+	<explanation>
+		<text>At some junctions there may be a separate signal for different lanes. These are called ‘filter’ lights. They’re designed to help traffic flow at major junctions. Make sure that you’re in the correct lane and proceed if the way is clear and the green light shows for your lane.</text>
+		<voice id="AB2389-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2389a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2389b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2389c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2389d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

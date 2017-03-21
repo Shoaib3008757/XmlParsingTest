@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2212" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>HC p109, KYTS p72</xref>
+    <text>Which of these plates normally appear with this road sign?</text>
+    <graphic>AB2212.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2212-1"/>
+  <explanation>
+    <text>Road humps are used to slow down the traffic. They are found in places where there are often pedestrians, such as
+      <unorderedlist>
+        <item>• in shopping areas</item>
+        <item>• near schools</item>
+        <item>• in residential areas.</item>
+      </unorderedlist>
+      Watch out for people close to the kerb or crossing the road.</text>
+    <voice id="AB2212-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="yes">
+      <text></text>
+      <graphic>AB2212a.png</graphic>
+    </answer>
+    <answer correct="no">
+      <text></text>
+      <graphic>AB2212b.png</graphic>
+    </answer>
+    <answer correct="no">
+      <text></text>
+      <graphic>AB2212c.png</graphic>
+    </answer>
+    <answer correct="no">
+      <text></text>
+      <graphic>AB2212d.png</graphic>
+    </answer>
+  </answers>
+
+</QF>

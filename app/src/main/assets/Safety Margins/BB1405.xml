@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1405" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r227</xref>
+		<text>You are driving along a wet road. How can you tell if your vehicle’s tyres are losing their grip on the surface?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1405-1"/>
+	<explanation>
+		<text>If you drive at speed in very wet conditions your steering may suddenly feel lighter than usual. This means that the tyres have lifted off the surface of the road and are skating on the surface of the water. This is known as aquaplaning. Reduce speed but don’t brake until your steering returns to a normal feel.</text>
+		<voice id="BB1405-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The engine will stall</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The steering will feel very heavy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The engine noise will increase</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The steering will feel very light</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2825" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r249</xref>
+		<text>You park at night on a road with a 40 mph speed limit. You should park</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2825-1"/>
+	<explanation>
+		<text>You MUST use parking lights when parking at night on a road or lay-by with a speed limit greater than 30 mph. You MUST also park in the direction of the traffic flow and not close to a junction.</text>
+		<voice id="AB2825-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>facing the traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>with parking lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with dipped headlights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>near a street light</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

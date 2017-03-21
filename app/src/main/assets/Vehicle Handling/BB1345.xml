@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1345" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r226</xref>
+		<text>You may use front fog lights with headlights ONLY when visibility is reduced to less than</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1345-1"/>
+	<explanation>
+		<text>It is an offence to use fog lights if the visibility is better than 100 metres (328 feet). Switch front fog lights off if the fog clears to avoid dazzling other road users, but be aware that the fog may be patchy.</text>
+		<voice id="BB1345-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>200 metres (656 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>300 metres (984 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>400 metres (1312 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

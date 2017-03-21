@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1746" topic="Safety Margins" category="Car" ni_exempt="no">
+  <question>
+    <xref>DES s12, HC r121</xref>
+    <text>How can you tell when you are driving over black ice?</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="BB1746-1"/>
+  <explanation>
+    <text>Sometimes you may not be able to see that the road is icy. Black ice makes a road look damp. The signs that you’re travelling on black ice can be that
+      <unorderedlist>
+        <item>• the steering feels light</item>
+        <item>• the noise from your tyres suddenly goes quiet.</item>
+      </unorderedlist>
+    </text>
+    <voice id="BB1746-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>It is easier to brake</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>The noise from your tyres sounds louder</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>You will see tyre tracks on the road</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>Your steering feels light</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

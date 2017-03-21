@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1366" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>You are driving on a wet road. You have to stop your vehicle in an emergency. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1366-1"/>
+
+<explanation>
+		<text>As you drive, look well ahead and all around so that you’re ready for any hazards that might occur. There may be occasions when you have to stop in an emergency. React as soon as you can whilst keeping control of the vehicle.</text>
+		<voice id="BB1366-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>apply the handbrake and footbrake together</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep both hands on the wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>select reverse gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give an arm signal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

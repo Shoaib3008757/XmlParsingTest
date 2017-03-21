@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1393" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3</xref>
+		<text>Turning the steering wheel while your car is stationary can cause damage to the</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1393-1"/>
+	<explanation>
+		<text>Turning the steering wheel when the car isn’t moving is known as dry steering. It can cause unnecessary wear to the tyres and steering mechanism.</text>
+		<voice id="BB1393-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>gearbox</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>tyres</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2641" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17, HC r123</xref>
+		<text>What is most likely to cause high fuel consumption?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2641-1"/>
+	<explanation>
+		<text>Accelerating and braking gently and smoothly will help to save fuel, reduce wear on your vehicle and is better for the environment.</text>
+		<voice id="AB2641-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Poor steering control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerating around bends</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Staying in high gears</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Harsh braking and accelerating</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

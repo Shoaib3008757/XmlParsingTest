@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2296" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p20</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2296.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2296-1"/>
+	<explanation>
+		<text>If you’re in places where there are likely to be pedestrians such as outside schools, near parks, residential areas and shopping areas, you should be extra-cautious and keep your speed down. Many local authorities have taken measures to slow traffic down by creating traffic calming measures such as speed humps. They are there for a reason; slow down.</text>
+		<voice id="AB2296-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Maximum speed limit with traffic calming</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Minimum speed limit with traffic calming</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>‘20 cars only’ parking zone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only 20 cars allowed at any one time</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

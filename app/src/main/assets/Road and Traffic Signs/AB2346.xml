@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2346" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p36</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2346.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2346-1"/>
+	<explanation>
+		<text>Where there’s a cycle route ahead, a sign will show a bicycle in a red warning triangle. Watch out for children on bicycles and cyclists rejoining the main road.</text>
+		<voice id="AB2346-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Cyclists must dismount</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cycles are not allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Cycle route ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cycle in single file</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

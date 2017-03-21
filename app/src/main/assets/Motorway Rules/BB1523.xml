@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1523" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r116</xref>
+		<text>You are driving on a motorway. The car ahead shows its hazard lights for a short time. This tells you that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1523-1"/>
+	<explanation>
+		<text>If the vehicle in front shows its hazard lights there may be an incident or queuing traffic ahead. As well as keeping a safe distance, look beyond it to help you get an early warning of any hazards and a picture of the situation ahead.</text>
+		<voice id="BB1523-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the driver wants you to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the other car is going to change lanes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>traffic ahead is slowing or stopping suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is a police speed check ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

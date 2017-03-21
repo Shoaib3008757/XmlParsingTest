@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2225" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>Which of these IS NOT allowed to travel in the right-hand lane of a three-lane motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2225-1"/>
+	<explanation>
+		<text>A vehicle with a trailer is restricted to 60 mph. For this reason it isn’t allowed in the right-hand lane as it might hold up the faster-moving traffic that wishes to overtake in that lane.</text>
+		<voice id="AB2225-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A small delivery van</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A motorcycle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A vehicle towing a trailer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A motorcycle and sidecar</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

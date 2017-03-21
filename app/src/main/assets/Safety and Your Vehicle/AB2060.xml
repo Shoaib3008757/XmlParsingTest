@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2060" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>The pictured vehicle is ‘environmentally friendly’ because it’s powered by</text>
+		<graphic>AB2060.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2060-1"/>
+	<explanation>
+		<text>Trams are powered by electricity and therefore don’t emit exhaust fumes. They also ease traffic congestion by offering drivers an alternative to using their car.</text>
+		<voice id="AB2060-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>gravity</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>diesel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>electricity</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>unleaded petrol</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

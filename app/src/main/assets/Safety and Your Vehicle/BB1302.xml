@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1302" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>You can avoid wasting fuel by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1302-1"/>
+	<explanation>
+		<text>If you don’t have your vehicle serviced regularly, the engine won’t burn all the fuel efficiently. This will cause increased fuel consumption and an increase in the amount of harmful emissions it produces.</text>
+		<voice id="BB1302-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>having your vehicle serviced regularly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>revving the engine in the lower gears</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keeping an empty roof rack on your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving at higher speeds where possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

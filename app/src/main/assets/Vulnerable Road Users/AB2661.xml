@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2661" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r212</xref>
+		<text>You should never attempt to overtake a cyclist</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2661-1"/>
+	<explanation>
+		<text>If you want to turn left and there’s a cyclist in front of you, hold back. Wait until the cyclist has passed the junction and then turn left behind them.</text>
+		<voice id="AB2661-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>just before you turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a left-hand bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1646" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>As a driver, you can help reduce pollution levels in town centres by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1646-1"/>
+	<explanation>
+		<text>Using a vehicle for short journeys means the engine does not have time to reach its normal running temperature. When an engine is running below its normal running temperature it produces increased amounts of pollution. Walking and cycling do not create pollution and have health benefits as well.</text>
+		<voice id="BB1646-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>driving more quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>over-revving in a low gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>walking or cycling</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving short journeys</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

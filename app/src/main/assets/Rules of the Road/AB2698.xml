@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2698" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r288, KYTS p139</xref>
+		<text>You are entering an area of roadworks. There is a temporary speed limit displayed. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2698-1"/>
+	<explanation>
+		<text>Where there are extra hazards such as roadworks, it’s often necessary to slow traffic down by imposing a temporary speed limit. These speed limits aren’t advisory, they must be obeyed.</text>
+		<voice id="AB2698-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>not exceed the speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>obey the limit only during rush hour</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>ignore the displayed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>obey the limit except at night</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

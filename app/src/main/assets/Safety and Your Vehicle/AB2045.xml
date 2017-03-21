@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2045" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, DES s14, HC p129</xref>
+		<text>What’s badly affected if the tyres are under-inflated?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2045-1"/>
+	<explanation>
+		<text>Your tyres are your only contact with the road. To prevent problems with braking and steering, keep your tyres free from defects; they must have sufficient tread depth and be correctly inflated. Correct tyre pressures help reduce the risk of skidding and provide a safer and more comfortable drive or ride.</text>
+		<voice id="AB2045-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Indicating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Changing gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

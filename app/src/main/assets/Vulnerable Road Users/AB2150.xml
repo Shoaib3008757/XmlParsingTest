@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2150" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211</xref>
+		<text>Why should you look particularly for motorcyclists and cyclists at junctions?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2150-1"/>
+	<explanation>
+		<text>Cyclists and motorcyclists are smaller than other vehicles and so are more difficult to see. They can easily become hidden from your view by cars parked near a junction.</text>
+		<voice id="AB2150-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>They may want to turn into the side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They may slow down to let you turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>They are harder to see</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They might not see you turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

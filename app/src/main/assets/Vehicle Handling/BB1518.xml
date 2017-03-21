@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1518" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r126</xref>
+		<text>What will affect your vehicle’s stopping distance?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1518-1"/>
+	<explanation>
+		<text>Having tyres correctly inflated and in good condition will ensure they have maximum grip on the road; how well your tyres grip the road has a significant effect on your car’s stopping distance.</text>
+		<voice id="BB1518-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The street lighting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The time of day</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The condition of the tyres</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

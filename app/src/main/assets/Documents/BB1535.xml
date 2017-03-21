@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1535" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>Your vehicle needs a current MOT certificate. What will you be unable to renew without this certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1535-1"/>
+	<explanation>
+		<text>If your vehicle requires a current MOT certificate you will be unable to renew your vehicle excise licence (road tax) without it.</text>
+		<voice id="BB1535-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Your driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle insurance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your vehicle excise licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle registration document</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

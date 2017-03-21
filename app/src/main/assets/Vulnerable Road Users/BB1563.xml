@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1563" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r170, HC r211</xref>
+		<text>Where should you take particular care to look out for motorcyclists and cyclists?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1563-1"/>
+	<explanation>
+		<text>Motorcyclists and cyclists are often more difficult to see on the road. This is especially the case at junctions. You may not be able to see a motorcyclist approaching a junction if your view is blocked by other traffic. A motorcycle may be travelling as fast as a car, sometimes faster. Make sure that you judge speeds correctly before you emerge.</text>
+		<voice id="BB1563-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>On dual carriageways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>At junctions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At zebra crossings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On one-way streets</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2223" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>The left-hand lane on a three-lane motorway is for use by</text>
+		<graphic>AB2223.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2223-1"/>
+	<explanation>
+		<text>On a motorway all traffic should use the left-hand lane unless overtaking. Use the centre or right-hand lanes if you need to overtake. If you’re overtaking a number of slower vehicles move back to the left-hand lane when you’re safely past. Check your mirrors frequently and don’t stay in the middle or right-hand lane if the left-hand lane is free.</text>
+		<voice id="AB2223-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>any vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>large vehicles only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>emergency vehicles only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slow vehicles only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

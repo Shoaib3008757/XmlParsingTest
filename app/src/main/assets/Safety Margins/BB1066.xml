@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1066" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC p128</xref>
+		<text>Before starting a journey in freezing weather, you should clear ice and snow from your vehicle’s</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1066-1"/>
+	<explanation>
+		<text>Only travel if you have to. Making unnecessary journeys in bad weather can increase the risk of a collision. It’s important that you can see and be seen. Make sure any snow or ice is cleared from lights, mirrors, number plates and windows.</text>
+		<voice id="BB1066-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>aerial</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bumper</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>boot</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

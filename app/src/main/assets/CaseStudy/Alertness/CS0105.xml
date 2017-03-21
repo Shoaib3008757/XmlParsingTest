@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0105" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1</xref>
+		<text>James has a two-hour drive to make on a motorway. He has a cold and his nose is also slightly blocked.  He takes an off-the-shelf cold remedy to help reduce the symptoms. It is a cold and dull day and the car heater is on. James also turns on his dipped headlights. An hour into the boring journey, James begins to feel drowsy.</text>
+		<part>How could James help himself stay alert in the short term?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0105-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Open the window</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn up the heater</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn on the radio</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Open a can of drink</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0105-2"/>
+	</explanation>
+</QF>

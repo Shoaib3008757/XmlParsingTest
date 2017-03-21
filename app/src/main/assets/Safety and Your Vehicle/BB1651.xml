@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1651" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20</xref>
+		<text>Wherever possible, which one of the following should you do when parking at night?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1651-1"/>
+	<explanation>
+		<text>If you are away from home, try to avoid leaving your vehicle unattended in poorly-lit areas. If possible park in a secure, well-lit car park.</text>
+		<voice id="BB1651-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Park in a quiet car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Park in a well-lit area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park facing against the flow of traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park next to a busy junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

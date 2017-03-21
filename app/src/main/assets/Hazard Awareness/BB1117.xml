@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1117" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>During periods of illness your ability to drive may be impaired. You MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1117-1"/>
+	<explanation>
+		<text>Be responsible and only drive if you’re fit to do so. Some medication can affect your concentration and judgement when dealing with hazards. It may also cause you to become drowsy or even fall asleep. Driving while taking such medication is highly dangerous.</text>
+		<voice id="BB1117-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>see your doctor each time before you drive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only take smaller doses of any medicines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>be medically fit to drive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>take all your medicines with you when you drive</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

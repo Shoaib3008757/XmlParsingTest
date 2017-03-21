@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1645" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p130</xref>
+		<text>If your vehicle uses diesel fuel, take extra care when refuelling. Diesel fuel when spilt is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1645-1"/>
+	<explanation>
+		<text>If you are using diesel, or are at a pump which has a diesel facility, be aware that there may be spilt fuel on the ground. Fuel contamination on the soles of your shoes may cause them to slip when using the foot pedals.</text>
+		<voice id="BB1645-2"/>
+	</explanation>s
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sticky</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>odourless</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slippery</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

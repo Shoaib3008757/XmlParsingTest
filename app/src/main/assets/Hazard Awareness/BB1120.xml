@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1120" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91</xref>
+		<text>You feel drowsy when driving. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1120-1"/>
+	<explanation>
+		<text>You’ll be putting other road users at risk if you continue to drive when drowsy. Pull over and stop in a safe place. If you’re driving a long distance, think about finding some accommodation so you can get some sleep before continuing your journey.</text>
+		<voice id="BB1120-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>stop and rest as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn the heater up to keep you warm and comfortable</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>close the car windows to help you concentrate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>continue with your journey but drive more slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

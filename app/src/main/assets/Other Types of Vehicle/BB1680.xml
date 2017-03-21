@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1680" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r226</xref>
+		<text>You’re driving in heavy traffic on a wet road. Spray makes it difficult to be seen. You should use your</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1680-1"/>
+	<explanation>
+		<text>You must ensure that you can be seen by others on the road, but you don’t want to dazzle them. Use your dipped headlights during the day if visibility is bad. If appropriate, use your rear fog lights but don’t forget to turn them off when visibility improves.</text>
+		<voice id="BB1680-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>full-beam headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sidelights only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rear fog lights if visibility is more than 100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

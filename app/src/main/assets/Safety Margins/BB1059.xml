@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1059" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s12, HC r231</xref>
+		<text>You are driving on an icy road. How can you avoid wheelspin?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1059-1"/>
+	<explanation>
+		<text>If you’re travelling on an icy road extra caution will be required to avoid loss of control. Keeping your speed down and using the highest gear possible will reduce the risk of the tyres losing their grip on this slippery surface.</text>
+		<voice id="BB1059-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Drive at a slow speed in as high a gear as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use the handbrake if the wheels start to slip</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Brake gently and repeatedly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive in a low gear at all times</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

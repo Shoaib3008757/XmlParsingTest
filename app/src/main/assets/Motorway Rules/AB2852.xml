@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2852" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s11, HC r270</xref>
+    <text>You are on a motorway. There are red flashing lights above every lane. You must</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2852-1"/>
+  <explanation>
+    <text>Red flashing lights above every lane mean you must not go on any further. You’ll also see a red cross illuminated. Stop and wait. Don’t
+      <unorderedlist>
+        <item>• change lanes</item>
+        <item>• continue</item>
+        <item>• pull onto the hard shoulder (unless in an emergency).</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2852-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>pull onto the hard shoulder</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>slow down and watch for further signals</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>leave at the next exit</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>stop and wait</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

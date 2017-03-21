@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1257" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC p129</xref>
+		<text>What should you do when a front tyre bursts?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1257-1"/>
+	<explanation>
+		<text>Try not to react by applying the brakes harshly. This could lead to further loss of steering control. Indicate your intention to pull up at the side of the road and roll to a stop.</text>
+		<voice id="BB1257-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Apply the handbrake to stop the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Brake firmly and quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Let the vehicle roll to a stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Hold the steering wheel lightly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2670" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p55</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2670.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2670-1"/>
+	<explanation>
+		<text>Urban clearways are provided to keep traffic flowing at busy times. You may stop only briefly to set down or pick up passengers. Times of operation will vary from place to place so always check the signs.</text>
+		<voice id="AB2670-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You can park on the days and times shown</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No parking on the days and times shown</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No parking at all from Monday to Friday</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of the urban clearway restrictions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1283" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>You go to a social event and need to drive a short time after. What precaution should you take?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1283-1"/>
+	<explanation>
+		<text>This is always going to be the safest option. Just one drink could put you over the limit and dangerously impair your judgement and reactions.</text>
+		<voice id="BB1283-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Avoid drinking alcohol on an empty stomach</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drink plenty of coffee after drinking alcohol</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Avoid drinking alcohol completely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drink plenty of milk before drinking alcohol</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

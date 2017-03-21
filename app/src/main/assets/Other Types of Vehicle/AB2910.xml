@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2910" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r36, HC r220</xref>
+		<text>In front of you is a class 3 powered vehicle (powered wheelchair) driven by a disabled person. These vehicles have a maximum speed of</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2910-1"/>
+	<explanation>
+		<text>These vehicles are battery powered and very vulnerable due to their slow speed, small size and low height. Some are designed for pavement and road use and have a maximum speed of 8 mph (12 km/h). Others are for pavement use only and are restricted to 4 mph (6 km/h). Take extra care and be patient if you are following one. Allow plenty of room when overtaking and do not go past unless you can do so safely.</text>
+		<voice id="AB2910-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>8 mph (12 km/h)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>18 mph (29 km/h)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>28 mph (45 km/h)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>38 mph (61 km/h)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1632" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r173</xref>
+		<text>You are turning right onto a dual carriageway. What should you do before emerging?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1632-1"/>
+
+<explanation>
+		<text>Before emerging right onto a dual carriageway make sure that the central reserve is deep enough to protect your vehicle. If it’s not, you should treat it as one road and check that it’s clear in both directions before pulling out. Neglecting to do this could place part or all of your vehicle in the path of approaching traffic and cause a collision.</text>
+		<voice id="BB1632-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop, apply the handbrake and then select a low gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Position your vehicle well to the left of the side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check that the central reservation is wide enough for your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make sure that you leave enough room for a vehicle behind</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

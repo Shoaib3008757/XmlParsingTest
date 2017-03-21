@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2306" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p23</xref>
+		<text>Which type of vehicle does this sign apply to?</text>
+		<graphic>AB2306.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2306-1"/>
+	<explanation>
+		<text>The triangular shapes above and below the dimensions indicate a height restriction that applies to the road ahead.</text>
+		<voice id="AB2306-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Wide vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Long vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>High vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Heavy vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

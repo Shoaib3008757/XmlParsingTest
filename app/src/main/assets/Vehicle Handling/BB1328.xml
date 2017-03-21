@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1328" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Front fog lights may be used ONLY if</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1328-1"/>
+	<explanation>
+		<text>It is illegal to use fog lights unless visibility is seriously reduced, which is generally when you cannot see for more than 100 metres (328 feet). Check that they have been switched off when conditions improve.</text>
+		<voice id="BB1328-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your headlights are not working</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they are operated with rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they were fitted by the vehicle manufacturer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>visibility is seriously reduced</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

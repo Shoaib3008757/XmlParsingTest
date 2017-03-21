@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2897" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p19</xref>
+		<text>Which of these signs means turn left ahead?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2897-1"/>
+	<explanation>
+		<text>Blue circles tell you what you must do and this sign gives a clear instruction to turn left ahead. You should be looking out for signs at all times and know what they mean.</text>
+		<voice id="AB2897-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2897a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2897b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2897c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2897d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

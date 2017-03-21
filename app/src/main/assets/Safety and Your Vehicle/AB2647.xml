@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2647" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>The fluid level in your battery is low. What should you top it up with?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2647-1"/>
+	<explanation>
+		<text>Some modern batteries are maintenance-free. Check your vehicle handbook and, if necessary, make sure that the plates in each battery cell are covered.</text>
+		<voice id="AB2647-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Battery acid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Distilled water</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Engine oil</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Engine coolant</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

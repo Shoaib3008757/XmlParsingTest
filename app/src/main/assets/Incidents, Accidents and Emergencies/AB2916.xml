@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2916" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at a serious motorcycle crash. The motorcyclist is unconscious and bleeding. What should you do to help them?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2916-1"/>
+	<explanation>
+		<text>Further collisions and fire are the main dangers immediately after a crash. If possible, get others to assist you and make the area safe. Help those involved and remember DR ABC (Danger, Response, Airway, Breathing, Compressions). This will help when dealing with any injuries.</text>
+		<voice id="AB2916-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sweep up any loose debris</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make a list of witnesses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check their breathing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Take the numbers of other vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2942" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r235</xref>
+		<text>You are following other vehicles in fog. You have your lights on. What else can you do to reduce the chances of being in a collision?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2942-1"/>
+	<explanation>
+		<text>When it’s foggy, use dipped headlights. This will help you see and be seen by other road users. If visibility is seriously reduced, consider using front and rear fog lights if you have them. Keep to a sensible speed and don’t follow the vehicle in front too closely. If the road is wet and slippery, you’ll need to allow twice the normal stopping distance.</text>
+		<voice id="AB2942-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Keep close to the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use your main beam instead of dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep up with the faster vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Reduce your speed and increase the gap in front</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

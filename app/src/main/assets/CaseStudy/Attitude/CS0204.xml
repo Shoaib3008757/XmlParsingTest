@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0204" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r221</xref>
+		<text>Sam is driving in heavy traffic. It has rained, but now bright sun is causing glare on the wet road.  A car overtakes, then pulls back sharply into the traffic just in front of Sam.  Further on there’s a roundabout with two lanes on approach. Sam needs to take the first exit, turning left. A large vehicle in front signals left but straddles both lanes.  The traffic is still heavy, and there is a zebra crossing up ahead.  There are people waiting to cross.</text>
+		<part>Why might the large vehicle be taking this position?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0204-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The driver is not sure which way to go</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The indicators are not working properly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The load being carried is extremely heavy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The vehicle needs more room to turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0204-2"/>
+	</explanation>
+</QF>

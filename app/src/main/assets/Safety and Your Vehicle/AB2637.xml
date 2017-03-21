@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2637" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>You will use more fuel if your tyres are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2637-1"/>
+	<explanation>
+		<text>Check your tyre pressures frequently – normally once a week. If pressures are lower than those recommended by the manufacturer, there will be more ‘rolling resistance’. The engine will have to work harder to overcome this, leading to increased fuel consumption.</text>
+		<voice id="AB2637-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>under-inflated</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>of different makes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>over-inflated</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>new and hardly used</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

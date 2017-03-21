@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2919" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at the scene of an incident. It's just happened and someone is unconscious. What should be given urgent priority to help them?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2919-1"/>
+	<explanation>
+		<text>Make sure that the emergency services are called immediately. Remember DR ABC (Danger, Response, Airway, Breathing, Compressions) and, once first aid has been given, stay with the casualty.</text>
+		<voice id="AB2919-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Stop any heavy bleeding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Try to get them to drink water</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Take the numbers of vehicles involved</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Look for any witnesses</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

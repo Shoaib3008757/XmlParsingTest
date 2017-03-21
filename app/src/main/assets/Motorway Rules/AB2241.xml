@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2241" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC p112, KYTS p79</xref>
+		<text>What do these motorway signs show?</text>
+		<graphic>AB2241.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2241-1"/>
+	<explanation>
+		<text>The exit from a motorway is indicated by countdown markers. These are positioned 90 metres (100 yards) apart, the first being 270 metres (300 yards) from the start of the slip road. Move into the left-hand lane well before you reach the start of the slip road.</text>
+		<voice id="AB2241-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>They are countdown markers to a bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They are distance markers to the next telephone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>They are countdown markers to the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They warn of a police control ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0805" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p75</xref>
+		<text>Alan is driving in very thick fog and the road surface is also rather damp.  Alan is using fog lights as well as headlights.  He leaves a larger gap than normal between himself and the vehicle in front.  Later, a gutter drain is being unblocked and the pumping vehicle is obstructing the road on
+Alan’s side. Still further on, there are rumble devices on approach to a roundabout.
+</text>
+		<part>What information would these devices provide, to help Alan? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0805-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A routine test of his car’s suspension</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A caution to check his tyre pressures</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A reminder to make him aware of speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A warning about the road surface condition</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0805-2"/>
+	</explanation>
+</QF>

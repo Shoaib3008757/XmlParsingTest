@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1228" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r200</xref>
+		<text>You are on a busy main road and find that you are travelling in the wrong direction. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1228-1"/>
+	<explanation>
+		<text>Don’t turn round in a busy street or reverse from a side road into a main road. Find a quiet side road and choose a place where you won’t obstruct an entrance or exit. Look out for pedestrians and cyclists as well as other traffic.</text>
+		<voice id="BB1228-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn into a side road on the right and reverse into the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make a U-turn in the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make a ‘three-point’ turn in the main road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Turn round in a side road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

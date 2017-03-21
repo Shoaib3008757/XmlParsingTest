@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1714" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>What is the legal minimum insurance cover you must have to drive on public roads?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1714-1"/>
+	<explanation>
+		<text>The minimum insurance required by law is third party cover. This covers others involved in a collision but not damage to your vehicle. Basic third party insurance won’t cover theft or fire damage. Check with your insurance company for advice on the best cover for you and make sure that you read the policy carefully.</text>
+		<voice id="BB1714-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Third party, fire and theft</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Comprehensive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Third party only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Personal injury cover</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

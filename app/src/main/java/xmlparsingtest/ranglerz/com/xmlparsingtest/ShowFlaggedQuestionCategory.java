@@ -1,0 +1,1747 @@
+package xmlparsingtest.ranglerz.com.xmlparsingtest;
+
+import android.annotation.TargetApi;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.graphics.Point;
+import android.graphics.drawable.Drawable;
+import android.os.Build;
+import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
+import android.support.v7.app.AppCompatActivity;
+import android.util.DisplayMetrics;
+import android.util.Log;
+import android.view.Display;
+import android.view.Gravity;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import com.daasuu.ahp.AnimateHorizontalProgressBar;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+import java.util.Locale;
+import java.util.Map;
+
+/**
+ * Created by User-10 on 26-Oct-16.
+ */
+public class ShowFlaggedQuestionCategory extends AppCompatActivity implements TextToSpeech.OnInitListener{
+
+
+    public static final int TEST_PASS_LIMIT = 35;
+    // reference variables for views...
+    TextView questionCategory , questionNumber  , questionText;
+    Button answer1,answer2,answer3,answer4,previous,flag,next;
+
+    ImageButton speackButton, speackButtonAsnwer1, speackButtonAsnwer2, speackButtonAsnwer3, speackButtonAsnwer4;
+    String text, textAnswer1, textAnswer2, textAnswer3, textAnswer4;
+    private TextToSpeech tts;
+
+
+    UserChoiceTakeTest userChoiceTakeTest;
+    ImageView questionImage,answerImage1,answerImage2,answerImage3,answerImage4;
+    AnimateHorizontalProgressBar progressBar;
+    // variable for storing current state of the question
+
+    int currentQuestion = 0;
+
+
+
+
+    boolean userSelectAnswer = false;
+    boolean imageShowing = false;
+
+    // to store the correct Answer of the Current Question..
+    String correctAnswer = null;
+
+    String correctImage = null;
+
+    String imageName , imageName1 , imageName2 , imageName3;
+
+    ArrayList<Integer> keys ;
+
+    int currentFlagQuestionNumber =0;
+    private static final String TAG = "Show Flagged";
+
+    public Map.Entry<Integer,String> entry;
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_random_test);
+        Log.d(TAG, "Random Question size is " + CategoryTest.randomCategoryQuestions.size());
+
+        questionCategory = (TextView) findViewById(R.id.questionCategory);
+        questionText = (TextView) findViewById(R.id.questionText);
+        questionNumber = (TextView) findViewById(R.id.questionNumber);
+        questionImage = (ImageView) findViewById(R.id.questionImage);
+
+
+        tts = new TextToSpeech(this, this);
+        speackButton = (ImageButton) findViewById(R.id.speack_button);
+        speackButtonAsnwer1 = (ImageButton) findViewById(R.id.bt1_speaker);
+        speackButtonAsnwer2 = (ImageButton) findViewById(R.id.bt2_speaker);
+        speackButtonAsnwer3 = (ImageButton) findViewById(R.id.bt3_speaker);
+        speackButtonAsnwer4 = (ImageButton) findViewById(R.id.bt4_speaker);
+
+        answer1 = (Button) findViewById(R.id.buttonAnswer1);
+        answer2 = (Button) findViewById(R.id.buttonAnswer2);
+        answer3 = (Button) findViewById(R.id.buttonAnswer3);
+        answer4 = (Button) findViewById(R.id.buttonAnswer4);
+        flag = (Button) findViewById(R.id.buttonFlag);
+
+        answerImage1 = (ImageView) findViewById(R.id.imageViewAnswer1);
+        answerImage2 = (ImageView) findViewById(R.id.imageViewAnswer2);
+        answerImage3 = (ImageView) findViewById(R.id.imageViewAnswer3);
+        answerImage4 = (ImageView) findViewById(R.id.imageViewAnswer4);
+
+        answerImage1.setVisibility(View.GONE);
+        answerImage2.setVisibility(View.GONE);
+        answerImage3.setVisibility(View.GONE);
+        answerImage4.setVisibility(View.GONE);
+
+
+        keys = new ArrayList<>();
+
+
+
+        // get the object from intent..
+        userChoiceTakeTest = (UserChoiceTakeTest) getIntent().getSerializableExtra("object");
+
+        // get All Keys of the Map and Store it in An ArrayList of keys...
+        // these keys are the questionNumber of Random Questions
+        // that are marked as flagged by the user...
+        for (Map.Entry<Integer, String> e : userChoiceTakeTest.selectedFlagAnswerText.entrySet()) {
+            int key = e.getKey();
+            keys.add(key);
+        }
+
+        currentFlagQuestionNumber = keys.get(currentQuestion);
+
+
+        // setting progress bar
+        progressBar = (AnimateHorizontalProgressBar) findViewById(R.id.animate_progress_bar);
+        progressBar.setMax(userChoiceTakeTest.selectedFlagAnswerText.size());
+        progressBar.setProgress(currentFlagQuestionNumber);
+
+
+
+
+
+        // test attempted add into the database...
+
+
+
+
+        // use touch listener for button pressed state
+
+        answer1.setOnTouchListener(new View.OnTouchListener() {
+
+
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+
+                Log.d(TAG,"Button Touch Call");
+
+
+                // set the selection image becuase we are displaying images..
+                // we donot want to set his background..
+                if(imageShowing)
+                {
+                    answerImage1.setImageResource(R.drawable.ic_action_tick);
+                    answerImage2.setImageResource(0);
+                    answerImage3.setImageResource(0);
+                    answerImage4.setImageResource(0);
+                    // user select the answer set it to true
+                    userSelectAnswer = true;
+                    return  true;
+                }
+
+
+
+                answer1.setPressed(true);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer1.setBackgroundResource(R.drawable.button);
+
+                // user select the answer set it to true
+                userSelectAnswer = true;
+
+
+
+                return true;
+            }
+        });
+
+        answer2.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                Log.d(TAG, "Button Touch Call");
+
+
+                // set the selection image becuase we are displaying images..
+                // we donot want to set his background..
+                if(imageShowing)
+                {
+                    answerImage1.setImageResource(0);
+                    answerImage2.setImageResource(R.drawable.ic_action_tick);
+                    answerImage3.setImageResource(0);
+                    answerImage4.setImageResource(0);
+                    // user select the answer set it to true
+                    userSelectAnswer = true;
+                    return  true;
+                }
+
+
+
+                answer1.setPressed(false);
+                answer2.setPressed(true);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer2.setBackgroundResource(R.drawable.button);
+                // user select the answer set it to true
+                userSelectAnswer = true;
+
+
+                return true;
+            }
+        });
+        answer3.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+
+                Log.d(TAG, "Button Touch Call");
+
+
+
+                // set the selection image becuase we are displaying images..
+                // we donot want to set his background..
+                if(imageShowing)
+                {
+                    answerImage1.setImageResource(0);
+                    answerImage2.setImageResource(0);
+                    answerImage3.setImageResource(R.drawable.ic_action_tick);
+                    answerImage4.setImageResource(0);
+
+                    // user select the answer set it to true
+                    userSelectAnswer = true;
+                    return  true;
+                }
+
+
+
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(true);
+                answer4.setPressed(false);
+
+                answer3.setBackgroundResource(R.drawable.button);
+                // user select the answer set it to true
+                userSelectAnswer = true;
+
+
+                return true;
+            }
+        });
+        answer4.setOnTouchListener(new View.OnTouchListener() {
+
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+
+                Log.d(TAG, "Button Touch Call");
+
+
+                // set the selection image becuase we are displaying images..
+                // we donot want to set his background..
+                if(imageShowing)
+                {
+
+                    answerImage1.setImageResource(0);
+                    answerImage2.setImageResource(0);
+                    answerImage3.setImageResource(0);
+                    answerImage4.setImageResource(R.drawable.ic_action_tick);
+
+                    // user select the answer set it to true
+                    userSelectAnswer = true;
+                    return  true;
+                }
+
+
+
+
+
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(true);
+
+                answer4.setBackgroundResource(R.drawable.button);
+                // user select the answer set it to true
+                userSelectAnswer = true;
+
+
+                return true;
+            }
+        });
+
+
+
+        displayQuestionAndAnswer();
+
+    }
+
+    @TargetApi(Build.VERSION_CODES.JELLY_BEAN)
+    public void displayQuestionAndAnswer()
+    {
+
+        // display the current question
+        // then display all the answer of that question...
+
+        Log.d(TAG, "Current Question is " + currentFlagQuestionNumber);
+        Log.d(TAG, "Question id is " + CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionId());
+        Log.d(TAG, "Answers List size is " + CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().size());
+
+
+
+        // this is use to show Images for Questions..
+        if(!CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionImage().isEmpty()) {
+
+            // get input stream
+            InputStream ims = null;
+            try {
+                ims = getAssets().open("images/"+CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionImage().toString().trim());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            // load image as Drawable
+            Drawable d = Drawable.createFromStream(ims, null);
+            questionImage.setImageDrawable(d);
+        }
+        else
+        {
+            questionImage.setImageDrawable(null);
+        }
+
+        // this is the area where we receive empty answer
+        // and we have images as answer to show ..
+        if( CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(0).getAnswerText().isEmpty()) {
+
+            // set the flag to true
+            imageShowing = true;
+
+
+            // set the images to visible to show small image as selection of the button background image..
+            answerImage1.setVisibility(View.VISIBLE);
+            answerImage2.setVisibility(View.VISIBLE);
+            answerImage3.setVisibility(View.VISIBLE);
+            answerImage4.setVisibility(View.VISIBLE);
+
+            speackButtonAsnwer1.setVisibility(View.GONE);
+            speackButtonAsnwer2.setVisibility(View.GONE);
+            speackButtonAsnwer3.setVisibility(View.GONE);
+            speackButtonAsnwer4.setVisibility(View.GONE);
+
+
+            // remove  the previously  selected imaged
+            answerImage1.setImageResource(0);
+            answerImage2.setImageResource(0);
+            answerImage3.setImageResource(0);
+            answerImage4.setImageResource(0);
+
+
+
+            // show the images for the answer
+
+            questionText.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionText().toString());
+            text = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionText().toString();
+            speackButtonClickListener(text);
+
+
+            questionCategory.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getTopic().toString());
+
+            correctImage = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getCorrectImage();
+
+            imageName = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(0).getImageName().toString().trim();
+            Log.d(TAG, "ImageName is" + imageName);
+            imageName1 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(1).getImageName().toString().trim();
+            Log.d(TAG,"ImageName is"+imageName1);
+            imageName2 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(2).getImageName().toString().trim();
+            Log.d(TAG, "ImageName is"+imageName2);
+            imageName3 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(3).getImageName().toString().trim();
+            Log.d(TAG,"ImageName is"+imageName3);
+
+
+            Log.d(TAG,"Correct Image is "+correctImage);
+
+
+            String userImageSelected =  userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber);
+
+
+            // remove the text from the buttons
+            answer1.setText("");
+            answer2.setText("");
+            answer3.setText("");
+            answer4.setText("");
+
+
+
+            // load image to background of the button
+            // set the tag is use for storing information with the view
+            // here we are storing image name to retreive the name of the image..
+            // when images are shown...
+            try {
+
+                // get input stream
+                InputStream ims = getAssets().open("images/"+imageName);
+                // load image as Drawable
+                Drawable d = Drawable.createFromStream(ims, null);
+                answer1.setTag(imageName);
+                answer1.setBackground(d);
+
+                // get input stream
+                InputStream ims1 = getAssets().open("images/"+imageName1);
+                // load image as Drawable
+                Drawable d1 = Drawable.createFromStream(ims1, null);
+                answer2.setTag(imageName1);
+                answer2.setBackground(d1);
+
+
+                // get input stream
+                InputStream ims2 = getAssets().open("images/"+imageName2);
+                // load image as Drawable
+                Drawable d2 = Drawable.createFromStream(ims2, null);
+                answer3.setTag(imageName2);
+                answer3.setBackground(d2);
+
+
+                // get input stream
+                InputStream ims3 = getAssets().open("images/"+imageName3);
+                // load image as Drawable
+                Drawable d3 = Drawable.createFromStream(ims3, null);
+                answer4.setTag(imageName3);
+                answer4.setBackground(d3);
+
+
+            }
+
+
+            catch(IOException ex) {
+                Log.d(TAG,"Exception occure"+ex);
+            }
+
+
+
+
+
+
+
+
+            // show user selection image..
+
+            if(answer1.getTag().toString().trim().equals(userImageSelected))
+            {
+                answerImage1.setImageResource(R.drawable.ic_action_tick);
+            }
+            else if(answer2.getTag().toString().trim().equals(userImageSelected))
+            {
+
+                answerImage2.setImageResource(R.drawable.ic_action_tick);
+            }
+            else if(answer3.getTag().toString().trim().equals(userImageSelected))
+            {
+
+                answerImage3.setImageResource(R.drawable.ic_action_tick);
+            }
+            else if(answer4.getTag().toString().trim().equals(userImageSelected))
+            {
+
+                answerImage4.setImageResource(R.drawable.ic_action_tick);
+            }
+
+
+
+
+            // because answer is already selected we have to make it pass..
+            userSelectAnswer = true;
+
+
+
+
+
+            Log.d(TAG,"Empty Answer show the images of the answer");
+
+
+            Display display = getWindowManager().getDefaultDisplay();
+            Point size = new Point();
+            display.getSize(size);
+            int width = size.x;
+            int height = size.y;
+
+            // for check the DPI(Dot per inch ) of the device
+            DisplayMetrics metrics = getResources().getDisplayMetrics();
+            int densityDpi = (int) (metrics.density * 160f);
+            Toast.makeText(getApplicationContext(),"Device dpi is "+densityDpi,Toast.LENGTH_SHORT).show();
+
+
+
+
+
+            // TODO: Here we changes the answer image / button size..
+            // because we have to make button small becuase images are small
+            // get the screen dpi and width and height ..
+            // then set the margin and button size..with these dimesions...
+
+            if (densityDpi > 560) {
+
+                // for 7 inch
+                if (width >= 710 && width <= 950) {
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 10 inch
+
+                else if (width >= 1000&& width <= 1390) {
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(250,250);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,350,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 10 inch
+
+                else if (width >= 1400) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(320,320);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,550,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+                else {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+
+                }
+
+
+            } else if (densityDpi > 480) {
+
+                // for 7 inch
+                if (width >= 710 && width <= 950) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+                // for 10 inch
+
+                else if (width >= 1000&& width <= 1390) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(250,250);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,350,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+                }
+
+                // for 10 inch
+                else if (width >= 1400) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(320,320);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,550,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+                else {
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+                }
+
+
+            } else if (densityDpi > 420) {
+
+
+
+                // for 7 inch
+                if (width >= 710 && width <= 950) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+
+                // for 10 inch
+
+                else if (width >= 1000 && width <= 1390) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(250,250);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,350,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                } else if (width >= 1400) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(320,320);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,550,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                } else {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+
+            } else if (densityDpi > 320) {
+
+                // for 5 inch
+                if (width >= 500 && width <= 590) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+                // for 6 inch
+                else if (width >= 600 && width <= 700) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+                // for 7 inch
+                else if (width >= 710 && width <= 950) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+
+                // for 10 inch
+
+                else if (width >= 1000 && width <= 1390) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(250,250);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,350,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+
+                // for 10 inch
+
+                else if (width >= 1400) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(300,300);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,500,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                } else {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+
+            } else if (densityDpi > 240) {
+
+                // for 5 inch
+                if (width >= 500 && width <= 590) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(100,100);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 6 inch
+                else if (width >= 600 && width <= 700) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(120,120);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+                // for 7 inch
+                else if (width >= 710 && width <= 950) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(150,150);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,250,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+                }
+
+                // for 10 inch
+
+                else if (width >= 1000) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(250,250);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,400,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+
+                } else {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(150,150);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,150,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+
+            }
+            else if (densityDpi <= 240) {
+
+                // for 5 inch
+                if (width >= 500 && width <= 590) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(150,150);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,200,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 6 inch
+                else if (width >= 600 && width <= 700) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(200,200);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,250,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 7 inch
+                else if (width >= 710 && width <= 950) {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(200,200);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,250,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                }
+
+                // for 10 inch
+
+                else if (width >= 1000) {
+
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(300,300);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,350,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+                } else {
+
+                    LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(150,150);
+                    params.gravity = Gravity.LEFT;
+                    params.setMargins(0,0,150,0);
+                    answer1.setLayoutParams(params);
+                    answer2.setLayoutParams(params);
+                    answer3.setLayoutParams(params);
+                    answer4.setLayoutParams(params);
+
+
+
+                }
+
+
+            }
+
+
+
+            return;
+
+        }
+
+
+
+
+        // set layout paramaert to default..
+
+        LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
+        params.setMargins(8,8,8,8);
+        answer1.setLayoutParams(params);
+        answer2.setLayoutParams(params);
+        answer3.setLayoutParams(params);
+        answer4.setLayoutParams(params);
+
+        // hide the imageviews...
+
+        answerImage1.setVisibility(View.GONE);
+        answerImage2.setVisibility(View.GONE);
+        answerImage3.setVisibility(View.GONE);
+        answerImage4.setVisibility(View.GONE);
+
+        speackButtonAsnwer1.setVisibility(View.VISIBLE);
+        speackButtonAsnwer2.setVisibility(View.VISIBLE);
+        speackButtonAsnwer3.setVisibility(View.VISIBLE);
+        speackButtonAsnwer4.setVisibility(View.VISIBLE);
+
+
+
+
+
+        // increment the currentQuestion Number to display in TextView for Question number out off 50 Questions..
+        int questionNumberIncremented = currentFlagQuestionNumber +1;
+
+
+        // store the correct Answer in variable to
+        // compare with userChoice
+
+        correctAnswer =  CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getCorrectAnswer().toString().trim();
+
+        // setting the question text
+        // then question category
+        // then question number is displaying..
+        questionText.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionText().toString());
+        text = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getQuestionText().toString();;
+        speackButtonClickListener(text);
+
+
+        questionCategory.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getTopic().toString());
+        questionNumber.setText("Question " + questionNumberIncremented + " off "+CategoryTest.randomCategoryQuestions.size());
+
+
+        /// setting the answer of the questions...
+        answer1.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(0).getAnswerText());
+        textAnswer1 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(0).getAnswerText().toString();
+        ans1ButtonSpeech(textAnswer1);
+
+
+        answer2.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(1).getAnswerText());
+        textAnswer2 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(1).getAnswerText().toString();
+        ans2ButtonSpeech(textAnswer2);
+
+
+        answer3.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(2).getAnswerText());
+        textAnswer3 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(2).getAnswerText().toString();
+        ans3ButtonSpeech(textAnswer3);
+
+
+        answer4.setText(CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(3).getAnswerText());
+        textAnswer4 = CategoryTest.randomCategoryQuestions.get(currentFlagQuestionNumber).getAnswerList().get(3).getAnswerText().toString();
+        ans4ButtonSpeech(textAnswer4);
+
+
+
+
+
+        // because answer is already selected we have to make it pass..
+        userSelectAnswer = true;
+
+
+        // This will show the already selected button and show its background..
+        getSelectedAnswerAndDisplayToUserForNextButton();
+
+
+    }
+
+
+
+    public void flagButtonClick(View v)
+    {
+        // create an ArrayList to store Flag question...
+
+
+
+        if(getPressedStateButton(answer1))
+        {
+            userChoiceTakeTest.selectedFlagAnswerText.put(currentFlagQuestionNumber, answer1.getText().toString().trim());
+            Log.d(TAG, "Flag answer is " + userChoiceTakeTest.selectedFlagAnswerText.size());
+
+        }
+        else if(getPressedStateButton(answer2))
+        {
+            userChoiceTakeTest.selectedFlagAnswerText.put(currentFlagQuestionNumber,answer2.getText().toString().trim());
+            Log.d(TAG, "Flag answer is " + userChoiceTakeTest.selectedFlagAnswerText.size());
+
+        }
+        else if(getPressedStateButton(answer3))
+        {
+            userChoiceTakeTest.selectedFlagAnswerText.put(currentFlagQuestionNumber, answer3.getText().toString().trim());
+            Log.d(TAG, "Flag answer is " + userChoiceTakeTest.selectedFlagAnswerText.size());
+
+        }
+        else if(getPressedStateButton(answer4))
+        {
+            userChoiceTakeTest.selectedFlagAnswerText.put(currentFlagQuestionNumber, answer4.getText().toString().trim());
+            Log.d(TAG, "Flag answer is " + userChoiceTakeTest.selectedFlagAnswerText.size());
+
+        }
+
+
+
+    }
+
+
+
+
+    public void previousButtonClick(View v)
+    {
+        if(currentQuestion == 0)
+        {
+            return;
+        }
+
+
+        currentQuestion --;
+
+        // get the previous key from the keys Arrays..
+        currentFlagQuestionNumber = keys.get(currentQuestion);
+
+        flag.setText("Flag");
+
+        // increment the progress bar
+        progressBar.setProgress(currentFlagQuestionNumber);
+
+        answer1.setBackgroundResource(R.drawable.button);
+        answer2.setBackgroundResource(R.drawable.button);
+        answer3.setBackgroundResource(R.drawable.button);
+        answer4.setBackgroundResource(R.drawable.button);
+
+
+
+
+        // call display question and answer method
+        // to display the question and answers...
+
+        displayQuestionAndAnswer();
+
+        // this method get the selected answers from user
+        // and display there selection on the Screen..
+
+        getSelectedAnswerAndDisplayToUser();
+
+
+    }
+
+
+
+
+    public void nextButtonClick(View v) throws IOException {
+
+        // if user don't select any answer return from there and show message...
+        if(!userSelectAnswer)
+        {
+            Toast.makeText(getApplicationContext(), "Please select one Answer", Toast.LENGTH_SHORT).show();
+            return;
+        }
+
+
+        // increment the progress bar
+        progressBar.setProgress(currentFlagQuestionNumber);
+
+        // change the unflag to flag
+        flag.setText("Flag");
+
+        if(imageShowing)
+        {
+
+
+
+
+            // check which button is pressed by the user
+            if(answer1.isPressed())
+            {
+
+                // get the tag from the button and store it in user choiceAnswer
+                String imageName =  answer1.getTag().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, imageName);
+                Log.d(TAG, "nextButtonClick: User Answer is "+ userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber));
+
+                if(imageName.equals(correctImage))
+                {
+                    Log.d(TAG, " You select correct Image Name is" + imageName);
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                }
+                else
+                {
+                    Log.d(TAG,"Wrong Image");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+            }
+            else if(answer2.isPressed())
+            {
+
+                String imageName =  answer2.getTag().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, imageName);
+                Log.d(TAG, "nextButtonClick: User Answer is "+ userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber));
+
+                if(imageName.equals(correctImage))
+                {
+                    Log.d(TAG,"Correct Image Name is"+imageName);
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+                }
+                else
+                {
+                    Log.d(TAG,"Wrong Image");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+            }
+            else if(answer3.isPressed())
+            {
+
+                String imageName = answer3.getTag().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, imageName);
+                Log.d(TAG, "nextButtonClick: User Answer is "+ userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber));
+
+                if(imageName.equals(correctImage))
+                {
+                    Log.d(TAG,"Correct Image Name is"+imageName);
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                }
+                else
+                {
+                    Log.d(TAG,"Wrong Image");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+            }
+            else if(answer4.isPressed())
+            {
+                String imageName =  answer4.getTag().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, imageName);
+                Log.d(TAG, "nextButtonClick: User Answer is "+ userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber));
+
+                if(imageName.equals(correctImage))
+                {
+                    Log.d(TAG,"Correct Image Name is"+imageName);
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+                }
+                else
+                {
+                    Log.d(TAG,"Wrong Image");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+            }
+
+
+            answer1.setBackgroundResource(R.drawable.button);
+            answer2.setBackgroundResource(R.drawable.button);
+            answer3.setBackgroundResource(R.drawable.button);
+            answer4.setBackgroundResource(R.drawable.button);
+
+
+            imageShowing = false;
+
+
+        }
+        else {
+
+
+            // now compute the result of user
+
+
+            if (answer1.isPressed()) {
+
+
+                String userAnswer = answer1.getText().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, userAnswer);
+
+                if (correctAnswer.equals(userAnswer)) {
+
+                    Log.d(TAG, "Correct Answer ");
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                } else {
+                    Log.d(TAG, "Wrong Answer ");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+                Log.d(TAG, "Correct Answer is " + correctAnswer + " user anser is " + userAnswer);
+            } else if (answer2.isPressed()) {
+
+                String userAnswer = answer2.getText().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, userAnswer);
+
+                if (correctAnswer.equals(userAnswer)) {
+                    Log.d(TAG, "Correct Answer ");
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                } else {
+                    Log.d(TAG, "Wrong Answer ");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+                Log.d(TAG, "Correct Answer is " + correctAnswer + " user anser is " + userAnswer);
+            } else if (answer3.isPressed()) {
+
+
+                String userAnswer = answer3.getText().toString().trim();
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, userAnswer);
+                if (correctAnswer.equals(userAnswer)) {
+                    Log.d(TAG, "Correct Answer ");
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                } else {
+                    Log.d(TAG, "Wrong Answer ");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+                Log.d(TAG, "Correct Answer is " + correctAnswer + " user anser is " + userAnswer);
+
+
+            } else if (answer4.isPressed()) {
+
+
+                String userAnswer = answer4.getText().toString().trim();
+
+                userChoiceTakeTest.selectedAnswerText.put(currentFlagQuestionNumber, userAnswer);
+
+                if (correctAnswer.equals(userAnswer)) {
+                    Log.d(TAG, "Correct Answer ");
+                    userChoiceTakeTest.numberOfCorrectAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfWrongAnswers.remove(currentFlagQuestionNumber);
+
+                } else {
+                    Log.d(TAG, "Wrong Answer ");
+                    userChoiceTakeTest.numberOfWrongAnswers.put(currentFlagQuestionNumber, 1);
+                    userChoiceTakeTest.numberOfCorrectAnswers.remove(currentFlagQuestionNumber);
+                }
+
+                Log.d(TAG, "Correct Answer is " + correctAnswer + " user answer is " + userAnswer);
+            }
+
+        }
+
+
+        // increment the question to fetch next question
+        // from list of random questions..
+        currentQuestion ++;
+
+
+
+
+
+
+        Log.d(TAG,"Current Question Number is "+currentFlagQuestionNumber);
+        Log.d(TAG,"Current Question is  "+currentQuestion);
+
+        // after adding the correct and wrong answer
+        // check if the questions end or not
+
+        if( currentQuestion >= userChoiceTakeTest.selectedFlagAnswerText.size()) {
+            ((Button)v).setText("Finish");
+
+            Log.d(TAG, "Number of Correct Answer is " + userChoiceTakeTest.numberOfCorrectAnswers.size());
+            Log.d(TAG, "Number of Correct Answer is " + userChoiceTakeTest.numberOfCorrectAnswers);
+
+
+            Log.d(TAG, "Number of Wrong Answer is " + userChoiceTakeTest.numberOfCorrectAnswers.size());
+            Log.d(TAG, "Number of Wrong Answer is " + userChoiceTakeTest.numberOfWrongAnswers);
+
+            ShowUserProgressDialog();
+
+
+            return;
+        }
+        else
+        {
+            currentFlagQuestionNumber = keys.get(currentQuestion);
+            Log.d(TAG,"Quesion Key is "+currentFlagQuestionNumber);
+        }
+
+
+
+
+
+
+
+        // now reset all button pressed state
+        // because we are moving to next question
+        // so a answer must be selected in order to proceed the question
+
+        answer1.setPressed(false);
+        answer2.setPressed(false);
+        answer3.setPressed(false);
+        answer4.setPressed(false);
+
+
+        // also reset the answer selected state of the user
+        // because we are moving to next question
+        // so a answer must be selected in order to proceed the question
+
+        userSelectAnswer = false;
+
+
+
+
+
+
+
+        // call display question and answer method
+        // to display the question and answers...
+
+        displayQuestionAndAnswer();
+
+//        // this method get the selected answers from user
+//        // and display there selection on the Screen..
+//
+        getSelectedAnswerAndDisplayToUserForNextButton();
+
+
+
+    }
+
+
+
+
+
+
+
+    public void getSelectedAnswerAndDisplayToUser()
+    {
+        // now show the selected answer if select by the user
+
+        if( !userChoiceTakeTest.selectedAnswerText.isEmpty())
+        {
+            String userAnswerSelected =  userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber);
+
+            // check that user has selected this answer
+            userSelectAnswer = true;
+
+
+            Log.d(TAG,"User previously selected answer is "+userAnswerSelected);
+            if(answer1.getText().toString().trim().equals(userAnswerSelected))
+            {
+                answer1.setPressed(true);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer1.setBackgroundResource(R.drawable.button);
+
+            }
+
+            else if(answer2.getText().toString().trim().equals(userAnswerSelected))
+            {
+
+                answer1.setPressed(false);
+                answer2.setPressed(true);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer2.setBackgroundResource(R.drawable.button);
+
+            }
+            else  if(answer3.getText().toString().trim().equals(userAnswerSelected))
+            {
+
+
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(true);
+                answer4.setPressed(false);
+
+                answer3.setBackgroundResource(R.drawable.button);
+            }
+            else if(answer4.getText().toString().trim().equals(userAnswerSelected))
+            {
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(true);
+
+                answer4.setBackgroundResource(R.drawable.button);
+            }
+
+        }
+
+    }
+
+
+
+    public void getSelectedAnswerAndDisplayToUserForNextButton()
+    {
+        // now show the selected answer if select by the user
+
+        if( !userChoiceTakeTest.selectedAnswerText.isEmpty() && userChoiceTakeTest.selectedAnswerText.containsKey(currentFlagQuestionNumber))
+        {
+            String userAnswerSelected =  userChoiceTakeTest.selectedAnswerText.get(currentFlagQuestionNumber);
+
+            // check that user has selected this answer
+            userSelectAnswer = true;
+
+
+            Log.d(TAG,"User Next selected answer is "+userAnswerSelected+" Question Number is "+currentFlagQuestionNumber +"list size is "+userChoiceTakeTest.selectedAnswerText.size());
+
+            if(answer1.getText().toString().trim().equals(userAnswerSelected))
+            {
+                answer1.setPressed(true);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer1.setBackgroundResource(R.drawable.button);
+
+            }
+
+            else if(answer2.getText().toString().trim().equals(userAnswerSelected))
+            {
+
+                answer1.setPressed(false);
+                answer2.setPressed(true);
+                answer3.setPressed(false);
+                answer4.setPressed(false);
+
+                answer2.setBackgroundResource(R.drawable.button);
+
+            }
+            else  if(answer3.getText().toString().trim().equals(userAnswerSelected))
+            {
+
+
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(true);
+                answer4.setPressed(false);
+
+                answer3.setBackgroundResource(R.drawable.button);
+            }
+            else if(answer4.getText().toString().trim().equals(userAnswerSelected))
+            {
+                answer1.setPressed(false);
+                answer2.setPressed(false);
+                answer3.setPressed(false);
+                answer4.setPressed(true);
+
+                answer4.setBackgroundResource(R.drawable.button);
+
+            }
+
+
+
+
+        }
+
+    }
+
+
+
+
+
+    public void ShowFlagDialog(){
+
+
+
+        // Use the Builder class for convenient dialog construction
+        AlertDialog.Builder builder = new AlertDialog.Builder(ShowFlaggedQuestionCategory.this);
+        builder.setTitle("Flagged Questions");
+        builder.setCancelable(false);
+
+        builder.setMessage(" Do you want to Review Flagged Questions ");
+
+        builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+
+
+            }
+        })
+                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+
+                        dialog.dismiss();
+                        ShowUserProgressDialog();
+
+                    }
+                });
+
+        // Create the AlertDialog object and return it
+        builder.create().show();
+    }
+
+
+
+
+    public void ShowUserProgressDialog(){
+
+
+
+        // Use the Builder class for convenient dialog construction
+        AlertDialog.Builder builder = new AlertDialog.Builder(ShowFlaggedQuestionCategory.this);
+        builder.setTitle("Current Test");
+        builder.setCancelable(false);
+        if(userChoiceTakeTest.numberOfCorrectAnswers.size() > TEST_PASS_LIMIT)
+        {
+
+            builder.setMessage(" Progress \n" +
+                    " Correct Answers " + userChoiceTakeTest.numberOfCorrectAnswers.size()+
+                    " \n Wrong Answers "+ userChoiceTakeTest.numberOfWrongAnswers.size()+
+                    " \n Test Pass ");
+            Log.d(TAG, "Wrong answers are "+userChoiceTakeTest.numberOfWrongAnswers.size());
+
+        }
+        else
+        {
+            builder.setMessage(" Progress \n" +
+                    " Correct Answers " + userChoiceTakeTest.numberOfCorrectAnswers.size()+
+                    " \n Wrong Answers "+ userChoiceTakeTest.numberOfWrongAnswers.size()+
+                    " \n Test Fail ");
+            Log.d(TAG, " Correct answers are " + userChoiceTakeTest.numberOfCorrectAnswers.size());
+
+
+        }
+
+        builder.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                // FIRE ZE MISSILES!
+                dialog.dismiss();
+                finish();
+            }
+        })
+                .setNegativeButton("Review Answers", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        // User cancelled the dialog
+
+
+                        // insert data into database...
+                        if (userChoiceTakeTest.numberOfCorrectAnswers.size() > TEST_PASS_LIMIT) {
+
+
+                            Log.d(TAG, "Wrong answers are " + userChoiceTakeTest.numberOfWrongAnswers.size());
+                            // insert test data into database
+                            if (Splash.dbHelperClass.insertTestRecord("takeTest", "1", "1", getCurrentDate(), "1", Integer.toString(userChoiceTakeTest.numberOfCorrectAnswers.size()), Integer.toString(userChoiceTakeTest.numberOfWrongAnswers.size()))) {
+                                Log.d(TAG, "Data inserted Successfully");
+                            } else {
+                                Log.d(TAG, "Data not inserted");
+                            }
+                        } else {
+
+                            Log.d(TAG, " Correct answers are " + userChoiceTakeTest.numberOfCorrectAnswers.size());
+                            // insert test data into database
+                            if (Splash.dbHelperClass.insertTestRecord("takeTest", "1", "0", getCurrentDate(), "1", Integer.toString(userChoiceTakeTest.numberOfCorrectAnswers.size()), Integer.toString(userChoiceTakeTest.numberOfWrongAnswers.size()))) {
+                                Log.d(TAG, "Data inserted Successfully");
+                            } else {
+                                Log.d(TAG, "Data not inserted");
+                            }
+
+                        }
+
+
+                        Intent i = new Intent(ShowFlaggedQuestionCategory.this, ReviewAnswersCategoryTest.class);
+                        i.putExtra("object", userChoiceTakeTest);
+                        startActivity(i);
+
+                        // finish this activity...
+                        finish();
+
+
+                    }
+                });
+
+
+
+        // Create the AlertDialog object and return it
+        builder.create().show();
+    }
+
+
+
+    public String getCurrentDate()
+    {
+
+        Calendar c = Calendar.getInstance();
+        System.out.println("Current time => " + c.getTime());
+        SimpleDateFormat df = new SimpleDateFormat("dd-MMM-yyyy");
+        String formattedDate = df.format(c.getTime());
+
+        return formattedDate;
+    }
+
+
+
+
+    public boolean getPressedStateButton(Button b)
+    {
+        if(b.isPressed())
+            return true;
+        else return false;
+
+    }
+
+
+
+
+
+
+    public void speackButtonClickListener(final String text){
+        speackButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speackThisText(text);
+            }
+        });
+    }
+    public void ans1ButtonSpeech(final String text){
+        speackButtonAsnwer1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speackThisText(text);
+            }
+        });
+    }
+
+    public void ans2ButtonSpeech(final String text){
+        speackButtonAsnwer2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speackThisText(text);
+            }
+        });
+    }
+
+    public void ans3ButtonSpeech(final String text){
+        speackButtonAsnwer3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speackThisText(text);
+            }
+        });
+    }
+
+    public void ans4ButtonSpeech(final String text){
+        speackButtonAsnwer4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                speackThisText(text);
+            }
+        });
+    }
+
+
+    @Override
+    public void onInit(int status) {
+
+        if (status == TextToSpeech.SUCCESS){
+            int result = tts.setLanguage(Locale.US);
+            tts.setPitch(1.1f);
+
+
+            if (result == TextToSpeech.LANG_MISSING_DATA
+                    || result == TextToSpeech.LANG_NOT_SUPPORTED){
+                Log.e("TTS", " This Languate is not Supported");
+
+            }else {
+                speackButton.setEnabled(true);
+                //speackThisText(text);
+            }
+        }
+    }
+
+    public void speackThisText(String text){
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            ttsGreater21(text);
+        } else {
+            ttsUnder20(text);
+        }
+    }
+
+    @SuppressWarnings("deprecation")
+    private void ttsUnder20(String text) {
+        HashMap<String, String> map = new HashMap<>();
+        map.put(TextToSpeech.Engine.KEY_PARAM_UTTERANCE_ID, "MessageId");
+        tts.speak(text, TextToSpeech.QUEUE_FLUSH, map);
+    }
+
+    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
+    private void ttsGreater21(String text) {
+        String utteranceId=this.hashCode() + "";
+        tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId);
+    }
+
+    @Override
+    protected void onDestroy() {
+        if (tts != null){
+            tts.stop();
+            tts.shutdown();
+        }
+        super.onDestroy();
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

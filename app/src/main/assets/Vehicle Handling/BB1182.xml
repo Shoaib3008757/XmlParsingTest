@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1182" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r251</xref>
+		<text>On a foggy day you unavoidably have to park your car on the road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1182-1"/>
+	<explanation>
+		<text>Ensure that your vehicle can be seen by other traffic. If possible, park your car off the road in a car park or driveway to avoid the extra risk to other road users.</text>
+		<voice id="BB1182-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>leave your headlights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave your fog lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>leave your sidelights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave your hazard lights on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

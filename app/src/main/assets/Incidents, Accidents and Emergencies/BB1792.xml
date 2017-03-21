@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1792" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s16, HC r286</xref>
+		<text>You lose control of your car and damage a garden wall. No one is around. What must you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1792-1"/>
+	<explanation>
+		<text>If the property owner is not available at the time, you MUST inform the police of the incident. This should be done as soon as possible, and within 24 hours.</text>
+		<voice id="BB1792-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Report the incident to the police within 24 hours</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Go back to tell the house owner the next day</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Report the incident to your insurance company when you get home</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Find someone in the area to tell them about it immediately</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1036" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14</xref>
+		<text>Your anti-lock brakes warning light stays on. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1036-1"/>
+	<explanation>
+		<text>Consult the vehicle handbook or garage before driving the vehicle. Only drive to a garage if it is safe to do so. If you’re not sure get expert help.</text>
+		<voice id="BB1036-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>check the brake fluid level</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>check the footbrake free play</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>check that the handbrake is released</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>have the brakes checked immediately</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

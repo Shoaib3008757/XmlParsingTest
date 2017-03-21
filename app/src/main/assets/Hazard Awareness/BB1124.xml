@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1124" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91</xref>
+		<text>If you are feeling tired it is best to stop as soon as you can. Until then you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1124-1"/>
+	<explanation>
+		<text>If you’re going on a long journey plan your route before you leave. This will help you to be decisive at intersections and junctions, plan rest stops and have an idea of how long the journey will take.Make sure your vehicle is well-ventilated to stop you becoming drowsy. You need to maintain concentration so that your judgement is not impaired.</text>
+		<voice id="BB1124-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>increase your speed to find a stopping place quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>ensure a supply of fresh air</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>gently tap the steering wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep changing speed to improve concentration</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

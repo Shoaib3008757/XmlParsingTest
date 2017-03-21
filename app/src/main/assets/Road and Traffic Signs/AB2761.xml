@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2761" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174, HC p116, KYTS p67</xref>
+		<text>What is the purpose of these yellow criss-cross lines on the road?</text>
+		<graphic>AB2761.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2761-1"/>
+	<explanation>
+		<text>You MUST NOT enter a box junction until your exit road or lane is clear. The exception to this is if you want to turn right and are only prevented from doing so by oncoming traffic or by other vehicles waiting to turn right.</text>
+		<voice id="AB2761-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To make you more aware of the traffic lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To guide you into position as you turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To prevent the junction becoming blocked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To show you where to stop when the lights change</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

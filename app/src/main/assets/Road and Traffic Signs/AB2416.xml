@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2416" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p63</xref>
+		<text>Where would you see these road markings?</text>
+		<graphic>AB2416.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2416-1"/>
+	<explanation>
+		<text>When driving on a motorway or slip road, you must not enter into an area marked with chevrons and bordered by a solid white line for any reason, except in an emergency.</text>
+		<voice id="AB2416-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>At a level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On a motorway slip road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At a pedestrian crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a single-track road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

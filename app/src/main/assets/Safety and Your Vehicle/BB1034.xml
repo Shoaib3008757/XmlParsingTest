@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1034" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p129</xref>
+		<text>Excessive or uneven tyre wear can be caused by faults in the</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1034-1"/>
+	<explanation>
+		<text>Uneven wear on your tyres can be caused by the condition of your vehicle. Having it serviced regularly will ensure that the brakes, steering and wheel alignment are maintained in good order.</text>
+		<voice id="BB1034-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>gearbox</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>suspension</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>exhaust system</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

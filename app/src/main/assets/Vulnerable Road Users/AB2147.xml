@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2147" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r163</xref>
+		<text>Which of these should you allow extra room when overtaking?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2147-1"/>
+	<explanation>
+		<text>Don’t pass cyclists too closely, as they may
+		<unorderedlist>
+        <item>• need to veer around a pothole or other obstacle</item>
+        <item>• be buffeted by side wind</item>
+        <item>• be made unsteady by your vehicle.</item>
+		</unorderedlist>
+		Always leave as much room as you would for a car, and don’t cut in front of them.</text>
+		<voice id="AB2147-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Lorry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tractor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Bicycle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road-sweeping vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

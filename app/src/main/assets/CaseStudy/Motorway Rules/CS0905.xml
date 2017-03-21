@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0905" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r272</xref>
+		<text>Beverley is towing a small trailer behind her car and is joining the motorway from a slip road.  The motorway is busy with morning traffic. Further along the motorway, the central reservation barrier is coned off for repair. Lanes have been narrowed for some distance, using cones and temporary reflective studs. Once past the road works, traffic speeds up and the left-hand lane becomes clear.  Beverley then realises she has gone past the exit she needs.</text>
+		<part>What should Beverley do about leaving the motorway?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0905-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Continue on until she reaches the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Reverse back to the exit she’s just missed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Go on till she reaches the end of the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait on the hard shoulder for traffic officers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0905-2"/>
+	</explanation>
+</QF>

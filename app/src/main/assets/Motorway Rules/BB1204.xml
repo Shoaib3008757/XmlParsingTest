@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1204" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r272</xref>
+		<text>You are driving on a motorway. By mistake, you go past the exit that you wanted to take. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1204-1"/>
+	<explanation>
+		<text>It is against the law to reverse, cross the central reservation or drive against the traffic flow on a motorway. If you have missed your exit ask yourself if your concentration is fading. It could be that you need to take a rest break before completing your journey.</text>
+		<voice id="BB1204-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>carefully reverse on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>carry on to the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>carefully reverse in the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>make a U-turn at the next gap in the central reservation</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

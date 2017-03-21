@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1602" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+  <question>
+    <xref>DES s14</xref>
+    <text>When should you especially check the engine oil level?</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="BB1602-1"/>
+  <explanation>
+    <text>During long journeys an engine can use more oil than on shorter trips. Insufficient oil is potentially dangerous: it can lead to excessive wear and expensive repairs. Most cars have a dipstick to allow the oil level to be checked. If not, you should refer to the vehicle’s handbook. Also make checks on
+      <unorderedlist>
+        <item>• fuel</item>
+        <item>• water</item>
+        <item>• tyres.</item>
+      </unorderedlist>
+    </text>
+    <voice id="BB1602-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="yes">
+      <text>Before a long journey</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>When the engine is hot</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Early in the morning</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Every 6000 miles</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1790" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC r286</xref>
+		<text>You’re in collision with another moving vehicle. Someone is injured and your vehicle is damaged. What information should you find out?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1790-1"/>
+	<explanation>
+		<text>Try to keep calm and don’t rush. Make sure that you’ve shared all the relevant details with the other driver before you leave the scene. If possible, take pictures and note the positions of all the vehicles involved.</text>
+		<voice id="BB1790-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Whether the other driver is licensed to drive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The other driver’s name, address and telephone number</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The destination of the other driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The occupation of the other driver</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

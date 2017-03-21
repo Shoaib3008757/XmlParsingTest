@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2124" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r25</xref>
+		<text>A toucan crossing is different from other crossings because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2124-1"/>
+	<explanation>
+		<text>Toucan crossings are shared by pedestrians and cyclists and they are shown the green light together. Cyclists are permitted to cycle across. The signals are push-button operated and there is no flashing amber phase.</text>
+		<voice id="AB2124-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>moped riders can use it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it is controlled by a traffic warden</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it is controlled by two flashing lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>cyclists can use it</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

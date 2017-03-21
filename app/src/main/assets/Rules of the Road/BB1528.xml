@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1528" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r241, KYTS p47</xref>
+		<text>You are looking for somewhere to park your vehicle. The area is full EXCEPT for spaces marked ‘disabled use’. You can</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1528-1"/>
+	<explanation>
+		<text>It is illegal to park in a parking space reserved for disabled users. These spaces are provided for people with limited mobility, who may need extra space to get in and out of their vehicle.</text>
+		<voice id="BB1528-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use these spaces when elsewhere is full</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park if you stay with your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use these spaces, disabled or not</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>not park there unless permitted</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

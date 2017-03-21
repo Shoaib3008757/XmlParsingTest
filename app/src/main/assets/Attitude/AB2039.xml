@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2039" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, DES s10, HC r112</xref>
+		<text>What should you use your horn for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2039-1"/>
+
+<explanation>
+		<text>Your horn must not be used between 11.30 pm and 7 am in a built-up area or when you are stationary, unless a moving vehicle poses a danger. Its function is to alert other road users to your presence.</text>
+		<voice id="AB2039-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To alert others to your presence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow you right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To greet other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To signal your annoyance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

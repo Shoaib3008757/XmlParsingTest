@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1730" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You’re in a tunnel. Your vehicle is on fire and you cannot drive it. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1730-1"/>
+	<explanation>
+		<text>It’s usually better to drive a burning vehicle out of a tunnel. If you can’t do this, pull over and stop at an emergency point if possible. Switch off the engine, use hazard warning lights, and leave the vehicle immediately. Call for help from the nearest emergency point. If you have an extinguisher it may help to put out a small fire, but don’t try to tackle a large one.</text>
+		<voice id="BB1730-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stay in the vehicle and close the windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Switch on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Leave the engine running</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch off all of your lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

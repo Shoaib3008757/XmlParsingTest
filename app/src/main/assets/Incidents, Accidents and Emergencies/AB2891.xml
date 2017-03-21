@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2891" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r280</xref>
+		<text>You are on a motorway. A large box falls onto the road from a lorry. The lorry does not stop. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2891-1"/>
+	<explanation>
+		<text>Lorry drivers can be unaware of objects falling from their vehicles. If you see something fall onto a motorway look to see if the driver pulls over. If they don’t stop, do not attempt to retrieve it yourself. Pull on to the hard shoulder near an emergency telephone and report the hazard.</text>
+		<voice id="AB2891-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>go to the next emergency telephone and report the hazard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>catch up with the lorry and try to get the driver’s attention</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop close to the box until the police arrive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull over to the hard shoulder, then remove the box</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

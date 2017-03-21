@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2715" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r126</xref>
+		<text>What is the shortest overall stopping distance on a dry road at 60 mph?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2715-1"/>
+	<explanation>
+		<text>This distance is the equivalent of 18 car lengths. Try pacing out 73 metres and then look back. It’s probably further than you think.</text>
+		<voice id="AB2715-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>53 metres (175 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>58 metres (190 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>73 metres (240 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>96 metres (315 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

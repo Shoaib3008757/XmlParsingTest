@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2899" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p19</xref>
+		<text>You have just driven past this sign. You should be aware that</text>
+		<graphic>AB2899.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2899-1"/>
+	<explanation>
+		<text>In a one-way system traffic may be passing you on either side. Always be aware of all traffic signs and understand their meaning. Look well ahead and react to them in good time.</text>
+		<voice id="AB2899-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>it is a single track road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you cannot stop on this road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is only one lane in use</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>all traffic is going one way</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

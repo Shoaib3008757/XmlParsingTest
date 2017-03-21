@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0902" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r132</xref>
+		<text>Beverley is towing a small trailer behind her car and is joining the motorway from a slip road.  The motorway is busy with morning traffic. Further along the motorway, the central reservation barrier is coned off for repair. Lanes have been narrowed for some distance, using cones and temporary reflective studs. Once past the road works, traffic speeds up and the left-hand lane becomes clear.  Beverley then realises she has gone past the exit she needs.</text>
+		<part>What colour would these studs be?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0902-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Yellow/blue</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Yellow/red</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Yellow/green</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Yellow/orange</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0902-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1325" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Front fog lights may be used ONLY if</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1325-1"/>
+	<explanation>
+		<text>Your vehicle should have a warning light on the dashboard which illuminates when the fog lights are being used. You need to be familiar with the layout of your dashboard so you are aware if they have been switched on in error, or you have forgotten to switch them off.</text>
+		<voice id="BB1325-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>visibility is seriously reduced</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they are fitted above the bumper</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they are not as bright as the headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an audible warning device is used</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

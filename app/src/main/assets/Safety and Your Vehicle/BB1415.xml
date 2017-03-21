@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1415" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>How could you deter theft from your car when leaving it unattended?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1415-1"/>
+	<explanation>
+		<text>If you can see valuables in your car so can a thief. If you can’t take them with you lock them out of sight or you risk losing them, as well as having your car damaged.</text>
+		<voice id="BB1415-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave valuables in a carrier bag</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Lock valuables out of sight</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put valuables on the seats</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Leave valuables on the floor</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

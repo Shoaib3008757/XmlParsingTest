@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2036" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r300, KYTS p31</xref>
+		<text>Diamond-shaped signs give instructions to</text>
+		<graphic>AB2036.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2036-1"/>
+
+<explanation>
+		<text>These signs only apply to trams. They are directed at tram drivers but you should know their meaning so that you’re aware of the priorities and are able to anticipate the actions of the driver.</text>
+		<voice id="AB2036-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>tram drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bus drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>lorry drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>taxi drivers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

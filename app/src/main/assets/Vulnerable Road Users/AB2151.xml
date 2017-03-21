@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2151" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211</xref>
+		<text>You are waiting to come out of a side road. Why should you watch carefully for motorcycles?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2151-1"/>
+	<explanation>
+		<text>If you’re waiting to emerge from a side road watch out for motorcycles: they’re small and can be difficult to see. Be especially careful if there are parked vehicles restricting your view, there might be a motorcycle approaching. IF YOU DON’T KNOW, DON’T GO.</text>
+		<voice id="AB2151-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Motorcycles are usually faster than cars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Police patrols often use motorcycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Motorcycles are small and hard to see</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorcycles have right of way</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

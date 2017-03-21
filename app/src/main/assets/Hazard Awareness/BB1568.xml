@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1568" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90, HC r92</xref>
+		<text>As a driver you find that your eyesight has become very poor. Your optician says they cannot help you. The law says that you should tell</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1568-1"/>
+	<explanation>
+		<text>This will have a serious effect on your judgement and concentration. If you cannot meet the eyesight requirements you must tell DVLA (or DVA in Northern Ireland).</text>
+		<voice id="BB1568-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>the licensing authority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your own doctor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the local police station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>another optician</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2659" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s10</xref>
+		<text>What should you do as you approach this overhead bridge?</text>
+		<graphic>AB2659.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2659-1"/>
+	<explanation>
+		<text>Oncoming large vehicles may need to move to the middle of the road so that they can pass safely under the bridge. There will not be enough room for you to continue and you should be ready to stop and wait.</text>
+		<voice id="AB2659-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Move out to the centre of the road before going through</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Find another route, this is only for high vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be prepared to give way to large vehicles in the middle of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move across to the right-hand side before going through</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

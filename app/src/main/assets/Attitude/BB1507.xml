@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1507" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r222</xref>
+		<text>You are following this lorry. You should keep well back from it to</text>
+		<graphic>BB1507.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1507-1"/>
+
+	<explanation>
+		<text>By keeping well back you will increase your width of vision around the rear of the lorry. This will allow you to see further down the road and be prepared for any hazards.</text>
+		<voice id="BB1507-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>give you a good view of the road ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop following traffic from rushing through the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>prevent traffic behind you from overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow you to hurry through the traffic lights if they change</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

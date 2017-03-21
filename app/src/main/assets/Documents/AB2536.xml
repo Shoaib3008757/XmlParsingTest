@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2536" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>A cover note is a document issued before you receive your</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2536-1"/>
+	<explanation>
+		<text>Sometimes an insurance company will issue a temporary insurance certificate called a cover note. It gives you the same insurance cover as your certificate, but lasts for a limited period, usually one month.</text>
+		<voice id="AB2536-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>insurance certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>registration document</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>MOT certificate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

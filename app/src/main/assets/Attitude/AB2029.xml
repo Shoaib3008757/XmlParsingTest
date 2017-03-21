@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2029" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>Which vehicle will use a blue flashing beacon?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2029-1"/>
+
+<explanation>
+		<text>Emergency vehicles use blue flashing lights. If you see or hear one, move out of its way as soon as it’s safe and legal to do so.</text>
+		<voice id="AB2029-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Motorway maintenance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Bomb disposal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Snow plough</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Breakdown recovery</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2833" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r146</xref>
+		<text>At a busy unmarked crossroads, which of the following has priority?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2833-1"/>
+	<explanation>
+		<text>If there are no road signs or markings do not assume that you have priority. Remember that other drivers may assume they have the right to go. No type of vehicle has priority but it’s courteous to give way to large vehicles. Also look out in particular for cyclists and motorcyclists.</text>
+		<voice id="AB2833-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Vehicles going straight ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>None of the vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicles that arrived first</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

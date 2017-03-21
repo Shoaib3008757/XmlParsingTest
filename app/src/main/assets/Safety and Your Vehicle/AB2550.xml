@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2550" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, DES s14, HC p129</xref>
+		<text>It is essential that tyre pressures are checked regularly. When should this be done?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2550-1"/>
+	<explanation>
+		<text>When you check the tyre pressures do so when the tyres are cold. This will give you a more accurate reading. The heat generated from a long journey will raise the pressure inside the tyre.</text>
+		<voice id="AB2550-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>After any lengthy journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>After travelling at high speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When tyres are hot</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When tyres are cold</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1659" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r122, HC r160</xref>
+		<text>How can you use your vehicle’s engine as a brake?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1659-1"/>
+	<explanation>
+		<text>When driving on downhill stretches of road selecting a lower gear gives increased engine braking. This will prevent excess use of the brakes, which become less effective if they overheat.</text>
+		<voice id="BB1659-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>By changing to a lower gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By selecting reverse gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By changing to a higher gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By selecting neutral gear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

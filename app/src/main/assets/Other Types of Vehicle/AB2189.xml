@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2189" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>You’re travelling behind a bus that pulls up at a bus stop. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2189-1"/>
+	<explanation>
+		<text>There might be pedestrians crossing from in front of the bus. Look out for them if you intend to pass. Consider how many people are waiting to get on the bus – check the queue if you can. The bus might move off straight away if no one is waiting to get on. If a bus is signalling to pull out, give it priority if it’s safe to do so.</text>
+		<voice id="AB2189-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Accelerate past the bus</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Watch carefully for pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull in closely behind the bus</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

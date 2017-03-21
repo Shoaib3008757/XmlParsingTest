@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2758" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>You see this amber traffic light ahead. Which light or lights, will come on next?</text>
+		<graphic>AB2758.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2758-1"/>
+	<explanation>
+		<text>At junctions controlled by traffic lights you must stop behind the white line until the lights change to green. Red and amber lights showing together also mean stop. You may proceed when the light is green unless your exit road is blocked or pedestrians are crossing in front of you. If you’re approaching traffic lights that are visible from a distance and the light has been green for some time they are likely to change. Be ready to slow down and stop.</text>
+		<voice id="AB2758-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Red alone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Red and amber together</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Green and amber together</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Green alone</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2436" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>An MOT certificate is normally valid for</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2436-1"/>
+	<explanation>
+		<text>Make a note of the date that your MOT certificate expires. Some garages remind you that your vehicle is due an MOT but not all do. You may take your vehicle for MOT up to one month in advance and have the certificate post dated.</text>
+		<voice id="AB2436-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>three years after the date it was issued</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>10,000 miles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>one year after the date it was issued</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>30,000 miles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

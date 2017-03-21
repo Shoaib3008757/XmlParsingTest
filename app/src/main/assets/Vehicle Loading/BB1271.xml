@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1271" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19, HC r98</xref>
+		<text>If a trailer swerves or snakes when you are towing it you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1271-1"/>
+	<explanation>
+		<text>Strong winds or buffeting from large vehicles can cause a trailer or caravan to snake or swerve. If this happens, ease off the accelerator. Don’t brake harshly, steer sharply or increase your speed.</text>
+		<voice id="BB1271-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>ease off the accelerator and reduce your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>let go of the steering wheel and let it correct itself</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake hard and hold the pedal down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your speed as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

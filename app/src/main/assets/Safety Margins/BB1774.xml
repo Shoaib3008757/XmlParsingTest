@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1774" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r226, HC r235</xref>
+		<text>What should you do when driving in fog?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1774-1"/>
+	<explanation>
+		<text>Don’t venture out if your journey isn’t necessary. If you have to travel and someone is expecting you at the other end, let them know that you’ll be taking longer than usual for your journey. This will stop them worrying if you don’t turn up on time and will also take the pressure off you, so you don’t feel you have to rush.</text>
+		<voice id="BB1774-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Use sidelights only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Position close to the centre line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Allow more time for your journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep close to the car in front</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

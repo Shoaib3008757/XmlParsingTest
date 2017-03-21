@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1575" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r116, HC r274</xref>
+		<text>When should you use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1575-1"/>
+	<explanation>
+		<text>Hazard warning lights are an important safety feature and should be used if you have broken down and are causing an obstruction. Don’t use them as an excuse to park illegally such as when using a cash machine or post box. You may also use them on motorways to warn traffic behind you of danger ahead.</text>
+		<voice id="BB1575-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When you are double-parked on a two way road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When your direction indicators are not working</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When warning oncoming traffic that you intend to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When your vehicle has broken down and is causing an obstruction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1095" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r178, HC r211-213</xref>
+		<text>You intend to turn left at the traffic lights. Just before turning you should</text>
+		<graphic>BB1095.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1095-1"/>
+	<explanation>
+		<text>Check your nearside for cyclists before moving away. This is especially important if you have been in a stationary queue of traffic and are about to move off, as cyclists often try to filter past on the nearside of stationary vehicles.</text>
+		<voice id="BB1095-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>check your right mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move close up to the white car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>straddle the lanes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check for bicycles on your left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

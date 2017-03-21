@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2575" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r275</xref>
+		<text>How should you use the emergency telephone on a motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2575-1"/>
+	<explanation>
+		<text>Traffic is passing you at speed. If the draught from a large lorry catches you by surprise it could blow you off balance and even onto the carriageway. By facing the oncoming traffic you can see approaching lorries and so be prepared for their draught. You are also in a position to see other hazards approaching.</text>
+		<voice id="AB2575-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stay close to the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Face the oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep your back to the traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stand on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

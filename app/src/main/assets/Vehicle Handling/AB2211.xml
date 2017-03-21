@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2211" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174, KYTS p67</xref>
+		<text>When may you wait in a box junction?</text>
+		<graphic>AB2211.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2211-1"/>
+	<explanation>
+		<text>The purpose of a box junction is to keep the junction clear by preventing vehicles from stopping in the path of crossing traffic. You must not enter a box junction unless your exit is clear. But, you may enter the box and wait if you want to turn right and are only prevented from doing so by oncoming traffic.</text>
+		<voice id="AB2211-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When you are stationary in a queue of traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When approaching a pelican crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When approaching a zebra crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When oncoming traffic prevents you turning right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

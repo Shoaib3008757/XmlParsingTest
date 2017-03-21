@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2882" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r91</xref>
+		<text>You are travelling on a motorway. You decide you need a rest. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2882-1"/>
+	<explanation>
+		<text>If you feel tired stop at the nearest service area. If it’s too far away leave the motorway at the next exit and find a safe place to stop. You must not stop on the carriageway or hard shoulder of a motorway except in an emergency, in a traffic queue, when signalled to do so by a police or enforcement officer, or by traffic signals. Plan your journey so that you have regular rest stops.</text>
+		<voice id="AB2882-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stop on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>pull in at the nearest service area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull up on a slip road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park on the central reservation</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

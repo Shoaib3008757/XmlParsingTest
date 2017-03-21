@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2863" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p133</xref>
+		<text>Following a collision someone has suffered a burn. The burn needs to be cooled. What is the shortest time it should be cooled for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2863-1"/>
+	<explanation>
+		<text>Check the casualty for shock and if possible try to cool the burn for at least ten minutes. Use a clean, cold non-toxic liquid preferably water.</text>
+		<voice id="AB2863-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>5 minutes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>10 minutes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>15 minutes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>20 minutes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2638" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>How should you dispose of a used car battery?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2638-1"/>
+	<explanation>
+		<text>Batteries contain acid, which is hazardous, and they must be disposed of safely. This means taking them to an appropriate disposal site.</text>
+		<voice id="AB2638-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Bury it in your garden</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put it in the dustbin</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Take it to a local-authority site</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Leave it on waste land</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

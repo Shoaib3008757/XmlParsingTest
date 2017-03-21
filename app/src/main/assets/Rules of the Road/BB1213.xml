@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1213" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>KYTS p44</xref>
+		<text>You want to park and you see this sign. On the days and times shown you should</text>
+		<graphic>BB1213.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1213-1"/>
+	<explanation>
+		<text>Parking restrictions apply in a variety of places and situations. Make sure you know the rules and understand where and when restrictions apply. Controlled parking areas will be indicated by signs and road markings. Parking in the wrong place could cause an obstruction and danger to other traffic. It can also result in a fine.</text>
+		<voice id="BB1213-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>park in a bay and not pay</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park on yellow lines and pay</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park on yellow lines and not pay</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>park in a bay and pay</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

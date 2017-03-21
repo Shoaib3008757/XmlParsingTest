@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2947" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You’re at the scene of an incident. Someone is suffering from shock. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2947-1"/>
+	<explanation>
+		<text>If someone is suffering from shock, try to keep them warm and as comfortable as you can. Don’t give them anything to eat or drink but reassure them confidently and try not to leave them alone.</text>
+		<voice id="AB2947-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>reassure them confidently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>offer them a cigarette</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give them a warm drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>offer them some food</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

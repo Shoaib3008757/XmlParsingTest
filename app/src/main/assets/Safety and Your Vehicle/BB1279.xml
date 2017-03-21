@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1279" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p129</xref>
+		<text>The legal minimum depth of tread for car tyres over three quarters of the breadth is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1279-1"/>
+	<explanation>
+		<text>Tyres must have sufficient depth of tread to give them a good grip on the road surface. The legal minimum for cars is 1.6 mm. This depth should be across the central three quarters of the breadth of the tyre and around the entire circumference.</text>
+		<voice id="BB1279-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>1 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>1.6 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>2.5 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>4 mm</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

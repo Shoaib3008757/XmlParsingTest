@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2843" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r270</xref>
+		<text>When may you stop on a motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2843-1"/>
+	<explanation>
+		<text>You should not normally stop on a motorway but there may be occasions when you need to do so. If you are unfortunate enough to break down make every effort to pull up on the hard shoulder.</text>
+		<voice id="AB2843-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>If you have to read a map</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you are tired and need a rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>If your mobile phone rings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In an emergency or breakdown</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

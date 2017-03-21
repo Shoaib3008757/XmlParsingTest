@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2311" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p54</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2311.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2311-1"/>
+	<explanation>
+		<text>There will be a plate or additional sign to tell you when the restrictions apply.</text>
+		<voice id="AB2311-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Waiting restrictions apply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Waiting permitted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>National speed limit applies</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Clearway (no stopping)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1470" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r230</xref>
+		<text>You are driving on an icy road. What distance should you drive from the car in front?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1470-1"/>
+	<explanation>
+		<text>Don’t travel in icy or snowy weather unless your journey is necessary. Drive extremely carefully when roads are or may be icy. Stopping distances can be ten times greater than on dry roads.</text>
+		<voice id="BB1470-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>four times the normal distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>six times the normal distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>eight times the normal distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>ten times the normal distance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

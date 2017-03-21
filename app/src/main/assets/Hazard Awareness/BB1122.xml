@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1122" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>You are taking drugs that are likely to affect your driving. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1122-1"/>
+	<explanation>
+		<text>Check with your doctor or pharmacist if you think that the drugs you’re taking are likely to make you feel drowsy or impair your judgement.</text>
+		<voice id="BB1122-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Seek medical advice before driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Limit your driving to essential journeys</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only drive if accompanied by a full licence-holder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive only for short distances</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

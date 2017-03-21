@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2909" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>You are approaching a red traffic light. What will the signal show next?</text>
+		<graphic>AB2909.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2909-1"/>
+	<explanation>
+		<text>If you know which light is going to show next you can plan your approach accordingly. This can help prevent excessive braking or hesitation at the junction.</text>
+		<voice id="AB2909-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Red and amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Green alone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Amber alone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Green and amber</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

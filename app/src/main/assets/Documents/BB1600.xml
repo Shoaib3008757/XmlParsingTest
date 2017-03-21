@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1600" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>Which of the following may reduce the cost of your insurance?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1600-1"/>
+	<explanation>
+		<text>The aim of the Pass Plus course is to build up your skills and experience. It is recognised by some insurance companies, who reward people completing the scheme with cheaper insurance premiums.</text>
+		<voice id="BB1600-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Having a valid MOT certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Taking a Pass Plus course</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving a powerful car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Having penalty points on your licence</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

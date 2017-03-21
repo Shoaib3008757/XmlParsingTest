@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2818" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>You are making an appointment and will have to travel a long distance. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2818-1"/>
+	<explanation>
+		<text>Always allow plenty of time for your journey in case of unforeseen problems. Anything can happen, punctures, breakdowns, road closures, diversions etc. You will feel less stressed and less inclined to take risks if you are not ‘pushed for time’.</text>
+		<voice id="AB2818-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>allow plenty of time for your journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>plan to go at busy times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>avoid all national speed limit roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>prevent other drivers from overtaking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

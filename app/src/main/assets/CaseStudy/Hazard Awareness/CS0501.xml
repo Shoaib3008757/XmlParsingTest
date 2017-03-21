@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0501" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>Andrea is waiting to turn right in the town centre. Cars are parked along the roadside, obstructing Andrea’s view. There are many shop windows. The area is busy with traffic and pedestrians. Further on, a vehicle is unloading on the left and there are several oncoming cars.  At inactive traffic lights a police officer is directing traffic. He is facing Andrea with one hand straight up, his palm showing. There is a bus lane, but no signs showing periods of operation or permitted use by other vehicles.</text>
+		<part>How could Andrea use the shop windows? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0501-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To check for reflections of any vehicles approaching</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To check to ensure the vehicle’s indicator is working</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To check for any good bargains, sales or promotions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To check the number of cars parked on the main road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0501-2"/>
+	</explanation>
+</QF>

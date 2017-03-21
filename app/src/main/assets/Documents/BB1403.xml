@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1403" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>How old must you be to supervise a learner driver?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1403-1"/>
+	<explanation>
+		<text>As well as being at least 21 years old you must hold a full EC/EEA driving licence for the category of vehicle being driven and have held that licence for at least three years.</text>
+		<voice id="BB1403-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>18 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>19 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>20 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>21 years old</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

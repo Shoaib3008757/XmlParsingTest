@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1316" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, DES s12, HC r120</xref>
+		<text>Vehicles fitted with anti-lock brakes</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1316-1"/>
+	<explanation>
+		<text>Preventing the wheels from locking means that the vehicle’s steering and stability can be maintained, leading to safer stopping. However, you must ensure that the engine does not stall, as this could disable the power steering. Look in your vehicle handbook for the correct method when stopping in an emergency.</text>
+		<voice id="BB1316-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>are impossible to skid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>can be steered while you are braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate much faster</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>are not fitted with a handbrake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

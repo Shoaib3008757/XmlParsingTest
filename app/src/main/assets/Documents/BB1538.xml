@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1538" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p120, HC p122</xref>
+		<text>You have a duty to contact the licensing authority when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1538-1"/>
+	<explanation>
+		<text>The licensing authority need to keep their records up to date. They send out a reminder when a vehicle’s excise licence (road tax) is due for renewal. To do this they need to know the name and address of the registered keeper. Every vehicle in the country is registered, so it’s possible to trace its history.</text>
+		<voice id="BB1538-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you go abroad on holiday</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you change your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your job involves travelling abroad</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your job status changes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

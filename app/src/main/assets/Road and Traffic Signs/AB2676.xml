@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2676" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r127, HC p114, KYTS p62</xref>
+		<text>A white line like this along the centre of the road is a</text>
+		<graphic>AB2676.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2676-1"/>
+	<explanation>
+		<text>The centre of the road is usually marked by a broken white line, with lines that are shorter than the gaps. When the lines become longer than the gaps this is a hazard warning line. Look well ahead for these, especially when you are planning to overtake or turn off.</text>
+		<voice id="AB2676-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>bus lane marking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>hazard warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give way marking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>lane marking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

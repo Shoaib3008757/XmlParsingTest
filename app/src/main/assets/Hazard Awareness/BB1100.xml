@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1100" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r258, HC p102, KYTS p121</xref>
+		<text>You are driving on a road with several lanes. You see these signs above the lanes. What do they mean?</text>
+		<graphic>BB1100.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1100-1"/>
+	<explanation>
+		<text>If you see a red cross above your lane it means that there is an obstruction ahead. You will have to move into one of the lanes which is showing the green light. If all the lanes are showing a red cross, then you must stop.</text>
+		<voice id="BB1100-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The two right lanes are open</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The two left lanes are open</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic in the left lanes should stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic in the right lanes should stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

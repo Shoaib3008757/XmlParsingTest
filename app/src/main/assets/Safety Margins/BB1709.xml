@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1709" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>Your vehicle is fitted with anti-lock brakes. To stop quickly in an emergency you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1709-1"/>
+	<explanation>
+		<text>Once you have applied the brake keep your foot firmly on the pedal. Releasing the brake and reapplying it will disable the anti-lock brake system.</text>
+		<voice id="BB1709-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>brake firmly and pump the brake pedal on and off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>brake rapidly and firmly without releasing the brake pedal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake gently and pump the brake pedal on and off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake rapidly once, and immediately release the brake pedal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

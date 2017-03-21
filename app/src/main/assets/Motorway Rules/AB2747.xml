@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2747" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r269, HC r270</xref>
+		<text>What should you use the hard shoulder of a motorway for?</text>
+		<graphic>AB2747.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2747-1"/>
+	<explanation>
+		<text>Don’t use the hard shoulder for stopping unless it is an emergency. If you want to stop for any other reason go to the next exit or service station.</text>
+		<voice id="AB2747-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Stopping in an emergency</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Leaving the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stopping when you are tired</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Joining the motorway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

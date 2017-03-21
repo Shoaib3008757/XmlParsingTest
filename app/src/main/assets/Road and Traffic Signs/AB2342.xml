@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2342" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2342.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2342-1"/>
+	<explanation>
+		<text>It will take up to ten times longer to stop when it’s icy. Where there is a risk of icy conditions you need to be aware of this and take extra care. If you think the road may be icy, don’t brake or steer harshly as your tyres could lose their grip on the road.</text>
+		<voice id="AB2342-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Multi-exit roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Risk of ice</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Six roads converge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Place of historical interest</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

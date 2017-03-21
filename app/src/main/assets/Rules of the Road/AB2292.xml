@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2292" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>You are waiting at a pelican crossing. The red light changes to flashing amber. This means you must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2292-1"/>
+	<explanation>
+		<text>This light allows time for the pedestrians already on the crossing to get to the other side in their own time, without being rushed. Don’t rev your engine or start to move off while they are still crossing.</text>
+		<voice id="AB2292-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>wait for pedestrians on the crossing to clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move off immediately without any hesitation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait for the green light before moving off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>get ready and go when the continuous amber light shows</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2302" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p17</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2302.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2302-1"/>
+	<explanation>
+		<text>‘No entry’ signs are used in places such as one-way streets to prevent vehicles driving against the traffic. To ignore one would be dangerous, both for yourself and other road users, as well as being against the law.</text>
+		<voice id="AB2302-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No parking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No road markings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No through road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No entry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

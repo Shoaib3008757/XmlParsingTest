@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0502" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r205-206</xref>
+		<text>Andrea is waiting to turn right in the town centre. Cars are parked along the roadside, obstructing Andrea’s view. There are many shop windows. The area is busy with traffic and pedestrians. Further on, a vehicle is unloading on the left and there are several oncoming cars.  At inactive traffic lights a police officer is directing traffic. He is facing Andrea with one hand straight up, his palm showing. There is a bus lane, but no signs showing periods of operation or permitted use by other vehicles.</text>
+		<part>What could happen because of these parked cars?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0502-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Empty parking spaces may be available</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The road surface could be bumpy and uneven</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pedestrians or cyclists could be stepping out</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic wardens may be working in the area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0502-2"/>
+	</explanation>
+</QF>

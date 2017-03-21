@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2128" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r210</xref>
+		<text>How will a school crossing patrol signal you to stop?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2128-1"/>
+	<explanation>
+		<text>If a school crossing patrol steps out into the road with a stop sign you must stop. Don’t wave anyone across the road and don’t get impatient or rev your engine.</text>
+		<voice id="AB2128-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>By pointing to children on the opposite pavement</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By displaying a red light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By displaying a stop sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By giving you an arm signal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

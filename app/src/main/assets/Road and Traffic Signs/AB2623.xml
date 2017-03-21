@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2623" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p91</xref>
+		<text>You are on a motorway. Red flashing lights appear above your lane only. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2623-1"/>
+	<explanation>
+		<text>Flashing red lights above your lane show that your lane is closed. You should move into another lane as soon as you can do so safely.</text>
+		<voice id="AB2623-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Continue in that lane and look for further information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Move into another lane in good time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull onto the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop and wait for an instruction to proceed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

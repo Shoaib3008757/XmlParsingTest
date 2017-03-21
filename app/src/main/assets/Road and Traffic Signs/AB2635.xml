@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2635" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r112</xref>
+		<text>You must not use your horn when you are stationary</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2635-1"/>
+	<explanation>
+		<text>When stationary only sound your horn if you think there is a risk of danger from another road user. Don’t use it just to attract someone’s attention. This causes unnecessary noise and could be misleading.</text>
+		<voice id="AB2635-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>unless a moving vehicle may cause you danger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at any time whatsoever</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>unless it is used only briefly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>except for signalling that you have just arrived</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

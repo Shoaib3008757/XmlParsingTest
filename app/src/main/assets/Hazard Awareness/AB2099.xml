@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2099" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211-213</xref>
+		<text>You are approaching this cyclist. You should</text>
+		<graphic>AB2099.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2099-1"/>
+	<explanation>
+		<text>Keep well back and allow the cyclist room to take up the correct position for the turn. Don’t get too close behind or try to squeeze past.</text>
+		<voice id="AB2099-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtake before the cyclist gets to the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights at the cyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down and allow the cyclist to turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake the cyclist on the left-hand side</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

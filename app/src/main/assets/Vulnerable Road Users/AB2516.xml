@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2516" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s10, HC r208</xref>
+		<text>There are flashing amber lights under a school warning sign. What action should you take?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2516-1"/>
+	<explanation>
+		<text>The flashing amber lights are switched on to warn you that children may be crossing near a school. Slow down and take extra care as you may have to stop.</text>
+		<voice id="AB2516-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Reduce speed until you are clear of the area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep up your speed and sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Increase your speed to clear the area quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait at the lights until they change to green</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

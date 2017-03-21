@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2738" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p31</xref>
+		<text>At a junction you see this signal. It means</text>
+		<graphic>AB2738.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2738-1"/>
+	<explanation>
+		<text>The white light shows that trams must stop, but the green light shows that other vehicles may go if the way is clear. You may not live in an area where there are trams but you should still learn the signs. You never know when you may go to a town with trams.</text>
+		<voice id="AB2738-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>cars must stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>trams must stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>both trams and cars must stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>both trams and cars can continue</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

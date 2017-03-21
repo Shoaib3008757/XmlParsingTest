@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1302" topic="Accidents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC r283</xref>
+		<text>Marco witnesses a road traffic incident involving three vehicles. He stops his vehicle, quickly places a warning triangle on the road then telephones the emergency services. He checks on the people involved. Two people are slightly injured and another is in shock. Marco stays with them until the emergency services arrive. While paramedics check the three casualties, Marco explains the situation to the police and offers his own contact details. The officers then speak to the casualties.</text>
+		<part>Apart from casualty information, what details would Marco also need to give to the emergency services?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1302-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Location of the incident</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Time and date of his call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving licence details</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Insurance information</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1302-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1710" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>You will find that driving smoothly can</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1710-1"/>
+	<explanation>
+		<text>Not only will you save about 15% of your fuel by driving smoothly, but you will also reduce the amount of wear and tear on your vehicle as well as reducing pollution. You will also feel more relaxed and have a more pleasant journey.</text>
+		<voice id="BB1710-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduce journey times by about 15%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase fuel consumption by about 15%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce fuel consumption by about 15%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase journey times by about 15%</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

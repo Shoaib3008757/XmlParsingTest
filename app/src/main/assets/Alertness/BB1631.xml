@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1631" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>Your mobile phone rings while you are on the motorway. Before answering you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1631-1"/>
+
+<explanation>
+		<text>When driving on motorways, you can’t just pull up to answer your mobile phone. Do not stop on the hard shoulder or slip road. To avoid being distracted it’s safer to switch it off when driving. If you need to be contacted plan your journey to include breaks at service areas so you can pick up any messages when you stop.</text>
+		<voice id="BB1631-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduce your speed to 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull up on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move into the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop in a safe place</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2281" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174</xref>
+		<text>You may only enter a box junction when</text>
+		<graphic>AB2281.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2281-1"/>
+	<explanation>
+		<text>Yellow box junctions are marked on the road to prevent the road becoming blocked. Don’t enter one unless your exit road is clear. You may only wait in the yellow box if your exit road is clear but oncoming traffic is preventing you from completing the turn.</text>
+		<voice id="AB2281-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>there are less than two vehicles in front of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the traffic lights show green</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>your exit road is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you need to turn left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

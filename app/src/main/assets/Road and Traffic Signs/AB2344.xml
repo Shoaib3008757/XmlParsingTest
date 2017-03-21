@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2344" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p10</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2344.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2344-1"/>
+	<explanation>
+		<text>As you approach a roundabout look well ahead and check all signs. Decide which exit you wish to take and move into the correct position as you approach the roundabout, signalling as required.</text>
+		<voice id="AB2344-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Ring road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Mini-roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Roundabout</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1762" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>The Pass Plus Scheme is operated by DVSA for newly qualified drivers. What is it intended to do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1762-1"/>
+	<explanation>
+		<text>The Pass Plus scheme provides a wide range of driving experience accompanied by a qualified instructor. There is no test and when completed you may get a reduction in insurance costs. It can help to improve basic skills, reduce the risk of having a collision and make you a safer driver.</text>
+		<voice id="BB1762-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Improve your basic skills</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Reduce the cost of your driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Prevent you from paying congestion charges</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Allow you to supervise a learner driver</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

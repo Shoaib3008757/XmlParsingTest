@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1459" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>What’s a common effect of drinking alcohol?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1459-1"/>
+	<explanation>
+		<text>Alcohol can increase confidence to a point where a driver’s behaviour might become ‘out of character’. Someone who normally behaves sensibly might suddenly enjoy taking risks. Never let yourself or your friends get into this situation.</text>
+		<voice id="BB1459-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Colour blindness</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Increased confidence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Faster reactions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Increased concentration</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

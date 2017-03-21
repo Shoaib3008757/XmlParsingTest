@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1782" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p116, KYTS p56</xref>
+		<text>What do these road markings outside a school mean?</text>
+		<graphic>BB1782.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1782-1"/>
+	<explanation>
+		<text>These markings are used outside schools so that children can see and be seen clearly when crossing the road. Parking here would block people’s view of the school entrance. This could endanger the lives of children on their way to and from school.</text>
+		<voice id="BB1782-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You may park here if you are a teacher</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn before parking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When parking, use your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You should not wait or park your vehicle here</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

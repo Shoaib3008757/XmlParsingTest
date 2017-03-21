@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1763" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>You are carrying a 5 year-old child in the back seat of your car. They are under 1.35 metres (4 feet 5 inches). A correct child restraint is NOT available. They MUST</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1763-1"/>
+	<explanation>
+		<text>Usually a correct child restraint MUST be used. In a few exceptional cases if one is not available an adult seat belt MUST be used. In a collision unrestrained objects and people can cause serious injury or even death.</text>
+		<voice id="BB1763-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sit behind the passenger seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>use an adult seat belt</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>share a belt with an adult</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sit between two other children</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

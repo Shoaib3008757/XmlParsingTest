@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1245" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>Your car needs to pass an MOT test. What may be invalidated if you drive the car without a current MOT certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1245-1"/>
+	<explanation>
+		<text>If your vehicle requires an MOT certificate, it’s illegal to drive it without one and your insurance may be invalid if you do so. The only exceptions are that you may drive to a pre-arranged MOT test appointment, or to a garage for repairs required for the test.</text>
+		<voice id="BB1245-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The vehicle service record</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your insurance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicle excise licence (road tax)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle registration document</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

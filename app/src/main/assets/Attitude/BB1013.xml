@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1013" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r168</xref>
+		<text>You are driving along this road. The red van cuts in close in front of you. What should you do?</text>
+		<graphic>BB1013.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1013-1"/>
+
+<explanation>
+		<text>There are times when other drivers make incorrect or ill-judged decisions. Be tolerant and try not to retaliate or react aggressively. Always consider the safety of other road users, your passengers and yourself.</text>
+		<voice id="BB1013-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Accelerate to get closer to the red van</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give a long blast on the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Drop back to leave the correct separation distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your headlights several times</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2923" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>Which of the following should you NOT do at the scene of a collision?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2923-1"/>
+	<explanation>
+		<text>Keeping casualties or witnesses calm is important, but never offer a cigarette because of the risk of fire. Bear in mind they may be in shock. Don’t offer an injured person anything to eat or drink. They may have internal injuries or need surgery.</text>
+		<voice id="AB2923-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Warn other traffic by switching on your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Call the emergency services immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Offer someone a cigarette to calm them down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ask drivers to switch off their engines</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

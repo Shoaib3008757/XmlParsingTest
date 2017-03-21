@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2763" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p9-10</xref>
+		<text>Which shape is used for a ‘give way’ sign?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2763-1"/>
+	<explanation>
+		<text>Other warning signs are the same shape and colour, but the ‘give way’ sign triangle points downwards. When you see this sign you MUST give way to traffic on the road which you are about to enter.</text>
+		<voice id="AB2763-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2763a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2763b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2763c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2763d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

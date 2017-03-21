@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1623" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+  <question>
+    <xref>DES s16, HC p130</xref>
+    <text>What safeguard could you take against fire risk to your vehicle?</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="BB1623-1"/>
+  <explanation>
+    <text>The fuel in your vehicle can be a dangerous fire hazard. If you smell fuel, check out where it’s coming from. Never
+	<unorderedlist>
+        <item>• use a naked flame near the vehicle if you can smell fuel</item>
+        <item>• smoke when refuelling your vehicle.</item>
+    </unorderedlist>
+    </text>
+    <voice id="BB1623-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>Keep water levels above maximum</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>Check out any strong smell of fuel</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Avoid driving with a full tank of fuel</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Use fuel additives</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1500" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>What will improve fuel consumption?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1500-1"/>
+	<explanation>
+		<text>Harsh braking, frequent gear changes and harsh acceleration increase fuel consumption. An engine uses less fuel when travelling at a constant low speed. You need to look well ahead so you’re able to anticipate hazards early. Easing off the accelerator and timing your approach at junctions, for example, can reduce the fuel consumption of your vehicle.</text>
+		<voice id="BB1500-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Reducing your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rapid acceleration</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Late and harsh braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving in lower gears</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

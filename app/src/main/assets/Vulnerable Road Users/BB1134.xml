@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1134" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r202</xref>
+		<text>You are reversing around a corner when you notice a pedestrian walking behind you. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1134-1"/>
+	<explanation>
+		<text>Wait until the pedestrian has passed, then look around again before you start to reverse. Don’t forget that you may not be able to see a small child directly behind your vehicle. Be aware of the possibility of hidden dangers.</text>
+		<voice id="BB1134-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Slow down and wave the pedestrian across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Continue reversing and steer round the pedestrian</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop and give way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Continue reversing and sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

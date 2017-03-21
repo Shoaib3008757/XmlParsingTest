@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1081" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p114, KYTS p65</xref>
+		<text>What does the solid white line at the side of the road indicate?</text>
+		<graphic>BB1081.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1081-1"/>
+	<explanation>
+		<text>The continuous white line shows the edge of the carriageway. It can be especially useful when visibility is restricted, for example at night or in bad weather. It is discontinued where it crosses junctions, lay-bys etc.</text>
+		<voice id="BB1081-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Traffic lights ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Edge of the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Footpath on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cycle path</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

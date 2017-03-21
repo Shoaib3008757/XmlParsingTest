@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2425" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r132, KYTS p71</xref>
+		<text>Where on a motorway would you find green reflective studs?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2425-1"/>
+	<explanation>
+		<text>Knowing the colours of the reflective studs on the road will help you judge your position, especially at night, in foggy conditions or when visibility is poor.</text>
+		<voice id="AB2425-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Separating driving lanes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Between the hard shoulder and the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>At slip road entrances and exits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Between the carriageway and the central reservation</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2674" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p73</xref>
+		<text>Which sign means you have priority over oncoming vehicles?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2674-1"/>
+	<explanation>
+		<text>Even though you have priority, be prepared to give way if other drivers don’t. This will help to avoid congestion, confrontation or even a collision.</text>
+		<voice id="AB2674-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2674a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2674b.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2674c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2674d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

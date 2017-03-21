@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2531" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p138</xref>
+		<text>Why would this temporary speed limit sign be shown?</text>
+		<graphic>AB2531.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2531-1"/>
+	<explanation>
+		<text>In the interests of road safety, temporary speed limits are imposed at all major road works. Signs like this, giving advanced warning of the speed limit, are normally placed about three quarters of a mile ahead of where the speed limit comes into force.</text>
+		<voice id="AB2531-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To warn of the end of the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn you of a low bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn you of a junction ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To warn of road works ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

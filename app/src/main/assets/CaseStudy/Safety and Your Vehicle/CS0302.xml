@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0302" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r240, HC r247, HC p115</xref>
+		<text>Jeff drives through the city centre, choosing to travel outside the rush hour. In the city there are double red lines along the roadside. Later, Jeff reaches a major junction. The traffic lights are not working but there are very few vehicles on the road. At work, Jeff has to park on the roadside. When parking, his steering feels a little heavy. He picks up his laptop to take to work and locks the car.  He leaves his camera on the back seat.</text>
+		<part>What do these red lines mean?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0302-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No stopping at peak time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No stopping at lunch time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No stopping at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No stopping at night time</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0302-2"/>
+	</explanation>
+</QF>

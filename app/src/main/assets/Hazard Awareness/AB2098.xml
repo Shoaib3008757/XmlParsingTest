@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2098" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s8, HC p109, KYTS p11</xref>
+		<text>You see this sign ahead. You should expect the road to</text>
+		<graphic>AB2098.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2098-1"/>
+	<explanation>
+		<text>Adjust your speed in good time and select the correct gear for your speed. Going too fast into the bend could cause you to lose control. Braking late and harshly while changing direction reduces your vehicle’s grip on the road, and is likely to cause a skid.</text>
+		<voice id="AB2098-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>go steeply uphill</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go steeply downhill</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>bend sharply to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bend sharply to the right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

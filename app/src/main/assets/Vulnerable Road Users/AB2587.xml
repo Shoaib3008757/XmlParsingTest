@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2587" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r5, HC r154</xref>
+		<text>You are on a country road. What should you expect to see coming towards you on YOUR side of the road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2587-1"/>
+	<explanation>
+		<text>On a quiet country road always be aware that there may be a hazard just around the next bend, such as a slow-moving vehicle or pedestrians. Pedestrians are advised to walk on the right-hand side of the road if there is no pavement, so they may be walking towards you on your side of the road.</text>
+		<voice id="AB2587-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Motorcycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Bicycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Horse riders</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

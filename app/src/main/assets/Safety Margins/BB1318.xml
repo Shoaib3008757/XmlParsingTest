@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1318" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, HC r120</xref>
+		<text>Anti-lock brakes are of most use when you are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1318-1"/>
+	<explanation>
+		<text>Anti-lock brakes will not be required when braking normally. Looking well down the road and anticipating possible hazards could prevent you having to brake late and harshly. Knowing that you have anti-lock brakes is not an excuse to drive in a careless or reckless way.</text>
+		<voice id="BB1318-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>braking gently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving on worn tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>braking excessively</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving normally</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

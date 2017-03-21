@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1416" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>Which of the following may help to deter a thief from stealing your car?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1416-1"/>
+	<explanation>
+		<text>Having your car registration number etched on all your windows is a cheap and effective way to deter professional car thieves.</text>
+		<voice id="BB1416-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Always keeping the headlights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Fitting reflective glass windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always keeping the interior light on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Etching the car number on the windows</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

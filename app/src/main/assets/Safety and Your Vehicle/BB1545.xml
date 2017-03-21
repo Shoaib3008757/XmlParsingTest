@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1545" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Your vehicle has a catalytic converter. Its purpose is to reduce</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1545-1"/>
+	<explanation>
+		<text>Catalytic converters reduce the harmful gases given out by the engine. The gases are changed by a chemical process as they pass through a special filter.</text>
+		<voice id="BB1545-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>exhaust noise</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>engine noise</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

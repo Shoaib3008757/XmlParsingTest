@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2056" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s3, HC r112</xref>
+    <text>You must NOT sound your horn</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2056-1"/>
+  <explanation>
+    <text>Vehicles can be noisy. Every effort must be made to prevent excessive noise, especially in built-up areas at night. Don’t
+		<unorderedlist>
+        <item>• rev the engine</item>
+        <item>• sound the horn</item>
+		</unorderedlist>
+		unnecessarily. It is illegal to sound your horn in a built-up area between 11.30 pm and 7 am, except when another vehicle poses a danger.
+    </text>
+    <voice id="AB2056-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>between 10 pm and 6 am in a built-up area</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>at any time in a built-up area</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>between 11.30 pm and 7 am in a built-up area</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>between 11.30 pm and 6 am on any road</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2730" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r2, HC r206</xref>
+		<text>The left-hand pavement is closed due to street repairs. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2730-1"/>
+	<explanation>
+		<text>Where street repairs have closed off pavements, proceed carefully and slowly as pedestrians might have to walk in the road.</text>
+		<voice id="AB2730-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Watch out for pedestrians walking in the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use your right-hand mirror more often</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up to get past the roadworks quicker</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Position close to the left-hand kerb</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

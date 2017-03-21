@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1648" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20</xref>
+		<text>How can you help to prevent your car radio being stolen?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1648-1"/>
+	<explanation>
+		<text>A security-coded radio can deter thieves as it is likely to be of little use when removed from the vehicle.</text>
+		<voice id="BB1648-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Park in an unlit area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Hide the radio with a blanket</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park near a busy junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Install a security-coded radio</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

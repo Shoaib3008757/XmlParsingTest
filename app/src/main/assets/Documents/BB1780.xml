@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1780" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>A friend wants to help you learn to drive. They must be</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1780-1"/>
+	<explanation>
+		<text>Helping someone to drive is a responsible task. Before learning to drive you’re advised to find a qualified Approved Driving Instructor (ADI) to teach you. This will ensure that you’re taught the correct procedures from the start.</text>
+		<voice id="BB1780-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>at least 21 and have held a full licence for at least one year</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>over 18 and hold an advanced driver’s certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>over 18 and have fully comprehensive insurance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>at least 21 and have held a full licence for at least three years</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

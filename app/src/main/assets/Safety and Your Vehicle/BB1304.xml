@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1304" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>What’s most likely to waste fuel?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1304-1"/>
+	<explanation>
+		<text>Wasting fuel costs you money and also causes unnecessary pollution. Ensuring your tyres are correctly inflated, avoiding carrying unnecessary weight and removing a roof rack that’s not in use will all help to reduce your fuel consumption.</text>
+		<voice id="BB1304-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Reducing your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving on motorways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Using different brands of fuel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Under-inflated tyres</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

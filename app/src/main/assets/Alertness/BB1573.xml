@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1573" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s10</xref>
+		<text>Windscreen pillars can obstruct your view. You should take particular care when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1573-1"/>
+
+<explanation>
+		<text>Windscreen pillars can obstruct your view, particularly at bends and junctions. Look out for other road users, particularly cyclists and pedestrians, as they can be hard to see.</text>
+		<voice id="BB1573-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>driving on a motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving on a dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>approaching a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>approaching bends and junctions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

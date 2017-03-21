@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1684" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r226</xref>
+		<text>You may drive with front fog lights switched on</text>
+		<graphic>BB1684.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1684-1"/>
+	<explanation>
+		<text>Only use front fog lights if the distance you are able to see is less than 100 metres (328 feet). Turn off your fog lights as the visibility improves.</text>
+		<voice id="BB1684-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>when visibility is less than 100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at any time to be noticed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>instead of headlights on high speed roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>when dazzled by the lights of oncoming vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

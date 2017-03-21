@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1012" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r221</xref>
+		<text>You are driving behind a large goods vehicle. It signals left but steers to the right. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1012-1"/>
+
+<explanation>
+		<text>Large, long vehicles need extra room when making turns at junctions. They may move out to the right in order to make a left turn. Keep well back and don’t attempt to pass on the left.</text>
+		<voice id="BB1012-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>slow down and let the vehicle turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive on, keeping to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake on the right of it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>hold your speed and sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

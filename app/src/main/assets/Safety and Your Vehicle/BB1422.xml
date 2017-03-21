@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1422" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>Which of these is most likely to deter the theft of your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1422-1"/>
+	<explanation>
+		<text>An immobiliser makes it more difficult for your vehicle to be driven off by a thief. It is a particular deterrent to opportunist thieves.</text>
+		<voice id="BB1422-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>An immobiliser</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tinted windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Locking wheel nuts</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A sun screen</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

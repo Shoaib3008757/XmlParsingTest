@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1207" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p40</xref>
+		<text>A single carriageway road has this sign. What is the maximum permitted speed for a car towing a trailer?</text>
+		<graphic>BB1207.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1207-1"/>
+	<explanation>
+		<text>When towing trailers, speed limits are also lower on dual carriageways and motorways. These speed limits apply to vehicles pulling all sorts of trailers including caravans, horse boxes etc.</text>
+		<voice id="BB1207-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

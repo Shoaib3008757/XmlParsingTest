@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2707" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Motor vehicles can harm the environment. This has resulted in</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2707-1"/>
+	<explanation>
+		<text>Exhaust emissions are harmful to health. Together with vibration from heavy traffic, this can result in damage to buildings. Most petrol and diesel fuels come from a non-renewable source. Anything you can do to reduce your use of these fuels will help the environment.</text>
+		<voice id="AB2707-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>less use of electric vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improved public transport</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>raised speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>air pollution</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

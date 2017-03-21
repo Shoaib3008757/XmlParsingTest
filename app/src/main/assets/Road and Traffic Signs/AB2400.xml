@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2400" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p73</xref>
+		<text>Where would you see this road marking?</text>
+		<graphic>AB2400.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2400-1"/>
+	<explanation>
+		<text>Due to the dark colour of the road, changes in level aren’t easily seen. White triangles painted on the road surface give you an indication of where there are road humps.</text>
+		<voice id="AB2400-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>At traffic lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On road humps</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Near a level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At a box junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

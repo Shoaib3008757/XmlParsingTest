@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2545" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s6, HC r208, HC r238, KYTS p56</xref>
+    <text>These road markings must be kept clear to allow</text>
+    <graphic>AB2545.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2545-1"/>
+  <explanation>
+    <text>The markings are there to show that the area must be kept clear to allow an unrestricted view for
+      <unorderedlist>
+        <item>• approaching drivers and riders</item>
+        <item>• children wanting to cross the road.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2545-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>school children to be dropped off</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>for teachers to park</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>school children to be picked up</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>a clear view of the crossing area</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

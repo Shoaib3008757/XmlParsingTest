@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1554" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r155</xref>
+		<text>You are on a road that is only wide enough for one vehicle. There is a car coming towards you. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1554-1"/>
+	<explanation>
+		<text>Pull into the nearest passing place on the left if you meet another vehicle in a narrow road. If the nearest passing place is on the right, wait opposite it.</text>
+		<voice id="BB1554-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Pull into a passing place on your right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Force the other driver to reverse</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull into a passing place if your vehicle is wider</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pull into a passing place on your left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2840" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p109, KYTS p36</xref>
+		<text>What does this sign tell you?</text>
+		<graphic>AB2840.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2840-1"/>
+	<explanation>
+		<text>With people’s concern today for the environment, cycle routes are being created in our towns and cities. These are usually defined by road markings and signs. Respect the presence of cyclists on the road and give them plenty of room if you need to pass.</text>
+		<voice id="AB2840-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No cycling</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Cycle route ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cycle parking only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of cycle route</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

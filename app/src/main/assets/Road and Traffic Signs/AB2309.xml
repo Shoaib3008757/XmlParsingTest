@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2309" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p18</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2309.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2309-1"/>
+	<explanation>
+		<text>If you’re behind a slow-moving vehicle be patient. Wait until the restriction no longer applies and you can overtake safely.</text>
+		<voice id="AB2309-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Keep in one lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give way to oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Do not overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Form two lanes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

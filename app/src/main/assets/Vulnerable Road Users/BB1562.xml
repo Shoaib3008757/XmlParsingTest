@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1562" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r170, HC r211</xref>
+		<text>Where in particular should you look out for motorcyclists?</text>
+		<graphic>BB1562.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1562-1"/>
+	<explanation>
+		<text>Always look out for motorcyclists, and cyclists, particularly at junctions. They are smaller and usually more difficult to see than other vehicles.</text>
+		<voice id="BB1562-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>In a filling station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>At a road junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Near a service area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When entering a car park</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

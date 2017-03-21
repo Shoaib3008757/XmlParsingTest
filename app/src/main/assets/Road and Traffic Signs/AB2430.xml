@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2430" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p40</xref>
+		<text>What is the maximum speed on a single carriageway road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2430-1"/>
+	<explanation>
+		<text>If you’re travelling on a dual carriageway that becomes a single carriageway road, reduce your speed gradually so that you aren’t exceeding the limit as you enter. There might not be a sign to remind you of the limit, so make sure you know what the speed limits are for different types of roads and vehicles.</text>
+		<voice id="AB2430-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

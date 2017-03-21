@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1582" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103</xref>
+		<text>Why should you make sure that your indicators are cancelled after turning?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1582-1"/>
+	<explanation>
+		<text>Leaving your indicators on could confuse other road users and may even lead to a crash. Be aware that if you haven’t taken a sharp turn your indicators may not self-cancel and you will need to turn them off manually.</text>
+		<voice id="BB1582-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To avoid flattening the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To avoid misleading other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To avoid dazzling other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To avoid damage to the indicator relay</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

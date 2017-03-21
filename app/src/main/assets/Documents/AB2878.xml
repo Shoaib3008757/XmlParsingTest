@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2878" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>What must you have when you apply to renew your vehicle excise licence?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2878-1"/>
+	<explanation>
+		<text>The vehicle excise licence (road tax) can be renewed at certain post offices, vehicle registration offices, online or by phone. When applying, make sure you have all the relevant valid documents, including a valid MOT test certificate where applicable.</text>
+		<voice id="AB2878-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Valid insurance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The chassis number</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The handbook</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A valid driving licence</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

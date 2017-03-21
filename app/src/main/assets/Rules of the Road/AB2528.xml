@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2528" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r240</xref>
+		<text>When can you park on the left opposite these road markings?</text>
+		<graphic>AB2528.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2528-1"/>
+	<explanation>
+		<text>You MUST NOT park or stop on a road marked with double white lines (even where one of the lines is broken) except to pick up or set down passengers.</text>
+		<voice id="AB2528-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>If the line nearest to you is broken</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When there are no yellow lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To pick up or set down passengers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>During daylight hours only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1687" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>You are driving down a steep hill. Why could keeping the clutch down or rolling in neutral for too long be dangerous?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1687-1"/>
+	<explanation>
+		<text>Driving in neutral or with the clutch down for long periods is known as ‘coasting’. There will be no engine braking and your vehicle will pick up speed on downhill slopes. Coasting can be very dangerous because it reduces steering and braking control.</text>
+		<voice id="BB1687-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Fuel consumption will be higher</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your vehicle will pick up speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will damage the engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will wear tyres out more quickly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

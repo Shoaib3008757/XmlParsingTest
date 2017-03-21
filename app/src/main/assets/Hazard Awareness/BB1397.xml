@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1397" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s10, HC r112</xref>
+		<text>You are driving along this road. The driver on the left is reversing from a driveway. You should</text>
+		<graphic>BB1397.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1397-1"/>
+	<explanation>
+		<text>White lights at the rear of a car show that it is about to reverse. Sound your horn to warn of your presence and reduce your speed as a precaution.</text>
+		<voice id="BB1397-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move to the opposite side of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive through as you have priority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>sound your horn and be prepared to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>speed up and drive through quickly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2860" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r178</xref>
+		<text>Some junctions controlled by traffic lights have a marked area between two stop lines. What is this for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2860-1"/>
+	<explanation>
+		<text>These are known as advanced stop lines. When the lights are red (or about to become red) you should stop at the first white line. However if you have crossed that line as the lights change you must stop at the second line even if it means you are in the area reserved for cyclists.</text>
+		<voice id="AB2860-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To allow taxis to position in front of other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow people with disabilities to cross the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow cyclists and pedestrians to cross the road together</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To allow cyclists to position in front of other traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

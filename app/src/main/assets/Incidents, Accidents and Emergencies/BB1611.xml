@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1611" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r94</xref>
+		<text>Before driving through a tunnel what should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1611-1"/>
+	<explanation>
+		<text>If you are wearing sunglasses you should remove them before driving into a tunnel. If you don’t, your vision will be restricted, even in tunnels that appear to be well-lit.</text>
+		<voice id="BB1611-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Switch your radio off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Remove any sunglasses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Close your sunroof</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on windscreen wipers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

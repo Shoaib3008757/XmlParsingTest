@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2114" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r147</xref>
+		<text>A driver pulls out of a side road in front of you. You have to brake hard. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2114-1"/>
+	<explanation>
+		<text>Where there are a number of side roads, be alert. Be especially careful if there are a lot of parked vehicles because they can make it more difficult for drivers emerging to see you. Try to be tolerant if a vehicle does emerge and you have to brake quickly. Don’t react aggressively.</text>
+		<voice id="AB2114-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>ignore the error and stay calm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your lights to show your annoyance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn to show your annoyance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2034" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r219</xref>
+		<text>A flashing green beacon on a vehicle means</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2034-1"/>
+
+<explanation>
+		<text>If you see a vehicle with a flashing green beacon approaching, allow it to pass when you can do so safely. Be aware that someone’s life could depend on the driver making good progress through traffic.</text>
+		<voice id="AB2034-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>police on non-urgent duties</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>doctor on an emergency call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>road safety patrol operating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>gritting in progress</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

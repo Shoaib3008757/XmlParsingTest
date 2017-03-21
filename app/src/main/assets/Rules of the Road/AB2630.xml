@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2630" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r293, KYTS p27</xref>
+		<text>You are waiting at a level crossing. A train has passed but the lights keep flashing. You must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2630-1"/>
+	<explanation>
+		<text>If the lights at a level crossing continue to flash after a train has passed, you should still wait as there might be another train coming. Time seems to pass slowly when you’re held up in a queue. Be patient and wait until the lights stop flashing.</text>
+		<voice id="AB2630-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>carry on waiting</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>phone the signal operator</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>edge over the stop line and look for trains</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park and investigate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1591" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3</xref>
+		<text>Which instrument panel warning light would show that headlights are on full beam?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1591-1"/>
+
+	<explanation>
+		<text>You should be aware of where all the warning lights and visual aids are on the vehicle you are driving. If you are driving a vehicle for the first time you should take time to check all the controls.</text>
+		<voice id="BB1591-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>BB1591a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1591b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1591c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1591d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

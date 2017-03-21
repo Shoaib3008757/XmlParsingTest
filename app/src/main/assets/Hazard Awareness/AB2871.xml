@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2871" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r162-167</xref>
+		<text>You should NOT overtake</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2871-1"/>
+	<explanation>
+		<text>You should overtake only when it’s really necessary and you can see it’s clear ahead. Look out for road signs and markings that show it’s illegal or would be unsafe to overtake; for example, approaching junctions or bends. In many cases, overtaking is unlikely to significantly improve your journey time.</text>
+		<voice id="AB2871-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>on a single carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>approaching a junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>travelling up a long hill</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

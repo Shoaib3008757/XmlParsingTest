@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1135" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r152</xref>
+		<text>You want to turn right from a junction but your view is restricted by parked vehicles. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1135-1"/>
+	<explanation>
+		<text>If you want to turn right from a junction and your view is restricted, STOP. Ease forward until you can see – there might be something approaching. IF YOU DON’T KNOW, DON’T GO.</text>
+		<voice id="BB1135-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Move out quickly, but be prepared to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn and pull out if there is no reply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop, then move slowly forward until you have a clear view</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop, get out and look along the main road to check</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

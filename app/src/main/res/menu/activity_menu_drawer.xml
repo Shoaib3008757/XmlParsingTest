@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashboard"
+            android:title="DashBoard"
+            />
+
+        <item
+            android:id="@+id/take_test"
+            android:title="Take Test"
+            />
+        <item
+            android:id="@+id/category_test"
+            android:title="Category Test" />
+        <item
+            android:id="@+id/learn_test"
+            android:title="Learn By Chapter" />
+        <item
+            android:id="@+id/practice_favourite"
+            android:title="Practice Favourite Questions" />
+        <item
+            android:id="@+id/progress"
+            android:title="Progress" />
+
+    </group>
+
+    <item android:title="Information">
+        <menu>
+            <item
+                android:id="@+id/about_test"
+                android:title="About Test" />
+
+        </menu>
+    </item>
+
+</menu>

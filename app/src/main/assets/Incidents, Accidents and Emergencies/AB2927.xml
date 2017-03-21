@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2927" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>At an incident a small child is not breathing. To restore normal breathing you should breathe into their mouth</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2927-1"/>
+	<explanation>
+		<text>If a young child has stopped breathing, first check that the airway is clear. Then give compressions to the chest using one hand (two fingers for an infant) and begin mouth to mouth resuscitation. Breathe very gently and continue the procedure until they can breathe without help.</text>
+		<voice id="AB2927-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sharply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>gently</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>heavily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rapidly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

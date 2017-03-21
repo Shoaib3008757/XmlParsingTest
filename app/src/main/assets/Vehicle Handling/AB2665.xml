@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2665" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p68</xref>
+		<text>You see these markings on the road. Why are they there?</text>
+		<graphic>AB2665.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2665-1"/>
+	<explanation>
+		<text>These lines may be painted on the road on the approach to a roundabout, village or a particular hazard. The lines are raised and painted yellow and their purpose is to make you aware of your speed. Reduce your speed in good time so that you avoid having to brake harshly over the last few metres before reaching the junction.</text>
+		<voice id="AB2665-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To show a safe distance between vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To keep the area clear of traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To make you aware of your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn you to change direction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

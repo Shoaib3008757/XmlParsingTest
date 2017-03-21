@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1702" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15</xref>
+		<text>You have broken down on a two-way road. You have a warning triangle. It should be displayed</text>
+		<graphic>BB1702.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1702-1"/>
+	<explanation>
+		<text>If you need to display a warning triangle make sure that it can be clearly seen by other road users. Place it on the same side of the road as the broken down vehicle and away from any obstruction that would make it hard to see.</text>
+		<voice id="BB1702-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>on the roof of your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at least 150 metres (492 feet) behind your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>at least 45 metres (147 feet) behind your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>just behind your vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1030" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>New petrol-engined cars must be fitted with catalytic converters. The reason for this is to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1030-1"/>
+	<explanation>
+		<text>We should all be concerned about the effect traffic has on our environment. Fumes from vehicles are polluting the air around us. Catalytic converters act like a filter, removing some of the toxic waste from exhaust gases.</text>
+		<voice id="BB1030-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>control exhaust noise levels</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>prolong the life of the exhaust system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow the exhaust system to be recycled</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce harmful exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

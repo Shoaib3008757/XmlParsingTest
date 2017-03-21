@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2883" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r91</xref>
+		<text>You are on a motorway. You become tired and decide you need to rest. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2883-1"/>
+	<explanation>
+		<text>Ideally you should plan your journey so that you have regular rest stops. If you do become tired leave at the next exit, or pull in at a service area if this is sooner.</text>
+		<voice id="AB2883-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull up on a slip road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park on the central reservation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Leave at the next exit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1597" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, DES s15, HC r115</xref>
+		<text>Daytime visibility is poor but not seriously reduced. You should switch on</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1597-1"/>
+	<explanation>
+		<text>Only use your fog lights when visibility is seriously reduced. Use dipped headlights in poor conditions.</text>
+		<voice id="BB1597-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>headlights and fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>front fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

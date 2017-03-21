@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2181" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187</xref>
+		<text>You are approaching a mini-roundabout. The long vehicle in front is signalling left but positioned over to the right. You should</text>
+		<graphic>AB2181.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2181-1"/>
+	<explanation>
+		<text>At mini-roundabouts there isn’t much room for a long vehicle to manoeuvre. It will have to swing out wide so that it can complete the turn safely. Keep well back and don’t try to move up alongside it.</text>
+		<voice id="AB2181-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>follow the same course as the lorry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep well back</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1347" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, DES s14, HC p128</xref>
+		<text>What does the law require you to keep in good condition?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1347-1"/>
+	<explanation>
+		<text>Unless exempt, you and your passengers must wear a seat belt (or suitable child restraint). The seat belts in your car must be in good condition and working properly; they’ll be checked during its MOT test.</text>
+		<voice id="BB1347-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Gears</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Transmission</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Door locks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Seat belts</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

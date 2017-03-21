@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2041" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s8, HC r179</xref>
+		<text>You wish to turn right ahead. Why should you take up the correct position in good time?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2041-1"/>
+
+<explanation>
+		<text>If you wish to turn right into a side road take up your position in good time. Move to the centre of the road when it’s safe to do so. This will allow vehicles to pass you on the left. Early planning will show other traffic what you intend to do.</text>
+		<voice id="AB2041-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To allow other drivers to pull out in front of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To give a better view into the road that you’re joining</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To help other road users know what you intend to do</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow drivers to pass you on the right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

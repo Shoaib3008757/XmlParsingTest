@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2628" topic="Rules of the Road" category="C&amp;M" ni_exempt="yes">
+	<question>
+		<xref>HC r243</xref>
+		<text>What is the nearest you may park to a junction?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2628-1"/>
+	<explanation>
+		<text>Don’t park within 10 metres (32 feet) of a junction (unless in an authorised parking place). This is to allow drivers emerging from, or turning into, the junction a clear view of the road they are joining. It also allows them to see hazards such as pedestrians or cyclists at the junction.</text>
+		<voice id="AB2628-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>10 metres (32 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>12 metres (39 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>15 metres (49 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>20 metres (66 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

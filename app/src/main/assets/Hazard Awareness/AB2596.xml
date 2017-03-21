@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2596" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r291-299</xref>
+		<text>The red lights are flashing. What should you do when approaching this level crossing?</text>
+		<graphic>AB2596.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2596-1"/>
+	<explanation>
+		<text>At level crossings the red lights flash before and when the barrier is down. At most crossings an amber light will precede the red lights. You must stop behind the white line unless you have already crossed it when the amber light comes on. NEVER zigzag around half-barriers.</text>
+		<voice id="AB2596-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Go through quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Go through carefully</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop before the barrier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

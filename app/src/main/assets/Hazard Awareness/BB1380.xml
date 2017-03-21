@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1380" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r148-150</xref>
+		<text>What will be a serious distraction from driving?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1380-1"/>
+	<explanation>
+		<text>Looking at road maps while driving is very dangerous. If you aren’t sure of your route, stop in a safe place and check the map. You must not allow anything to take your attention away from the road while you’re driving.</text>
+		<voice id="BB1380-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Looking at road maps</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switching on your demister</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Using your windscreen washers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Looking in your door mirror</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2826" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p27</xref>
+		<text>You will see these red and white markers when approaching</text>
+		<graphic>AB2826.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2826-1"/>
+	<explanation>
+		<text>If there is a bend just before the level crossing you may not be able to see the level crossing barriers or waiting traffic. These signs give you an early warning that you may find these hazards just around the bend.</text>
+		<voice id="AB2826-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the end of a motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>a concealed level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a concealed speed limit sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the end of a dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

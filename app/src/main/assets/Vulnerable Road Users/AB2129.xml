@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2129" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p117</xref>
+		<text>Where would you see this sign?</text>
+		<graphic>AB2129.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2129-1"/>
+	<explanation>
+		<text>Vehicles that are used to carry children to and from school will be travelling at busy times of the day. If you’re following a vehicle with this sign be prepared for it to make frequent stops. It might pick up or set down passengers in places other than normal bus stops.</text>
+		<voice id="AB2129-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>In the window of a car taking children to school</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At the side of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At playground areas</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On the rear of a school bus or coach</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

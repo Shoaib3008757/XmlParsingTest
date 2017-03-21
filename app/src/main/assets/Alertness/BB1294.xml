@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1294" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>You should ONLY use a mobile phone when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1294-1"/>
+
+<explanation>
+		<text>It is illegal to use a hand-held mobile phone while driving, except in a genuine emergency. Even using hands-free kit can distract your attention. Park in a safe and convenient place before receiving or making a call or using text messaging. Then you will also be free to take notes or refer to papers.</text>
+		<voice id="BB1294-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>receiving a call</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>suitably parked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving at less than 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving an automatic vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

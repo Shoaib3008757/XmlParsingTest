@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2269" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r137-138</xref>
+		<text>On a three-lane dual carriageway the right-hand lane can be used for</text>
+		<graphic>AB2269.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2269-1"/>
+	<explanation>
+		<text>You should normally use the left-hand lane on any dual carriageway unless you are overtaking or turning right. When overtaking on a dual carriageway, look for vehicles ahead that are turning right. They’re likely to be slowing or stopped. You need to see them in good time so that you can take appropriate action.</text>
+		<voice id="AB2269-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtaking only, never turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>overtaking or turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>fast-moving traffic only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turning right only, never overtaking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

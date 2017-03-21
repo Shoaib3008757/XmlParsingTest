@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2422" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p110, KYTS p79</xref>
+		<text>What does ‘25’ mean on this motorway sign?</text>
+		<graphic>AB2422.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2422-1"/>
+	<explanation>
+		<text>Before you set out on your journey use a road map to plan your route. When you see advance warning of your junction, make sure you get into the correct lane in plenty of time. Last-minute harsh braking and cutting across lanes at speed is extremely hazardous.</text>
+		<voice id="AB2422-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The distance to the nearest town</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The route number of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The number of the next junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The speed limit on the slip road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

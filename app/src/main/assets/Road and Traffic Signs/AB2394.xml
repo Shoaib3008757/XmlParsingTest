@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2394" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r191, KYTS p122</xref>
+		<text>What do these zigzag lines at pedestrian crossings mean?</text>
+		<graphic>AB2394.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2394-1"/>
+	<explanation>
+		<text>The approach to, and exit from, a pedestrian crossing is marked with zigzag lines. You must not park on them or overtake the leading vehicle when approaching the crossing. Parking here would block the view for pedestrians and the approaching traffic.</text>
+		<voice id="AB2394-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>No parking at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parking allowed only for a short time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow down to 20 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sounding horns is not allowed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

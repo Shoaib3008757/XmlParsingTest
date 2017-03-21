@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2836" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>What percentage of all emissions does road transport account for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2836-1"/>
+	<explanation>
+		<text>Transport is an essential part of modern life but it does have environmental effects. In heavily populated areas traffic is the biggest source of air pollution. Ecosafe driving and riding will reduce emissions and can make a surprising difference to local air quality.</text>
+		<voice id="AB2836-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>10%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>20%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>30%</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40%</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

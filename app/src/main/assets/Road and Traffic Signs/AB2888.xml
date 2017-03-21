@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2888" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2888.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2888-1"/>
+	<explanation>
+		<text>You need to be aware of the various signs that relate to pedestrians. Some of the signs look similar but have very different meanings. Make sure you know what they all mean and be ready for any potential hazard.</text>
+		<voice id="AB2888-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No footpath</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Zebra crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>School crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

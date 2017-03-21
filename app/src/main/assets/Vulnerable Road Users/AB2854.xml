@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2854" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r25</xref>
+		<text>At toucan crossings</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2854-1"/>
+	<explanation>
+		<text>There are some crossings where cycle routes lead the cyclists to cross at the same place as pedestrians. These are called toucan crossings. Always look out for cyclists, as they’re likely to be approaching faster than pedestrians.</text>
+		<voice id="AB2854-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you only stop if someone is waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cyclists are not permitted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is a continuously flashing amber beacon</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>pedestrians and cyclists may cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

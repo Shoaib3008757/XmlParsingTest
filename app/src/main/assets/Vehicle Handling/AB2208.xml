@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2208" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s13</xref>
+    <text>When overtaking at night, you should</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2208-1"/>
+  <explanation>
+    <text>Don’t overtake if there’s a possibility of a road junction, bend or brow of a bridge or hill ahead. There are many other possible hazards that may be difficult to see in the dark, so only overtake if you’re certain that the road ahead is clear. Don’t take a chance.</text>
+    <voice id="AB2208-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>wait until a bend so that you can see the oncoming headlights</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>sound your horn twice before moving out</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>put headlights on full beam</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>beware of bends in the road ahead</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

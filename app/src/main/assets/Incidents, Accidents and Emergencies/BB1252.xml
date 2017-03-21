@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1252" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r274</xref>
+		<text>You have broken down on a two-way road. You have a warning triangle. You should place the warning triangle at least how far from your vehicle?</text>
+		<graphic>BB1252.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1252-1"/>
+	<explanation>
+		<text>Advance warning triangles fold flat and don’t take up much room. Use it to warn other road users if your vehicle has broken down or there’s been an incident. Place it at least 45 metres (147 feet) behind your vehicle or incident on the same side of the road or verge. Place it further back if the scene is hidden by, for example, a bend, hill or dip in the road. Don’t use them on motorways.</text>
+		<voice id="BB1252-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>5 metres (16 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>25 metres (82 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>45 metres (147 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1166" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>How will your vehicle be affected when you drive up steep hills?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1166-1"/>
+	<explanation>
+		<text>The engine will need more power to pull the vehicle up the hill. When approaching a steep hill you should select a lower gear to help maintain your speed. You should do this without hesitation, so that you don’t lose too much speed before engaging the lower gear.</text>
+		<voice id="BB1166-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The higher gears will pull better</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The steering will feel heavier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtaking will be easier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The engine will work harder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

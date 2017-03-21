@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2744" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r254</xref>
+		<text>When using a motorway it’s important that you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2744-1"/>
+	<explanation>
+		<text>Traffic on motorways usually travels faster than on other roads. You need to be looking further ahead to give yourself more time to react to any hazard that may develop.</text>
+		<voice id="AB2744-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>look much further ahead than you would on other roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive much faster than you would on other roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>clean your windscreen more often than you would on other roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>concentrate more than you would on other roads</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

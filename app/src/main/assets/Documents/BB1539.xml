@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1539" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90</xref>
+		<text>You must notify the licensing authority when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1539-1"/>
+	<explanation>
+		<text>The licensing authorities hold the records of all vehicles, drivers and riders in Great Britain and Northern Ireland. They need to know if you have a medical condition that might affect your ability to drive safely. Don’t risk endangering your own safety or that of other road users.</text>
+		<voice id="BB1539-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>your health affects your driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your work takes you abroad</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you intend to lend your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your vehicle requires an MOT certificate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

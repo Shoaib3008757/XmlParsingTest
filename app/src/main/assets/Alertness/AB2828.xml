@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2828" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s4, DES s10, HC r161</xref>
+		<text>When you see a hazard ahead you should use the mirrors. Why is this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2828-1"/>
+
+<explanation>
+		<text>You should be constantly scanning the road for clues about what is going to happen next. Check your mirrors regularly, particularly as soon as you spot a hazard. What is happening behind may affect your response to hazards ahead.</text>
+		<voice id="AB2828-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Because you will need to accelerate out of danger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To assess how your actions will affect following traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because you will need to brake sharply to a stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To check what is happening on the road ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

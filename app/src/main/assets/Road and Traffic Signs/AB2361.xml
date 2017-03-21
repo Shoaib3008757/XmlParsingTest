@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2361" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13-14</xref>
+		<text>What does this traffic sign mean?</text>
+		<graphic>AB2361.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2361-1"/>
+	<explanation>
+		<text>This sign is there to alert you to the likelihood of danger ahead. It may be accompanied by a plate indicating the type of hazard. Be ready to reduce your speed and take avoiding action.</text>
+		<voice id="AB2361-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Slippery road ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tyres liable to punctures ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Danger ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Service area ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

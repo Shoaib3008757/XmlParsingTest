@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1043" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r97</xref>
+		<text>It is important to wear suitable shoes when you are driving. Why is this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1043-1"/>
+	<explanation>
+		<text>When you’re going to drive, ensure that you’re wearing suitable clothing. Comfortable shoes will ensure that you have proper control of the foot pedals.</text>
+		<voice id="BB1043-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To prevent wear on the pedals</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To maintain control of the pedals</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To enable you to adjust your seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To enable you to walk for assistance if you break down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

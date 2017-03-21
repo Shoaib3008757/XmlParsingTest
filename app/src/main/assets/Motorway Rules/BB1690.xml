@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1690" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r290</xref>
+		<text>You are on a motorway. There is a contraflow system ahead. What would you expect to find?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1690-1"/>
+	<explanation>
+		<text>When approaching a contraflow system reduce speed in good time and obey all speed limits. You may be travelling in a narrower lane than normal with no permanent barrier between you and the oncoming traffic. Be aware that the hard shoulder may be used for traffic and the road ahead could be obstructed by slow-moving or broken down vehicles.</text>
+		<voice id="BB1690-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Temporary traffic lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Lower speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wider lanes than normal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed humps</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

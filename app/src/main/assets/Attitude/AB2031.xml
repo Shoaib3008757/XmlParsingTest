@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2031" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r219</xref>
+		<text>When being followed by an ambulance showing a flashing blue beacon you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2031-1"/>
+
+<explanation>
+		<text>Pull over in a place where the ambulance can pass safely. Check that there are no bollards or obstructions in the road that will prevent it from doing so.</text>
+		<voice id="AB2031-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>pull over as soon as safely possible to let it pass</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate hard to get away from it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>maintain your speed and course</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake harshly and immediately stop in the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

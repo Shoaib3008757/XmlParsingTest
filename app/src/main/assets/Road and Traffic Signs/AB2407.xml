@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2407" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p104</xref>
+		<text>You approach a junction. The traffic lights are not working. A police officer gives this signal. You should</text>
+		<graphic>AB2407.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2407-1"/>
+	<explanation>
+		<text>If a police officer or traffic warden is directing traffic you must obey them. They will use the arm signals shown in The Highway Code. Learn what these mean and act accordingly.</text>
+		<voice id="AB2407-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>turn left only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn right only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop level with the officer’s arm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop at the stop line</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

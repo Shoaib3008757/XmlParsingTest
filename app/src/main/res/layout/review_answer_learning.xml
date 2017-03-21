@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ListView
+        android:id="@+id/listViewReviewAnswersLearning"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:divider="@android:color/white"
+        android:dividerHeight="8dp"
+        android:fadeScrollbars="true"
+        android:listSelector="@drawable/button"
+        android:padding="8dp"
+        android:scrollbarSize="8dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbarThumbVertical="@drawable/scroll_bar_thumb_drawable"
+        android:scrollbarTrackVertical="@drawable/scroll_bar_track_drawable"
+        android:scrollbars="vertical">
+
+
+    </ListView>
+
+
+
+</RelativeLayout>

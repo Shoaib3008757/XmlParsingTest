@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1636" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r126</xref>
+		<text>You should leave at least a two-second gap between your vehicle and the one in front when conditions are</text>
+		<graphic>BB1636.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1636-1"/>
+	<explanation>
+		<text>In good, dry conditions an alert driver who’s driving a vehicle with tyres and brakes in good condition, needs to keep a distance of at least two seconds from the car in front.</text>
+		<voice id="BB1636-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>wet</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>good</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>damp</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>foggy</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

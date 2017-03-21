@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1148" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>You are driving in town. There is a bus at the bus stop on the other side of the road. Why should you be careful?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1148-1"/>
+	<explanation>
+		<text>If you see a bus ahead watch out for pedestrians. They may not be able to see you if they’re crossing from behind the bus.</text>
+		<voice id="BB1148-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The bus may have broken down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pedestrians may come from behind the bus</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The bus may move off suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The bus may remain stationary</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

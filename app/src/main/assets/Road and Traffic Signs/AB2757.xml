@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2757" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r106</xref>
+		<text>There is a police car following you. The police officer flashes the headlights and points to the left. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2757-1"/>
+	<explanation>
+		<text>You must pull up on the left as soon as it’s safe to do so and switch off your engine.</text>
+		<voice id="AB2757-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn left at the next junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pull up on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move over to the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

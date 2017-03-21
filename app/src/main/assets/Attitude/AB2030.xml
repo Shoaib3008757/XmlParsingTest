@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2030" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>Which of these services can display a blue flashing beacon?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2030-1"/>
+<explanation>
+		<text>Emergency vehicles often travel at high speed. You should help their progress by pulling over and allowing them to pass. Do so safely and legally. Don’t stop suddenly or in a dangerous position.</text>
+		<voice id="AB2030-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Coastguard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Doctor’s car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Gritting lorry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Animal ambulance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

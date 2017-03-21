@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1461" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90, HC r96</xref>
+		<text>Your doctor has given you a course of medicine. Why should you ask how it will affect you?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1461-1"/>
+	<explanation>
+		<text>Always check the label of any medication container. The contents might affect your driving. If you aren’t sure, ask your doctor or pharmacist.</text>
+		<voice id="BB1461-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Drugs make you a better driver by quickening your reactions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will have to let your insurance company know about the medicine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Some types of medicine can cause your reactions to slow down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The medicine you take may affect your hearing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

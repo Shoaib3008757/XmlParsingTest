@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1339" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Why should you switch off your rear fog lights when the fog has cleared?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1339-1"/>
+	<explanation>
+		<text>Don’t forget to switch off your fog lights when the weather improves. You could be prosecuted for driving with them on in good visibility. The high intensity of rear fog lights can dazzle following drivers and make your brake lights difficult to notice.</text>
+		<voice id="BB1339-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To allow your headlights to work</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To stop draining the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To stop the engine losing power</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To prevent dazzling following drivers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2712" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r237</xref>
+		<text>In very hot weather the road surface can become soft. What will this affect?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2712-1"/>
+	<explanation>
+		<text>If the road surface becomes very hot, it can soften. Tyres are unable to grip a soft surface as well as they can a firm dry one. Take care when cornering and braking.</text>
+		<voice id="AB2712-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The suspension</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The tyre grip</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

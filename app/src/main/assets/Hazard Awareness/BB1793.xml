@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1793" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r116</xref>
+		<text>You are driving on a motorway. The traffic ahead is braking sharply because of an incident. How could you warn traffic behind you?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1793-1"/>
+	<explanation>
+		<text>The only time you are permitted to use your hazard warning lights while moving is if you are on a motorway or dual carriageway and you need to warn other road users, particularly those behind, of a hazard or obstruction ahead. Only use them long enough to ensure your warning has been seen.</text>
+		<voice id="BB1793-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Briefly use the hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on the hazard warning lights continuously</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Briefly use the rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on the headlights continuously</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

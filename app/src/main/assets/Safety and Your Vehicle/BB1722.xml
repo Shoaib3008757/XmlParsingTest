@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1722" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17, HC r123</xref>
+		<text>How can driving in an ecosafe manner help protect the environment?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1722-1"/>
+	<explanation>
+		<text>Ecosafe driving is all about becoming a more environmentally friendly driver. This will make your journeys more comfortable as well as considerably reducing your fuel bills and reducing emissions that can damage the environment.</text>
+		<voice id="BB1722-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Through the legal enforcement of speed regulations</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By increasing the number of cars on the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Through increased fuel bills</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By reducing exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2028" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r168</xref>
+		<text>A long, heavily-laden lorry is taking a long time to overtake you. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2028-1"/>
+
+<explanation>
+		<text>A long lorry with a heavy load will need more time to pass you than a car, especially on an uphill stretch of road. Slow down and allow the lorry to pass.</text>
+		<voice id="AB2028-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Speed up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Hold your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Change direction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

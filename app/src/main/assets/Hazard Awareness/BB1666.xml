@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1666" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r126, HC r146</xref>
+		<text>Ahead of you, traffic in the left-hand lane is slowing. You should</text>
+		<graphic>BB1666.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1666-1"/>
+	<explanation>
+		<text>Allow the traffic to merge into the nearside lane. Leave enough room so that you can maintain a safe separation distance, even if vehicles pull in ahead of you.</text>
+		<voice id="BB1666-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>slow down, keeping a safe separation distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate past the vehicles in the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull up on the left-hand verge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move across and continue in the right-hand lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

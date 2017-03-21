@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2525" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r275</xref>
+		<text>You have broken down on a motorway. To find the nearest emergency telephone you should always walk</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2525-1"/>
+	<explanation>
+		<text>Along the hard shoulder there are marker posts at 100-metre intervals. These will direct you to the nearest emergency telephone.</text>
+		<voice id="AB2525-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>with the traffic flow</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>facing oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>in the direction shown on the marker posts</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in the direction of the nearest exit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

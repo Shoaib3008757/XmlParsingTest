@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1234" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103, HC p103</xref>
+		<text>You are approaching a zebra crossing where pedestrians are waiting. Which arm signal might you give?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1234-1"/>
+	<explanation>
+		<text>A ‘slowing down’ signal will indicate your intentions to oncoming and following vehicles. Be aware that pedestrians might start to cross as soon as they see this signal.</text>
+		<voice id="BB1234-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>BB1234a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1234b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1234c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1234d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

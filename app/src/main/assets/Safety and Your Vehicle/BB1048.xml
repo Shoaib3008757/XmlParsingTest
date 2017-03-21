@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1048" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p130</xref>
+		<text>You are testing your suspension. You notice that your vehicle keeps bouncing when you press down on the front wing. What does this mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1048-1"/>
+	<explanation>
+		<text>If you find that your vehicle bounces as you drive around a corner or bend in the road, the shock absorbers might be worn. Press down on the front wing and, if the vehicle continues to bounce, take it to be checked by a qualified mechanic.</text>
+		<voice id="BB1048-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Worn tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tyres under-inflated</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steering wheel not located centrally</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Worn shock absorbers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1104" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p101-104</xref>
+		<text>Ajay is driving through an area where there are many pedestrians.  There is a turning ahead with a red-bordered round sign, showing a car with a motorcycle above it.  Outside town, the single carriageway road has a double unbroken white centre line. Ajay sees several signs with brown backgrounds.  He approaches a traffic light signal which is showing green. The signal changes just before Ajay reaches it.</text>
+		<part>What details would Ajay find on the brown signs?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1104-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Tourist information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Safety information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cyclist information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Weather information</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1104-2"/>
+	</explanation>
+</QF>

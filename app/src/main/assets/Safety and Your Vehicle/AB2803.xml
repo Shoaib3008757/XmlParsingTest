@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2803" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>Planning your journey to avoid busy times has a number of advantages. One of these is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2803-1"/>
+	<explanation>
+		<text>Having a pleasant journey can have safety benefits. You will be less tired and stressed and this will allow you to concentrate more on your driving or riding.</text>
+		<voice id="AB2803-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your journey will take longer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you will have a more pleasant journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you will cause more pollution</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your stress level will be greater</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

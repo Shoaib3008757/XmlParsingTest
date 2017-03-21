@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2711" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s13</xref>
+		<text>You are parking on a two-way road at night. The speed limit is 40 mph. You should park on the</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2711-1"/>
+	<explanation>
+		<text>At night all vehicles must display parking lights when parked on a road with a speed limit greater than 30 mph. They should be close to the kerb, facing in the direction of the traffic flow and not within a distance as specified in The Highway Code.</text>
+		<voice id="AB2711-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>left with parking lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>left with no lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>right with parking lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>right with dipped headlights on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

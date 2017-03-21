@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2870" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>An injured person has been placed in the recovery position. They are unconscious but breathing normally. What else should be done?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2870-1"/>
+	<explanation>
+		<text>After a casualty has been placed in the recovery position, their airway should be checked to make sure it’s clear. Don’t leave them alone until medical help arrives. Where possible do NOT move a casualty unless there’s further danger.</text>
+		<voice id="AB2870-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Press firmly between the shoulders</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Place their arms by their side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give them a hot sweet drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check the airway is clear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2713" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232</xref>
+		<text>Where are you most likely to be affected by a side wind?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2713-1"/>
+	<explanation>
+		<text>In windy conditions, care must be taken on exposed roads. A strong gust of wind can blow you off course. Watch out for other road users who are particularly likely to be affected, such as cyclists, motorcyclists, high-sided lorries and vehicles towing trailers.</text>
+		<voice id="AB2713-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>On a narrow country lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On an open stretch of road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a busy stretch of road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a long, straight road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

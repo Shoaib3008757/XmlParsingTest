@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2887" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13</xref>
+		<text>Which of these signs warns you of a zebra crossing?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2887-1"/>
+	<explanation>
+		<text>Look well ahead and check the pavements and surrounding areas for pedestrians. Look for anyone walking towards the crossing. Check your mirrors for traffic behind, in case you have to slow down or stop.</text>
+		<voice id="AB2887-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2887a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2887b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2887c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2887d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

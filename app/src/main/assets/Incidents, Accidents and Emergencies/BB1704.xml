@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1704" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>Your vehicle breaks down in a tunnel. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1704-1"/>
+	<explanation>
+		<text>A broken-down vehicle in a tunnel can cause serious congestion and danger to other road users. If your vehicle breaks down, get help without delay. Switch on your hazard warning lights, then go to an emergency telephone point to call for help.</text>
+		<voice id="BB1704-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stay in your vehicle and wait for the police</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stand in the lane behind your vehicle to warn others</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stand in front of your vehicle to warn oncoming drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Switch on hazard lights then go and call for help immediately</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

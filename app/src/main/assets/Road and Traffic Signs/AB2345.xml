@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2345" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108-109, KYTS p10-14</xref>
+		<text>What information would be shown in a triangular road sign?</text>
+		<graphic>AB2345.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2345-1"/>
+	<explanation>
+		<text>Warning signs are there to make you aware of potential hazards on the road ahead. Take note of the signs so you’re prepared and can take whatever action is necessary.</text>
+		<voice id="AB2345-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Road narrows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ahead only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Minimum speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

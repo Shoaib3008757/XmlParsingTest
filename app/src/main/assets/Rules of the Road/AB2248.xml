@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2248" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p40</xref>
+		<text>What is the national speed limit for cars and motorcycles on a dual carriageway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2248-1"/>
+	<explanation>
+		<text>Ensure that you know the speed limit for the road that you’re on. The speed limit on a dual carriageway or motorway is 70 mph for cars and motorcycles, unless there are signs to indicate otherwise. The speed limits for different types of vehicles are listed in The Highway Code.</text>
+		<voice id="AB2248-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

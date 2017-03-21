@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2481" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r278</xref>
+		<text>You see a car on the hard shoulder of a motorway with a HELP pennant displayed. This means the driver is most likely to be</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2481-1"/>
+	<explanation>
+		<text>If a disabled driver’s vehicle breaks down and they are unable to walk to an emergency phone, they are advised to stay in their car and switch on the hazard warning lights. They may also display a 'Help’ pennant in their vehicle.</text>
+		<voice id="AB2481-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>a disabled person</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>first aid trained</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a foreign visitor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a rescue patrol person</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

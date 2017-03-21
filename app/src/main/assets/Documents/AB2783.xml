@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2783" topic="Documents" category="C&amp;M" ni_exempt="yes">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>What is a Statutory Off Road Notification (SORN)?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2783-1"/>
+<explanation>
+		<text>If you want to keep a vehicle off the public road you must declare SORN. It is an offence not to do so. You then won’t have to pay vehicle excise duty (road tax). Your SORN is valid until your vehicle is taxed, sold or scrapped.</text>
+		<voice id="AB2783-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A notification to tell DVSA that a vehicle does not have a current MOT</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Information kept by the police about the owner of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A notification to tell DVLA that a vehicle is not being used on the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Information held by insurance companies to check the vehicle is insured</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

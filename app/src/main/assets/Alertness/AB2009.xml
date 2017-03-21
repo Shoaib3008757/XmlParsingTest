@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2009" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p68</xref>
+		<text>Why are these yellow lines painted across the road?</text>
+		<graphic>AB2009.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2009-1"/>
+
+<explanation>
+		<text>These lines are often found on the approach to a roundabout or a dangerous junction. They give you extra warning to adjust your speed. Look well ahead and do this in good time.</text>
+		<voice id="AB2009-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To help you choose the correct lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To help you keep the correct separation distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To make you aware of your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To tell you the distance to the roundabout</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

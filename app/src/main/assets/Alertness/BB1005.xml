@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1005" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91, HC r262</xref>
+		<text>On a long motorway journey, boredom can cause you to feel sleepy. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1005-1"/>
+
+<explanation>
+		<text>Plan your journey to include suitable rest stops. You should take all possible precautions against feeling sleepy while driving. Any lapse of concentration could have serious consequences.</text>
+		<voice id="BB1005-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>play some loud music</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop on the hard shoulder for a rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive faster to complete your journey sooner</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>ensure a supply of fresh air into your vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

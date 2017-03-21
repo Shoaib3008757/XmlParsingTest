@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1052" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>A roof rack fitted to your car will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1052-1"/>
+	<explanation>
+		<text>If you are carrying anything on a roof rack, make sure that any cover is securely fitted and does not flap about while driving. Aerodynamically designed roof boxes are available which reduce wind resistance and, in turn, fuel consumption.</text>
+		<voice id="BB1052-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduce fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve the road handling</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>make your car go faster</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>increase fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

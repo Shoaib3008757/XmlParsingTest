@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1220" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r140</xref>
+		<text>You are driving along a road that has a cycle lane. The lane is marked by a solid white line. This means that during its period of operation</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1220-1"/>
+	<explanation>
+		<text>Leave the lane free for cyclists. At other times, when the lane is not in operation, you should still be aware that there may be cyclists about. Give them room and don’t pass too closely.</text>
+		<voice id="BB1220-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the lane may be used for parking your car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you may drive in that lane at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the lane may be used when necessary</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you must not drive in that lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

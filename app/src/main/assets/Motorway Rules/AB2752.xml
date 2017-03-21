@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2752" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r268</xref>
+		<text>On motorways you should never overtake on the left unless</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2752-1"/>
+	<explanation>
+		<text>Only overtake on the left if traffic is moving slowly in queues and the traffic on your right is moving more slowly than the traffic in your lane.</text>
+		<voice id="AB2752-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you can see well ahead that the hard shoulder is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the traffic in the right-hand lane is signalling right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you warn drivers behind by signalling left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>there is a queue of slow-moving traffic to your right that is moving more slowly than you are</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

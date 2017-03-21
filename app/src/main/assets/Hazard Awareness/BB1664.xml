@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1664" topic="Hazard Awareness" category="Car" ni_exempt="no">
+  <question>
+    <xref>DES s7, DES s12, HC r126, HC r227</xref>
+    <text>You’re driving along this motorway. It’s raining. When following this lorry you should</text>
+    <graphic>BB1664.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="BB1664-1"/>
+  <explanation>
+    <text>The usual two-second time gap will increase to four seconds when the roads are wet. If you stay well back you’ll
+	<unorderedlist>
+        <item>• be able to see past the vehicle</item>
+        <item>• be out of the spray thrown up by the lorry’s tyres</item>
+        <item>• give yourself more time to stop if the need arises</item>
+        <item>• increase your chances of being seen by the lorry driver.</item>
+    </unorderedlist>
+    </text>
+    <voice id="BB1664-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>allow at least a two-second gap</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>move left and drive on the hard shoulder</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>move right and stay in the right-hand lane</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>be aware of spray reducing your vision</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

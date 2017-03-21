@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2316" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p55</xref>
+		<text>You see this sign ahead. It means</text>
+		<graphic>AB2316.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2316-1"/>
+	<explanation>
+		<text>Clearways are stretches of road where you aren’t allowed to stop unless in an emergency. You’ll see this sign. Stopping where these restrictions apply may be dangerous and likely to cause an obstruction. Restrictions might apply for several miles and this may be indicated on the sign.</text>
+		<voice id="AB2316-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>national speed limit applies</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>waiting restrictions apply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>no stopping</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>no entry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

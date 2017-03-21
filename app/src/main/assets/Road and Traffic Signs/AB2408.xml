@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2408" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p103</xref>
+		<text>The driver of the car in front is giving this arm signal. What does it mean?</text>
+		<graphic>AB2408.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2408-1"/>
+	<explanation>
+		<text>There might be an occasion where another driver uses an arm signal. This may be because the vehicle’s indicators are obscured by other traffic. In order for such signals to be effective all drivers should know the meaning of them. Be aware that the ‘left turn’ signal might look similar to the ‘slowing down’ signal.</text>
+		<voice id="AB2408-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The driver is slowing down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The driver intends to turn right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The driver wishes to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The driver intends to turn left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

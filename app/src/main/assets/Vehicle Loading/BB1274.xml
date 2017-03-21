@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1274" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19, HC r98</xref>
+		<text>How can you stop a caravan snaking from side to side?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1274-1"/>
+	<explanation>
+		<text>Keep calm and don’t brake harshly or you could lose control completely. Ease off the accelerator until the unit is brought back under control. The most dangerous time is on long downhill gradients.</text>
+		<voice id="BB1274-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn the steering wheel slowly to each side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerate to increase your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop as quickly as you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down very gradually</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

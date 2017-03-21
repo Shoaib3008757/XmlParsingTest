@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2759" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r127, HC p114, KYTS p62</xref>
+		<text>This broken white line painted in the centre of the road means</text>
+		<graphic>AB2759.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2759-1"/>
+	<explanation>
+		<text>A long white line with short gaps means that you are approaching a hazard. If you do need to cross it, make sure that the road is clear well ahead.</text>
+		<voice id="AB2759-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>oncoming vehicles have priority over you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you should give priority to oncoming vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>there is a hazard ahead of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the area is a national speed limit zone</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

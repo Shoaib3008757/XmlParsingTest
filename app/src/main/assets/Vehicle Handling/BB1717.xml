@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1717" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>Why is it bad technique to coast when driving downhill?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1717-1"/>
+	<explanation>
+		<text>Coasting is when you allow the vehicle to freewheel in neutral or with the clutch pedal depressed. Speed will increase as you lose the benefits of engine braking and have less control. You shouldn’t coast, especially when approaching hazards such as junctions or bends and when travelling downhill.</text>
+		<voice id="BB1717-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The fuel consumption will increase</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The engine will overheat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The tyres will wear more quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The vehicle will gain speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1789" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r270</xref>
+		<text>On a motorway you may only stop on the hard shoulder</text>
+		<graphic>BB1789.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1789-1"/>
+	<explanation>
+		<text>You should only stop on the hard shoulder in a genuine emergency. DON’T stop on it to have a rest or picnic, pick up hitchhikers, answer a mobile phone or check a map. If you miss your intended exit carry on to the next, never reverse along the hard shoulder.</text>
+		<voice id="BB1789-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>in an emergency</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>if you feel tired and need to rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>if you miss the exit that you wanted</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>to pick up a hitchhiker</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

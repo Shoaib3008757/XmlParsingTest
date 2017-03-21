@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1343" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Using rear fog lights in clear daylight will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1343-1"/>
+	<explanation>
+		<text>Rear fog lights shine brighter than normal rear lights so that they show up in reduced visibility. When the weather is clear they could dazzle the driver behind, so switch them off.</text>
+		<voice id="BB1343-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>be useful when towing a trailer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give extra protection</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>dazzle other drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>make following drivers keep back</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

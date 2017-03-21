@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1236" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p63</xref>
+		<text>You see this white arrow on the road ahead. It means</text>
+		<graphic>BB1236.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1236-1"/>
+	<explanation>
+		<text>Don’t attempt to overtake here, as there might be unseen hazards over the brow of the hill. Keep to the left.</text>
+		<voice id="BB1236-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>entrance on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>all vehicles turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep left of the hatched markings</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>road bending to the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

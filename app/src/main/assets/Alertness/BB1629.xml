@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1629" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>Using a hands-free phone is likely to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1629-1"/>
+
+<explanation>
+		<text>Unlike someone in the car with you, the person on the other end of the line is unable to see the traffic situations you are dealing with. They will not stop speaking to you even if you are approaching a hazardous situation. You need to be concentrating on your driving all of the time, but especially so when dealing with a hazard.</text>
+		<voice id="BB1629-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>improve your safety</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your concentration</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reduce your view</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>divert your attention</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

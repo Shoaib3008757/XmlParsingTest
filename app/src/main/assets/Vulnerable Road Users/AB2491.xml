@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2491" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r207</xref>
+		<text>As you approach a pelican crossing the lights change to green. Elderly people are halfway across. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2491-1"/>
+	<explanation>
+		<text>Even if the lights turn to green, wait for them to clear the crossing. Allow them to cross the road in their own time, and don’t try to hurry them by revving your engine.</text>
+		<voice id="AB2491-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>wave them to cross as quickly as they can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rev your engine to make them hurry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your lights in case they have not heard you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>wait because they will take longer to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2784" topic="Documents" category="C&amp;M" ni_exempt="yes">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>What does a Statutory Off Road Notification (SORN) tell DVLA?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2784-1"/>
+	<explanation>
+		<text>By making a SORN, DVLA will know that this vehicle is being kept off the public road and does not need vehicle excise duty to be paid. Once you have made a SORN, it remains valid until you tax, sell or scrap the vehicle.</text>
+		<voice id="AB2784-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>That your vehicle is being used on the road but the MOT has expired</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>That you no longer own the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>That your vehicle is not being used on the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>That you are buying a personal number plate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

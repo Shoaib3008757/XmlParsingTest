@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2724" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s10, HC r291-299, HC p108-9</xref>
+		<text>When approaching this hazard, why should you slow down?</text>
+		<graphic>AB2724.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2724-1"/>
+	<explanation>
+		<text>You should be slowing down and selecting the correct gear in case you have to stop at the level crossing. Look for the signals and be prepared to stop if necessary.</text>
+		<voice id="AB2724-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Because of the level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because it’s hard to see to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because of approaching traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because of animals crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

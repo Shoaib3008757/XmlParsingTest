@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2749" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r270</xref>
+		<text>You are allowed to stop on a motorway when you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2749-1"/>
+	<explanation>
+		<text>You MUST stop if there are red lights flashing above every lane on the motorway. However, if any of the other lanes do not show flashing red lights or red cross you may move into that lane and continue if it is safe to do so.</text>
+		<voice id="AB2749-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>need to walk and get fresh air</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wish to pick up hitchhikers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>are told to do so by flashing red lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>need to use a mobile telephone</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

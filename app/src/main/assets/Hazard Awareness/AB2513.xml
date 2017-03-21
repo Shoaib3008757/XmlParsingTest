@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2513" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s7, HC r105, HC r208</xref>
+		<text>You have just passed these warning lights. What hazard would you expect to see next?</text>
+		<graphic>AB2513.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2513-1"/>
+	<explanation>
+		<text>These lights warn that children may be crossing the road to a nearby school. Slow down so that you’re ready to stop if necessary.</text>
+		<voice id="AB2513-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A level crossing with no barrier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An ambulance station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A school crossing patrol</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An opening bridge</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

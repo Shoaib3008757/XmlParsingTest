@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2709" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r152</xref>
+		<text>In some narrow residential streets you may find a speed limit of</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2709-1"/>
+	<explanation>
+		<text>In some built-up areas, you may find the speed limit reduced to 20 mph. Driving at a slower speed will help give you the time and space to see and deal safely with hazards such as pedestrians and parked cars.</text>
+		<voice id="AB2709-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>20 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>25 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>35 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

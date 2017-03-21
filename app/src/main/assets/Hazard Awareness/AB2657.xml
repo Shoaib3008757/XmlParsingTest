@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2657" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r206-207</xref>
+		<text>What should the driver of the red car (arrowed) do?</text>
+		<graphic>AB2657.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2657-1"/>
+	<explanation>
+		<text>Some people might take longer to cross the road. They may be older or have a disability. Be patient and don’t hurry them by showing your impatience. They might have poor eyesight or not be able to hear traffic approaching. If pedestrians are standing at the side of the road, don’t signal or wave them to cross. Other road users may not have seen your signal and this could lead the pedestrians into a hazardous situation.</text>
+		<voice id="AB2657-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Wave the pedestrians who are waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Wait for the pedestrian in the road to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Quickly drive behind the pedestrian in the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tell the pedestrian in the road she should not have crossed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

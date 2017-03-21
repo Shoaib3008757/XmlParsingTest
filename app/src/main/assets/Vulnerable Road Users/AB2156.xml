@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2156" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r86</xref>
+		<text>Motorcyclists should wear bright clothing mainly because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2156-1"/>
+	<explanation>
+		<text>Motorcycles are small vehicles and can be difficult to see. If the rider wears bright clothing it can make it easier for other road users to see them approaching, especially at junctions.</text>
+		<voice id="AB2156-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>they must do so by law</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it helps keep them cool in summer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the colours are popular</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>drivers often do not see them</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

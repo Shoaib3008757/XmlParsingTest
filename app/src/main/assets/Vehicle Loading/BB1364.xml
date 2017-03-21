@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1364" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14</xref>
+		<text>On which occasion should you inflate your tyres to more than their normal pressure?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1364-1"/>
+	<explanation>
+		<text>Check the vehicle handbook. This should give you guidance on the correct tyre pressures for your vehicle and when you may need to adjust them. If you’re carrying a heavy load, you may need to adjust the headlights as well. Most cars have a switch on the dashboard to do this.</text>
+		<voice id="BB1364-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When the roads are slippery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When the vehicle is fitted with anti-lock brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When the tyre tread is worn below 2 mm</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When carrying a heavy load</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

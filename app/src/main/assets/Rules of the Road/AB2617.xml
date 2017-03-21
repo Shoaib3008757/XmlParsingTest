@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2617" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r146</xref>
+		<text>Who has priority at an unmarked crossroads?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2617-1"/>
+	<explanation>
+		<text>Practise good observation in all directions before you emerge or make a turn. Proceed only when you’re sure it’s safe to do so.</text>
+		<voice id="AB2617-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The larger vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No one has priority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The faster vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The smaller vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

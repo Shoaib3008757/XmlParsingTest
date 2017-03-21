@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2885" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p19</xref>
+		<text>Which of these signs shows that you are entering a one-way system?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2885-1"/>
+	<explanation>
+		<text>If the road has two lanes you can use either lane and overtake on either side. Use the lane that’s more convenient for your destination unless signs or road markings indicate otherwise.</text>
+		<voice id="AB2885-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2885a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2885b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2885c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2885d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

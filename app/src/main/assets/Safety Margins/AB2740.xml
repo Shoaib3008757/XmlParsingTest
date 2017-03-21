@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2740" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r126</xref>
+		<text>You are following a vehicle at a safe distance on a wet road. Another driver overtakes you and pulls into the gap you have left. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2740-1"/>
+	<explanation>
+		<text>Wet weather will affect the time it takes for you to stop and can affect your control. Your speed should allow you to stop safely and in good time. If another vehicle pulls into the gap you’ve left, ease back until you’ve regained your stopping distance.</text>
+		<voice id="AB2740-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Flash your headlights as a warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Try to overtake safely as soon as you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Drop back to regain a safe distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stay close to the other vehicle until it moves on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

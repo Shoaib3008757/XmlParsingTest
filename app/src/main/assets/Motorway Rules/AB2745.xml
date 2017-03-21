@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2745" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r264</xref>
+		<text>Immediately after joining a motorway you should normally</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2745-1"/>
+	<explanation>
+		<text>Stay in the left-hand lane long enough to get used to the higher speeds of motorway traffic.</text>
+		<voice id="AB2745-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>try to overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>re-adjust your mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>position your vehicle in the centre lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep in the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

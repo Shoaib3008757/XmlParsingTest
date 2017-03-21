@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1087" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r178</xref>
+		<text>You are behind this cyclist. When the traffic lights change, what should you do?</text>
+		<graphic>BB1087.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1087-1"/>
+	<explanation>
+		<text>Hold back and allow the cyclist to move off. In some towns, junctions have special areas marked across the front of the traffic lane. These allow cyclists to wait for the lights to change and move off ahead of other traffic.</text>
+		<voice id="BB1087-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Try to move off before the cyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Allow the cyclist time and room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn right but give the cyclist room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tap your horn and drive through first</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

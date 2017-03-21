@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1226" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r293, KYTS p27</xref>
+		<text>You are waiting at a level crossing. The red warning lights continue to flash after a train has passed by. What should you do?</text>
+		<graphic>BB1226.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1226-1"/>
+	<explanation>
+		<text>At a level crossing flashing red lights mean you must stop. If the train passes but the lights keep flashing, wait. There may be another train coming.</text>
+		<voice id="BB1226-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Get out and investigate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Telephone the signal operator</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Continue to wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive across carefully</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

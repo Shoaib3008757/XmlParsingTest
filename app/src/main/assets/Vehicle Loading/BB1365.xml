@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1365" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r98</xref>
+		<text>A heavy load on your roof rack will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1365-1"/>
+	<explanation>
+		<text>A heavy load on your roof rack will reduce the stability of the vehicle because it moves the centre of gravity away from that designed by the manufacturer. Be aware of this when you negotiate bends and corners. If you change direction at speed, your vehicle and/or load could become unstable and you could lose control.</text>
+		<voice id="BB1365-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>improve the road holding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reduce the stopping distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>make the steering lighter</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce stability</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

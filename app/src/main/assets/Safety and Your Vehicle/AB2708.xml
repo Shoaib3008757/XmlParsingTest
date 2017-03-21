@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2708" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p129</xref>
+		<text>What can cause excessive or uneven tyre wear?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2708-1"/>
+	<explanation>
+		<text>If you see that parts of the tread on your tyres are wearing before others, it may indicate a brake, steering or suspension fault. Regular servicing will help to detect faults at an early stage and this will avoid the risk of minor faults becoming serious or even dangerous.</text>
+		<voice id="AB2708-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A faulty gearbox</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A faulty braking system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A faulty electrical system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A faulty exhaust system</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

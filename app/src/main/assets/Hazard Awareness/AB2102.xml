@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2102" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s10, KYTS p24</xref>
+		<text>When approaching this bridge you should give way to</text>
+		<graphic>AB2102.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2102-1"/>
+	<explanation>
+		<text>A double-deck bus or high-sided lorry will have to take up a position in the centre of the road so that it can clear the bridge. There is normally a sign to indicate this. Look well down the road, through the bridge and be aware you may have to stop and give way to an oncoming large vehicle.</text>
+		<voice id="AB2102-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>bicycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>buses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>motorcycles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cars</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

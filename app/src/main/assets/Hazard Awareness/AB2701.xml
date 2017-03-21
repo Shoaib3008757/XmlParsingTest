@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2701" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC p113, HC p117, KYTS p135</xref>
+		<text>You see this sign on the rear of a slow-moving lorry that you want to pass. It is travelling in the middle lane of a three-lane motorway. You should</text>
+		<graphic>AB2701.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2701-1"/>
+	<explanation>
+		<text>This sign is found on slow-moving or stationary works vehicles. If you wish to overtake, do so on the left, as indicated. Be aware that there might be workmen in the area.</text>
+		<voice id="AB2701-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>cautiously approach the lorry then pass on either side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>follow the lorry until you can leave the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wait on the hard shoulder until the lorry has stopped</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>approach with care and keep to the left of the lorry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

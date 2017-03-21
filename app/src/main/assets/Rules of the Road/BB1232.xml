@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1232" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9</xref>
+		<text>When you are NOT sure that it is safe to reverse your vehicle you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1232-1"/>
+	<explanation>
+		<text>If you can’t see all around your vehicle get out and have a look. You could also ask someone reliable outside the vehicle to guide you. A small child could easily be hidden directly behind you. Don’t take risks.</text>
+		<voice id="BB1232-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>rev your engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>get out and check</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reverse slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

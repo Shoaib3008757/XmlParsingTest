@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2855" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at the scene of a crash. Someone is bleeding badly from an arm wound. There is nothing embedded in it. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2855-1"/>
+	<explanation>
+		<text>If possible, lay the casualty down. Check for anything that may be in the wound. Apply firm pressure to the wound using clean material, without pressing on anything which might be in it. Raising the arm above the level of the heart will also help to stem the flow of blood.</text>
+		<voice id="AB2855-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Apply pressure over the wound and keep the arm down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Dab the wound</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Get them a drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Apply pressure over the wound and raise the arm</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1776" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p120</xref>
+		<text>Which of these is needed before you can drive legally?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1776-1"/>
+	<explanation>
+		<text>Make sure that you have a valid driving licence and proper insurance cover before driving any vehicle. It is also a legal requirement that the appropriate vehicle excise duty (road tax) has been paid.</text>
+		<voice id="BB1776-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A vehicle handbook</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Proper insurance cover</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A vehicle service record</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Breakdown cover</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

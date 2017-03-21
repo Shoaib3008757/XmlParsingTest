@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1724" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>How can missing out some gear changes save fuel?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1724-1"/>
+	<explanation>
+		<text>Missing out some gears helps to reduce the amount of time you are accelerating and this saves fuel. You don’t always need to change up or down through each gear. As you accelerate between each gear more fuel is injected into the engine than if you had maintained constant acceleration. Fewer gear changes means less fuel used.</text>
+		<voice id="BB1724-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>By reducing the amount of time you are accelerating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because there is less need to use the footbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By controlling the amount of steering</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because coasting is kept to a minimum</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

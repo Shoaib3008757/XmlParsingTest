@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2401" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r127, HC p114, KYTS p62</xref>
+		<text>Which is a hazard warning line?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2401-1"/>
+	<explanation>
+		<text>You need to know the difference between the normal centre line and a hazard warning line. If there is a hazard ahead, the markings are longer and the gaps shorter. This gives you advanced warning of an unspecified hazard ahead.</text>
+		<voice id="AB2401-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2401a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2401b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2401c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2401d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

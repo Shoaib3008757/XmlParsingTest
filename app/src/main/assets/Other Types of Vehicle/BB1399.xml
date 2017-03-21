@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1399" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are driving along this road. What should you be prepared to do?</text>
+		<graphic>BB1399.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1399-1"/>
+	<explanation>
+		<text>Sometimes large vehicles may need more space than other road users. If a vehicle needs more time and space to turn be prepared to stop and wait.</text>
+		<voice id="BB1399-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sound your horn and continue</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down and give way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Report the driver to the police</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Squeeze through the gap</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

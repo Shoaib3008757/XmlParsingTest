@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2938" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>A casualty has an injured arm. They can move it freely but it is bleeding. Why should you get them to keep it in a raised position?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2938-1"/>
+	<explanation>
+		<text>If a casualty is bleeding heavily, raise the limb to a higher position. This will help to reduce the blood flow. Before raising the limb you should make sure that it is not broken.</text>
+		<voice id="AB2938-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Because it will ease the pain</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will help them to be seen more easily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To stop them touching other people</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It will help to reduce the blood flow</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

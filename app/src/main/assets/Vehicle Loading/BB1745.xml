@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1745" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r98</xref>
+		<text>Any load that is carried on a roof rack should be</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1745-1"/>
+	<explanation>
+		<text>The safest way to carry items on the roof is in a specially designed roof box. This will help to keep your luggage secure and dry, and also has less wind resistance than loads carried on a roof rack.</text>
+		<voice id="BB1745-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>securely fastened when driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>loaded towards the rear of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>visible in your exterior mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>covered with plastic sheeting</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

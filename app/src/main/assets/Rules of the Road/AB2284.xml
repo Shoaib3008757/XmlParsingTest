@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2284" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r105-109</xref>
+		<text>You MUST stop when signalled to do so by a</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2284-1"/>
+	<explanation>
+		<text>You MUST obey signals to stop given by police and traffic officers, traffic wardens and school crossing patrols. Failure to do so is an offence and could lead to prosecution.</text>
+		<voice id="AB2284-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>motorcyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pedestrian</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>police officer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>bus driver</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

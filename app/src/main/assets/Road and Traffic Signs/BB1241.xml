@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1241" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p135</xref>
+		<text>You are driving on a motorway. There is a slow-moving vehicle ahead. On the back you see this sign. You should</text>
+		<graphic>BB1241.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1241-1"/>
+	<explanation>
+		<text>If a vehicle displaying this sign is in your lane you will have to pass it on the left. Use your mirrors and signal. When it’s safe move into the lane on your left. You should always look well ahead so that you can spot any hazards early, giving yourself time to react safely.</text>
+		<voice id="BB1241-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>pass on the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>pass on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave at the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive no further</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

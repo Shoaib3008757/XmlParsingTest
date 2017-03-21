@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1783" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>When approaching a tunnel it is good advice to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1783-1"/>
+	<explanation>
+		<text>On the approach to tunnels a sign will usually show a local radio channel. It should give a warning of any incidents or congestion in the tunnel ahead. Many radios can be set to automatically pick up traffic announcements and local frequencies. If you have to tune the radio manually don’t be distracted while doing so. Incidents in tunnels can lead to serious casualties. The greatest hazard is fire. Getting an advance warning of problems could save your life and others.</text>
+		<voice id="BB1783-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>put on your sunglasses and use the sun visor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>check your tyre pressures</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change down to a lower gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>make sure your radio is tuned to the frequency shown</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

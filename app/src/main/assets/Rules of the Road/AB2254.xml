@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2254" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p21</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2254.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2254-1"/>
+	<explanation>
+		<text>A red slash through this sign indicates that the restriction has ended. In this case the restriction was a minimum speed limit of 30 mph.</text>
+		<voice id="AB2254-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Minimum speed 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of maximum speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>End of minimum speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Maximum speed 30 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

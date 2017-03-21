@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1699" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>The Pass Plus scheme has been created for new drivers. What is its main purpose?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1699-1"/>
+	<explanation>
+		<text>New drivers are far more vulnerable on the road and more likely to be involved in incidents and collisions. The Pass Plus scheme has been designed to improve new drivers’ basic skills and help widen their driving experience.</text>
+		<voice id="BB1699-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To allow you to drive faster</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow you to carry passengers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To improve your basic skills</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To let you drive on motorways</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1594" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r116, HC r274</xref>
+		<text>Hazard warning lights should be used when vehicles are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1594-1"/>
+	<explanation>
+		<text>Don’t use hazard lights as an excuse for illegal parking. If you do use them, don’t forget to switch them off when you move away. There must be a warning light on the control panel to show when the hazard lights are in operation.</text>
+		<voice id="BB1594-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>broken down and causing an obstruction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>faulty and moving slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>being towed along a road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reversing into a side road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

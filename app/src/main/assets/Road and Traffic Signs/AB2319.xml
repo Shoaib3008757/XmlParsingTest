@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2319" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p18</xref>
+		<text>What does this traffic sign mean?</text>
+		<graphic>AB2319.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2319-1"/>
+	<explanation>
+		<text>Priority signs are normally shown where the road is narrow and there isn’t enough room for two vehicles to pass. These can be at narrow bridges, road works and where there’s a width restriction. Make sure that you know who has priority, don’t force your way through. Show courtesy and consideration to other road users.</text>
+		<voice id="AB2319-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No overtaking allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give priority to oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Two way traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>One-way traffic only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

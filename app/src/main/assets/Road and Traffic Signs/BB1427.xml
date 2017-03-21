@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1427" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p116, KYTS p56</xref>
+		<text>You should NOT normally stop on these markings near schools</text>
+		<graphic>BB1427.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1427-1"/>
+	<explanation>
+		<text>At schools you should not stop on yellow zigzag lines for any length of time, not even to set down or pick up children or other passengers.</text>
+		<voice id="BB1427-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>except when picking up children</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>under any circumstances</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>unless there is nowhere else available</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>except to set down children</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0505" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s7, HC r141</xref>
+		<text>Andrea is waiting to turn right in the town centre. Cars are parked along the roadside, obstructing Andrea’s view. There are many shop windows. The area is busy with traffic and pedestrians. Further on, a vehicle is unloading on the left and there are several oncoming cars.  At inactive traffic lights a police officer is directing traffic. He is facing Andrea with one hand straight up, his palm showing. There is a bus lane, but no signs showing periods of operation or permitted use by other vehicles.</text>
+		<part>In the bus lane, what is indicated by the absence of signs?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0505-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Other vehicles can use the bus lane at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only certain vehicles can use the bus lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The lane can only be used by buses at all times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There has not been enough time to erect a sign</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0505-2"/>
+	</explanation>
+</QF>

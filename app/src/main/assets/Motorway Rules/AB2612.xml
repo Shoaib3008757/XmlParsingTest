@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2612" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s11, HC r132</xref>
+    <text>You are on a three-lane motorway. There are red reflective studs on your left and white ones to your right. Where are you?</text>
+    <graphic>AB2612.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2612-1"/>
+  <explanation>
+    <text>The colours of the reflective studs on the motorway and their locations are
+      <unorderedlist>
+        <item>• red – between the hard shoulder and the carriageway</item>
+        <item>• white – lane markings</item>
+        <item>• amber – between the edge of the carriageway and the central reservation</item>
+        <item>• green – along slip road exits and entrances</item>
+        <item>• bright green/yellow – roadworks and contraflow systems.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2612-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>In the right-hand lane</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>In the middle lane</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>On the hard shoulder</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>In the left-hand lane</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

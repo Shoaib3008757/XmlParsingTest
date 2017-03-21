@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2643" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s10, HC r110-111</xref>
+		<text>You should ONLY flash your headlights to other road users</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2643-1"/>
+
+<explanation>
+		<text>You should only flash your headlights to warn others of your presence. Don’t use them to greet others, show impatience or give priority to other road users. They could misunderstand your signal.</text>
+		<voice id="AB2643-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>to show that you are giving way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>to show that you are about to turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>to tell them that you have right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>to let them know that you are there</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

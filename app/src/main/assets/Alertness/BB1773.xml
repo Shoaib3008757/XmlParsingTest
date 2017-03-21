@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1773" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>You must not use a hand-held phone while driving. Using a hands-free system</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1773-1"/>
+
+<explanation>
+		<text>While driving your concentration is required all the time. Even using a hands-free kit can still distract your attention from the road. Any distraction, however brief, is potentially dangerous and could cause you to lose control. Except in a genuine emergency, it is an offence to use a hand-held phone while driving.</text>
+		<voice id="BB1773-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>is acceptable in a vehicle with power steering</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>will significantly reduce your field of vision</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>will affect your vehicle's electronic systems</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>is still likely to distract your attention from the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

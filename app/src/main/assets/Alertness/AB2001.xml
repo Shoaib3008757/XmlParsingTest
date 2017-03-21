@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2001" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s4, DES s9, HC r159-161</xref>
+		<text>Before you make a U-turn in the road, you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2001-1"/>
+
+        <explanation>
+		<text>If you want to make a U-turn, slow down and ensure that the road is clear in both directions. Make sure that the road is wide enough to carry out the manoeuvre safely.</text>
+		<voice id="AB2001-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>give an arm signal as well as using your indicators</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>signal so that other drivers can slow down for you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>look over your shoulder for a final check</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>select a higher gear than normal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2272" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s9</xref>
+		<text>You are approaching a busy junction. There are several lanes with road markings. At the last moment you realise that you are in the wrong lane. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2272-1"/>
+	<explanation>
+		<text>There are times where road markings can be obscured by queuing traffic, or you might be unsure which lane you need to be in. If you realise that you’re in the wrong lane, don’t cut across lanes or bully other drivers to let you in. Follow the lane you’re in and find somewhere safe to turn around if you need to.</text>
+		<voice id="AB2272-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>continue in that lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>force your way across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop until the area has cleared</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use clear arm signals to cut across</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

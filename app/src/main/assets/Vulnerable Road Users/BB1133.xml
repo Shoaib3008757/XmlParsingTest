@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1133" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r202</xref>
+		<text>Who is especially in danger of not being seen as you reverse your car?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1133-1"/>
+	<explanation>
+		<text>As you look through the rear of your vehicle you may not be able to see a small child. Be aware of this before you reverse. If there are children about, get out and check if it is clear before reversing.</text>
+		<voice id="BB1133-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Motorcyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Car drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Children</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

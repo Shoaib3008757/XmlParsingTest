@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2022" topic="Attitude" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s10, DES s11, HC r126</xref>
+    <text>‘Tailgating’ means</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2022-1"/>
+
+<explanation>
+    <text>‘Tailgating’ is used to describe this dangerous practice, often seen in fast-moving traffic and on motorways. Following the vehicle in front too closely is dangerous because it
+      <unorderedlist>
+        <item>• restricts your view of the road ahead</item>
+        <item>• leaves you no safety margin if the vehicle in front slows down or stops suddenly.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2022-2"/>
+  </explanation>
+
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>using the rear door of a hatchback car</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>reversing into a parking space</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>following another vehicle too closely</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>driving with rear fog lights on</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+  
+</QF>

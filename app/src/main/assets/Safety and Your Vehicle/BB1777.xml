@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1777" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17, HC r123</xref>
+		<text>You are leaving your vehicle parked on a road unattended. When may you leave the engine running?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1777-1"/>
+	<explanation>
+		<text>When you leave your vehicle parked on a road, switch off the engine and secure the vehicle. Make sure there aren’t any valuables visible, shut all the windows, lock the vehicle, set the alarm if it has one and use an anti-theft device such as a steering wheel lock.</text>
+		<voice id="BB1777-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>If you will be parking for less than five minutes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>If the battery keeps going flat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When parked in a 20 mph zone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Never if you are away from the vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

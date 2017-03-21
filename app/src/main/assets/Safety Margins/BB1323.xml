@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1323" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>Your vehicle has anti-lock brakes, but they may not always prevent skidding. This is most likely to happen when driving</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1323-1"/>
+	<explanation>
+		<text>On gravel or loose surfaces, anti-lock brakes (ABS) may be ineffective. ABS may also be ineffective in very wet weather, when water can build up between the tyre and the road surface. This is known as aquaplaning.</text>
+		<voice id="BB1323-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>in foggy conditions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at night on unlit roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>on loose road surfaces</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on dry tarmac</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

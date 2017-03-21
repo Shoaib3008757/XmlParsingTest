@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2902" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r95</xref>
+		<text>What’s an effect of drinking alcohol?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2902-1"/>
+	<explanation>
+		<text>Alcohol will severely reduce your ability to drive or ride safely and there are serious consequences if you’re caught over the drink-drive limit. It’s known that alcohol can
+		<unorderedlist>
+        <item>• affect your judgement</item>
+		<item>• cause overconfidence</item>
+		<item>• reduce coordination and control.</item>
+		</unorderedlist>
+		</text>
+		<voice id="AB2902-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Poor judgement of speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A loss of confidence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Faster reactions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Greater awareness of danger</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1634" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10</xref>
+		<text>When emerging from junctions, which is most likely to obstruct your view?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1634-1"/>
+
+<explanation>
+		<text>Windscreen pillars can block your view, particularly at junctions. Those road users most at risk of not being seen are cyclists, motorcyclists and pedestrians. Never rely on just a quick glance.</text>
+		<voice id="BB1634-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Windscreen pillars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steering wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Interior mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Windscreen wipers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

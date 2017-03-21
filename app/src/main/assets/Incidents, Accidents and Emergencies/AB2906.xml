@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2906" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You’re the first to arrive at the scene of a crash. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2906-1"/>
+	<explanation>
+		<text>At a crash scene you can help in practical ways, even if you aren’t trained in first aid. Call the emergency services and make sure you don’t put yourself or anyone else in danger. The safest way to warn other traffic is by switching on your hazard warning lights.</text>
+		<voice id="AB2906-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave as soon as another motorist arrives</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flag down other motorists to help you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drag all casualties away from the vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Call the emergency services promptly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

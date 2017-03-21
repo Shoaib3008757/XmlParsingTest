@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2559" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p117</xref>
+		<text>Where would you see this sign?</text>
+		<graphic>AB2559.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2559-1"/>
+	<explanation>
+		<text>Watch out for children crossing the road from the other side of the bus.</text>
+		<voice id="AB2559-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Near a school crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At a playground entrance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On a school bus</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>At a ‘pedestrians only’ area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

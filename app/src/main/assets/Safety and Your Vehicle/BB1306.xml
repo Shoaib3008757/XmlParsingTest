@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1306" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>What can you do to help the environment?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1306-1"/>
+	<explanation>
+		<text>Although the car is a convenient form of transport, it can also cause damage to health and the environment, especially when used on short journeys. Before you travel, consider other types of transport. Walking and cycling are better for your health and public transport can be quicker, more convenient and less stressful than driving.</text>
+		<voice id="BB1306-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Cycle when possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive on under-inflated tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only use your car for short journeys</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use the brakes heavily</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

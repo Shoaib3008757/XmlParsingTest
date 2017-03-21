@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1754" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>You are carrying a child in your car. They are under three years of age. Which of these is a suitable restraint?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1754-1"/>
+	<explanation>
+		<text>It’s your responsibility to ensure that all children in your car are secure. Suitable restraints include a child seat, baby seat, booster seat or booster cushion. It’s essential that any restraint used should be suitable for the child’s size and weight, and fitted to the manufacturers instructions.</text>
+		<voice id="BB1754-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>A child seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An adult holding a child</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An adult seat belt</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An adult lap belt</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

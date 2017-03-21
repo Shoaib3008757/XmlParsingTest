@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1514" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r92</xref>
+		<text>You find that you need glasses to read vehicle number plates at the required distance. When MUST you wear them?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1514-1"/>
+	<explanation>
+		<text>Have your eyesight tested before you start your practical training. Then, throughout your driving life, have checks periodically to ensure that your eyes haven’t deteriorated.</text>
+		<voice id="BB1514-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Only in bad weather conditions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>At all times when driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only when you think it necessary</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only in bad light or at night time</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

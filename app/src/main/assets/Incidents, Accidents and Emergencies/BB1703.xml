@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1703" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p130</xref>
+		<text>Your engine catches fire. What should you do first?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1703-1"/>
+	<explanation>
+		<text>If you suspect a fire in the engine compartment you should pull up as safely and as quickly as possible. DO NOT open the bonnet as this will fuel the fire further. Get any passengers out of the vehicle and dial 999 immediately to contact the fire brigade.</text>
+		<voice id="BB1703-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Lift the bonnet and disconnect the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lift the bonnet and warn other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Call a breakdown service</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Call the fire brigade</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1045" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r97</xref>
+		<text>What will reduce the risk of neck injury resulting from a collision?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1045-1"/>
+	<explanation>
+		<text>If you’re involved in a collision, head restraints will reduce the risk of neck injury. They must be properly adjusted. Make sure they aren’t positioned too low, in a crash this could cause damage to the neck.</text>
+		<voice id="BB1045-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>An air-sprung seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Anti-lock brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A collapsible steering wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A properly adjusted head restraint</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

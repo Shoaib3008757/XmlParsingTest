@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1761" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>New drivers can take further training after passing the practical test. A Pass Plus course will help to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1761-1"/>
+	<explanation>
+		<text>Novice drivers are much more likely to be involved in a collision than experienced drivers. The Pass Plus scheme gives structured training to help new drivers improve basic skills and widen their experience. Approved Driving Instructors (ADIs) will be able to advise of the benefits.</text>
+		<voice id="BB1761-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>get your car through its MOT test</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>widen your experience</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your insurance premiums</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>get you cheaper road tax</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

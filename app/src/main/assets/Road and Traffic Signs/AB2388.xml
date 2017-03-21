@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2388" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>You are at a junction controlled by traffic lights. When should you NOT proceed at green?</text>
+		<graphic>AB2388.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2388-1"/>
+	<explanation>
+		<text>As you approach the lights look into the road you wish to take. Only proceed if your exit road is clear. If the road is blocked hold back, even if you have to wait for the next green signal.</text>
+		<voice id="AB2388-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When pedestrians are waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When your exit from the junction is blocked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you think the lights may be about to change</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you intend to turn right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

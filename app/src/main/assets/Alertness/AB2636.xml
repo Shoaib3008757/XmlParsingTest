@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2636" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s4</xref>
+		<text>Which of the following should you do before stopping?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2636-1"/>
+<explanation>
+		<text>Before pulling up check the mirrors to see what is happening behind you. Also assess what is ahead and make sure you give the correct signal if it helps other road users.</text>
+		<voice id="AB2636-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Use the mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Select a higher gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1713" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>Your vehicle is insured third party only. This covers</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1713-1"/>
+	<explanation>
+		<text>This type of insurance cover is usually cheaper than comprehensive. However, it doesn’t cover any damage you cause to your own vehicle or property. It only covers damage and injury you cause to others.</text>
+		<voice id="BB1713-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>damage to your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>damage to other vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>injury to yourself</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>all damage and injury</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

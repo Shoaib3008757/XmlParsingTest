@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2658" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r154</xref>
+		<text>You are following a slower-moving vehicle on a narrow country road. There is a junction just ahead on the right. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2658-1"/>
+	<explanation>
+		<text>You should never overtake as you approach a junction. If a vehicle emerged from the junction while you were overtaking, a dangerous situation could develop very quickly.</text>
+		<voice id="AB2658-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake after checking your mirrors and signalling</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stay behind until you are past the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Accelerate quickly to pass before the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow down and prepare to overtake on the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

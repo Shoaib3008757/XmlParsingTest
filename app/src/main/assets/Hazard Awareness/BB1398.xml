@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1398" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1</xref>
+		<text>You have been involved in an argument before starting your journey. This has made you feel angry. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1398-1"/>
+	<explanation>
+		<text>If you are feeling upset or angry you should wait until you have calmed down before setting out on a journey.</text>
+		<voice id="BB1398-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>start to drive, but open a window</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive slower than normal and turn your radio on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>have an alcoholic drink to help you relax before driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>calm down before you start to drive</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

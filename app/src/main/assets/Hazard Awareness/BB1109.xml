@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1109" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>You are invited to a pub lunch. You know that you will have to drive in the evening. What is your best course of action?</text>
+		<graphic>BB1109.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1109-1"/>
+	<explanation>
+		<text>Alcohol will stay in the body for several hours and may make you unfit to drive later in the day. Drinking during the day will also affect your performance at work or study.</text>
+		<voice id="BB1109-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Avoid mixing your alcoholic drinks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Not drink any alcohol at all</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Have some milk before drinking alcohol</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Eat a hot meal with your alcoholic drinks</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

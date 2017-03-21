@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1493" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s11, DES s15, DES s16, HC r116, HC r274</xref>
+		<text>You’re driving on a motorway. When can you use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1493-1"/>
+	<explanation>
+		<text>Briefly using your hazard warning lights will warn the traffic travelling behind you that there’s a hazard ahead. This can reduce the chance of vehicles crashing into the back of each other.</text>
+		<voice id="BB1493-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When a vehicle is following too closely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When you slow down quickly because of danger ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you’re towing another vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you’re driving on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

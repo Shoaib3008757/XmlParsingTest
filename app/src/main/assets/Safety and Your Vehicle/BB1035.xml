@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1035" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>The main cause of brake fade is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1035-1"/>
+	<explanation>
+		<text>If your vehicle is fitted with drum brakes they can get hot and lose efficiency. This happens when they’re used continually, such as on a long, steep, downhill stretch of road. Using a lower gear will assist the braking and help prevent the vehicle gaining momentum.</text>
+		<voice id="BB1035-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>the brakes overheating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>air in the brake fluid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>oil on the brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the brakes out of adjustment</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1202" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>Monique has just bought her first car, a good second-hand vehicle. It has passed its MOT, but the vehicle excise licence (road tax) expires in five days.  Monique arranges and pays for the highest level of insurance cover available and receives the usual form of temporary cover note for use until her full certificate arrives.  Taking her documents, she then goes to the local Post Office to renew the vehicle excise licence.</text>
+		<part>When would Monique need to contact DVLA?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1202-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>If she changes her employment status</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>If she changes her name and address</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>If she chooses to go abroad for a holiday</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>If she is told to do so by a traffic officer</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1202-2"/>
+	</explanation>
+</QF>

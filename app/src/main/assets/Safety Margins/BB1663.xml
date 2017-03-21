@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1663" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>Anti-lock brakes will take effect when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1663-1"/>
+	<explanation>
+		<text>If your car is fitted with anti-lock brakes they will take effect when you use them very firmly in an emergency. The system will only activate when it senses the wheels are about to lock.</text>
+		<voice id="BB1663-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you do not brake quickly enough</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>maximum brake pressure has been applied</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you have not seen a hazard ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>speeding on slippery road surfaces</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

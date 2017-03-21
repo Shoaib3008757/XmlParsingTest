@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2935" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p117</xref>
+		<text>A tanker is involved in a collision. Which sign shows that it is carrying dangerous goods?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2935-1"/>
+	<explanation>
+		<text>There will be an orange label on the side and rear of the tanker. Look at this carefully and report what it says when you phone the emergency services. Details of hazard warning plates are given in The Highway Code.</text>
+		<voice id="AB2935-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2935a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2935b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2935c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2935d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2631" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>A red traffic light means</text>
+		<graphic>AB2631.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2631-1"/>
+	<explanation>
+		<text>The white line is generally positioned so that pedestrians have room to cross in front of waiting traffic. Don’t move off while pedestrians are crossing, even if the lights change to green.</text>
+		<voice id="AB2631-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>you must stop behind the white stop line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you may go straight on if there is no other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you may turn left if it is safe to do so</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you must slow down and prepare to stop if traffic has started to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

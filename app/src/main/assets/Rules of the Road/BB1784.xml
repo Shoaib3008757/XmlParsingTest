@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1784" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r241</xref>
+		<text>What MUST you have to park in a disabled space?</text>
+		<graphic>BB1784.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1784-1"/>
+	<explanation>
+		<text>Don’t park in a space reserved for disabled people unless you or your passenger are a disabled badge holder. The badge must be displayed in your vehicle in the bottom left-hand corner of the windscreen.</text>
+		<voice id="BB1784-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>A Blue Badge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A wheelchair</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An advanced driver certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>An adapted vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

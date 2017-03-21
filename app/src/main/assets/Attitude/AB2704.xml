@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2704" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, DES s11, HC r126</xref>
+		<text>You are in a line of traffic. The driver behind you is following very closely. What action should you take?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2704-1"/>
+
+<explanation>
+		<text>If the driver behind is following too closely, there’s a danger they’ll collide with the back of your car if you stop suddenly. You can reduce this risk by slowing down and increasing the safety margin in front of you. This reduces the chance that you’ll have to stop suddenly and allows you to spread your braking over a greater distance. This is an example of defensive driving.</text>
+		<voice id="AB2704-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Ignore the following driver and continue to travel within the speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down, gradually increasing the gap between you and the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Signal left and wave the following driver past</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move over to a position just left of the centre line of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

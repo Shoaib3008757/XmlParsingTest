@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2802" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>Why is it a good idea to plan your journey to avoid busy times?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2802-1"/>
+	<explanation>
+		<text>No one likes to spend time in traffic queues. Try to avoid busy times related to school or work travel. As well as moving vehicles you should also consider congestion caused by parked cars, buses and coaches around schools.</text>
+		<voice id="AB2802-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>You will have an easier journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will have a more stressful journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your journey time will be longer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will cause more traffic congestion</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS1203" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>Monique has just bought her first car, a good second-hand vehicle. It has passed its MOT, but the vehicle excise licence (road tax) expires in five days.  Monique arranges and pays for the highest level of insurance cover available and receives the usual form of temporary cover note for use until her full certificate arrives.  Taking her documents, she then goes to the local Post Office to renew the vehicle excise licence.</text>
+		<part>What is the highest level of insurance cover available?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS1203-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Complimentary</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Comprehensive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Complicated</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Compromising</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS1203-2"/>
+	</explanation>
+</QF>

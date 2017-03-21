@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2318" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p50</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2318.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2318-1"/>
+	<explanation>
+		<text>In order to keep roads free from parked cars, there are some areas where you’re allowed to park on the verge. Only do this where you see the sign. Parking on verges or footways anywhere else could lead to a fine.</text>
+		<voice id="AB2318-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Vehicles may not park on the verge or footway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles may park on the left-hand side of the road only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Vehicles may park fully on the verge or footway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles may park on the right-hand side of the road only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

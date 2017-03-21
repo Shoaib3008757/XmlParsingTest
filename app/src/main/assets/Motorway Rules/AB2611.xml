@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2611" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s11, HC r290</xref>
+    <text>When going through a contraflow system on a motorway you should</text>
+    <graphic>AB2611.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2611-1"/>
+  <explanation>
+    <text>There’s likely to be a speed restriction in force. Keep to this. Don’t
+      <unorderedlist>
+        <item>• switch lanes</item>
+        <item>• get too close to traffic in front of you.</item>
+      </unorderedlist>
+      Be aware there will be no permanent barrier between you and the oncoming traffic.</text>
+    <voice id="AB2611-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>ensure that you do not exceed 30 mph</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>keep a good distance from the vehicle ahead</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>switch lanes to keep the traffic flowing</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>stay close to the vehicle ahead to reduce queues</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

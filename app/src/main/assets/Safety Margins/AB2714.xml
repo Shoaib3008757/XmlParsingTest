@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2714" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r126</xref>
+		<text>In good conditions, what is the typical stopping distance at 70 mph?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2714-1"/>
+	<explanation>
+		<text>Note that this is the typical stopping distance. It will take at least this distance to think, brake and stop in good conditions. In poor conditions it will take much longer.</text>
+		<voice id="AB2714-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>53 metres (175 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 metres (197 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>73 metres (240 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>96 metres (315 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1003" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r148</xref>
+		<text>Which of the following may cause loss of concentration on a long journey?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1003-1"/>
+
+<explanation>
+		<text>You shouldn’t allow yourself to be distracted when driving. You need to concentrate fully in order to be safe on the road. Loud music could mask other sounds, such as the audible warning of an emergency vehicle. Any distraction that causes you to take your hands off the steering wheel or your eyes off the road could be dangerous.</text>
+		<voice id="BB1003-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Keeping fresh air circulating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Arguing with a passenger</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stopping regularly to rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pulling up to tune the radio</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

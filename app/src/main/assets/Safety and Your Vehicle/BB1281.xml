@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1281" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>When a roof rack is not in use it should be removed. Why is this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1281-1"/>
+	<explanation>
+		<text>We are all responsible for the environment we live in. If each driver takes responsibility for conserving fuel, together it will make a difference.</text>
+		<voice id="BB1281-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It will affect the suspension</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It is illegal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It will affect your braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It will waste fuel</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

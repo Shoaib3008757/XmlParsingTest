@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1543" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r98</xref>
+		<text>Overloading your vehicle can seriously affect the</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1543-1"/>
+	<explanation>
+		<text>Any load will have an effect on the handling of your vehicle and this becomes worse as you increase the load. You need to be aware of this when carrying passengers, heavy loads, fitting a roof rack or towing a trailer.</text>
+		<voice id="BB1543-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>gearbox</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>journey time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>handling</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>battery life</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

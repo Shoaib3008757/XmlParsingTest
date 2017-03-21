@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2729" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r208, HC r238, KYTS p56</xref>
+		<text>You must not stop on these road markings because you may obstruct</text>
+		<graphic>AB2729.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2729-1"/>
+	<explanation>
+		<text>These markings are found on the road outside schools. DO NOT stop (even to set down or pick up children) or park on them. The markings are to make sure that drivers, riders, children and other pedestrians have a clear view.</text>
+		<voice id="AB2729-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>children’s view of the crossing area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>teachers’ access to the school</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>delivery vehicles’ access to the school</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>emergency vehicles’ access to the school</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

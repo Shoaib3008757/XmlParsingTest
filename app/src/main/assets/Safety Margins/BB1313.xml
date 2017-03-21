@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1313" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, DES s12, HC r120</xref>
+		<text>Anti-lock brakes reduce the chances of a skid occurring particularly when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1313-1"/>
+	<explanation>
+		<text>The anti-lock braking system will operate when the brakes have been applied harshly. It will reduce the chances of your car skidding, but it is not a miracle cure for careless driving.</text>
+		<voice id="BB1313-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>driving down steep hills</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>braking during normal driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>braking in an emergency</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving on good road surfaces</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

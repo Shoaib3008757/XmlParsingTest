@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2879" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>An injured motorcyclist is lying unconscious in the road. You should always</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2879-1"/>
+	<explanation>
+		<text>If someone has been injured, the sooner proper medical attention is given the better. Send someone to phone for help or go yourself. An injured person should only be moved if they’re in further danger. An injured motorcyclist’s helmet should NOT be removed unless it is essential.</text>
+		<voice id="AB2879-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>remove the safety helmet</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>seek medical assistance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move the person off the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>remove the leather jacket</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2232" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r275</xref>
+		<text>You break down on a motorway. You need to call for help. Why may it be better to use an emergency roadside telephone rather than a mobile phone?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2232-1"/>
+	<explanation>
+		<text>On a motorway it is best to use a roadside emergency telephone so that the emergency services are able to locate you easily. The nearest telephone is shown by an arrow on marker posts at the edge of the hard shoulder. If you use a mobile, they will need to know your exact location. Before you call, find out the number on the nearest marker post. This number will identify your exact location.</text>
+		<voice id="AB2232-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>It connects you to a local garage</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Using a mobile phone will distract other drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It allows easy location by the emergency services</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Mobile phones do not work on motorways</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

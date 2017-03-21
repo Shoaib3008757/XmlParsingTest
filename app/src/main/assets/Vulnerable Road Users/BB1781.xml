@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1781" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r208, HC r238, KYTS p56</xref>
+		<text>Yellow zigzag lines on the road outside schools mean</text>
+		<graphic>BB1781.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1781-1"/>
+	<explanation>
+		<text>Where there are yellow zigzag markings, you should not park, wait or stop, even to pick up or drop off children. A vehicle parked on the zigzag lines would obstruct children's view of the road and other drivers view of the pavement. Where there is an upright sign there is mandatory prohibition of stopping during the times shown.</text>
+		<voice id="BB1781-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound your horn to alert other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop to allow children to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you should not park or stop on these lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you must not drive over these lines</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

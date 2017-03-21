@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2901" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>A police officer asks to see your documents. You do not have them with you. You may be asked to take them to a police station within</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2901-1"/>
+	<explanation>
+		<text>You don’t have to carry the documents for your vehicle around with you. If a police officer asks to see them and you don’t have them with you, you may be asked to produce them at a police station within seven days.</text>
+		<voice id="AB2901-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>5 days</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>7 days</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>14 days</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>21 days</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

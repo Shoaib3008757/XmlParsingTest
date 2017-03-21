@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1481" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC r277</xref>
+		<text>Your vehicle has broken down on a motorway. You are not able to stop on the hard shoulder. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1481-1"/>
+	<explanation>
+		<text>If you can’t get your vehicle onto the hard shoulder, use your hazard warning lights to warn others. Leave your vehicle only when you can safely get clear of the carriageway. Do not try to repair the vehicle or attempt to place any warning device on the carriageway.</text>
+		<voice id="BB1481-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Switch on your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop following traffic and ask for help</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Attempt to repair your vehicle quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stand behind your vehicle to warn others</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

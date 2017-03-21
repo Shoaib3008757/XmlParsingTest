@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2696" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r225</xref>
+		<text>Ahead of you there is a moving vehicle with a flashing amber beacon. This means it is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2696-1"/>
+	<explanation>
+		<text>As you approach the vehicle, assess the situation. Due to its slow progress you will need to judge whether it is safe to overtake.</text>
+		<voice id="AB2696-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>slow moving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>broken down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a doctor’s car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a school crossing patrol</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

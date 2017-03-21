@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2605" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12</xref>
+		<text>You have to make a journey in foggy conditions. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2605-1"/>
+	<explanation>
+		<text>If you’re planning to make a journey when it’s foggy, listen to the weather reports on the radio or television. Don’t travel if visibility is very poor or your trip isn’t necessary. If you do travel, leave plenty of time for your journey. If someone is expecting you at the other end, let them know that you’ll be taking longer than normal to arrive.</text>
+		<voice id="AB2605-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>follow other vehicles’ tail lights closely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>avoid using dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>leave plenty of time for your journey</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep two seconds behind other vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2911" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r126</xref>
+		<text>In heavy motorway traffic the vehicle behind you is following too closely. How can you lower the risk of a collision?</text>
+		<graphic>AB2911.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2911-1"/>
+	<explanation>
+		<text>On busy roads traffic may still travel at high speeds despite being close together. Don’t follow too closely to the vehicle in front. If a driver behind seems to be ‘pushing’ you, gradually increase your distance from the vehicle in front by slowing down gently. This will give you more space in front if you have to brake, and lessen the risk of a collision involving several vehicles.</text>
+		<voice id="AB2911-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Increase your distance from the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Operate the brakes sharply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on your hazard lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move onto the hard shoulder and stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

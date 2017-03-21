@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1667" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r253, HC p122</xref>
+		<text>As a provisional licence holder, you mustn’t drive a motor car</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1667-1"/>
+	<explanation>
+		<text>When you’ve passed your practical test you’ll be able to drive on a motorway. It’s recommended that you have instruction on motorway driving before you venture out on your own. Ask your instructor about this.</text>
+		<voice id="BB1667-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>at more than 40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with passengers in the rear seats</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>on the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>between 11.30 pm and 7.00 am</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

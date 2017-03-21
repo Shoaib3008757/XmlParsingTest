@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1697" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>Your car requires an MOT certificate. When is it legal to drive it without an MOT certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1697-1"/>
+	<explanation>
+		<text>When a car is three years old (four years old in Northern Ireland), it MUST pass an MOT test and have a valid MOT certificate before it can be used on the road. Exceptionally, you may
+		<unorderedlist>
+        <item>• drive to a pre-arranged test appointment or to a garage for repairs required for the test</item>
+        <item>• drive vehicles made before 1960 without an MOT test, but they must be in a roadworthy condition before being used on the road.</item>
+		</unorderedlist></text>
+		<voice id="BB1697-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Up to seven days after the old certificate has run out</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When driving to an MOT centre to arrange an appointment</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When driving the car with the owner’s permission</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When driving to an appointment at an MOT centre</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

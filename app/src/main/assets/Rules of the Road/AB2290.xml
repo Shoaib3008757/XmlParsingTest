@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2290" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r199</xref>
+		<text>Who can use a toucan crossing?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2290-1"/>
+	<explanation>
+		<text>Toucan crossings are similar to pelican crossings but there’s no flashing amber phase. Cyclists share the crossing with pedestrians and are allowed to cycle across when the green cycle symbol is shown.</text>
+		<voice id="AB2290-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Trains</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Cyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Buses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Trams</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

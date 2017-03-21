@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2892" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103, HC p103</xref>
+		<text>Which arm signal tells you that the car you are following is going to pull up?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2892-1"/>
+	<explanation>
+		<text>There may be occasions when drivers need to give an arm signal to confirm an indicator. This could include in bright sunshine, at a complex road layout, when stopping at a pedestrian crossing or when turning right just after passing a parked vehicle. You should understand what each arm signal means. If you give arm signals, make them clear, correct and decisive.</text>
+		<voice id="AB2892-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2892a.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2892b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2892c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2892d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

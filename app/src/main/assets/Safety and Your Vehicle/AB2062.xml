@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2062" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC p115</xref>
+		<text>'Red routes' in major cities have been introduced to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2062-1"/>
+	<explanation>
+		<text>Traffic jams today are often caused by the volume of traffic. However, inconsiderate parking can lead to the closure of an inside lane or traffic having to wait for oncoming vehicles. Driving slowly in traffic increases fuel consumption and causes a build-up of exhaust fumes.</text>
+		<voice id="AB2062-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>raise the speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>help the traffic flow</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>provide better parking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow lorries to load more freely</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

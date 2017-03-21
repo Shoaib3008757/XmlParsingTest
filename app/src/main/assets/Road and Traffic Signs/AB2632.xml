@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2632" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103, HC p103</xref>
+		<text>The driver of this car is giving an arm signal. What are they about to do?</text>
+		<graphic>AB2632.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2632-1"/>
+	<explanation>
+		<text>In some situations drivers may need to give arm signals, in addition to indicators, to make their intentions clear. For arm signals to be effective, all road users should know their meaning.</text>
+		<voice id="AB2632-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Turn to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Go straight ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Let pedestrians cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

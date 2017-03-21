@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2606" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r114-115</xref>
+		<text>You are overtaking a car at night. You must be sure that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2606-1"/>
+	<explanation>
+		<text>To prevent your lights from dazzling the driver of the car in front, wait until you’ve overtaken before switching to full beam.</text>
+		<voice id="AB2606-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you flash your headlights before overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you select a higher gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you have switched your lights to full beam before overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you do not dazzle other road users</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

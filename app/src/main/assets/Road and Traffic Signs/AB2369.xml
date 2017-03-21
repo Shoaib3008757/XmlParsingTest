@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2369" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p114</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2369.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2369-1"/>
+	<explanation>
+		<text>If you intend to take a left turn, this sign shows you that you can’t get through to another route using the left-turn junction ahead.</text>
+		<voice id="AB2369-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Turn left for parking area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No through road on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No entry for traffic turning left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn left for ferry terminal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

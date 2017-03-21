@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2624" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r160</xref>
+		<text>When approaching a right-hand bend you should keep well to the left. Why is this?</text>
+		<graphic>AB2624.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2624-1"/>
+	<explanation>
+		<text>Doing this will give you an earlier view around the bend and enable you to see any hazards sooner. It also reduces the risk of collision with an oncoming vehicle that may have drifted over the centre line while taking the bend.</text>
+		<voice id="AB2624-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To improve your view of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To overcome the effect of the road’s slope</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To let faster traffic from behind overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To be positioned safely if you skid</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

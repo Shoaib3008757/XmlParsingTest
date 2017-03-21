@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2748" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p102</xref>
+		<text>You are in the right-hand lane on a motorway. You see these overhead signs. This means</text>
+		<graphic>AB2748.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2748-1"/>
+	<explanation>
+		<text>You MUST obey this sign. There might not be any visible signs of a problem ahead. However, there might be queuing traffic or another hazard which you cannot yet see.</text>
+		<voice id="AB2748-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>move to the left and reduce your speed to 50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there are roadworks 50 metres (55 yards) ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use the hard shoulder until you have passed the hazard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

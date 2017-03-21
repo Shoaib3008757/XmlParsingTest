@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1686" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>Holding the clutch pedal down or rolling in neutral for too long while driving will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1686-1"/>
+	<explanation>
+		<text>Holding the clutch down or staying in neutral for too long will cause your vehicle to freewheel. This is known as ‘coasting’ and it is dangerous as it reduces your control of the vehicle.</text>
+		<voice id="BB1686-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use more fuel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cause the engine to overheat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduce your control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve tyre wear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

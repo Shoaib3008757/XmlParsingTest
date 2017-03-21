@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1062" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>You’re driving in freezing conditions. What should you do when approaching a sharp bend?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1062-1"/>
+	<explanation>
+		<text>Harsh use of the accelerator, brakes or steering is likely to lead to skidding, especially on slippery surfaces. Avoid steering and braking at the same time. In icy conditions it’s very important that you constantly assess what’s ahead, so that you can take appropriate action in plenty of time.</text>
+		<voice id="BB1062-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Coast into the bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Gently apply your handbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Firmly use your footbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down before you reach the bend</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

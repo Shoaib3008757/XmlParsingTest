@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2857" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>You are on a three-lane motorway and see this sign. It means you can use</text>
+		<graphic>AB2857.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2857-1"/>
+	<explanation>
+		<text>Mandatory speed limit signs above all lanes including the hard shoulder, show that you are in an Active Traffic Management (ATM) area. In this case you can use the hard shoulder as a running lane. You must stay within the speed limit shown. Look out for any vehicles that may have broken down and be blocking the hard shoulder.</text>
+		<voice id="AB2857-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>any lane except the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the hard shoulder only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the three right hand lanes only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>all the lanes including the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1157" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232-233</xref>
+		<text>It is very windy. You are behind a motorcyclist who is overtaking a high-sided vehicle. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1157-1"/>
+	<explanation>
+		<text>Motorcyclists are affected more by windy weather than other vehicles. In windy conditions, high-sided vehicles cause air turbulence. You should keep well back as the motorcyclist could be blown off course.</text>
+		<voice id="BB1157-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake the motorcyclist immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Keep well back</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stay level with the motorcyclist</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep close to the motorcyclist</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

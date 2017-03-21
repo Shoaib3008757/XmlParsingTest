@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2743" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r253</xref>
+		<text>Which of these must NOT use motorways?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2743-1"/>
+	<explanation>
+		<text>Motorways MUST NOT be used by learner drivers, pedestrians, cyclists, motorcycles under 50 cc, certain slow-moving vehicles without permission, and invalid carriages weighing less than 254 kg (560 lbs).</text>
+		<voice id="AB2743-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Cars driven by learner drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorcycles over 50 cc</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Double-deck buses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cars with automatic transmission</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

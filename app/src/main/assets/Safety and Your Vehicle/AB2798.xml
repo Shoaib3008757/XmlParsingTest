@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2798" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>Before starting a journey it is wise to plan your route. How can you do this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2798-1"/>
+	<explanation>
+		<text>Planning your journey before you set out can help to make it much easier, more pleasant and may help to ease traffic congestion. Look at a map to help you to do this. You may need different scale maps depending on where and how far you’re going. Printing or writing out the route can also help.</text>
+		<voice id="AB2798-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Look at a map</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Contact your local garage</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Look in your vehicle handbook</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Check your vehicle registration document</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

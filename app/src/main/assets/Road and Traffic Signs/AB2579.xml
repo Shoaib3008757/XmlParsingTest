@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2579" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p139</xref>
+		<text>You see this sign at a crossroads. You should</text>
+		<graphic>AB2579.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2579-1"/>
+	<explanation>
+		<text>When traffic lights are out of order treat the junction as an unmarked crossroad. Be very careful as no one has priority and be prepared to stop.</text>
+		<voice id="AB2579-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>maintain the same speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>carry on with great care</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>find another route</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>telephone the police</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

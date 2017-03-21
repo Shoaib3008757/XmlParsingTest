@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2177" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r164, HC r222</xref>
+		<text>You are waiting to emerge left from a minor road. A large vehicle is approaching from the right. You have time to turn, but you should wait. Why?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2177-1"/>
+	<explanation>
+		<text>Large vehicles can hide other vehicles that are overtaking, especially motorcycles which may be filtering past queuing traffic. You need to be aware of the possibility of hidden vehicles and not assume that it is safe to emerge.</text>
+		<voice id="AB2177-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>The large vehicle can easily hide an overtaking vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The large vehicle can turn suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The large vehicle is difficult to steer in a straight line</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The large vehicle can easily hide vehicles from the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

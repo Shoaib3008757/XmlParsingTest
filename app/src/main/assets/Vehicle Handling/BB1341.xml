@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1341" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>You have been driving in thick fog which has now cleared. You must switch OFF your rear fog lights because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1341-1"/>
+	<explanation>
+		<text>It is essential that the traffic behind is given a clear warning when you brake. In good visibility, your rear fog lights can make it hard for others to see your brake lights. Make sure you switch off your fog lights when the visibility improves.</text>
+		<voice id="BB1341-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>they use a lot of power from the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>they make your brake lights less clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they will cause dazzle in your rear view mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they may not be properly adjusted</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

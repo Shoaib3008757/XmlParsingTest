@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1656" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>When leaving your car to help keep it secure you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1656-1"/>
+	<explanation>
+		<text>To help keep your car secure when you leave it, you should always remove the key from the ignition, lock it and take the key with you. Don’t make it easy for thieves.</text>
+		<voice id="BB1656-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>leave the hazard warning lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>lock it and remove the key</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park on a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park in a residential area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

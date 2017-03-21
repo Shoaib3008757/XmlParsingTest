@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1480" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r264</xref>
+		<text>You are driving at 70 mph on a three-lane motorway. There is no traffic ahead. Which lane should you use?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1480-1"/>
+	<explanation>
+		<text>If the left-hand lane is free you should use it, regardless of the speed you’re travelling.</text>
+		<voice id="BB1480-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Any lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Middle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Left lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

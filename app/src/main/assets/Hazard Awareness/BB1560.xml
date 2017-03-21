@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1560" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r95</xref>
+		<text>Drinking any amount of alcohol is likely to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1560-1"/>
+	<explanation>
+		<text>If you’re going to drive, the safest option is not to drink at all. Your judgement will be seriously impaired and it’s not worth the risk to yourself and other road users.</text>
+		<voice id="BB1560-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>affect your judgement of speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase the speed of your reactions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>lower your driving confidence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve your awareness of danger</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

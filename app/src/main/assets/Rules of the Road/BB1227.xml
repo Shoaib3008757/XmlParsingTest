@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1227" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r293</xref>
+		<text>You are driving over a level crossing. The warning lights come on and a bell rings. What should you do?</text>
+		<graphic>BB1227.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1227-1"/>
+	<explanation>
+		<text>Keep going, don’t stop on the crossing. If the amber warning lights come on as you’re approaching the crossing, you MUST stop unless it is unsafe to do so. Red flashing lights together with an audible signal mean you MUST stop.</text>
+		<voice id="BB1227-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Get everyone out of the vehicle immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop and reverse back to clear the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Keep going and clear the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop immediately and use your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

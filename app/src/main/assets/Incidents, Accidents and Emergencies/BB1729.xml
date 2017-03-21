@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1729" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You are driving through a tunnel. Your vehicle catches fire. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1729-1"/>
+	<explanation>
+		<text>The main dangers in a tunnel fire are suffocation and smoke. If you can do so safely it’s better to drive a burning vehicle out of a tunnel. If you can’t do this, pull over, switch off the engine, use hazard warning lights and phone immediately for help. It may be possible to put out a small fire but if it seems large do NOT tackle it!</text>
+		<voice id="BB1729-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Continue through the tunnel if you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn your vehicle around immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Reverse out of the tunnel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Carry out an emergency stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

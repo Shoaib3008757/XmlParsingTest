@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1797" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You are driving through a tunnel. There has been a collision and the car in front is on fire and blocking the road. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1797-1"/>
+	<explanation>
+		<text>If the vehicle in front is on fire, you should pull over to the side and stop. Switch on your warning lights and switch off your engine. If you can locate a fire extinguisher use it to put out the fire, taking great care. Do NOT open the bonnet. Always call for help from the nearest emergency point and if possible give first aid to anyone who is injured.</text>
+		<voice id="BB1797-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake and continue as quickly as you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lock all the doors and windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Switch on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop, then reverse out of the tunnel</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

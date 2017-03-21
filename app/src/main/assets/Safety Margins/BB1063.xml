@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1063" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r231</xref>
+		<text>You are turning left on a slippery road. The back of your vehicle slides to the right. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1063-1"/>
+	<explanation>
+		<text>Steer into the skid but be careful not to overcorrect with too much steering. Too much movement may lead to a skid in the opposite direction. Skids don’t just happen, they are caused. The three important factors in order are the driver, the vehicle and the road conditions.</text>
+		<voice id="BB1063-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>brake firmly and not turn the steering wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steer carefully to the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>steer carefully to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake firmly and steer to the left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

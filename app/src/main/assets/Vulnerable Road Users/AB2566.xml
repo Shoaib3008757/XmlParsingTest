@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2566" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r217</xref>
+		<text>You are following a learner driver who stalls at a junction. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2566-1"/>
+	<explanation>
+		<text>Learning is a process of practice and experience. Try to understand this and tolerate those who are at the beginning of this process.</text>
+		<voice id="AB2566-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>be patient as you expect them to make mistakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stay very close behind and flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>start to rev your engine if they take too long to restart</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>immediately steer around them and drive on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

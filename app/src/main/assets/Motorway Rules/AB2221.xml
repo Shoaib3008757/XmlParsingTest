@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2221" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r261, HC p40</xref>
+		<text>What is the national speed limit for cars and motorcycles in the centre lane of a three-lane motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2221-1"/>
+	<explanation>
+		<text>Unless shown otherwise, the speed limit on a motorway applies to all the lanes. Look out for any signs of speed limit changes due to roadworks or traffic flow control.</text>
+		<voice id="AB2221-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

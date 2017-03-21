@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1544" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r98</xref>
+		<text>Who is responsible for making sure that a vehicle is not overloaded?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1544-1"/>
+	<explanation>
+		<text>Your vehicle must not be overloaded. Carrying heavy loads will affect control and handling characteristics. If your vehicle is overloaded and it causes a crash, you’ll be held responsible.</text>
+		<voice id="BB1544-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>The driver of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The owner of the items being carried</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The person who loaded the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The licensing authority</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

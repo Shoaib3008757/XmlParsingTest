@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1564" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91, HC r95-96, HC r148</xref>
+		<text>What can seriously affect your ability to concentrate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1564-1"/>
+	<explanation>
+		<text>Both recreational drugs and prescribed medicine can affect your concentration. It’s also now an offence to drive with certain drugs in your body and a positive test could lead to a conviction.</text>
+		<voice id="BB1564-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Drugs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Busy roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tinted windows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Contact lenses</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

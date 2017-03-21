@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2023" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r222</xref>
+		<text>Following this vehicle too closely is unwise because</text>
+		<graphic>AB2023.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2023-1"/>
+<explanation>
+		<text>Staying back will increase your view of the road ahead. This will help you to see any hazards that might occur and allow you more time to react.</text>
+		<voice id="AB2023-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your brakes will overheat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your view ahead is increased</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your engine will overheat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>your view ahead is reduced</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

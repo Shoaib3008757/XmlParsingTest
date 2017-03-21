@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2929" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p133</xref>
+		<text>You arrive at an incident. There has been an engine fire and someone’s hands and arms have been burnt. You should NOT</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2929-1"/>
+	<explanation>
+		<text>This could cause further damage and infection to the wound. Your first priority is to cool the burn with a clean, cool, non-toxic liquid, preferably water. Don’t forget the casualty may be in shock.</text>
+		<voice id="AB2929-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>douse the burn thoroughly with clean cool non-toxic liquid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>lay the casualty down on the ground</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>remove anything sticking to the burn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reassure them confidently and repeatedly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

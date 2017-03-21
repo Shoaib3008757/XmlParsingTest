@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1640" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r97</xref>
+		<text>The most important reason for having a properly adjusted head restraint is to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1640-1"/>
+	<explanation>
+		<text>The restraint should be adjusted so that it gives maximum protection to the head and neck. This will help in the event of a rear-end collision.</text>
+		<voice id="BB1640-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>make you more comfortable</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>help you to avoid neck injury</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>help you to relax</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>help you to maintain your driving position</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

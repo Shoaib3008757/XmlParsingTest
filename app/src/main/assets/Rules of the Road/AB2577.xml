@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2577" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r181</xref>
+		<text>You are intending to turn right at a crossroads. An oncoming driver is also turning right. It will normally be safer to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2577-1"/>
+	<explanation>
+		<text>At some junctions the layout may make it difficult to turn offside to offside. If this is the case, be prepared to pass nearside to nearside, but take extra care as your view ahead will be obscured by the vehicle turning in front of you.</text>
+		<voice id="AB2577-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>keep the other vehicle to your RIGHT and turn behind it (offside to offside)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep the other vehicle to your LEFT and turn in front of it (nearside to nearside)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>carry on and turn at the next junction instead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>hold back and wait for the other driver to turn first</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

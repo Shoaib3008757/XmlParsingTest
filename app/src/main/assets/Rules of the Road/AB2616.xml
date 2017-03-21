@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2616" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r137</xref>
+		<text>You’re on a two-lane dual carriageway. Why would you use the right-hand lane?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2616-1"/>
+	<explanation>
+		<text>Normally you should travel in the left-hand lane and only use the right-hand lane for overtaking or turning right. Move back into the left lane as soon as it’s safe but don’t cut in across the path of the vehicle you’ve just passed.</text>
+		<voice id="AB2616-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To overtake slower traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>For normal progress</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When staying at the minimum allowed speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To keep driving at a constant high speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

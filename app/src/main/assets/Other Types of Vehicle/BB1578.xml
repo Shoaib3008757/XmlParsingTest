@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1578" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r224</xref>
+		<text>As a driver why should you be more careful where trams operate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1578-1"/>
+	<explanation>
+		<text>You should take extra care when you first encounter trams. You will have to get used to dealing with a different traffic system. Be aware that they can accelerate and travel very quickly and that they cannot change direction to avoid obstructions.</text>
+		<voice id="BB1578-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Because they do not have a horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because they do not stop for cars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because they do not have lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Because they cannot steer to avoid you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

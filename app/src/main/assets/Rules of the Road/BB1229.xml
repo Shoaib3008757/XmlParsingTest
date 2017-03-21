@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1229" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9</xref>
+		<text>You may remove your seat belt when carrying out a manoeuvre that involves</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1229-1"/>
+	<explanation>
+		<text>Don’t forget to put your seat belt back on when you’ve finished reversing.</text>
+		<voice id="BB1229-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>reversing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a hill start</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an emergency stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>driving slowly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

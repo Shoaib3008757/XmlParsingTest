@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1649" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r279-280</xref>
+		<text>You are on the motorway. Luggage falls from your vehicle. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1649-1"/>
+	<explanation>
+		<text>If any object falls onto the motorway carriageway from your vehicle pull over onto the hard shoulder near an emergency telephone and phone for assistance. Don’t stop on the carriageway or attempt to retrieve anything.</text>
+		<voice id="BB1649-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Stop at the next emergency telephone and contact the police</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop on the motorway and put on hazard lights while you pick it up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Walk back up the motorway to pick it up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull up on the hard shoulder and wave traffic down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

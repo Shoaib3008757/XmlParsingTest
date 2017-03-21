@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1533" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p122</xref>
+		<text>Who is responsible for paying the vehicle excise duty (road tax)?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1533-1"/>
+	<explanation>
+		<text>The registered keeper of the vehicle is responsible for paying the vehicle excise duty or making a Statutory Off-Road Notification (SORN) if the vehicle is to be kept untaxed and off the road.</text>
+		<voice id="BB1533-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The driver of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The registered keeper of the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The car dealer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The Driver and Vehicle Licensing Agency (DVLA)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

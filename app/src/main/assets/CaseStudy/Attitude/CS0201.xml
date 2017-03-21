@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0201" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r237</xref>
+		<text>Sam is driving in heavy traffic. It has rained, but now bright sun is causing glare on the wet road.  A car overtakes, then pulls back sharply into the traffic just in front of Sam.  Further on there’s a roundabout with two lanes on approach. Sam needs to take the first exit, turning left. A large vehicle in front signals left but straddles both lanes.  The traffic is still heavy, and there is a zebra crossing up ahead.  There are people waiting to cross.</text>
+		<part>If affected by the road condition, how should Sam react?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0201-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Slow down and, if necessary, stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up to get out of the sunlight</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn around and go back home</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn on hazard lights and wipers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0201-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1381" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9</xref>
+		<text>You are reversing your vehicle into a side road. When would the greatest hazard to passing traffic occur?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1381-1"/>
+	<explanation>
+		<text>Always check road and traffic conditions in all directions before reversing into a side road. Keep a good look-out throughout the manoeuvre. Act on what you see and wait if necessary.</text>
+		<voice id="BB1381-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>After you’ve completed the manoeuvre</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Just before you actually begin to manoeuvre</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>After you’ve entered the side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When the front of your vehicle swings out</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

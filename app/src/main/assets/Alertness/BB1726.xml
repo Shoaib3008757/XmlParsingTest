@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1726" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r150</xref>
+		<text>Your vehicle is fitted with a navigation system. How should you avoid letting this distract you while driving?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1726-1"/>
+
+<explanation>
+		<text>Vehicle navigation systems can be useful when driving on unfamiliar routes. However they can also distract you and cause you to lose control if you look at or adjust them while driving. Pull up in a convenient and safe place before adjusting them.</text>
+		<voice id="BB1726-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Keep going and input your destination into the system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep going as the system will adjust to your route</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop immediately to view and use the system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop in a safe place before using the system</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

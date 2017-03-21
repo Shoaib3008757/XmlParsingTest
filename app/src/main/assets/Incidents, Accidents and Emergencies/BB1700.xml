@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1700" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC p128</xref>
+		<text>While driving, a warning light on your vehicle’s instrument panel comes on. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1700-1"/>
+	<explanation>
+		<text>Make sure you know what the different warning lights mean. An illuminated warning light could mean that your car is unsafe to drive. Don’t take risks. If you aren’t sure about the problem get a qualified mechanic to check it.</text>
+		<voice id="BB1700-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>continue if the engine sounds all right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>hope that it is just a temporary electrical fault</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>deal with the problem when there is more time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check out the problem quickly and safely</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

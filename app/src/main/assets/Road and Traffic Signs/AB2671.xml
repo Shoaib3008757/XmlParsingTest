@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2671" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p12</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2671.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2671-1"/>
+	<explanation>
+		<text>You should be careful in these locations as the road surface is likely to be wet and slippery. There may be a steep drop to the water, and there may not be a barrier along the edge of the road.</text>
+		<voice id="AB2671-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Quayside or river bank</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steep hill downwards</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Uneven road surface</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road liable to flooding</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

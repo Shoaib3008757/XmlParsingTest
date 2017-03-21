@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2087" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211-213</xref>
+		<text>What is the main hazard shown in this picture?</text>
+		<graphic>AB2087.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2087-1"/>
+	<explanation>
+		<text>Look at the picture carefully and try to imagine you’re there. The cyclist in this picture appears to be trying to cross the road. You must be able to deal with the unexpected, especially when you’re approaching a hazardous junction. Look well ahead to give yourself time to deal with any hazards.</text>
+		<voice id="AB2087-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Vehicles turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles doing U-turns</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The cyclist crossing the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parked cars around the corner</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

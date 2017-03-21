@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1721" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>Your vehicle catches fire while driving through a tunnel. It is still driveable. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1721-1"/>
+	<explanation>
+		<text>If it’s possible, and you can do so without causing further danger, it may be safer to drive a vehicle which is on fire out of a tunnel. The greatest danger in a tunnel fire is smoke and suffocation.</text>
+		<voice id="BB1721-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Leave it where it is with the engine running</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pull up, then walk to an emergency telephone point</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park it away from the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Drive it out of the tunnel if you can do so</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

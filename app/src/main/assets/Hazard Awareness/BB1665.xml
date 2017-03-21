@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1665" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r154</xref>
+		<text>You are driving towards this left-hand bend. What dangers should you be aware of?</text>
+		<graphic>BB1665.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1665-1"/>
+	<explanation>
+		<text>Pedestrians walking on a road with no pavement should walk against the direction of the traffic. You can’t see around this bend: there may be hidden dangers. Always keep this in mind so you give yourself time to react if a hazard does arise.</text>
+		<voice id="BB1665-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>A vehicle overtaking you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No white lines in the centre of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No sign to warn you of the bend</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pedestrians walking towards you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2120" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r170</xref>
+		<text>You are turning left from a main road into a side road. People are already crossing the road into which you are turning. You should</text>
+		<graphic>AB2120.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2120-1"/>
+	<explanation>
+		<text>Always check the road into which you are turning. Approaching at the correct speed will allow you enough time to observe and react. Give way to any pedestrians already crossing the road.</text>
+		<voice id="AB2120-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>continue, as it is your right of way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>signal to them to continue crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>wait and allow them to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn to warn them of your presence</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

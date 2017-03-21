@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1682" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12</xref>
+		<text>You have to make a journey in fog. What should you do before you set out?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1682-1"/>
+	<explanation>
+		<text>If you have to drive in fog, switch your dipped-beam headlights on and keep your windscreen clear. You should always be able to pull up within the distance you can see ahead.</text>
+		<voice id="BB1682-2"/>
+	</explanation>s
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Top up the radiator with anti-freeze</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make sure that you have a warning triangle in the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Make sure that the windows are clean</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Check the battery</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1368" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14</xref>
+		<text>Your vehicle pulls to one side when braking. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1368-1"/>
+	<explanation>
+		<text>The brakes on your vehicle must be effective and properly adjusted. If your vehicle pulls to one side when braking, take it to be checked by a qualified mechanic. Don’t take risks.</text>
+		<voice id="BB1368-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>change the tyres around</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>consult your garage as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pump the pedal when braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use your handbrake at the same time</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2830" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Rapid acceleration and heavy braking can lead to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2830-1"/>
+	<explanation>
+		<text>Using the controls smoothly can reduce fuel consumption by about 15% as well as reducing wear and tear on your vehicle. Plan ahead and anticipate changes of speed well in advance. This will reduce the need to accelerate rapidly or brake sharply.</text>
+		<voice id="AB2830-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduced pollution</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>increased fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reduced exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increased road safety</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1593" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r116, HC r274</xref>
+		<text>When may you use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1593-1"/>
+	<explanation>
+		<text>Hazard warning lights may be used to warn other road users when you have broken down and are causing an obstruction, or are on a motorway and want to warn following traffic of a hazard ahead. Don’t use them when being towed or when parking illegally.</text>
+		<voice id="BB1593-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To park alongside another car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To park on double yellow lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you are being towed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When you have broken down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2944" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r290</xref>
+		<text>When entering a contraflow system, you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2944-1"/>
+	<explanation>
+		<text>In a contraflow system, you’ll be travelling close to oncoming traffic and sometimes in narrow lanes. You should get into the correct lane in good time, obey the temporary speed limit signs and keep a safe separation distance from the vehicle ahead.</text>
+		<voice id="AB2944-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>choose an appropriate lane in good time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch lanes at any time to make progress</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase speed to pass through quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>follow other motorists closely to avoid long queues</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2243" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r132</xref>
+		<text>What colour are the reflective studs between the lanes on a motorway?</text>
+		<graphic>AB2243.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2243-1"/>
+	<explanation>
+		<text>White studs are found between the lanes on motorways. The light from your headlights is reflected back and this is especially useful in bad weather, when visibility is restricted.</text>
+		<voice id="AB2243-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Green</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>White</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Red</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

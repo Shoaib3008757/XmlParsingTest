@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2922" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at an incident which has only just happened and someone is injured. What should be given urgent priority?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2922-1"/>
+	<explanation>
+		<text>The first priority with a casualty is to make sure their airway is clear and they’re breathing. Any wounds should be checked for objects and bleeding stemmed using clean material. Ensure the emergency services are called as they’re the experts. If you’re not first aid trained, consider getting training. It might save a life.</text>
+		<voice id="AB2922-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Ask for witnesses’ details</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give the injured person a warm drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop any severe bleeding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Note the registration numbers of vehicles involved</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

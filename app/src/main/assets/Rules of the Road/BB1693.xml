@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1693" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20</xref>
+		<text>To help keep your vehicle secure at night, where should you park?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1693-1"/>
+	<explanation>
+		<text>Whenever possible park in an area which will be well lit at night.</text>
+		<voice id="BB1693-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Near a police station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In a quiet road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a red route</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In a well-lit area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

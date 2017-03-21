@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2331" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p19</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2331.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2331-1"/>
+	<explanation>
+		<text>These signs are often seen in one-way streets that have more than one lane. When you see this sign, use the route that’s the most convenient and doesn’t require a late change of direction.</text>
+		<voice id="AB2331-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Give way to oncoming vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Approaching traffic passes you on both sides</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn off at the next available junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pass either side to get to the same destination</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

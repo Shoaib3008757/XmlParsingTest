@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1595" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r202</xref>
+		<text>You cannot see clearly behind when reversing. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1595-1"/>
+
+<explanation>
+		<text>If you want to turn your car around try to find a place where you have good all-round vision. If this isn’t possible and you’re unable to see clearly, then get someone to guide you.</text>
+		<voice id="BB1595-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Open your window to look behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Open the door and look behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Look in the nearside mirror</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Ask someone to guide you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

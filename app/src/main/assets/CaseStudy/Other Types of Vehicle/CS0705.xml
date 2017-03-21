@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0705" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>It’s dry but very windy. On the motorway, you see a car towing a large caravan in the middle lane. You then move onto a long open stretch of single carriageway, where you pass a motorcyclist. Later, you are travelling behind a long vehicle and want to overtake. Once in town, there are trams directed by traffic light signals and you have to drive across their tracks. Further on, a bus is signalling its intention to pull out from a bus stop.</text>
+		<part>What should you do about the bus? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0705-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Speed up and pass it before it pulls out</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive past slowly so the driver can see you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give way as long as it is safe to do so</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop and switch on hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0705-2"/>
+	</explanation>
+</QF>

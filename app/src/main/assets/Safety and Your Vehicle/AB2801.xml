@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2801" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>Planning your route before setting out can be helpful. How can you do this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2801-1"/>
+	<explanation>
+		<text>Print or write down your route before setting out. Some places are not well signed so using place names and road numbers may help you avoid problems en route. Try to get an idea of how far you’re going before you leave. You can also use it to re-check the next stage at each rest stop.</text>
+		<voice id="AB2801-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Look in a motoring magazine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only visit places you know</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Try to travel at busy times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Print or write down the route</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

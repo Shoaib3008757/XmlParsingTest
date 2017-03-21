@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2562" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r187, HC r211</xref>
+		<text>You are travelling behind a moped. You want to turn left just ahead. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2562-1"/>
+	<explanation>
+		<text>Passing the moped and turning into the junction could mean that you cut across the front of the rider. This might force them to slow down, stop or even lose control. Slow down and stay behind the moped until it has passed the junction and you can then turn safely.</text>
+		<voice id="AB2562-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtake the moped before the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull alongside the moped and stay level until just before the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn as a warning and pull in front of the moped</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stay behind until the moped has passed the junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

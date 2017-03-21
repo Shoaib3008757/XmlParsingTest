@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2163" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r211</xref>
+		<text>Motorcyclists are particularly vulnerable</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2163-1"/>
+	<explanation>
+		<text>Another road user failing to see a motorcyclist is a major cause of collisions at junctions. Wherever streams of traffic join or cross there’s the potential for this type of incident to occur.</text>
+		<voice id="AB2163-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>when moving off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on dual carriageways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>at junctions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on motorways</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

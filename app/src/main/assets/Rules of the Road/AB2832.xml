@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2832" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r108</xref>
+		<text>You are travelling on a motorway in England. You MUST stop when signalled to do so by which of these?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2832-1"/>
+	<explanation>
+		<text>You’ll find traffic officers on England’s motorways. They work in partnership with the police, helping to keep traffic moving and to make your journey as safe as possible. It is an offence not to comply with the directions given by a traffic officer.</text>
+		<voice id="AB2832-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Flashing amber lights above your lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A traffic officer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pedestrians on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A driver who has broken down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

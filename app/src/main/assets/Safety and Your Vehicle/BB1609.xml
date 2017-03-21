@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1609" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r243</xref>
+		<text>Where would parking your vehicle cause an obstruction?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1609-1"/>
+	<explanation>
+		<text>Don’t park your vehicle where it may obstruct access to a business or property. Think carefully before you slow down and stop. Look at road markings and signs to ensure that you aren’t parking illegally.</text>
+		<voice id="BB1609-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Alongside a parking meter</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In front of a property entrance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On your driveway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In a marked parking space</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

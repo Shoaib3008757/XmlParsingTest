@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2839" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r261</xref>
+		<text>On a motorway what is used to reduce traffic bunching?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2839-1"/>
+	<explanation>
+		<text>Congestion can be reduced by keeping traffic at a constant speed. At busy times maximum speed limits are displayed on overhead gantries. These can be varied quickly depending on the amount of traffic. By keeping to a constant speed on busy sections of motorway overall journey times are normally improved.</text>
+		<voice id="AB2839-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Variable speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Contraflow systems</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>National speed limits</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lane closures</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

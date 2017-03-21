@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2948" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>RES s2, HC p122</xref>
+		<text>When should you update your vehicle registration certificate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2948-1"/>
+	<explanation>
+		<text>As the registered keeper of a vehicle it is up to you to inform DVLA of any changes in your vehicle details, for example, change of name or address. You do this by completing the relevant section of the registration certificate and sending it to them.</text>
+		<voice id="AB2948-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When you pass your driving test</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When you move house</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When your vehicle needs an MOT</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you have a collision</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

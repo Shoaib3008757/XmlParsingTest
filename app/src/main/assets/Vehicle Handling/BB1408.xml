@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1408" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s7</xref>
+		<text>How can you use the engine of your vehicle to control your speed?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1408-1"/>
+	<explanation>
+		<text>You should brake and slow down before selecting a lower gear. The gear can then be used to keep the speed low and help you control the vehicle. This is particularly helpful on long downhill stretches, where brake fade can occur if the brakes overheat.</text>
+		<voice id="BB1408-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>By changing to a lower gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By selecting reverse gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By changing to a higher gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By selecting neutral</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

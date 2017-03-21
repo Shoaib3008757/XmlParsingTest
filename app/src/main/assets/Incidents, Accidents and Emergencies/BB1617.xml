@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1617" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>When driving through a tunnel you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1617-1"/>
+	<explanation>
+		<text>A minor incident in a tunnel can quickly turn into a major disaster. Variable message signs are provided to warn of any incidents or congestion. Follow their advice.</text>
+		<voice id="BB1617-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Look out for variable message signs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use your air conditioning system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on your rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always use your windscreen wipers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

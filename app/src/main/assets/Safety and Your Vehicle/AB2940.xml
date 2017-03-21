@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2940" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p130</xref>
+		<text>Which of these, if allowed to get low, could cause you to crash?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2940-1"/>
+	<explanation>
+		<text>You should carry out frequent checks on all fluid levels but particularly brake fluid. As the brake pads or shoes wear down the brake fluid level will drop. If it drops below the minimum mark on the fluid reservoir, air could enter the hydraulic system and lead to a loss of braking efficiency or complete brake failure.</text>
+		<voice id="AB2940-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Anti-freeze level</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Brake fluid level</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Battery water level</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Radiator coolant level</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

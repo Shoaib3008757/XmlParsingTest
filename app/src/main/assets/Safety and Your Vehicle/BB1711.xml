@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1711" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>You can save fuel when conditions allow by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1711-1"/>
+	<explanation>
+		<text>Missing out intermediate gears when appropriate, helps to reduce the amount of time spent accelerating and decelerating - the time when your vehicle uses most fuel.</text>
+		<voice id="BB1711-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>using lower gears as often as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerating sharply in each gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>using each gear in turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>missing out some gears</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

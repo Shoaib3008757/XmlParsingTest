@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1140" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>You’ve stopped at a pelican crossing. A disabled person is crossing slowly in front of you. The lights change to green. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1140-1"/>
+	<explanation>
+		<text>At a pelican crossing the green light means you may proceed as long as the crossing is clear. If someone hasn’t finished crossing, be patient and wait for them.</text>
+		<voice id="BB1140-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>allow the person to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive in front of the person</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>edge forward slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

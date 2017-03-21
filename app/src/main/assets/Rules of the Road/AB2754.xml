@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2754" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r115</xref>
+		<text>You are travelling on a well-lit road at night in a built-up area. By using dipped headlights you will be able to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2754-1"/>
+	<explanation>
+		<text>You may be difficult to see when you’re travelling at night, even on a well lit road. If you use dipped headlights rather than sidelights other road users will see you more easily.</text>
+		<voice id="AB2754-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>see further along the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go at a much faster speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch to main beam quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>be easily seen by others</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

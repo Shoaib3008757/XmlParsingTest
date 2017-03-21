@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2918" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>At an incident a casualty is unconscious. What should you check urgently?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2918-1"/>
+	<explanation>
+		<text>Remember DR ABC (Danger, Response, Airway, Breathing, Compressions). An unconscious casualty may have difficulty breathing. Check that their airway is clear by tilting the head back gently. Unblock the airway if necessary, then make sure the casualty is breathing. Compressions may need to be given to maintain circulation.</text>
+		<voice id="AB2918-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Flesh wounds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Airway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Shock</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Broken bones</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

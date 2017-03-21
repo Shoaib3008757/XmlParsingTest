@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1031" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC p129</xref>
+		<text>What can cause heavy steering?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1031-1"/>
+	<explanation>
+		<text>If your tyre pressures are low this will increase the drag on the road surface and make the steering feel heavy. Your vehicle will also use more fuel. Incorrectly inflated tyres can affect the braking, cornering and handling of your vehicle to a dangerous level.</text>
+		<voice id="BB1031-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Driving on ice</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Badly worn brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Over-inflated tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Under-inflated tyres</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

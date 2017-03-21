@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1621" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r228</xref>
+		<text>When snow is falling heavily you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1621-1"/>
+	<explanation>
+		<text>Consider if the increased risk is worth it. If the weather conditions are bad and your journey isn’t essential, then stay at home.</text>
+		<voice id="BB1621-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>only drive with your hazard lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>not drive unless you have a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only drive when your journey is short</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>not drive unless it is essential</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

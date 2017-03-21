@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1581" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>KYTS p32</xref>
+		<text>When may you drive a motor car in this bus lane?</text>
+		<graphic>BB1581.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1581-1"/>
+	<explanation>
+		<text>Some bus lanes only operate during peak hours and other vehicles may use them outside these hours. Make sure you check the sign for the hours of operation before driving in a bus lane.</text>
+		<voice id="BB1581-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Outside its hours of operation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To get to the front of a traffic queue</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You may not use it at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To overtake slow-moving traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

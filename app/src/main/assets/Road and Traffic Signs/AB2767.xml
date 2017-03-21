@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2767" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p12</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2767.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2767-1"/>
+	<explanation>
+		<text>You will need to slow down. At hump bridges your view ahead will be restricted and the road will often be narrow on the bridge. If the bridge is very steep or your view is restricted sound your horn to warn others of your approach. Going too fast over the bridge is highly dangerous to other road users and could even cause your wheels to leave the road, with a resulting loss of control.</text>
+		<voice id="AB2767-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Hump bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic calming hump</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Low bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Uneven road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

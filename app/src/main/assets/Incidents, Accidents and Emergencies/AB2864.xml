@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2864" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p133</xref>
+		<text>After a collision someone has suffered a burn. The burn needs to be cooled. What is the shortest time it should be cooled for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2864-1"/>
+	<explanation>
+		<text>It’s important to cool a burn for at least ten minutes. Use a clean, cold non-toxic liquid preferably water. Bear in mind the person may also be in shock.</text>
+		<voice id="AB2864-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>30 seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 seconds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>5 minutes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>10 minutes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

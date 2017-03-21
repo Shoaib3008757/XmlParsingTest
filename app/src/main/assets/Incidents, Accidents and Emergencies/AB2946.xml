@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2946" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>At an incident a casualty has stopped breathing. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2946-1"/>
+	<explanation>
+		<text>Unblocking the airway and gently tilting the head back will help the casualty to breathe. They’ll then be in the correct position if mouth-to-mouth resuscitation is required. Don’t move a casualty unless there’s further danger.</text>
+		<voice id="AB2946-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>keep the head tilted forwards as far as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>remove anything that’s blocking the mouth</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>raise the legs to help with circulation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>try to give the casualty something to drink</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

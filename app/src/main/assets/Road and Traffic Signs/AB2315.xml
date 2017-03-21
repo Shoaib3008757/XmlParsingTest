@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2315" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p55</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2315.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2315-1"/>
+	<explanation>
+		<text>This sign is in place to ensure a clear route for traffic. Don’t stop except in an emergency.</text>
+		<voice id="AB2315-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Crossroads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No stopping</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No entry</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

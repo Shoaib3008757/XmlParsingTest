@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2123" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211</xref>
+		<text>You intend to turn right into a side road. Just before turning you should check for motorcyclists who might be</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2123-1"/>
+	<explanation>
+		<text>Never attempt to change direction to the right without first checking your right-hand mirror. A motorcyclist might not have seen your signal and could be hidden by the car behind you. This action should become a matter of routine.</text>
+		<voice id="AB2123-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtaking on your left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>following you closely</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>emerging from the side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>overtaking on your right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

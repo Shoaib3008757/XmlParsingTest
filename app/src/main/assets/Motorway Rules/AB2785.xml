@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2785" topic="Motorway rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r108</xref>
+		<text>Traffic officers are used on motorways and some 'A' class roads. In which part of the United Kingdom do they operate?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2785-1"/>
+	<explanation>
+		<text>Traffic officers have powers to stop vehicles on safety grounds, for example if you have an insecure load, in England only. It's an offence not to comply with their directions.</text>
+		<voice id="AB2785-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>England only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>England, Scotland and Wales</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>England and Wales</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>England, Wales and Northern Ireland</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

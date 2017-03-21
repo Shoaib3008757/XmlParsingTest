@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1542" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15</xref>
+		<text>You’ve broken down on a motorway. When you use the emergency telephone, you’ll be asked for</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1542-1"/>
+	<explanation>
+		<text>Have the correct details ready before you use the emergency telephone. The operator will need to know the details of your vehicle and its fault. For your own safety always face the traffic when you speak on a roadside telephone.</text>
+		<voice id="BB1542-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>details about your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your driving licence details</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the name of your vehicle’s insurance company</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your employer’s details</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

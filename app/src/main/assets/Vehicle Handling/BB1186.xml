@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1186" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r115</xref>
+		<text>You are travelling at night. You are dazzled by headlights coming towards you. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1186-1"/>
+	<explanation>
+		<text>You will have additional hazards to deal with at night. Visibility may be very limited and the lights of oncoming vehicles can often dazzle you. When this happens don’t close your eyes, swerve or flash your headlights, as this will also distract other drivers. It may help to focus on the left kerb, verge or lane line.</text>
+		<voice id="BB1186-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>pull down your sun visor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down or stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch on your main beam headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>put your hand over your eyes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

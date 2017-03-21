@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0603" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, DES s7, HC r208, KYTS p14</xref>
+		<text>You are driving behind a cyclist and the road has potholes and cracks. Further ahead there’s a roundabout. A horse rider is approaching it in the left-hand lane. In a built-up area with street lights, you see a school sign with a flashing amber signal. There are no speed limit signs. Later, you stop at the red light of a pedestrian crossing. The person crossing carries a red-banded white stick and has a guide dog wearing a red and white checked harness.</text>
+		<part>What does this flashing amber signal mean? </part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0603-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Children may be playing in the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parents may be standing in the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Children may be crossing the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles may be turning in the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0603-2"/>
+	</explanation>
+</QF>

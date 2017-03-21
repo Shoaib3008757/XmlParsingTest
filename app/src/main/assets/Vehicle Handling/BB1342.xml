@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1342" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Front fog lights should be used</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1342-1"/>
+	<explanation>
+		<text>When visibility is seriously reduced, switch on your fog lights if you have them fitted. It is essential not only that you can see ahead, but also that other road users are able to see you.</text>
+		<voice id="BB1342-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>when visibility is reduced to 100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>as a warning to oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>when driving during the hours of darkness</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in any conditions and at any time</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

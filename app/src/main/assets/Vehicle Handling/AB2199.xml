@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2199" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r163, HC r268</xref>
+		<text>When may you overtake another vehicle on the left?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2199-1"/>
+	<explanation>
+		<text>You may pass slower vehicles on their left while travelling along a one-way street. Be aware of drivers who may need to change lanes and may not expect faster traffic passing on their left.</text>
+		<voice id="AB2199-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>When you’re in a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When approaching a motorway slip road where you’ll be turning off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When the vehicle in front is signalling to turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When a slower vehicle is travelling in the right-hand lane of a dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

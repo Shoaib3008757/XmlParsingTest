@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1060" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r119</xref>
+		<text>Skidding is mainly caused by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1060-1"/>
+	<explanation>
+		<text>You should always consider the conditions and drive accordingly.</text>
+		<voice id="BB1060-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the weather</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

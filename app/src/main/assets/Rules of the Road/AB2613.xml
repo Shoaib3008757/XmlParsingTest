@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2613" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r124</xref>
+		<text>You are on a road that has no traffic signs. There are street lights. What is the speed limit?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2613-1"/>
+	<explanation>
+		<text>If you aren’t sure of the speed limit a good indication is the presence of street lights. If there is street lighting the speed limit will be 30 mph unless otherwise indicated.</text>
+		<voice id="AB2613-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>20 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

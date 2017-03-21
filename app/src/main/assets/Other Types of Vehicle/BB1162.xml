@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1162" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>You’re driving in town. Ahead of you a bus is at a bus stop. Which of the following should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1162-1"/>
+	<explanation>
+		<text>As you approach, look out for any signal the driver might make. If you pass the vehicle, watch out for pedestrians attempting to cross the road from behind the bus. They’ll be hidden from view until the last moment.</text>
+		<voice id="BB1162-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Flash your lights to warn the driver of your presence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Continue at the same speed but sound your horn as a warning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Watch carefully for the sudden appearance of pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pass the bus as quickly as you possibly can</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

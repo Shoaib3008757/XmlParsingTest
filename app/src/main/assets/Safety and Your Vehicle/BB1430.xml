@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1430" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>When leaving your vehicle parked and unattended you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1430-1"/>
+	<explanation>
+		<text>An unlocked car is an open invitation to thieves. Leaving the keys in the ignition not only makes your car easy to steal, it could also invalidate your insurance.</text>
+		<voice id="BB1430-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>park near a busy junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>park in a housing estate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>remove the key and lock it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the left indicator on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

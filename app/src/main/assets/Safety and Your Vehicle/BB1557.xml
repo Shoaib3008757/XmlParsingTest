@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1557" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>A properly serviced vehicle will result in</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1557-1"/>
+	<explanation>
+		<text>All vehicles need to be serviced to keep working efficiently; an efficient engine uses less fuel and produces fewer harmful emissions than an engine that’s running inefficiently. Keeping the vehicle serviced to the manufacturer’s schedule should also keep it reliable and reduce the chance of it breaking down.</text>
+		<voice id="BB1557-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduced insurance premiums</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>lower vehicle excise duty (road tax)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>better fuel economy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slower journey times</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

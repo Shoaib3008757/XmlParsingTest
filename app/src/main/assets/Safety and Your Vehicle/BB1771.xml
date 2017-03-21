@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1771" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>You are carrying a five year-old child in the back seat of your car. They are under 1.35 metres (4 feet 5 inches) in height. They MUST use an adult seat belt ONLY if</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1771-1"/>
+	<explanation>
+		<text>You should make all efforts to ensure a correct child restraint is used, with very few exceptions. If in specific circumstances one is not available, then an adult seat belt MUST be used. Unrestrained objects, including people, can be thrown violently around in a collision, and may cause serious injury or even death!</text>
+		<voice id="BB1771-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>a correct child restraint is not available</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it is a lap type belt</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they sit between two adults</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it can be shared with another adult</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1751" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>By taking part in the Pass Plus scheme you will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1751-1"/>
+	<explanation>
+		<text>The Pass Plus scheme can be taken after you’ve passed your practical driving test. Ask your ADI for details. It is designed to improve your basic driving skills. By successfully completing the course you may get a discount on your insurance.</text>
+		<voice id="BB1751-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>never get any points on your licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>be able to service your own car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow you to drive anyone else’s vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>improve your basic driving skills</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

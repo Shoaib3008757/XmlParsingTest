@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0503" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r163</xref>
+		<text>Andrea is waiting to turn right in the town centre. Cars are parked along the roadside, obstructing Andrea’s view. There are many shop windows. The area is busy with traffic and pedestrians. Further on, a vehicle is unloading on the left and there are several oncoming cars.  At inactive traffic lights a police officer is directing traffic. He is facing Andrea with one hand straight up, his palm showing. There is a bus lane, but no signs showing periods of operation or permitted use by other vehicles.</text>
+		<part>What should Andrea do about the delivery vehicle?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0503-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop and wait till the vehicle pulls away</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up and quickly pass the vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop and wait until the way is clear ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Rev the engine and press the horn repeatedly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0503-2"/>
+	</explanation>
+</QF>

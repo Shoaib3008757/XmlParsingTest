@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1715" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>You claim on your insurance to have your car repaired. Your policy has an excess of £100. What does this mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1715-1"/>
+	<explanation>
+		<text>Having an excess on your policy will help to keep down the premium, but if you make a claim you will have to pay the excess yourself, in this case £100.</text>
+		<voice id="BB1715-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The insurance company will pay the first £100 of any claim</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will be paid £100 if you do not claim within one year</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle is insured for a value of £100 if it is stolen</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You will have to pay the first £100 of the cost of repair to your car</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

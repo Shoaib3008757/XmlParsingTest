@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1197" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r264</xref>
+		<text>The left-hand lane of a motorway should be used for</text>
+		<graphic>BB1197.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1197-1"/>
+	<explanation>
+		<text>You should keep to the left-hand lane whenever possible. Only use the other lanes for overtaking or when directed by signals. Using other lanes when the left-hand lane is empty can frustrate drivers behind you.</text>
+		<voice id="BB1197-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>breakdowns and emergencies only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtaking slower traffic in the other lanes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slow vehicles only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>normal driving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

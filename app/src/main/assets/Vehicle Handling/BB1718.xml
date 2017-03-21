@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1718" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r121</xref>
+		<text>What should you do when dealing with this hazard?</text>
+		<graphic>BB1718.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1718-1"/>
+	<explanation>
+		<text>In normal conditions a ford can be crossed quite safely by driving through it slowly. The water may affect your brakes, so when you’re clear of the ford test them before you resume normal driving.</text>
+		<voice id="BB1718-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Switch on your hazard warning lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Use a low gear and drive slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use a high gear to prevent wheelspin</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Switch on your windscreen wipers</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

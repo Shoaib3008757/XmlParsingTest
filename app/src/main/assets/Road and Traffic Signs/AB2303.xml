@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2303" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p18</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2303.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2303-1"/>
+	<explanation>
+		<text>The ‘no right turn’ sign may be used to warn road users that there is a ‘no entry’ prohibition on a road to the right ahead.</text>
+		<voice id="AB2303-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Bend to the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road on the right closed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No traffic from the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No right turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

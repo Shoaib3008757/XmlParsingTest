@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1455" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r147</xref>
+		<text>You have just been overtaken by this motorcyclist who is cutting in sharply. You should</text>
+		<graphic>BB1455.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1455-1"/>
+	<explanation>
+		<text>If another vehicle cuts in too sharply, ease off the accelerator and drop back to allow a safe separation distance. Try not to overreact by braking sharply or swerving, as you could lose control. If vehicles behind you are too close or unprepared, it could lead to a crash.</text>
+		<voice id="BB1455-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake firmly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep a safe gap</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

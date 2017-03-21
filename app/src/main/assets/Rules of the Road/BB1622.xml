@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1622" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5</xref>
+		<text>Signals are normally given by direction indicators and</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1622-1"/>
+	<explanation>
+		<text>Your brake lights will give an indication to traffic behind that you’re slowing down. Good anticipation will allow you time to check your mirrors before slowing.</text>
+		<voice id="BB1622-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>brake lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>side lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>interior lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

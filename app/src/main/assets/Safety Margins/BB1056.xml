@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1056" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r119</xref>
+		<text>What is the most common cause of skidding?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1056-1"/>
+	<explanation>
+		<text>A skid happens when the driver changes the speed or direction of their vehicle so suddenly that the tyres can't keep their grip on the road.Remember that the risk of skidding on wet or icy roads is much greater than in dry conditions.</text>
+		<voice id="BB1056-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Worn tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Driver error</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Other vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pedestrians</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

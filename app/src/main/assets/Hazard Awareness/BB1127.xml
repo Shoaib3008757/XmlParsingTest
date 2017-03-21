@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1127" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91</xref>
+		<text>Driving long distances can be tiring. You can prevent this by</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1127-1"/>
+	<explanation>
+		<text>Long-distance driving can be boring. This, coupled with a stuffy, warm vehicle, can make you feel tired. Make sure you take rest breaks to keep yourself awake and alert. Stop in a safe place before you get to the stage of fighting sleep.</text>
+		<voice id="BB1127-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>eating a large meal before driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>having regular refreshment breaks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>playing loud music in the car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>completing the journey without stopping</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

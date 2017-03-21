@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1511" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Why do MOT tests include a strict exhaust emission test?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1511-1"/>
+	<explanation>
+		<text>Emission tests are carried out to ensure your vehicle's engine is operating efficiently. This ensures the pollution produced by the engine is kept to a minimum. If your vehicle is not serviced regularly, it may fail the annual MOT test.</text>
+		<voice id="BB1511-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To recover the cost of expensive garage equipment</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To help protect the environment against pollution</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To discover which fuel supplier is used the most</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To make sure diesel and petrol engines emit the same fumes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1287" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r148-150</xref>
+		<text>What’s most likely to distract you while you’re driving?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1287-1"/>
+
+<explanation>
+		<text>It’s easy to be distracted. Planning your journey before you set off is important. A few sensible precautions are to tune your radio to stations in your area of travel, take planned breaks, and plan your route. Except for emergencies, it’s illegal to use a hand-held mobile phone while driving. Even using a hands-free kit can severely distract your attention.</text>
+		<voice id="BB1287-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Using a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Using the windscreen wipers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Using the demisters</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Checking the mirrors</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

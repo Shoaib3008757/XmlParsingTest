@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1344" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r114, HC r226</xref>
+		<text>Using front fog lights in clear daylight will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1344-1"/>
+	<explanation>
+		<text>Fog lights can be brighter than normal dipped headlights. If the weather has improved turn them off to avoid dazzling other road users.</text>
+		<voice id="BB1344-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>flatten the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>dazzle other drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve your visibility</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your awareness</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

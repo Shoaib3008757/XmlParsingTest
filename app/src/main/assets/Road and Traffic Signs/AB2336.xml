@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2336" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p33</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2336.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2336-1"/>
+	<explanation>
+		<text>There will also be markings on the road surface to indicate the bus lane. You must not use this lane for parking or overtaking.</text>
+		<voice id="AB2336-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Bus station on the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Contraflow bus lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>With-flow bus lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give way to buses</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

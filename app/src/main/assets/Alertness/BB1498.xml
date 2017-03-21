@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1498" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>To answer a call on your mobile phone while travelling you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1498-1"/>
+
+<explanation>
+		<text>No phone call is important enough to risk endangering lives. It’s better to switch your phone off completely when driving. If you must be contactable plan your route to include breaks so you can catch up on messages in safety. Always choose a safe and convenient place to take a break, such as a lay-by or service area.</text>
+		<voice id="BB1498-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduce your speed wherever you are</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop in a proper and convenient place</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep the call time to a minimum</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>slow down and allow others to overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

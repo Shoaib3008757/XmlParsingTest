@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ABEL</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_random_test">RandomTest</string>
+    <string name="title_activity_review_answers">Review Answers</string>
+    <string name="title_activity_show_answers">Show Answers</string>
+    <string name="title_activity_category_test">Category Test</string>
+    <string name="title_activity_random_test_category">Random Test Category</string>
+    <string name="title_activity_review_answers_category_test">Review Answers Category Test</string>
+    <string name="title_activity_learn_by_chapter">Learn By Chapter</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_menu_">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_about_test">About Test</string>
+
+
+     <string name="information"><b><u>Background Information</u></b>\n\n
+        <b>The DSA</b> is to stop the publishing of multiple choice questions and answers used in live theory tests for all categories whilst still allowing publication of revision theory test questions.\n
+        Along with all the theory test questions in the question bank each question will have additional information about driving theory to help you understand the context of each question. This is the Knowledge and understanding text.\n
+        In the past some theory test candidate will learn the entire range of questions and answers by memory rather than learning and understanding the driving and riding topics.\n
+        The new test form 1st January 2012 will test your understanding of the question rather than your memory./n
+        The text in this learning product will be a little differnt from the text and voice overs you will experience in the theory test exam. so understand the question and answers and not purely memories them.\n
+        GOOD LUCK!</string>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2418" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s6, HC p102, KYTS p90</xref>
+    <text>What does this motorway sign mean?</text>
+    <graphic>AB2418.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2418-1"/>
+  <explanation>
+    <text>On the motorway, signs sometimes show temporary warnings due to traffic or weather conditions. They may be used to indicate
+      <unorderedlist>
+        <item>• lane closures</item>
+        <item>• temporary speed limits</item>
+        <item>• weather warnings.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2418-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="yes">
+      <text>Change to the lane on your left</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Leave the motorway at the next exit</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Change to the opposite carriageway</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Pull up on the hard shoulder</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

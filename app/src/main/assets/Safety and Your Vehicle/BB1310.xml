@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1310" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>To help protect the environment you should NOT</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1310-1"/>
+	<explanation>
+		<text>Try not to use your car as a matter of routine. For shorter journeys, consider walking or cycling instead – this is much better for both you and the environment.</text>
+		<voice id="BB1310-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>remove your roof rack when unloaded</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>use your car for very short journeys</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>walk, cycle, or use public transport</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>empty the boot of unnecessary weight</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

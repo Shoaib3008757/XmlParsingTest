@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1007" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r113-115</xref>
+		<text>You’re driving at dusk. You should switch your lights on</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1007-1"/>
+<explanation>
+		<text>Your headlights and tail lights help others on the road to see you. It may be necessary to turn on your lights during the day if visibility is reduced; for example, due to heavy rain. In these conditions the light might fade before the street lights are timed to switch on. Be seen to be safe.</text>
+		<voice id="BB1007-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>when you see other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>so others can see you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only when others have done so</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only when street lights are lit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

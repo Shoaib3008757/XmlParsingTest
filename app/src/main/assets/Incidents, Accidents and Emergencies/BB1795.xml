@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1795" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15</xref>
+		<text>You are in a collision on a two-way road. You have a warning triangle with you. At what distance before the obstruction should you place the warning triangle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1795-1"/>
+	<explanation>
+		<text>This is the minimum distance to place the triangle from the obstruction. If there’s a bend or hump in the road place it so that approaching traffic has plenty of time to react to the warning and slow down. You may also need to use your hazard warning lights, especially in poor visibility or at night.</text>
+		<voice id="BB1795-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>25 metres (82 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>45 metres (147 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>100 metres (328 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>150 metres (492 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

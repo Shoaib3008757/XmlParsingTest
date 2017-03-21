@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1708" topic="Vehicle Loading" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19</xref>
+		<text>A trailer must stay securely hitched up to the towing vehicle. What additional safety device can be fitted to the trailer braking system?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1708-1"/>
+	<explanation>
+		<text>In the event of a towbar failure the cable activates the trailer brakes, then snaps. This allows the towing vehicle to get free of the trailer and out of danger.</text>
+		<voice id="BB1708-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stabiliser</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Jockey wheel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Corner steadies</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Breakaway cable</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2848" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r223</xref>
+		<text>Why should you be cautious when going past this stationary bus?</text>
+		<graphic>AB2848.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2848-1"/>
+	<explanation>
+		<text>A stationary bus at a bus stop can hide pedestrians who might try to cross the road just in front of it. Drive at a speed that will enable you to respond safely if you have to.</text>
+		<voice id="AB2848-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>There is traffic approaching in the distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The driver may open the door</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>People may cross the road in front of it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The road surface will be slippery</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1642" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s4, HC p130</xref>
+		<text>A loose filler cap on your diesel fuel tank will</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1642-1"/>
+	<explanation>
+		<text>Diesel fuel is especially slippery if spilled on a wet road. At the end of a dry spell of weather you should be aware that the road surfaces may have a high level of diesel spillage that hasn’t been washed away by rain.</text>
+		<voice id="BB1642-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>make the engine difficult to start</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>make roads slippery for other road users</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>improve your vehicle’s fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase the level of exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

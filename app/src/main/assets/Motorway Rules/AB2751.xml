@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2751" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r264</xref>
+		<text>A basic rule when on motorways is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2751-1"/>
+	<explanation>
+		<text>You should normally travel in the left-hand lane unless you are overtaking a slower-moving vehicle. When you are past that vehicle move back into the left-hand lane as soon as it’s safe to do so. Don’t cut across in front of the vehicle that you’re overtaking.</text>
+		<voice id="AB2751-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use the lane that has least traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep to the left-hand lane unless overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake on the side that is clearest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>try to keep above 50 mph to prevent congestion</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

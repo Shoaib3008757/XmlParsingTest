@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1765" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>You are carrying an 11 year old child in the back seat of your car. They are under 1.35 metres (4 feet 5 inches) in height. You MUST make sure that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1765-1"/>
+	<explanation>
+		<text>It is your responsibility as a driver to ensure that children are secure and safe in your vehicle. Make sure you are familiar with the rules. In a few very exceptional cases when a child restraint is not available, an adult seat belt MUST be used. Child restraints and seat belts save lives!</text>
+		<voice id="BB1765-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>they sit between two belted people</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they can fasten their own seat belt</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>a suitable child restraint is available</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they can see clearly out of the front window</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

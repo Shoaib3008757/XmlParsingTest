@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1284" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>You take some cough medicine given to you by a friend. What should you do before driving?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1284-1"/>
+	<explanation>
+		<text>Never drive if you have taken drugs, without first checking what the side effects might be. They might affect your judgement and perception, and therefore endanger lives.</text>
+		<voice id="BB1284-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Ask your friend if taking the medicine affected their driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drink some strong coffee one hour before driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check the label to see if the medicine will affect your driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive a short distance to see if the medicine is affecting your driving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

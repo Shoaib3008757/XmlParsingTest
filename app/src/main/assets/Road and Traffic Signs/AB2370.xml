@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2370" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p114</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2370.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2370-1"/>
+	<explanation>
+		<text>You will not be able to find a through route to another road. Use this road only for access.</text>
+		<voice id="AB2370-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>T-junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No through road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Telephone box ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Toilet ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1147" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211</xref>
+		<text>You are driving in slow-moving queues of traffic. Just before changing lane you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1147-1"/>
+	<explanation>
+		<text>In this situation motorcyclists could be passing you on either side. Always check before you change lanes or change direction.</text>
+		<voice id="BB1147-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>look for motorcyclists filtering through the traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give a ‘slowing down’ arm signal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change down to first gear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

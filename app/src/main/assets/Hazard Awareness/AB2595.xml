@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2595" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r147</xref>
+		<text>A driver does something that upsets you. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2595-1"/>
+	<explanation>
+		<text>There are times when other road users make a misjudgement or mistake. When this happens try not to get annoyed and don’t react by showing anger. Sounding your horn, flashing your headlights or shouting won’t help the situation. Good anticipation will help to prevent these incidents becoming collisions.</text>
+		<voice id="AB2595-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>try not to react</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>let them know how you feel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights several times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

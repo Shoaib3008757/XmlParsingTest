@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2739" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are following a large vehicle approaching crossroads. The driver signals to turn left. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2739-1"/>
+	<explanation>
+		<text>Hold back and wait until the vehicle has turned before proceeding. Do not overtake because the vehicle turning left could hide a vehicle emerging from the same junction.</text>
+		<voice id="AB2739-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Overtake if you can leave plenty of room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtake only if there are no oncoming vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Do not overtake until the vehicle begins to turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Do not overtake when at or approaching a junction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2723" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r153</xref>
+		<text>In areas where there are traffic-calming measures, you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2723-1"/>
+	<explanation>
+		<text>Traffic-calming measures such as road humps, chicanes and narrowings are intended to slow you down. Maintain a reduced speed until you reach the end of these features. They’re there to protect pedestrians. Kill your speed!</text>
+		<voice id="AB2723-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>travel at a reduced speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>always travel at the speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>position in the centre of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only slow down if pedestrians are near</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

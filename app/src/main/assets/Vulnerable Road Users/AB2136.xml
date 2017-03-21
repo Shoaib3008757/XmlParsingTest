@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2136" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r207</xref>
+		<text>You see a pedestrian with a white stick and red band. This means that the person is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2136-1"/>
+	<explanation>
+		<text>If someone is deaf as well as blind, they may be carrying a white stick with a red reflective band. You can’t see if a pedestrian is deaf. Don’t assume everyone can hear you approaching.</text>
+		<voice id="AB2136-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>physically disabled</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>deaf only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>blind only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>deaf and blind</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

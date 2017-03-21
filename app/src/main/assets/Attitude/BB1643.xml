@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1643" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s14, HC p130</xref>
+		<text>To avoid spillage after refuelling, you should make sure that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1643-1"/>
+	<explanation>
+		<text>When learning to drive it is a good idea to practise filling your car with fuel. Ask your instructor if you can use a petrol station and fill the fuel tank yourself. You need to know where the filler cap is located on the car you are driving in order to park on the correct side of the pump. Take care not to overfill the tank or spill fuel. Make sure you secure the filler cap as soon as you have replaced the fuel nozzle.</text>
+		<voice id="BB1643-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>your tank is only three quarters full</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you have used a locking filler cap</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you check your fuel gauge is working</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>your filler cap is securely fastened</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2426" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p90</xref>
+		<text>You are travelling along a motorway. You see this sign. You should</text>
+		<graphic>AB2426.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2426-1"/>
+	<explanation>
+		<text>You’ll see this sign if the motorway is closed ahead. Pull into the nearside lane as soon as it is safe to do so. Don’t leave it to the last moment.</text>
+		<voice id="AB2426-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn left immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>change lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>move onto the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

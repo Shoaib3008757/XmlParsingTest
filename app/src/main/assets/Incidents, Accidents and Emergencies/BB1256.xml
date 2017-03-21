@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1256" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s15, HC p129</xref>
+		<text>Your tyre bursts while you’re driving. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1256-1"/>
+	<explanation>
+		<text>A tyre bursting can lead to a loss of control, especially if you’re travelling at high speed. Using the correct procedure should help you to stop the vehicle safely.</text>
+		<voice id="BB1256-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Pull on the handbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Brake as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pull up slowly at the side of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Continue on at a normal speed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

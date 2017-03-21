@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1319" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, HC r120</xref>
+		<text>Driving a vehicle fitted with anti-lock brakes allows you to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1319-1"/>
+	<explanation>
+		<text>When stopping in an emergency anti-lock brakes will help you continue to steer when braking. In poor weather conditions this may be less effective. You need to depress the clutch pedal to prevent the car stalling as most power steering systems use an engine-driven pump and will only operate when the engine is running. Look in your vehicle handbook for the correct method when stopping in an emergency.</text>
+		<voice id="BB1319-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>brake harder because it is impossible to skid</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive at higher speeds</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>steer and brake at the same time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pay less attention to the road ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

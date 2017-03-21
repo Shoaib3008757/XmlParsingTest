@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2219" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r259</xref>
+		<text>When joining a motorway you must always</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2219-1"/>
+	<explanation>
+		<text>You should give way to traffic already on the motorway. Where possible they may move over to let you in but don’t force your way into the traffic stream. The traffic may be travelling at high speed so you should match your speed to fit in.</text>
+		<voice id="AB2219-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop at the end of the acceleration lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>come to a stop before joining the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to traffic already on the motorway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

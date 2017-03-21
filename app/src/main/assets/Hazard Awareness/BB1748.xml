@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1748" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10</xref>
+		<text>Why should the junction on the left be kept clear?</text>
+		<graphic>BB1748.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1748-1"/>
+	<explanation>
+		<text>You should always try to keep junctions clear. If you are in queuing traffic make sure that when you stop you leave enough space for traffic to flow in and out of the junction.</text>
+		<voice id="BB1748-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>To allow vehicles to enter and emerge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow the bus to reverse</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow vehicles to make a U-turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To allow vehicles to park</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

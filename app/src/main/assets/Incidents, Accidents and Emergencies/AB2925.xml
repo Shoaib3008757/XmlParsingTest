@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2925" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You have to treat someone for shock at the scene of an incident. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2925-1"/>
+	<explanation>
+		<text>Stay with the casualty and talk to them quietly and firmly to calm and reassure them. Avoid moving them unnecessarily in case they are injured. Keep them warm, but don’t give them anything to eat or drink.</text>
+		<voice id="AB2925-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>reassure them constantly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>walk them around to calm them down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give them something cold to drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>cool them down as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

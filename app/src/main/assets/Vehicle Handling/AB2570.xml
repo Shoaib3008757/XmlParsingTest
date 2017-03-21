@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2570" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s11, HC r132</xref>
+    <text>You are on a motorway in fog. The left-hand edge of the motorway can be identified by reflective studs. What colour are they?</text>
+    <graphic>AB2570.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2570-1"/>
+  <explanation>
+    <text>Be especially careful if you’re on a motorway in fog. Reflective studs are used to help you in poor visibility. Different colours are used so that you’ll know which lane you are in. These are
+      <unorderedlist>
+        <item>• red on the left-hand side of the road</item>
+        <item>• white between lanes</item>
+        <item>• amber on the right-hand edge of the carriageway</item>
+        <item>• green between the carriageway and slip roads.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2570-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>Green</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>Amber</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>Red</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>White</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

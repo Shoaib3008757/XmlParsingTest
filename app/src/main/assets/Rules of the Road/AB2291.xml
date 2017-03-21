@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2291" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>At a pelican crossing, what does a flashing amber light mean?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2291-1"/>
+	<explanation>
+		<text>If there is no-one on the crossing when the amber light is flashing, you may proceed over the crossing. You don’t need to wait for the green light to show.</text>
+		<voice id="AB2291-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You must not move off until the lights stop flashing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You must give way to pedestrians still on the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You can move off, even if pedestrians are still on the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You must stop because the lights are about to change to red</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

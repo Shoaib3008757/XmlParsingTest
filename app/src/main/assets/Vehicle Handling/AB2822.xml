@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2822" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r234</xref>
+		<text>Why should you always reduce your speed when travelling in fog?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2822-1"/>
+	<explanation>
+		<text>You won’t be able to see as far ahead in fog as you can on a clear day. You will need to reduce your speed so that, if a hazard looms out of the fog, you have the time and space to take avoiding action. Travelling in fog is hazardous. If you can, try and delay your journey until it has cleared.</text>
+		<voice id="AB2822-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The brakes do not work as well</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will be dazzled by other headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The engine will take longer to warm up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>It is more difficult to see events ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1230" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r203</xref>
+		<text>You must not reverse</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1230-1"/>
+	<explanation>
+		<text>You may decide to turn your vehicle around by reversing into an opening or side road. When you reverse, always look behind and all around and watch for pedestrians. Don’t reverse from a side road into a main road. You MUST NOT reverse further than is necessary.</text>
+		<voice id="BB1230-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>for longer than necessary</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>for more than a car’s length</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>into a side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in a built-up area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

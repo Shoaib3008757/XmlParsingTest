@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2132" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p109, KYTS p13</xref>
+		<text>Which sign tells you that pedestrians may be walking in the road as there is no pavement?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2132-1"/>
+	<explanation>
+		<text>Give pedestrians who are walking at the side of the road plenty of room when you pass them. They may turn around when they hear your engine and unintentionally step into the path of your vehicle.</text>
+		<voice id="AB2132-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2132a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2132b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2132c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2132d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

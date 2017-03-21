@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1655" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>On a vehicle, where would you find a catalytic converter?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1655-1"/>
+	<explanation>
+		<text>Although carbon dioxide is still produced, a catalytic converter reduces the toxic and polluting gases by up to 90%. Unleaded fuel must be used in vehicles fitted with a catalytic converter.</text>
+		<voice id="BB1655-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>In the fuel tank</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In the air filter</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On the cooling system</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On the exhaust system</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

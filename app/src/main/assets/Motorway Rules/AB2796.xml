@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2796" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>Why can it be an advantage for traffic speed to stay constant over a longer distance?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2796-1"/>
+	<explanation>
+		<text>When traffic travels at a constant speed over a longer distance, journey times normally improve. You may feel that you could travel faster for short periods but this won’t generally improve your overall journey time. Signs will show the maximum speed at which you should travel.</text>
+		<voice id="AB2796-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You will do more stop-start driving</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will use far more fuel</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will be able to use more direct routes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your overall journey time will normally improve</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

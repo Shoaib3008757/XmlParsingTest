@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2895" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r233</xref>
+		<text>You are overtaking a motorcyclist in strong winds? What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2895-1"/>
+	<explanation>
+		<text>It is easy for motorcyclists to be blown off course. Always give them plenty of room if you decide to overtake, especially in strong winds. Decide whether you need to overtake at all. Always check to the left as you pass.</text>
+		<voice id="AB2895-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Allow extra room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give a thank you wave</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move back early</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sound your horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

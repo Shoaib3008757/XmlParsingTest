@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2905" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>An adult casualty is not breathing. To maintain circulation, compressions should be given. What is the correct depth to press?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2905-1"/>
+	<explanation>
+		<text>An adult casualty is not breathing normally. To maintain circulation place two hands on the centre of the chest. Then press down hard and fast – around 5–6 centimetres and about twice a second.</text>
+		<voice id="AB2905-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>1 to 2 centimetres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>5 to 6 centimetres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>10 to 15 centimetres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>15 to 20 centimetres</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

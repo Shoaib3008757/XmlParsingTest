@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1653" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20</xref>
+		<text>How can you lessen the risk of your vehicle being broken into at night?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1653-1"/>
+	<explanation>
+		<text>Having your vehicle broken into or stolen can be very distressing and inconvenient. Avoid leaving your vehicle unattended in poorly-lit areas.</text>
+		<voice id="BB1653-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Leave it in a well-lit area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park in a quiet side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Don’t engage the steering lock</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park in a poorly-lit area</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

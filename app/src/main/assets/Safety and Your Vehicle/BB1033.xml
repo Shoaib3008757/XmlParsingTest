@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1033" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17, HC p129</xref>
+		<text>Driving with under-inflated tyres can affect</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1033-1"/>
+	<explanation>
+		<text>Keeping your vehicle’s tyres correctly inflated is a legal requirement. Your vehicle will use less fuel and have a shorter stopping distance with correctly inflated tyres.</text>
+		<voice id="BB1033-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>engine temperature</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the gearbox</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>oil pressure</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

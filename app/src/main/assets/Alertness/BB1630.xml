@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1630" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>What is the safest way to use a mobile phone in your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1630-1"/>
+
+<explanation>
+		<text>It’s illegal to use a hand-held mobile phone while driving, except in genuine emergencies. Even using hands-free kit is very likely to take your mind off your driving. If the use of a mobile causes you to drive in a careless or dangerous manner, you could be prosecuted for those offences. The penalties include an unlimited fine, disqualification and up to two years’ imprisonment.</text>
+		<voice id="BB1630-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Use hands-free equipment</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Find a suitable place to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive slowly on a quiet road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Direct your call through the operator</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

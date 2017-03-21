@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1742" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r122</xref>
+		<text>Travelling for long distances in neutral (known as coasting)</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1742-1"/>
+	<explanation>
+		<text>Coasting, is the term used when the clutch is held down, or the gear lever is in neutral, and the vehicle is allowed to freewheel. This reduces the driver’s control of the vehicle. When you coast, the engine can’t drive the wheels to pull you through a corner. Coasting also removes the assistance of engine braking that helps to slow the car.</text>
+		<voice id="BB1742-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>improves the driver’s control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>makes steering easier</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>reduces the driver’s control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>uses more fuel</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

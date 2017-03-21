@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2779" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r275</xref>
+		<text>On the motorway, the hard shoulder should be used</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2779-1"/>
+	<explanation>
+		<text>Pull onto the hard shoulder and use the emergency telephone to report your problem. This lets the emergency services know your exact location so they can send help. Never cross the carriageway to use the telephone on the other side.</text>
+		<voice id="AB2779-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>to answer a mobile phone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>when an emergency arises</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>for a short rest when tired</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>to check a road atlas</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1158" topic="Other Types of Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232-233</xref>
+		<text>It is very windy. You are about to overtake a motorcyclist. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1158-1"/>
+	<explanation>
+		<text>Crosswinds can blow a motorcyclist or cyclist across the lane. Passing too close could also cause a draught, unbalancing the rider.</text>
+		<voice id="BB1158-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>overtake slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>allow extra room</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep close as you pass</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

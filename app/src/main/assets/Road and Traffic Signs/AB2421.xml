@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2421" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p90</xref>
+		<text>On a motorway this sign means</text>
+		<graphic>AB2421.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2421-1"/>
+	<explanation>
+		<text>It is important to know and obey temporary signs on the motorway: they are there for a reason. You may not be able to see the hazard straight away, as the signs give warnings well in advance, due to the speed of traffic on the motorway.</text>
+		<voice id="AB2421-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move over onto the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtaking on the left only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>move to the lane on your left</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

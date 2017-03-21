@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2423" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6</xref>
+		<text>The right-hand lane of a three-lane motorway is</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2423-1"/>
+	<explanation>
+		<text>You should stay in the left-hand lane of a motorway unless overtaking. The right-hand lane of a motorway is an overtaking lane and not a ‘fast lane’. After overtaking, move back to the left when it is safe to do so.</text>
+		<voice id="AB2423-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>for lorries only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>an overtaking lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the right-turn lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>an acceleration lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

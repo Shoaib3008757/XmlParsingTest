@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1596" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s22</xref>
+		<text>When driving a car fitted with automatic transmission what would you use ‘kick down’ for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1596-1"/>
+	<explanation>
+		<text>‘Kick down’ selects a lower gear, enabling the vehicle to accelerate faster.</text>
+		<voice id="BB1596-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Cruise control</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Quick acceleration</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Fuel economy</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

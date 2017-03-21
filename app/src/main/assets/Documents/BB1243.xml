@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1243" topic="Documents" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2</xref>
+		<text>Before driving anyone else’s motor vehicle you should make sure that</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1243-1"/>
+	<explanation>
+		<text>Driving a vehicle without insurance cover is illegal. If you cause injury to anyone or damage to property, it could be very expensive and you could also be subject to a criminal prosecution. You can arrange insurance cover with an insurance company, a broker and some motor manufacturers or dealers.</text>
+		<voice id="BB1243-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>the vehicle owner has third party insurance cover</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your own vehicle has insurance cover</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the vehicle is insured for your use</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the owner has left the insurance documents in the vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

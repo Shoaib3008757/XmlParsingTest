@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2813" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>It can help to plan your route before starting a journey. Why should you also plan an alternative route?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2813-1"/>
+	<explanation>
+		<text>It can be frustrating and worrying to find your planned route is blocked by roadworks or diversions. If you have planned an alternative you will feel less stressed and more able to concentrate fully on your driving or riding. If your original route is mostly on motorways it’s a good idea to plan an alternative using non-motorway roads. Always carry a map with you just in case you need to refer to it.</text>
+		<voice id="AB2813-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Your original route may be blocked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your maps may have different scales</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You may find you have to pay a congestion charge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Because you may get held up by a tractor</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

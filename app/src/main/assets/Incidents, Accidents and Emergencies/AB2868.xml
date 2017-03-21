@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2868" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You suspect that an injured person may be suffering from shock. What are the warning signs to look for?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2868-1"/>
+	<explanation>
+		<text>Sometimes you may not realise that someone is in shock. The signs to look for are rapid pulse, sweating, pale grey skin and rapid shallow breathing.</text>
+		<voice id="AB2868-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Warm dry skin</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Sweating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow pulse</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Skin rash</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

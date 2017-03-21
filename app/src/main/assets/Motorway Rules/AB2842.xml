@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2842" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r258</xref>
+		<text>When should you stop on a motorway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2842-1"/>
+	<explanation>
+		<text>There are some occasions when you may have to stop on the carriageway of a motorway. These include when being signalled by the police or a traffic officer, when a red cross shows above every lane and in traffic jams.</text>
+		<voice id="AB2842-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>If you have to read a map</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When you are tired and need a rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>If a red cross shows above every lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>If your mobile phone rings</text>
+			<graphic/>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1516" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r213</xref>
+		<text>Why should you allow extra room when overtaking a motorcyclist on a windy day?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1516-1"/>
+	<explanation>
+		<text>If you’re driving in high winds, be aware that the conditions might force a motorcyclist or cyclist to swerve or wobble. Take this into consideration if you’re following or wish to overtake a two-wheeled vehicle.</text>
+		<voice id="BB1516-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The rider may turn off suddenly to get out of the wind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The rider may be blown across in front of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The rider may stop suddenly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The rider may be travelling faster than normal</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

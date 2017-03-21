@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2176" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r213, HC p109, KYTS p12</xref>
+		<text>You are about to overtake a slow-moving motorcyclist. Which one of these signs would make you take special care?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2176-1"/>
+	<explanation>
+		<text>In windy weather, watch out for motorcyclists and also cyclists as they can be blown sideways into your path. When you pass them, leave plenty of room and check their position in your mirror before pulling back in.</text>
+		<voice id="AB2176-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2176a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2176b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2176c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2176d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

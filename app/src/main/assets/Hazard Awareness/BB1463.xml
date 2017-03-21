@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1463" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r90-91</xref>
+		<text>You are on a motorway. You feel tired. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1463-1"/>
+	<explanation>
+		<text>If you do feel tired and there’s no service station for many miles, leave the motorway at the next exit. Find a road off the motorway where you can pull up and stop safely.</text>
+		<voice id="BB1463-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>carry on but go slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>complete your journey as quickly as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

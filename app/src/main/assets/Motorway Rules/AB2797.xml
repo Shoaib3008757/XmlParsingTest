@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2797" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>You should not normally travel on the hard shoulder of a motorway. When can you use it?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2797-1"/>
+	<explanation>
+		<text>Normally you should only use the hard shoulder for emergencies and breakdowns, and at roadworks when signs direct you to do so. Active Traffic Management (ATM) areas are being introduced to ease traffic congestion. In these areas the hard shoulder may be used as a running lane when speed limit signs are shown directly above.</text>
+		<voice id="AB2797-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>When taking the next exit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When traffic is stopped</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>When signs direct you to</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When traffic is slow moving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

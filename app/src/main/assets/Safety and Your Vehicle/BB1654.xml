@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1654" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20</xref>
+		<text>To help keep your car secure you could join a</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1654-1"/>
+	<explanation>
+		<text>The vehicle watch scheme helps reduce the risk of having your car stolen. By displaying high visibility vehicle watch stickers in your car you are inviting the police to stop your vehicle if seen in use between midnight and 5 am.</text>
+		<voice id="BB1654-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>vehicle breakdown organisation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>vehicle watch scheme</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>advanced driver’s scheme</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>car maintenance class</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

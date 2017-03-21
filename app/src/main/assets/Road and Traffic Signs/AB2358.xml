@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2358" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p11</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2358.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2358-1"/>
+	<explanation>
+		<text>Don’t leave moving into the left-hand lane until the last moment. Plan ahead and don’t rely on other traffic letting you in.</text>
+		<voice id="AB2358-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>End of dual carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tall bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road narrows</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of narrow bridge</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1647" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s20, HC p131</xref>
+		<text>How can you reduce the chances of your car being broken into when leaving it unattended?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1647-1"/>
+	<explanation>
+		<text>When leaving your car take all valuables with you if you can, otherwise lock them out of sight.</text>
+		<voice id="BB1647-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Take all valuables with you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park near a taxi rank</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Place any valuables on the floor</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park near a fire station</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

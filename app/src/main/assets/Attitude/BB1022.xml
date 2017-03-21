@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1022" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r141, KYTS p32</xref>
+		<text>A bus lane on your left shows no times of operation. This means it is</text>
+		<graphic>BB1022.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1022-1"/>
+
+<explanation>
+		<text>Don’t drive or park in a bus lane when it’s in operation. This can cause disruption to traffic and delays to public transport.</text>
+		<voice id="BB1022-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>not in operation at all</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only in operation at peak times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>in operation 24 hours a day</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>only in operation in daylight hours</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

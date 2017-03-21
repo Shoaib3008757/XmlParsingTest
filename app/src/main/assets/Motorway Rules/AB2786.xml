@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2786" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>An Emergency Refuge Area is an area</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2786-1"/>
+	<explanation>
+		<text>Emergency Refuge Areas may be found at the side of the hard shoulder about 500 metres apart. If you break down you should use them rather than the hard shoulder if you are able. When re-joining the motorway you must remember to take extra care especially when the hard shoulder is being used as a running lane within an Active Traffic Management area. Try to match your speed to that of traffic in the lane you are joining.</text>
+		<voice id="AB2786-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>on a motorway for use in cases of emergency or breakdown</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>for use if you think you will be involved in a road rage incident</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on a motorway for a police patrol to park and watch traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>for construction and road workers to store emergency equipment</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

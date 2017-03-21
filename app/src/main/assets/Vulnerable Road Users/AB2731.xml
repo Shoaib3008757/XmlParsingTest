@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2731" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r213</xref>
+		<text>You are following a motorcyclist on an uneven road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2731-1"/>
+	<explanation>
+		<text>Potholes and bumps in the road can unbalance a motorcyclist. For this reason the rider might swerve to avoid an uneven road surface. Watch out at places where this is likely to occur.</text>
+		<voice id="AB2731-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>allow less room so you can be seen in their mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake immediately</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>allow extra room in case they swerve to avoid potholes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow the same room as normal because road surfaces do not affect motorcyclists</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

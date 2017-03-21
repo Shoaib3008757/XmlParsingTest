@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2237" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>A crawler lane on a motorway is found</text>
+		<graphic>AB2237.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2237-1"/>
+	<explanation>
+		<text>Slow-moving, large vehicles might slow down the progress of other traffic. On a steep gradient this extra lane is provided for these slow-moving vehicles to allow the faster-moving traffic to flow more easily.</text>
+		<voice id="AB2237-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>on a steep gradient</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>before a service area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>before a junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>along the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

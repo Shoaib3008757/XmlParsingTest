@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1723" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>What does ecosafe driving achieve?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1723-1"/>
+	<explanation>
+		<text>The emphasis is on hazard awareness and planning ahead. By looking well ahead you will have plenty of time to deal with hazards safely and won’t need to brake sharply. This will also reduce damage to the environment.</text>
+		<voice id="BB1723-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Increased fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Improved road safety</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Damage to the environment</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Increased exhaust emissions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2928" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>At an incident a casualty isn’t breathing. What should you do while helping them to start breathing again?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2928-1"/>
+	<explanation>
+		<text>It’s important to ensure that the airways are clear before you start mouth to mouth resuscitation. Gently tilt their head back and use your finger to check for and remove any obvious obstruction in the mouth.</text>
+		<voice id="AB2928-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Put their arms across their chest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Shake them firmly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Roll them onto their side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Tilt their head back gently</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

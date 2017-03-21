@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2912" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p108, KYTS p12</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2912.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2912-1"/>
+	<explanation>
+		<text>When approaching a tunnel switch on your dipped headlights. Be aware that your eyes might need to adjust to the sudden darkness. You may need to reduce your speed.</text>
+		<voice id="AB2912-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Low bridge ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Tunnel ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ancient monument ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic danger spot ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

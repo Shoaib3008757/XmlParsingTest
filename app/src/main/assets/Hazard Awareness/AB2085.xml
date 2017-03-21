@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2085" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p117</xref>
+		<text>Where would you expect to see these markers?</text>
+		<graphic>AB2085.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2085-1"/>
+	<explanation>
+		<text>These markers must be fitted to vehicles over 13 metres long, large goods vehicles, and rubbish skips placed in the road. They’re reflective to make them easier to see in the dark.</text>
+		<voice id="AB2085-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>On a motorway sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a railway bridge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>On a large goods vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>On a diversion sign</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

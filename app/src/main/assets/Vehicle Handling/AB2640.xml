@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2640" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r153</xref>
+		<text>You are on a road which has speed humps. A driver in front is travelling slower than you. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2640-1"/>
+	<explanation>
+		<text>Be patient and stay behind the car in front. Normally you should not overtake other vehicles in traffic-calmed areas. If you overtake here your speed may exceed that which is safe along that road, defeating the purpose of the traffic calming measures.</text>
+		<voice id="AB2640-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>overtake as soon as you can</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>slow down and stay behind</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

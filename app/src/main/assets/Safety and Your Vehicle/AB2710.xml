@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2710" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s14</xref>
+		<text>You need to top up your battery. What level should you fill to?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2710-1"/>
+	<explanation>
+		<text>Top up the battery with distilled water and make sure each cell plate is covered.</text>
+		<voice id="AB2710-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The top of the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Half-way up the battery</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Just below the cell plates</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Just above the cell plates</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

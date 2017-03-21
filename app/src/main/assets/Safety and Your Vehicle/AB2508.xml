@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2508" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>The purpose of a catalytic converter is to reduce</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2508-1"/>
+	<explanation>
+		<text>Catalytic converters are designed to reduce a large percentage of toxic emissions. They work more efficiently when the engine has reached its normal working temperature.</text>
+		<voice id="AB2508-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>fuel consumption</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the risk of fire</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>toxic exhaust gases</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>engine wear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

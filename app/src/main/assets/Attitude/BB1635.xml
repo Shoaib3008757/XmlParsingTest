@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1635" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r199</xref>
+		<text>At puffin crossings, which light will not show to a driver?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1635-1"/>
+	<explanation>
+		<text>A flashing amber light is shown at pelican crossings, but puffin crossings are different. They are controlled electronically and automatically detect when pedestrians are on the crossing. The phase is shortened or lengthened according to the position of the pedestrians.</text>
+		<voice id="BB1635-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Flashing amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Red</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Steady amber</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Green</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

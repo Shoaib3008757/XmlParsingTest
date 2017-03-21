@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2333" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p9</xref>
+		<text>What does a circular traffic sign with a blue background do?</text>
+		<graphic>AB2333.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2333-1"/>
+	<explanation>
+		<text>Signs with blue circles mostly give a positive instruction. These are often found in urban areas and include signs for mini-roundabouts and directional arrows.</text>
+		<voice id="AB2333-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Give warning of a motorway ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give directions to a car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give motorway information</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give an instruction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

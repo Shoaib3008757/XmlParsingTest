@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2419" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p91</xref>
+		<text>What does this motorway sign mean?</text>
+		<graphic>AB2419.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2419-1"/>
+	<explanation>
+		<text>Look out for signs above your lane or on the central reservation. These will give you important information or warnings about the road ahead. Due to the high speed of motorway traffic these signs may light up some distance from any hazard. Don’t ignore the signs just because the road looks clear to you.</text>
+		<voice id="AB2419-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Temporary minimum speed 50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No services for 50 miles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Obstruction 50 metres (164 feet) ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Temporary maximum speed 50 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

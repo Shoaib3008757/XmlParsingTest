@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1474" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>You are on a motorway at night with other vehicles just ahead of you. Which lights should you have on?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1474-1"/>
+	<explanation>
+		<text>If you’re driving behind other traffic at night on the motorway, leave a two-second time gap and use dipped headlights. Full beam will dazzle the other drivers. Your headlights’ beam should fall short of the vehicle in front.</text>
+		<voice id="BB1474-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Front fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Main beam headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sidelights only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

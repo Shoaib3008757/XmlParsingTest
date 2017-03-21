@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2846" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s15﻿, HC r275</xref>
+    <text>You stop on the hard shoulder of a motorway and use the emergency telephone. Where’s the best place to wait for help to arrive?</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2846-1"/>
+  <explanation>
+    <text>When you’re on the hard shoulder you’re at risk of being injured by motorway traffic. The safest place to wait is away from the carriageway and hard shoulder, but near enough to see the emergency services arriving.</text>
+    <voice id="AB2846-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>Next to the phone</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>Well away from the carriageway</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>With your vehicle</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>On the hard shoulder</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

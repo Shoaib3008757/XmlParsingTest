@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2829" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10</xref>
+		<text>You are waiting to turn right at the end of a road. Your view is obstructed by parked vehicles. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2829-1"/>
+
+<explanation>
+		<text>At junctions your view is often restricted by buildings, trees or parked cars. You need to be able to see in order to judge a safe gap. Edge forward slowly and keep looking all the time. Don’t cause other road users to change speed or direction as you emerge.</text>
+		<voice id="AB2829-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Stop and then move forward slowly and carefully for a proper view</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Move quickly to where you can see so you only block traffic from one direction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait for a pedestrian to let you know when it is safe for you to emerge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn your vehicle around immediately and find another junction to use</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

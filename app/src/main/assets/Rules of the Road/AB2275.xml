@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2275" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r186</xref>
+		<text>When going straight ahead at a roundabout you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2275-1"/>
+	<explanation>
+		<text>When you want to go straight on at a roundabout, don’t signal as you approach it, but indicate left just after you pass the exit before the one you wish to take.</text>
+		<voice id="AB2275-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>indicate left before leaving the roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>not indicate at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>indicate right when approaching the roundabout</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>indicate left when approaching the roundabout</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

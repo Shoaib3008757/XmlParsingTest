@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1525" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r272</xref>
+		<text>You are intending to leave the motorway at the next exit. Before you reach the exit you should normally position your vehicle</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1525-1"/>
+	<explanation>
+		<text>You’ll see the first advance direction sign one mile from the exit. If you’re travelling at 60 mph in the right-hand lane you’ll only have about 50 seconds before you reach the countdown markers. There will be another sign at the half-mile point. Move in to the left-hand lane in good time. Don’t cut across traffic at the last moment and don’t risk missing your exit.</text>
+		<voice id="BB1525-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>in the middle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>in the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in any lane</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

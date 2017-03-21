@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1657" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r126</xref>
+		<text>You are on a fast, open road in good conditions. For safety, the distance between you and the vehicle in front should be</text>
+		<graphic>BB1657.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1657-1"/>
+	<explanation>
+		<text>One useful method of checking that you’ve allowed enough room between you and the vehicle in front is the two-second rule. To check for a two-second time gap, choose a stationary object ahead, such as a bridge or road sign. When the car in front passes the object say 'Only a fool breaks the two-second rule'. If you reach the object before you finish saying it you're too close.</text>
+		<voice id="BB1657-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>a two-second time gap</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>one car length</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>2 metres (6 feet 6 inches)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>two car lengths</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

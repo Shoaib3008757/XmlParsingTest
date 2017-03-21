@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2834" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r36, HC r220</xref>
+		<text>Powered vehicles, such as wheelchairs or scooters, used by disabled people have a maximum speed of</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2834-1"/>
+	<explanation>
+		<text>These are small battery powered vehicles and include wheelchairs and mobility scooters. Some are designed for use on the pavement only and have an upper speed limit of 4 mph (6 km/h). Others can go on the road as well and have a speed limit of 8 mph (12 km/h). They are now very common and are generally used by the elderly, disabled or infirm. Take great care as they are extremely vulnerable because of their low speed and small size.</text>
+		<voice id="AB2834-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>8 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>12 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>16 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>20 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

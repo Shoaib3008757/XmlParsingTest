@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1689" topic="Motorway Rules" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s11</xref>
+		<text>You are on a three-lane motorway towing a trailer. You may use the right-hand lane when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1689-1"/>
+	<explanation>
+		<text>If you are towing a caravan or trailer you must not use the right-hand lane on a motorway with three or more lanes, except in certain circumstances, such as lane closures.</text>
+		<voice id="BB1689-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>there are lane closures</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>there is slow moving traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you can maintain a high speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>large vehicles are in the left and centre lanes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

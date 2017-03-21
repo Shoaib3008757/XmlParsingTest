@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1662" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r120</xref>
+		<text>When would an anti-lock braking system start to work?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1662-1"/>
+	<explanation>
+		<text>The anti-lock braking system has sensors that detect when the wheels are about to lock. It releases the brakes momentarily to allow the wheels to revolve and grip, then automatically reapplies them. This cycle is repeated several times a second to maximise braking performance.</text>
+		<voice id="BB1662-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>After the parking brake has been applied</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Whenever pressure on the brake pedal is applied</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Just as the wheels are about to lock</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When the normal braking system fails to operate</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

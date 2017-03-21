@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2033" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r219</xref>
+		<text>What type of emergency vehicle is fitted with a green flashing beacon?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2033-1"/>
+
+<explanation>
+		<text>A green flashing beacon on a vehicle means the driver or passenger is a doctor on an emergency call. Give way to them if it’s safe to do so. Be aware that the vehicle may be travelling quickly or may stop in a hurry.</text>
+		<voice id="AB2033-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Fire engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Road gritter</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ambulance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Doctor’s car</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2088" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s7, HC r191</xref>
+    <text>Which road user has caused a hazard?</text>
+    <graphic>AB2088.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2088-1"/>
+  <explanation>
+    <text>The car arrowed A is parked within the area marked by zigzag lines at the pedestrian crossing. Parking here is illegal. It also
+      <unorderedlist>
+        <item>• blocks the view for pedestrians wishing to cross the road</item>
+        <item>• restricts the view of the crossing for approaching traffic.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2088-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="yes">
+      <text>The parked car (arrowed A)</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>The pedestrian waiting to cross (arrowed B)</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>The moving car (arrowed C)</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>The car turning (arrowed D)</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

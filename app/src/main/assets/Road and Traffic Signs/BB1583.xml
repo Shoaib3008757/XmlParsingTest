@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1583" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103</xref>
+		<text>You are driving in busy traffic. You want to pull up on the left just after a junction on the left. When should you signal?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1583-1"/>
+	<explanation>
+		<text>You need to signal to let other drivers know your intentions. However, if you indicate too early they may think you are turning left into the junction. Correct timing of the signal is very important to avoid misleading others.</text>
+		<voice id="BB1583-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>As you are passing or just after the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Just before you reach the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Well before you reach the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>It would be better not to signal at all</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

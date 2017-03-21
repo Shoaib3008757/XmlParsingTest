@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2915" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>You arrive at the scene of a motorcycle crash. The rider is injured. When should the helmet be removed?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2915-1"/>
+	<explanation>
+		<text>DO NOT remove a motorcyclist’s helmet unless it is essential. Remember they may be suffering from shock. Don’t give them anything to eat or drink but do reassure them confidently.</text>
+		<voice id="AB2915-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Only when it is essential</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always straight away</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Only when the motorcyclist asks</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always, unless they are in shock</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

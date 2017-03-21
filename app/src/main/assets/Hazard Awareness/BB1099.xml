@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1099" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r134, HC p113, KYTS p129</xref>
+		<text>What might you expect to happen in this situation?</text>
+		<graphic>BB1099.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1099-1"/>
+	<explanation>
+		<text>Be courteous and allow the traffic to merge into the left-hand lane.</text>
+		<voice id="BB1099-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Traffic will move into the right-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic speed will increase</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Traffic will move into the left-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Traffic will not need to change position</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

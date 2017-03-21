@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2924" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>There’s been a collision. A driver is suffering from shock. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2924-1"/>
+	<explanation>
+		<text>A casualty suffering from shock may have injuries that aren’t immediately obvious. Call the emergency services, then stay with the person in shock, offering reassurance until the experts arrive.</text>
+		<voice id="AB2924-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Give them a drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Reassure them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ask who caused the incident</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Offer them a cigarette</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

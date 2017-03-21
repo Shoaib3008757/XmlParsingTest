@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1555" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r199, KYTS p123</xref>
+		<text>You are approaching a red light at a puffin crossing. Pedestrians are on the crossing. The red light will stay on until</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1555-1"/>
+
+	<explanation>
+		<text>The electronic device will automatically detect that the pedestrians have reached a safe position. Don’t proceed until the green light shows it is safe for vehicles to do so.</text>
+		<voice id="BB1555-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you start to edge forward on to the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>the pedestrians have reached a safe position</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the pedestrians are clear of the front of your vehicle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>a driver from the opposite direction reaches the crossing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

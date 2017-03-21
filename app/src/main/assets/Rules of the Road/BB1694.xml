@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1694" topic="Rules of the Road" category="Car" ni_exempt="no">
+  <question>
+    <xref>DES s11, HC r288-289</xref>
+    <text>You are in the right-hand lane of a dual carriageway. You see signs showing that the right-hand lane is closed 800 yards ahead. You should</text>
+    <graphic>BB1694.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="BB1694-1"/>
+  <explanation>
+    <text>Keep a look-out for traffic signs. If you’re directed to change lanes, do so in good time. Don’t
+      <unorderedlist>
+        <item>• push your way into traffic in another lane</item>
+        <item>• leave changing lanes until the last moment.</item>
+      </unorderedlist>
+    </text>
+    <voice id="BB1694-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>keep in that lane until you reach the queue</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>move to the left immediately</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>wait and see which lane is moving faster</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>move to the left in good time</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

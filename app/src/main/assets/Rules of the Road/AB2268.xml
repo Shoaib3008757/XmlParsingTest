@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2268" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s13</xref>
+		<text>You can park on the right-hand side of a road at night</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2268-1"/>
+	<explanation>
+		<text>Red rear reflectors show up when headlights shine on them. These are useful when you are parked at night but will only reflect if you park in the same direction as the traffic flow. Normally you should park on the left, but if you’re in a one-way street you may also park on the right-hand side.</text>
+		<voice id="AB2268-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>in a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with your sidelights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>more than 10 metres (32 feet) from a junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>under a lamppost</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

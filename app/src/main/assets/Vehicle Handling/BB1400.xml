@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1400" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12</xref>
+		<text>Chains can be fitted to your wheels to help prevent</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1400-1"/>
+	<explanation>
+		<text>Snow chains can be fitted to your tyres during snowy conditions. They can help you to move off from rest or to keep moving in deep snow. You will still need to adjust your driving according to the road conditions at the time.</text>
+		<voice id="BB1400-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>damage to the road surface</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wear to the tyres</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>skidding in deep snow</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the brakes locking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

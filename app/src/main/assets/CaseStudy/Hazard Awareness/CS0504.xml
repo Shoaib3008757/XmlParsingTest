@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0504" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r105, HC p104</xref>
+		<text>Andrea is waiting to turn right in the town centre. Cars are parked along the roadside, obstructing Andrea’s view. There are many shop windows. The area is busy with traffic and pedestrians. Further on, a vehicle is unloading on the left and there are several oncoming cars.  At inactive traffic lights a police officer is directing traffic. He is facing Andrea with one hand straight up, his palm showing. There is a bus lane, but no signs showing periods of operation or permitted use by other vehicles.</text>
+		<part>What MUST Andrea do in response to the officer’s signal?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0504-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Travel as quickly as possible through the junction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive carefully and slowly past the police officer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow to a crawl, while flashing the headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop and wait patiently till signalled to go on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0504-2"/>
+	</explanation>
+</QF>

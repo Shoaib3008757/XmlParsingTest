@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1698" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s2, HC p121</xref>
+		<text>Motor cars must first have an MOT test certificate when they are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1698-1"/>
+	<explanation>
+		<text>The vehicle you drive MUST be roadworthy and in good condition. If it’s over three years old it MUST pass an MOT test to remain in use on the road. Vehicles made before 1960 are exempt from the MOT test, but must be in a roadworthy condition before being driven on the road.</text>
+		<voice id="BB1698-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>one year old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>three years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>five years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>seven years old</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

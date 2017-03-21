@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1527" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC p107, KYTS p55</xref>
+		<text>You are driving on an urban clearway. You may stop only to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1527-1"/>
+	<explanation>
+		<text>Urban clearways may be in built-up areas and their times of operation will be clearly signed. You should stop only for as long as is reasonable to pick up or set down passengers. You should ensure that you are not causing an obstruction for other traffic.</text>
+		<voice id="BB1527-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>set down and pick up passengers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use a mobile telephone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>ask for directions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>load or unload goods</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

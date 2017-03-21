@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2614" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s10, HC r152</xref>
+    <text>You’re travelling along a street with parked vehicles on the left-hand side. Why should you keep your speed down?</text>
+    <graphic></graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2614-1"/>
+  <explanation>
+    <text>Travel slowly and carefully near parked vehicles. Beware of
+	<unorderedlist>
+        <item>• vehicles pulling out, especially bicycles and motorcycles</item>
+        <item>• pedestrians, especially children, who may run out from between cars</item>
+        <item>• drivers opening their doors.</item>
+    </unorderedlist>
+    </text>
+    <voice id="AB2614-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>So that oncoming traffic can see you more clearly</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>You may set off car alarms</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>There may be delivery lorries on the street</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>Children may run out from between the vehicles</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

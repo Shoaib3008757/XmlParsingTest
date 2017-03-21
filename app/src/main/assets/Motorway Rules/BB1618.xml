@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1618" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r253</xref>
+		<text>As a provisional licence holder you should not drive a car</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1618-1"/>
+	<explanation>
+		<text>When you’ve passed your practical test ask your instructor to take you for a lesson on the motorway. You’ll need to get used to the speed of traffic and how to deal with multiple lanes. The Pass Plus scheme has been created for new drivers, and includes motorway driving. Ask your ADI for details.</text>
+		<voice id="BB1618-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>over 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at night</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>on the motorway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>with passengers in rear seats</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

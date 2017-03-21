@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1520" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>Why is it particularly important to carry out a check on your vehicle before making a long motorway journey?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1520-1"/>
+	<explanation>
+		<text>Before you start your journey make sure that your vehicle can cope with the demands of high-speed driving. You should check a number of things, the main ones being oil, water and tyres. You also need to plan rest stops if you’re going a long way.</text>
+		<voice id="BB1520-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You will have to do more harsh braking on motorways</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorway service stations do not deal with breakdowns</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The road surface will wear down the tyres faster</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Continuous high speeds may increase the risk of your vehicle breaking down</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

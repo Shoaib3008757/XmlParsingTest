@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1674" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s4</xref>
+		<text>You are dazzled at night by a vehicle behind you. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1674-1"/>
+	<explanation>
+		<text>The interior mirror of most vehicles can be set to the anti-dazzle position. You will still be able to see the lights of the traffic behind you, but the dazzle will be greatly reduced.</text>
+		<voice id="BB1674-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>set your mirror to anti-dazzle</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>set your mirror to dazzle the other driver</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>brake sharply to a stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch your rear lights on and off</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2735" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232-233</xref>
+		<text>Which of these is LEAST likely to be affected by crosswinds?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2735-1"/>
+	<explanation>
+		<text>Although cars are the least likely to be affected, crosswinds can take anyone by surprise. This is most likely to happen after overtaking a large vehicle, when passing gaps between hedges or buildings, and on exposed sections of road.</text>
+		<voice id="AB2735-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Cyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorcyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>High-sided vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Cars</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

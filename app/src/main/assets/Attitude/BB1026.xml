@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1026" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, 10, HC r214</xref>
+		<text>A person herding sheep asks you to stop. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1026-1"/>
+
+	<explanation>
+		<text>Allow the sheep to clear the road before you proceed. Animals are unpredictable and startle easily; they could turn and run into your path or into the path of another moving vehicle.</text>
+		<voice id="BB1026-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>ignore them as they have no authority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop and switch off your engine</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>continue on but drive slowly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>try and get past quickly</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

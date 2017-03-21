@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2933" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>At a collision you suspect a casualty has back injuries. The area is safe. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2933-1"/>
+	<explanation>
+		<text>Talk to the casualty and keep them calm. Do not attempt to move them as this could cause further injury. Call an ambulance at the first opportunity.</text>
+		<voice id="AB2933-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>offer them a drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>not move them</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>raise their legs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>not call an ambulance</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

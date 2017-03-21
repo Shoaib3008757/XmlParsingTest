@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2669" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p107</xref>
+		<text>What does this sign tell you?</text>
+		<graphic>AB2669.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2669-1"/>
+	<explanation>
+		<text>The blue and red circular sign on its own means that waiting restrictions are in force. This sign shows that you are leaving the controlled zone and waiting restrictions no longer apply.</text>
+		<voice id="AB2669-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>That it is a no-through road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of traffic calming zone</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Free parking zone ends</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No waiting zone ends</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

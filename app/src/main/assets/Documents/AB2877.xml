@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2877" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p120–122</xref>
+		<text>Which of these is needed before you can use a vehicle on the road legally?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2877-1"/>
+	<explanation>
+		<text>Using a vehicle on the road illegally carries a heavy fine and can lead to penalty points on your licence. You MUST have:
+		<unorderedlist>
+        <item>• a valid driving licence</item>
+        <item>• paid the appropriate vehicle excise duty (road tax)</item>
+		<item>• proper insurance cover.</item>
+		</unorderedlist></text>
+		<voice id="AB2877-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>A valid driving licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Breakdown cover</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Proof of your identity</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>A vehicle handbook</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

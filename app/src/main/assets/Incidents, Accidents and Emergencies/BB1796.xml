@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1796" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>You have a collision while driving through a tunnel. You are not injured but your vehicle cannot be driven. What should you do FIRST?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1796-1"/>
+	<explanation>
+		<text>If you are involved in a collision in a tunnel be aware of the danger this can cause to other traffic. The greatest danger is fire. Put on your hazard warning lights straight away and switch off your engine. Then call for help from an emergency telephone point.</text>
+		<voice id="BB1796-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Rely on other drivers phoning for the police</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Switch off the engine and switch on hazard lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Take the names of witnesses and other drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sweep up any debris that is in the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

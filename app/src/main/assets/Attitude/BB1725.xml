@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1725" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1</xref>
+		<text>What style of driving causes increased risk to everyone?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1725-1"/>
+	<explanation>
+		<text>Competitive driving increases the risks to everyone and is the opposite of responsible, considerate and defensive driving. Defensive driving is about questioning the actions of other road users and being prepared for the unexpected. Don’t be taken by surprise.</text>
+		<voice id="BB1725-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Considerate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Defensive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Competitive</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Responsible</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

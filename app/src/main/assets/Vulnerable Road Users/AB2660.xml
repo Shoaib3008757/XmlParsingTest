@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2660" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r220</xref>
+		<text>Powered vehicles used by disabled people are small and hard to see. How do they give early warning when on a dual carriageway?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2660-1"/>
+	<explanation>
+		<text>Powered vehicles used by disabled people are small, low, hard to see and travel very slowly. On a dual carriageway a flashing amber light will warn other road users.</text>
+		<voice id="AB2660-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>They will have a flashing red light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They will have a flashing green light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>They will have a flashing blue light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>They will have a flashing amber light</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

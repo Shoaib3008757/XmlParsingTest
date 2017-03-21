@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1193" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19, HC p40</xref>
+		<text>You are towing a trailer on a motorway. What is your maximum speed limit?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1193-1"/>
+	<explanation>
+		<text>Don’t forget that you’re towing a trailer. If you’re towing a small, light, trailer, it won’t reduce your vehicle’s performance by very much. However, strong winds or buffeting from large vehicles might cause the trailer to snake from side to side. Be aware of your speed and don’t exceed the lower limit imposed.</text>
+		<voice id="BB1193-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

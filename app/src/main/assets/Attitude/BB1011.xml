@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1011" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r115</xref>
+		<text>You are driving on a clear night. There is a steady stream of oncoming traffic. The national speed limit applies. Which lights should you use?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1011-1"/>
+
+<explanation>
+		<text>Use the full beam headlights only when you can be sure that you won’t dazzle other road users.</text>
+		<voice id="BB1011-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Full beam headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Sidelights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Fog lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

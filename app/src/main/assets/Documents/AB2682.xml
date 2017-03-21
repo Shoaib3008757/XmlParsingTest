@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2682" topic="Documents" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p127, HC p134</xref>
+		<text>You’ve just passed your practical test. You don’t hold a full licence in another category. Within two years you get six penalty points on your licence. What will you have to do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2682-1"/>
+	<explanation>
+		<text>If you accumulate six or more penalty points within two years of gaining your first full licence it will be revoked. The six or more points include any gained due to offences you committed before passing your test. If this happens you may only drive as a learner until you pass both the theory and practical tests again.</text>
+		<voice id="AB2682-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Retake only your theory test</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Retake your theory and practical tests</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Retake only your practical test</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Reapply for your full licence immediately</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

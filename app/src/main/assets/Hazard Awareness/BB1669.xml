@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1669" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r96</xref>
+		<text>You’re not sure if your cough medicine will affect your ability to drive safely. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1669-1"/>
+	<explanation>
+		<text>If you’re taking medicine or drugs prescribed by your doctor, check to ensure that they won’t make you drowsy. If you forget to ask at the time of your visit to the surgery, check with your pharmacist. Some over-the-counter medication can also cause drowsiness. Read the label and don’t drive if you’re affected.</text>
+		<voice id="BB1669-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Take your medicine with food</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check the medicine label</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Drive if you feel all right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ask a friend or relative for advice</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0904" topic="Motorway Rules" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s19, HC p40</xref>
+		<text>Beverley is towing a small trailer behind her car and is joining the motorway from a slip road.  The motorway is busy with morning traffic. Further along the motorway, the central reservation barrier is coned off for repair. Lanes have been narrowed for some distance, using cones and temporary reflective studs. Once past the road works, traffic speeds up and the left-hand lane becomes clear.  Beverley then realises she has gone past the exit she needs.</text>
+		<part>What is the national motorway speed limit for Beverley’s vehicle and trailer?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0904-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>50mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>60mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>70mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>80mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0904-2"/>
+	</explanation>
+</QF>

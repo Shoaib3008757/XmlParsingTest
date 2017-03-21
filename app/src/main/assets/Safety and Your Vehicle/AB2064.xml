@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2064" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r153</xref>
+		<text>Road humps, chicanes, and narrowings are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2064-1"/>
+	<explanation>
+		<text>Traffic calming measures help keep vehicle speeds low in congested areas where there are pedestrians and children. A pedestrian is much more likely to survive a collision with a vehicle travelling at 20 mph than at 40 mph.</text>
+		<voice id="AB2064-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>always at major road works</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>used to increase traffic speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>at toll-bridge approaches only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>traffic calming measures</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

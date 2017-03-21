@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1570" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, DES s18</xref>
+		<text>You lose your way on a busy road. What is the best action to take?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1570-1"/>
+
+<explanation>
+		<text>It’s easy to lose your way in an unfamiliar area. If you need to check a map or ask for directions, first find a safe place to stop.</text>
+		<voice id="BB1570-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop at traffic lights and ask pedestrians</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Shout to other drivers to ask them the way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Turn into a side road, stop and check a map</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Check a map, and keep going with the traffic flow</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

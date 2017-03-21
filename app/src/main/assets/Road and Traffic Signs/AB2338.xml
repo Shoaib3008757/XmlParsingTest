@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2338" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p84</xref>
+		<text>What does a sign with a brown background show?</text>
+		<graphic>AB2338.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2338-1"/>
+	<explanation>
+		<text>Signs with a brown background give directions to places of interest. They will often be seen on a motorway directing you along the easiest route to the attraction.</text>
+		<voice id="AB2338-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Tourist directions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Primary roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Motorway routes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Minor routes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

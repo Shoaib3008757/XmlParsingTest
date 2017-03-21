@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2121" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r170</xref>
+		<text>You are at a road junction, turning into a minor road. There are pedestrians crossing the minor road. You should</text>
+		<graphic>AB2121.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2121-1"/>
+	<explanation>
+		<text>Always look into the road into which you are turning. If there are pedestrians crossing, give way to them, but don’t wave or signal to them to cross. Signal your intention to turn as you approach.</text>
+		<voice id="AB2121-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>stop and wave the pedestrians across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sound your horn to let the pedestrians know that you are there</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to the pedestrians who are already crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>carry on; the pedestrians should give way to you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

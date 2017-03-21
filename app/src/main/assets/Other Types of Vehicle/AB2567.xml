@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2567" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r221</xref>
+		<text>You are following a large articulated vehicle. It is going to turn left into a narrow road. What action should you take?</text>
+		<graphic>AB2567.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2567-1"/>
+	<explanation>
+		<text>Lorries are larger and longer than other vehicles and this can affect their position when approaching junctions. When turning left they may move out to the right so that they don’t cut in and mount the kerb with the rear wheels.</text>
+		<voice id="AB2567-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Move out and overtake on the right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pass on the left as the vehicle moves out</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be prepared to stop behind</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Overtake quickly before the lorry moves out</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

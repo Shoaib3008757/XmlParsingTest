@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2799" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>Before starting a journey, where can you get help to plan your route?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2799-1"/>
+	<explanation>
+		<text>Most motoring organisation websites allow you to create a detailed plan of your trip, showing directions and distances. Some also include advice on rest and fuel stops. The Traffic England website will give you information on roadworks and accidents, along with expected delay times.</text>
+		<voice id="AB2799-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Your local filling station</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A motoring organisation</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The Driver and Vehicle Licensing Agency</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Your vehicle manufacturer</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

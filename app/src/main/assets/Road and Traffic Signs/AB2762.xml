@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2762" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p16</xref>
+		<text>What MUST you do when you see this sign?</text>
+		<graphic>AB2762.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2762-1"/>
+	<explanation>
+		<text>STOP signs are situated at junctions where visibility is restricted or there is heavy traffic. They MUST be obeyed. You MUST stop. Take good all-round observation before moving off.</text>
+		<voice id="AB2762-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop, only if traffic is approaching</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop, even if the road is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop, only if children are waiting to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop, only if a red light is showing</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

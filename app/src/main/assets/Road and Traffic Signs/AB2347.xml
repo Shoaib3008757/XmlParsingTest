@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2347" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p109, KYTS p13</xref>
+		<text>Which sign means that pedestrians may be walking along the road?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2347-1"/>
+	<explanation>
+		<text>When you pass pedestrians in the road, leave plenty of room. You might have to use the right-hand side of the road, so look well ahead, as well as in your mirrors, before pulling out. Take great care if there is a bend in the road obscuring your view ahead.</text>
+		<voice id="AB2347-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2347a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2347b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2347c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2347d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

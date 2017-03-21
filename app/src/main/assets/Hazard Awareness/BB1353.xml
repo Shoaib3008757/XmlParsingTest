@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1353" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r143</xref>
+		<text>You take the wrong route and find you are on a one-way street. You should</text>
+		<graphic>BB1353.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1353-1"/>
+	<explanation>
+		<text>Never reverse or turn your vehicle around in a one-way street. This is highly dangerous. Carry on and find another route, checking the direction signs as you drive. If you need to check a map, first stop in a safe place.</text>
+		<voice id="BB1353-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reverse out of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turn round in a side road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>continue to the end of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reverse into a driveway</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

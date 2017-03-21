@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1612" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You are driving through a tunnel and the traffic is flowing normally. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1612-1"/>
+	<explanation>
+		<text>Before entering a tunnel you should switch on your dipped headlights, as this will allow you to see and be seen. In many tunnels it is a legal requirement. Don’t wear sunglasses while driving in a tunnel. You may wish to tune your radio into a local channel.</text>
+		<voice id="BB1612-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Use parking lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use front spot lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Use dipped headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Use rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

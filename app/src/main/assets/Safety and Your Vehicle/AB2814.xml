@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2814" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>As well as planning your route before starting a journey, you should also plan an alternative route. Why is this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2814-1"/>
+	<explanation>
+		<text>It’s a good idea to plan an alternative route in case your original route is blocked for any reason. You’re less likely to feel worried and stressed if you’ve got an alternative in mind. This will enable you to concentrate fully on your driving or riding. Always carry a map that covers the area you will travel in.</text>
+		<voice id="AB2814-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To let another driver overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your first route may be blocked</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To avoid a railway level crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>In case you have to avoid emergency vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

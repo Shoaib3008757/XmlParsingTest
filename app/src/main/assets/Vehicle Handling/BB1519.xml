@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1519" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11, DES s15</xref>
+		<text>You are on a motorway at night. You MUST have your headlights switched on unless</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1519-1"/>
+	<explanation>
+		<text>Always use your headlights at night on a motorway unless you have stopped on the hard shoulder. If you break down and have to stop on the hard shoulder, switch off the headlights but leave the sidelights on so that other road users can see your vehicle.</text>
+		<voice id="BB1519-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>there are vehicles close in front of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you are travelling below 50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the motorway is lit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>your vehicle is broken down on the hard shoulder</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

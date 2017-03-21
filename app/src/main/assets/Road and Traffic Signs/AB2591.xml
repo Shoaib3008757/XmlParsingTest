@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2591" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p17</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2591.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2591-1"/>
+	<explanation>
+		<text>You must comply with all traffic signs and be especially aware of those signs which apply specifically to the type of vehicle you are using.</text>
+		<voice id="AB2591-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Motorcycles only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No cars</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Cars only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>No motorcycles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

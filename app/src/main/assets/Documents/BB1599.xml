@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1599" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>The cost of your insurance may reduce if you</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1599-1"/>
+	<explanation>
+		<text>The cost of insurance varies with your age and how long you have been driving. Usually, the younger you are the more expensive it is, especially if you are under 25 years of age. The Pass Plus scheme provides additional training to newly qualified drivers. Pass Plus is recognised by many insurance companies and taking this extra training could give you reduced insurance premiums, as well as improving your skills and experience.</text>
+		<voice id="BB1599-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>are under 25 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>do not wear glasses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pass the driving test first time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>take the Pass Plus scheme</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

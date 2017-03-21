@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1131" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r202</xref>
+		<text>You want to reverse into a side road. You are not sure that the area behind your car is clear. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1131-1"/>
+	<explanation>
+		<text>If you cannot be sure whether there is anything behind you, it is always safest to check before reversing. There may be a small child or a low obstruction close behind your car. The shape and size of your vehicle can restrict visibility.</text>
+		<voice id="BB1131-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Look through the rear window only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Get out and check</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Check the mirrors only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Carry on, assuming it is clear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

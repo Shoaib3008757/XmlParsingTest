@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1390" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s4, DES s5, HC r159-161</xref>
+		<text>When you’re moving off from behind a parked car you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1390-1"/>
+
+<explanation>
+		<text>Before moving off you should use both the interior and exterior mirrors to check if the road is clear. Look round to check the blind spots and give a signal if it’s necessary to warn other road users of your intentions.</text>
+		<voice id="BB1390-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>give a signal after moving off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>check both interior and exterior mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>look round after moving off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use the exterior mirrors only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

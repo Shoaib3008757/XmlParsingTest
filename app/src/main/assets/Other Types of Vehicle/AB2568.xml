@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2568" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r164, HC r222</xref>
+		<text>You keep well back while waiting to overtake a large vehicle. A car fills the gap. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2568-1"/>
+	<explanation>
+		<text>It’s very frustrating when your separation distance is shortened by another vehicle. React positively, stay calm and drop further back.</text>
+		<voice id="AB2568-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>drop back further</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>start to overtake</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

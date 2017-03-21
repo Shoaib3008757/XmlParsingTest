@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2289" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r199</xref>
+		<text>At toucan crossings, apart from pedestrians you should be aware of</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2289-1"/>
+	<explanation>
+		<text>The use of cycles is being encouraged and more toucan crossings are being installed. These crossings enable pedestrians and cyclists to cross the path of other traffic. Watch out as cyclists will approach the crossing faster than pedestrians.</text>
+		<voice id="AB2289-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>emergency vehicles emerging</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>buses pulling out</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>trams crossing in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>cyclists riding across</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

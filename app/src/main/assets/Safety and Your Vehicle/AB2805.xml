@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2805" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>By avoiding busy times when travelling</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2805-1"/>
+	<explanation>
+		<text>If possible, avoid the early morning and, late afternoon and early evening ‘rush hour’. Doing this should allow you to travel in a more relaxed frame of mind, concentrate solely on what you’re doing and arrive at your destination feeling less stressed.</text>
+		<voice id="AB2805-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>you are more likely to be held up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>your journey time will be longer</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>you will travel a much shorter distance</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>you are less likely to be delayed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

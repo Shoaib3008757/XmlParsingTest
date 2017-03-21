@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2352" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, KYTS p30</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2352.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2352-1"/>
+	<explanation>
+		<text>Obey the ‘give way’ signs. Trams are unable to steer around you if you misjudge when it is safe to enter the junction.</text>
+		<voice id="AB2352-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Wait at the barriers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait at the crossroads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give way to trams</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Give way to farm vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

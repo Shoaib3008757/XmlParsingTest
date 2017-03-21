@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1678" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r195, HC r207</xref>
+		<text>You are driving towards a zebra crossing. A person in a wheelchair is waiting to cross. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1678-1"/>
+	<explanation>
+		<text>You should slow down and be prepared to stop as you would with an able-bodied person. Don’t wave them across as other traffic may not stop.</text>
+		<voice id="BB1678-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Continue on your way</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wave to the person to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wave to the person to wait</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be prepared to stop</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

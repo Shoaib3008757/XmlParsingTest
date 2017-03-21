@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2551" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s3, HC r112</xref>
+		<text>When should you NOT use your horn in a built-up area?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2551-1"/>
+	<explanation>
+		<text>By law you must not sound your horn in a built-up area between 11.30 pm and 7.00 am. The exception to this is when another road user poses a danger.</text>
+		<voice id="AB2551-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Between 8 pm and 8 am</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Between 9 pm and dawn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Between dusk and 8 am</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Between 11.30 pm and 7 am</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2893" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r126</xref>
+		<text>You are on a good, dry, road surface. Your brakes and tyres are good. What is the typical overall stopping distance at 40 mph?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2893-1"/>
+	<explanation>
+		<text>Stopping distances are affected by a number of variable factors. These include the type, model and condition of your vehicle, road and weather conditions, and your reaction time. Look well ahead for hazards and leave enough space between you and the vehicle in front. This should allow you to pull up safely if you have to, without braking sharply.</text>
+		<voice id="AB2893-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>23 metres (75 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>36 metres (118 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>53 metres (175 feet)</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>96 metres (315 feet)</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

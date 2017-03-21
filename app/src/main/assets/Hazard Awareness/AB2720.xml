@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2720" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r213</xref>
+		<text>What is the main hazard you should be aware of when following this cyclist?</text>
+		<graphic>AB2720.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2720-1"/>
+	<explanation>
+		<text>When following a cyclist be aware that they have to deal with the hazards around them. They may wobble or swerve to avoid a pothole in the road or see a potential hazard and change direction suddenly. Don’t follow them too closely or rev your engine impatiently.</text>
+		<voice id="AB2720-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The cyclist may move to the left and dismount</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The cyclist may swerve out into the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The contents of the cyclist’s carrier may fall onto the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The cyclist may wish to turn right at the end of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

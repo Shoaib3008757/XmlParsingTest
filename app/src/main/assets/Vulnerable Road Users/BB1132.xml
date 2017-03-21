@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1132" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r202</xref>
+		<text>You are about to reverse into a side road. A pedestrian wishes to cross behind you. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1132-1"/>
+	<explanation>
+		<text>If you need to reverse into a side road try to find a place that’s free from traffic and pedestrians. Look all around before and during the manoeuvre. Stop and give way to any pedestrians who want to cross behind you. Avoid waving them across, sounding the horn, flashing your lights or giving any misleading signals that could lead them into a dangerous situation.</text>
+		<voice id="BB1132-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>wave to the pedestrian to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to the pedestrian</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wave to the pedestrian to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>reverse before the pedestrian starts to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

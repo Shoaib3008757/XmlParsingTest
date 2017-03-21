@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1788" topic="Incidents, Accidents and Emergencies" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC r286</xref>
+		<text>You have a collision whilst your car is moving. What is the FIRST thing you must do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1788-1"/>
+	<explanation>
+		<text>If you are in a collision that causes damage or injury to any other person, vehicle, animal or property, by law you MUST STOP. Give your name, the vehicle owner’s name and address, and the vehicle’s registration number to anyone who has reasonable grounds for requiring them.</text>
+		<voice id="BB1788-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Stop only if someone waves at you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Call the emergency services</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop at the scene of the incident</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Call your insurance company</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

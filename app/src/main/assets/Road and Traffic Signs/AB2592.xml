@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2592" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p135</xref>
+		<text>You are on a motorway. You see this sign on a lorry that has stopped in the right-hand lane. You should</text>
+		<graphic>AB2592.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2592-1"/>
+	<explanation>
+		<text>Sometimes work is carried out on the motorway without closing the lanes. When this happens, signs are mounted on the back of lorries to warn other road users of roadworks ahead.</text>
+		<voice id="AB2592-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>move into the right-hand lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>stop behind the flashing lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>pass the lorry on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave the motorway at the next exit</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

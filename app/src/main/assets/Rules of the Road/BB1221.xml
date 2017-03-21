@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1221" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r240</xref>
+		<text>A cycle lane is marked by a solid white line. You must not drive or park in it</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1221-1"/>
+	<explanation>
+		<text>The cycle lanes are there for a reason. Keep them free and allow cyclists to use them. It is illegal to drive or park in a cycle lane, marked by a solid white line, during its hours of operation. Parking in a cycle lane will obstruct cyclists and they may move into the path of traffic on the main carriageway as they ride around the obstruction. This could be hazardous for both the cyclist and other road users.</text>
+		<voice id="BB1221-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>during the rush hour</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>if a cyclist is using it</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>during its period of operation</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2668" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s8, HC r146</xref>
+		<text>At a crossroads there are no signs or road markings. Two vehicles approach. Which has priority?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2668-1"/>
+	<explanation>
+		<text>At a crossroads where there are no ‘give way’ signs or road markings be very careful. No vehicle has priority, even if the sizes of the roads are different.</text>
+		<voice id="AB2668-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Neither of the vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The vehicle travelling the fastest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Oncoming vehicles turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicles approaching from the right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

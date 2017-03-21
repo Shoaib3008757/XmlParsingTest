@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2845" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r261, HC p40</xref>
+		<text>You are travelling on a motorway. Unless signs show a lower speed limit you must NOT exceed</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2845-1"/>
+	<explanation>
+		<text>The national speed limit for a car or motorcycle on the motorway is 70 mph. Lower speed limits may be in force, for example at roadworks, so look out for the signs. Variable speed limits operate in some areas to control very busy stretches of motorway. The speed limit may change depending on the volume of traffic.</text>
+		<voice id="AB2845-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>50 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>60 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>70 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>80 mph</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

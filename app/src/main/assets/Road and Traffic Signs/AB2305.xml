@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2305" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p30</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2305.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2305-1"/>
+	<explanation>
+		<text>Avoid blocking tram routes. Trams are fixed on their route and can’t manoeuvre around other vehicles and pedestrians. Modern trams travel quickly and are quiet so you might not hear them approaching.</text>
+		<voice id="AB2305-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Route for trams only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Route for buses only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parking for buses only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Parking for trams only</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

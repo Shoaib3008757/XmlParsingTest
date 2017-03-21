@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="xmlparsingtest.ranglerz.com.xmlparsingtest.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:background="@drawable/activity_background">
+
+    <!--<WebView-->
+        <!--android:id="@+id/webView1"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--/>-->
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Learn By Chapter"
+        android:id="@+id/buttonLearnByChapter"
+        android:onClick="learnByChapter"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/buttonTakeTest"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Take Test"
+        android:id="@+id/buttonTakeTest"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="takeTest"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Category Test"
+        android:id="@+id/buttonCategoryTest"
+        android:layout_below="@+id/buttonTakeTest"
+        android:onClick="takeCategoryTest"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Progress"
+        android:id="@+id/buttonViewProgress"
+        android:layout_below="@+id/buttonCategoryTest"
+        android:onClick="viewProgress"
+        android:layout_centerInParent="true"
+        />
+
+
+    <TextView
+        android:text="Copyright Notice\nCopyright Â© Abel School of Motoring (2001-2016), Manchester, United Kingdom. All Rights Reserved.
+The software / software licence entitles you to use the software on 1 computer.
+It is strictly prohibited to copy, reproduce, modify, or any parts of this software or any other contents of this App.
+ABEL School of Motoring | Manchester | United Kingdom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewLegalNotice"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"
+        android:padding="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        />
+
+
+
+
+</RelativeLayout>

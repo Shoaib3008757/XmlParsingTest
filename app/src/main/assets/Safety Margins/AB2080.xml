@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2080" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r232-233</xref>
+		<text>In windy conditions you need to take extra care when</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2080-1"/>
+	<explanation>
+		<text>You should always give cyclists plenty of room when overtaking. When it’s windy, a sudden gust could blow them off course.</text>
+		<voice id="AB2080-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>using the brakes</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>making a hill start</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>turning into a narrow road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>passing pedal cyclists</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2678" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r174, HC p116, KYTS p67</xref>
+		<text>What is the reason for the yellow criss-cross lines painted on the road here?</text>
+		<graphic>AB2678.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2678-1"/>
+	<explanation>
+		<text>Yellow ‘box junctions’ like this are often used where it’s busy. Their purpose is to keep the junction clear for crossing traffic. Don’t enter the painted area unless your exit is clear. The exception to this is when you are turning right and are only prevented from doing so by oncoming traffic or by other vehicles waiting to turn right.</text>
+		<voice id="AB2678-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To mark out an area for trams only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To prevent queuing traffic from blocking the junction on the left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To mark the entrance lane to a car park</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn you of the tram lines crossing the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

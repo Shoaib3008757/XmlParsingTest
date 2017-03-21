@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1075" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s9, HC r252</xref>
+		<text>What should you do when parking your vehicle facing downhill?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1075-1"/>
+	<explanation>
+		<text>Turning the wheels towards the kerb will allow them to act as a chock, preventing any forward movement of the vehicle. It will also help to leave your car in gear, or select ‘Park’ if you have an automatic.</text>
+		<voice id="BB1075-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Turn the steering wheel towards the kerb</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park close to the bumper of another car</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Park with two wheels on the kerb</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn the steering wheel away from the kerb</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

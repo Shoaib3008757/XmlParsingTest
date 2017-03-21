@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2913" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16</xref>
+		<text>At the scene of a traffic incident you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2913-1"/>
+	<explanation>
+		<text>It’s important that people at the scene of a collision do not create further risk to themselves or others. If the incident is on a motorway or major road, traffic will be approaching at speed. Do not put yourself at risk when trying to help casualties or warning other road users.</text>
+		<voice id="AB2913-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>not put yourself at risk</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go to those casualties who are screaming</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>pull everybody out of their vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave vehicle engines switched on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

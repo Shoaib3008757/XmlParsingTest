@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2184" topic="Other Types of Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r164, HC r222</xref>
+		<text>Before overtaking a large vehicle you should keep well back. Why is this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2184-1"/>
+	<explanation>
+		<text>When following a large vehicle keep well back. If you’re too close you won’t be able to see the road ahead and the driver of the long vehicle might not be able to see you in their mirrors.</text>
+		<voice id="AB2184-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To give acceleration space to overtake quickly on blind bends</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To get the best view of the road ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To leave a gap in case the vehicle stops and rolls back</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To offer other drivers a safe gap if they want to overtake you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2294" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p106, KYTS p9, KYTS p16</xref>
+		<text>Traffic signs giving orders are generally which shape?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2294-1"/>
+	<explanation>
+		<text>Road signs in the shape of a circle give orders. Those with a red circle are mostly prohibitive. The ‘stop’ sign is octagonal to give it greater prominence. Signs giving orders MUST always be obeyed.</text>
+		<voice id="AB2294-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2294a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2294b.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>AB2294c.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>AB2294d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2900" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You are going through a long tunnel. What will warn you of congestion or an incident ahead?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2900-1"/>
+	<explanation>
+		<text>Follow the instructions given by the signs or by tunnel officials. In congested tunnels a minor incident can soon turn into a major one with serious or even fatal results.</text>
+		<voice id="AB2900-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Hazard warning lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Other drivers flashing their lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Variable message signs</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Areas marked with hatch markings</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

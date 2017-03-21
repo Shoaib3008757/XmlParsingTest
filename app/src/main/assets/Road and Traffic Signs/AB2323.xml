@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2323" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p73</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2323.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2323-1"/>
+	<explanation>
+		<text>Don’t force your way through if oncoming vehicles fail to give way. If necessary, slow down and give way to avoid confrontation or a collision.</text>
+		<voice id="AB2323-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No overtaking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You are entering a one-way street</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Two-way traffic ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>You have priority over vehicles from the opposite direction</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

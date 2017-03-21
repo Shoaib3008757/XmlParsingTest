@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2772" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p116, KYTS p69</xref>
+		<text>This marking appears on the road just before a</text>
+		<graphic>AB2772.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2772-1"/>
+	<explanation>
+		<text>Where you see this road marking you should give way to traffic on the main road. It might not be used at junctions where there is relatively little traffic. However, if there is a double broken line across the junction the ‘give way’ rules still apply.</text>
+		<voice id="AB2772-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>‘no entry’ sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>‘give way’ sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>‘stop’ sign</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>‘no through road’ sign</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

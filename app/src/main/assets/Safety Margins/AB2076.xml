@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2076" topic="Safety Margins" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r126</xref>
+		<text>Freezing conditions will affect the distance it takes you to come to a stop. You should expect stopping distances to increase by up to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2076-1"/>
+	<explanation>
+		<text>Your tyre grip is greatly reduced on icy roads and you need to allow up to ten times the normal stopping distance.</text>
+		<voice id="AB2076-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>two times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>three times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>five times</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>ten times</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

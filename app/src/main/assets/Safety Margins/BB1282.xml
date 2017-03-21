@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1282" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, DES s7, HC r160</xref>
+		<text>You are on a long, downhill slope. What should you do to help control the speed of your vehicle?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1282-1"/>
+	<explanation>
+		<text>Selecting a low gear when travelling downhill will help you to control your speed. The engine will assist the brakes and help prevent your vehicle gathering speed.</text>
+		<voice id="BB1282-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Select neutral</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Select a lower gear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Grip the handbrake firmly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Apply the parking brake gently</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

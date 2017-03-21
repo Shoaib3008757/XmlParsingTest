@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2823" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s11, HC r267</xref>
+		<text>For what reason may you use the right-hand lane of a motorway?</text>
+		<graphic>AB2823.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2823-1"/>
+	<explanation>
+		<text>The right-hand lane of the motorway is for overtaking. Sometimes you may be directed into a right-hand lane as a result of roadworks or a traffic incident. This will be indicated by signs or officers directing the traffic.</text>
+		<voice id="AB2823-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>For keeping out of the way of lorries</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>For travelling at more than 70 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>For turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>For overtaking other vehicles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

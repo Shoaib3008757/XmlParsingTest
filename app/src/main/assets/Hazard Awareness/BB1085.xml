@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1085" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r293, KYTS p27</xref>
+		<text>You are driving towards this level crossing. What would be the first warning of an approaching train?</text>
+		<graphic>BB1085.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1085-1"/>
+	<explanation>
+		<text>The steady amber light will be followed by twin flashing red lights that mean you must stop. An alarm will also sound to alert you to the fact that a train is approaching.</text>
+		<voice id="BB1085-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Both half barriers down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>A steady amber light</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>One half barrier down</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Twin flashing red lights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

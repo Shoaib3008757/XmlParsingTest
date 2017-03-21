@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1633" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10</xref>
+		<text>You are waiting to emerge from a junction. The windscreen pillar is restricting your view. What should you be particularly aware of?</text>
+		<graphic>BB1633.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1633-1"/>
+
+<explanation>
+		<text>Windscreen pillars can completely block your view of pedestrians, motorcyclists and pedal cyclists. You should particularly watch out for these road users; don’t just rely on a quick glance. Where possible make eye contact with them so you can be sure they have seen you too.</text>
+		<voice id="BB1633-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Lorries</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Buses</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Motorcyclists</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Coaches</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

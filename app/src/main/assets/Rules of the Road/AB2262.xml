@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2262" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p55</xref>
+		<text>On a clearway you must not stop</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2262-1"/>
+	<explanation>
+		<text>Clearways are in place so that traffic can flow without the obstruction of parked vehicles. Just one parked vehicle will cause an obstruction for all other traffic. You MUST NOT stop where a clearway is in force, not even to pick up or set down passengers.</text>
+		<voice id="AB2262-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>at any time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>when it is busy</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>in the rush hour</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>during daylight hours</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

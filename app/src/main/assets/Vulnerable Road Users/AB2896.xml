@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2896" topic="Vulnerable Road Users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, DES s10, HC r211-213</xref>
+		<text>When you are overtaking a cyclist you should leave as much room as you would give to a car. What is the main reason for this?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2896-1"/>
+	<explanation>
+		<text>Before overtaking assess the situation. Look well ahead to see if the cyclist will need to change direction. Be especially aware of the cyclist approaching parked vehicles as they will need to alter course. Do not pass too closely or cut in sharply.</text>
+		<voice id="AB2896-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The cyclist might speed up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The cyclist might get off the bike</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The cyclist might swerve</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>The cyclist might have to make a left turn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

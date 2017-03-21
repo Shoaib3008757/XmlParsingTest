@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1139" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r196</xref>
+		<text>What must a driver do at a pelican crossing when the amber light is flashing?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1139-1"/>
+	<explanation>
+		<text>The flashing amber light allows pedestrians already on the crossing to get to the other side before a green light shows to the traffic. Be aware that some pedestrians, such as elderly people and young children, need longer to cross. Let them do this at their own pace.</text>
+		<voice id="BB1139-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Signal the pedestrian to cross</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Always wait for the green light before proceeding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Give way to any pedestrians on the crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wait for the red-and-amber light before proceeding</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

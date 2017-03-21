@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2725" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p116, KYTS p70-71</xref>
+		<text>Why are place names painted on the road surface?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2725-1"/>
+	<explanation>
+		<text>The names of towns and cities may be painted on the road at busy junctions and complex road systems. Their purpose is to let you move into the correct lane in good time, allowing traffic to flow more freely.</text>
+		<voice id="AB2725-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To restrict the flow of traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To warn you of oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To enable you to change lanes early</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To prevent you changing lanes</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2930" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p133</xref>
+		<text>You arrive at an incident where someone is suffering from severe burns. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2930-1"/>
+	<explanation>
+		<text>Use a liquid that is clean, cold and non-toxic, preferably water. Its coolness will help take the heat out of the burn and relieve the pain. Keep the wound doused for at least ten minutes. If blisters appear don’t attempt to burst them as this could lead to infection.</text>
+		<voice id="AB2930-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>apply lotions to the injury</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>burst any blisters</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>remove anything stuck to the burns</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>douse the burns with clean cool non-toxic liquid</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

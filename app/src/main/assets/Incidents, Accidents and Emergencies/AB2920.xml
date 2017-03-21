@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2920" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>At an incident someone is unconscious. What would your priority be?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2920-1"/>
+	<explanation>
+		<text>Remember this procedure by saying DR ABC. This stands for Danger, Response, Airway, Breathing, Compressions. Give whatever first aid you can and stay with the injured person until the emergency services arrive.</text>
+		<voice id="AB2920-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Find out their name</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Wake them up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make them comfortable</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Check their airway is clear</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

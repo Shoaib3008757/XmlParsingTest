@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1121" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, DES s11, HC r91</xref>
+		<text>You’re driving along a motorway and become tired. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1121-1"/>
+	<explanation>
+		<text>Plan your journey to include rest stops. This should ensure you don’t become tired while driving and you arrive at your destination in good time.</text>
+		<voice id="BB1121-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>pull up on the hard shoulder and change drivers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>leave the motorway at the next exit and rest</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your speed and turn up the radio volume</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>close all your windows and set the heating to warm</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1496" topic="Alertness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r149</xref>
+		<text>Your vehicle is fitted with a hand-held telephone. To use the telephone you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1496-1"/>
+
+<explanation>
+		<text>Your attention should be on your driving at all times. Except in a genuine emergency never attempt to use a hand-held phone while on the move. It’s illegal and very dangerous. Your eyes could wander from the road and at 60 mph your vehicle will travel about 27 metres (89 feet) every second.</text>
+		<voice id="BB1496-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>reduce your speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>find a safe place to stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>steer the vehicle with one hand</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>be particularly careful at junctions</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

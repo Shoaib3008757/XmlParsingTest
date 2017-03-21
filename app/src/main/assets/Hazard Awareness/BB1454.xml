@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1454" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p128-129</xref>
+		<text>You are driving on this dual carriageway. Why may you need to slow down?</text>
+		<graphic>BB1454.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1454-1"/>
+	<explanation>
+		<text>Look well ahead and read any road signs as you drive. They are there to inform you of what is ahead. In this case you may need to slow right down and change direction. Make sure you can take whatever action is necessary in plenty of time. Check your mirrors so you know what is happening around you before you change speed or direction.</text>
+		<voice id="BB1454-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>There is a broken white line in the centre</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There are solid white lines either side</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>There are roadworks ahead of you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>There are no footpaths</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

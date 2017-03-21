@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1235" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p114, KYTS p65</xref>
+		<text>The white line along the side of the road</text>
+		<graphic>BB1235.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1235-1"/>
+	<explanation>
+		<text>A continuous white line is used on many roads to indicate the edge of the carriageway. This can be useful when visibility is restricted. The line is discontinued at junctions, lay-bys and entrances and exits from private drives.</text>
+		<voice id="BB1235-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>shows the edge of the carriageway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>shows the approach to a hazard</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>means no parking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>means no overtaking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

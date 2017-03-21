@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0601" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r213</xref>
+		<text>You are driving behind a cyclist and the road has potholes and cracks. Further ahead there’s a roundabout. A horse rider is approaching it in the left-hand lane. In a built-up area with street lights, you see a school sign with a flashing amber signal. There are no speed limit signs. Later, you stop at the red light of a pedestrian crossing. The person crossing carries a red-banded white stick and has a guide dog wearing a red and white checked harness.</text>
+		<part>What might the cyclist need to do on this road surface?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0601-1"/>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Swerve</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Speed up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn round</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0601-2"/>
+	</explanation>
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1750" topic="Documents" category="Car" ni_exempt="yes">
+	<question>
+		<xref>DES s1, DES s11</xref>
+		<text>The Pass Plus scheme is designed to</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1750-1"/>
+	<explanation>
+		<text>After passing your practical driving test you can take further training. This is known as the Pass Plus scheme. It is designed to improve your basic driving skills and involves a series of modules including night time and motorway driving. The sort of things you may not have covered whilst learning.</text>
+		<voice id="BB1750-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>give you a discount on your MOT</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>improve your basic driving skills</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>increase your mechanical knowledge</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>allow you to drive anyone else’s vehicle</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

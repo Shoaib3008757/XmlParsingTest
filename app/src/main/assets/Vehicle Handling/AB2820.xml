@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2820" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC r213</xref>
+		<text>The road is wet. Why might a motorcyclist steer round drain covers on a bend?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2820-1"/>
+	<explanation>
+		<text>Other drivers or riders may have to change course due to the size or characteristics of their vehicle. Understanding this will help you to anticipate their actions. Motorcyclists and cyclists will be checking the road ahead for uneven or slippery surfaces, especially in wet weather. They may need to move across their lane to avoid surface hazards such as potholes and drain covers.</text>
+		<voice id="AB2820-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>To avoid puncturing the tyres on the edge of the drain covers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>To prevent the motorcycle sliding on the metal drain covers</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To help judge the bend using the drain covers as marker points</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>To avoid splashing pedestrians on the pavement</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2931" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p132</xref>
+		<text>You arrive at an incident. A pedestrian is bleeding heavily from a leg wound. The leg isn’t broken and there’s nothing in the wound. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2931-1"/>
+	<explanation>
+		<text>If there’s nothing in the wound, applying a pad of clean cloth or bandage will help stem the bleeding. Raising the leg will also lessen the flow of blood. Don’t tie anything tightly round the leg, as this will restrict circulation and could result in long-term injury.</text>
+		<voice id="AB2931-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Dab the wound to stop bleeding</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Keep both legs flat on the ground</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Fetch them a warm drink</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Raise the leg to lessen bleeding</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

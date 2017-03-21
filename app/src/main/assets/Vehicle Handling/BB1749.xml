@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1749" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r115</xref>
+		<text>When MUST you use dipped headlights during the day?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1749-1"/>
+	<explanation>
+		<text>You MUST use dipped headlights and/or fog lights in fog when visibility is seriously reduced to 100 metres (328 feet) or less. You should use dipped headlights, but NOT fog lights, when visibility is poor, such as in heavy rain.</text>
+		<voice id="BB1749-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>All the time</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Along narrow streets</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>In poor visibility</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When parking</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

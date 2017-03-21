@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1672" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r211</xref>
+		<text>You are driving past parked cars. You notice a bicycle wheel sticking out between them. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1672-1"/>
+	<explanation>
+		<text>Scan the road as you drive. Try to anticipate hazards by being aware of the places where they are likely to occur. You’ll then be able to react in good time, if necessary.</text>
+		<voice id="BB1672-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Accelerate past quickly and sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Slow down and wave the cyclist across</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Brake sharply and flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down and be prepared to stop for a cyclist</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

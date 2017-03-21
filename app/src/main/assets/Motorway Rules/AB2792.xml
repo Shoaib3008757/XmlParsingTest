@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2792" topic="Motorway Rules" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18, HC r269</xref>
+		<text>You are in an Active Traffic Management area on a motorway. When the Actively Managed mode is operating</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2792-1"/>
+	<explanation>
+		<text>When an Active Traffic Management (ATM) scheme is operating on a motorway you MUST follow the mandatory instructions shown on the gantries above each lane. This includes the hard shoulder.</text>
+		<voice id="AB2792-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>speed limits are only advisory</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the national speed limit will apply</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>the speed limit is always 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>all speed limit signals are set</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

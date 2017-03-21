@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2618" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s11, DES s15, DES s16, HC r116</xref>
+		<text>When are you allowed to use hazard warning lights?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2618-1"/>
+	<explanation>
+		<text>You must not use hazard warning lights when moving, except when slowing suddenly on a motorway or unrestricted dual carriageway to warn the traffic behind. Never use hazard warning lights to excuse dangerous or illegal parking.</text>
+		<voice id="AB2618-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>When stopped and temporarily obstructing traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When travelling during darkness without headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When parked for shopping on double yellow lines</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>When travelling slowly because you are lost</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

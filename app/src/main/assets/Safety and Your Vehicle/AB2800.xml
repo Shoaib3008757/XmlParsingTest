@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2800" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s18</xref>
+		<text>How can you plan your route before starting a long journey?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2800-1"/>
+	<explanation>
+		<text>Various route planners are available on the internet. Most of them give you various options allowing you to choose the most direct, quickest or scenic route. They can also include rest and fuel stops and distances. Print them off and take them with you.</text>
+		<voice id="AB2800-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Check your vehicle’s workshop manual</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Ask your local garage</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Use a route planner on the internet</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Consult your travel agents</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

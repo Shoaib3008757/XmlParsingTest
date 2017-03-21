@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2945" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>A collision has just happened. An injured person is lying in a busy road. What is the FIRST thing you should do to help?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2945-1"/>
+	<explanation>
+		<text>The most immediate danger is further collisions and fire. You could warn other traffic by displaying an advance warning triangle or sign (but not on a motorway), switching on hazard warning lights or by any other means that does not put you or others at risk.</text>
+		<voice id="AB2945-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Treat the person for shock</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Warn other traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Place them in the recovery position</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make sure the injured person is kept warm</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2385" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p102, KYTS p119</xref>
+		<text>At traffic lights, amber on its own means</text>
+		<graphic>AB2385.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2385-1"/>
+	<explanation>
+		<text>When amber is showing on its own red will appear next. The amber light means STOP, unless you have already crossed the stop line or you are so close to it that pulling up might cause a collision.</text>
+		<voice id="AB2385-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>prepare to go</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go if the way is clear</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>go if no pedestrians are crossing</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>stop at the stop line</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

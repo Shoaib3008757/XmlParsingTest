@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1764" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r101</xref>
+		<text>You are carrying a child using a rear-facing baby seat. You want to put it on the front passenger seat. What MUST you do before setting off?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1764-1"/>
+	<explanation>
+		<text>You MUST deactivate any frontal passenger airbag when using a rear-facing baby seat in a front passenger seat. It is ILLEGAL if you don’t. If activated in a crash it could cause serious injury or death. Ensure you follow the manufacturers instructions. In some cars this is now done automatically.</text>
+		<voice id="BB1764-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Deactivate all front and rear airbags</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Make sure any front passenger airbag is deactivated</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make sure all the child safety locks are off</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Recline the front passenger seat</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2821" topic="Vehicle Handling" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r121</xref>
+		<text>After this hazard you should test your brakes. Why is this?</text>
+		<graphic>AB2821.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2821-1"/>
+	<explanation>
+		<text>A ford is a crossing over a stream that’s shallow enough to go through. After you’ve gone through a ford or deep puddle the water will affect your brakes. To dry them out apply a light brake pressure while moving slowly. Don’t travel at normal speeds until you are sure your brakes are working properly again.</text>
+		<voice id="AB2821-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>You will be on a slippery road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Your brakes will be soaking wet</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will be going down a long hill</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>You will have just crossed a long bridge</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2702" topic="Alertness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r221</xref>
+		<text>When following a large vehicle you should keep well back because this</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2702-1"/>
+<explanation>
+		<text>If you’re following a large vehicle but are so close to it that you can’t see the exterior mirrors, the driver can’t see you.Keeping well back will also allow you to see the road ahead by looking past either side of the large vehicle.</text>
+		<voice id="AB2702-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>allows you to corner more quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>helps the large vehicle to stop more easily</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>allows the driver to see you in the mirrors</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>helps you to keep out of the wind</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

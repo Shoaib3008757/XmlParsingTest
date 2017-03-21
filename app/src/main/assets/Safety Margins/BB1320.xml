@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1320" topic="Safety Margins" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s3, DES s5, HC r120</xref>
+		<text>Anti-lock brakes can greatly assist with</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1320-1"/>
+	<explanation>
+		<text>If the wheels of your vehicle lock they will not grip the road and you will lose steering control. In good conditions the anti-lock system will prevent the wheels locking and allow you to retain steering control.</text>
+		<voice id="BB1320-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>a higher cruising speed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>steering control when braking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>control when accelerating</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>motorway driving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

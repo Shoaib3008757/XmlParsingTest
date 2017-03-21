@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2313" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p112, KYTS p54</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2313.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2313-1"/>
+	<explanation>
+		<text>Even though you have left the restricted area, make sure that you park where you won’t endanger other road users or cause an obstruction.</text>
+		<voice id="AB2313-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>End of restricted speed area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>End of restricted parking area</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of clearway</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>End of cycle route</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

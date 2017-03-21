@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0202" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r147, HC r168</xref>
+		<text>Sam is driving in heavy traffic. It has rained, but now bright sun is causing glare on the wet road.  A car overtakes, then pulls back sharply into the traffic just in front of Sam.  Further on there’s a roundabout with two lanes on approach. Sam needs to take the first exit, turning left. A large vehicle in front signals left but straddles both lanes.  The traffic is still heavy, and there is a zebra crossing up ahead.  There are people waiting to cross.</text>
+		<part>What should Sam do about the overtaking vehicle?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0202-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Become upset, slow down and use the horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stay focused, speed up and lessen the gap</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Remain calm, slow down and increase the gap</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Feel annoyed, speed up and use the horn</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0202-2"/>
+	</explanation>
+</QF>

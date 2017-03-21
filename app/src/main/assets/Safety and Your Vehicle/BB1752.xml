@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1752" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC r99</xref>
+		<text>Car passengers MUST wear a seat belt/restraint if one is available, unless they are</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1752-1"/>
+	<explanation>
+		<text>If you have adult passengers it is their responsibility to wear a seat belt, but you should still remind them to use them as they get in the car. It is your responsibility to ensure that all children in your car are secured with an appropriate restraint.</text>
+		<voice id="BB1752-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>under 14 years old</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>under 1.5 metres (5 feet) in height</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>sitting in the rear seat</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>exempt for medical reasons</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

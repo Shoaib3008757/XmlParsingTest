@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2847" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p104</xref>
+		<text>What does this signal from a police officer mean to oncoming traffic?</text>
+		<graphic>AB2847.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2847-1"/>
+	<explanation>
+		<text>Police officers may need to direct traffic, for example, at a junction where the traffic lights have broken down. Check your copy of The Highway Code for the signals that they use.</text>
+		<voice id="AB2847-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Go ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn left</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Turn right</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

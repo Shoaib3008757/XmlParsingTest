@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2327" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p21</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2327.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2327-1"/>
+	<explanation>
+		<text>This sign is shown where slow-moving vehicles would impede the flow of traffic, for example in tunnels. However, if you need to slow down or even stop to avoid an incident or potential collision, you should do so.</text>
+		<voice id="AB2327-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Service area 30 miles ahead</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Maximum speed 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Minimum speed 30 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Lay-by 30 miles ahead</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

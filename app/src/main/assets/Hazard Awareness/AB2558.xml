@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2558" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s1, DES s11, HC r91</xref>
+		<text>You’re planning a long journey. Do you need to plan rest stops?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2558-1"/>
+	<explanation>
+		<text>Try to plan your journey so that you can take rest stops. It’s recommended that you take a break of at least 15 minutes after every two hours of driving or riding. This should help to maintain your concentration.</text>
+		<voice id="AB2558-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Yes, you should plan to stop every half an hour</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Yes, regular stops help concentration</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No, you’ll be less tired if you get there as soon as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No, only fuel stops will be needed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

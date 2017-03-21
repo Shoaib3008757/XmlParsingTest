@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="CS0602" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8, DES s10, HC r187</xref>
+		<text>You are driving behind a cyclist and the road has potholes and cracks. Further ahead there’s a roundabout. A horse rider is approaching it in the left-hand lane. In a built-up area with street lights, you see a school sign with a flashing amber signal. There are no speed limit signs. Later, you stop at the red light of a pedestrian crossing. The person crossing carries a red-banded white stick and has a guide dog wearing a red and white checked harness.</text>
+		<part>What should you expect this horse rider to do next?</part> 
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="CS0602-1"/>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Make a right-hand turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Go in any direction</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Make a left-hand turn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Proceed straight on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	<explanation>
+		<text></text>
+		<voice id="CS0602-2"/>
+	</explanation>
+</QF>

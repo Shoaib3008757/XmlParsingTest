@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1142" topic="Vulnerable Road Users" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r205</xref>
+		<text>You are driving past a line of parked cars. You notice a ball bouncing out into the road ahead. What should you do?</text>
+		<graphic>BB1142.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1142-1"/>
+	<explanation>
+		<text>Beware of children playing in the street and running out into the road. If a ball bounces out from the pavement, slow down and stop. Don’t encourage anyone to retrieve it. Other road users may not see your signal and you might lead a child into a dangerous situation.</text>
+		<voice id="BB1142-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Continue driving at the same speed and sound your horn</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Continue driving at the same speed and flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Slow down and be prepared to stop for children</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Stop and wave the children across to fetch their ball</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

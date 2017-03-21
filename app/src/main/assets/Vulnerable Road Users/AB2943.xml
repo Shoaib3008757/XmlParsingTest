@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2943" topic="Vulnerable road users" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>HC p134</xref>
+		<text>You’ve just passed your test. How can you reduce your risk of being involved in a collision?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2943-1"/>
+	<explanation>
+		<text>New drivers and riders are often involved in a collision or incident early in their driving career. Due to a lack of experience they may not react to hazards as quickly as more experienced road users. Approved training courses are offered by driver and rider training schools for people who have passed their test but want extra training.</text>
+		<voice id="AB2943-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>By always staying close to the vehicle in front</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By never going over 40 mph</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>By staying only in the left-hand lane on all roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>By taking further training</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

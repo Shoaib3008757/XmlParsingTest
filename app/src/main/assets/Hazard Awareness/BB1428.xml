@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1428" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r91</xref>
+		<text>You start to feel tired while driving. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1428-1"/>
+	<explanation>
+		<text>If you start to feel tired, stop at a safe place for a rest break. Every year many fatal incidents are caused by drivers falling asleep at the wheel.</text>
+		<voice id="BB1428-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Increase your speed slightly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Decrease your speed slightly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Find a less busy route</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Pull over at a safe place to rest</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

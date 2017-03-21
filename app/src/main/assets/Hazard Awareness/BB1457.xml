@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1457" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s1, HC r92</xref>
+		<text>You are about to drive home. You cannot find the glasses you need to wear. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1457-1"/>
+	<explanation>
+		<text>Don’t be tempted to drive if you’ve lost or forgotten your glasses. You must be able to see clearly when driving.</text>
+		<voice id="BB1457-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>drive home slowly, keeping to quiet roads</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>borrow a friend’s glasses and use those</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>drive home at night, so that the lights will help you</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>find a way of getting home without driving</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

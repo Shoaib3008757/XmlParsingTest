@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1112" topic="Hazard Awareness" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s2, HC p128</xref>
+		<text>You have been convicted of driving whilst unfit through drink or drugs. You will find this is likely to cause the cost of one of the following to rise considerably. Which one?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1112-1"/>
+	<explanation>
+		<text>You have shown that you are a risk to yourself and others on the road. For this reason insurance companies may charge you a higher premium.</text>
+		<voice id="BB1112-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Road fund licence</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Insurance premiums</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Vehicle test certificate</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Driving licence</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

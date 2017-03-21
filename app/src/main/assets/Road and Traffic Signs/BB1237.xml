@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1237" topic="Road and Traffic Signs" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r103, HC p103</xref>
+		<text>How should you give an arm signal to turn left?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1237-1"/>
+	<explanation>
+		<text>There may be occasions where other road users are unable to see your indicator, such as in bright sunlight or at a busy, complicated junction. In these cases a hand signal will help others to understand your intentions.</text>
+		<voice id="BB1237-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1237a.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1237b.png</graphic>
+		</answer>
+		<answer correct="yes">
+			<text></text>
+			<graphic>BB1237c.png</graphic>
+		</answer>
+		<answer correct="no">
+			<text></text>
+			<graphic>BB1237d.png</graphic>
+		</answer>
+	</answers>
+
+</QF>

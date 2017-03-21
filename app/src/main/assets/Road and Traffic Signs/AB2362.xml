@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2362" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+  <question>
+    <xref>DES s6, HC p109, KYTS p13-14</xref>
+    <text>You are about to overtake when you see this sign. You should</text>
+    <graphic>AB2362.png</graphic>
+    <prompt>Mark one answer</prompt>
+    <voice id="AB2362-1"/>
+  <explanation>
+    <text>You won’t be able to see any hazards that might be hidden in the dip. As well as oncoming traffic the dip may conceal
+      <unorderedlist>
+        <item>• cyclists</item>
+        <item>• horse riders</item>
+        <item>• parked vehicles</item>
+        <item>• pedestrians in the road.</item>
+      </unorderedlist>
+    </text>
+    <voice id="AB2362-2"/>
+  </explanation>
+  </question>
+  <answers>
+    <answer correct="no">
+      <text>overtake the other driver as quickly as possible</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>move to the right to get a better view</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="no">
+      <text>switch your headlights on before overtaking</text>
+      <graphic></graphic>
+    </answer>
+    <answer correct="yes">
+      <text>hold back until you can see clearly ahead</text>
+      <graphic></graphic>
+    </answer>
+  </answers>
+
+</QF>

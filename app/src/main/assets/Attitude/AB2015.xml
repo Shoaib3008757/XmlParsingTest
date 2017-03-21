@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2015" topic="Attitude" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7, HC r195</xref>
+		<text>You should never wave people across at pedestrian crossings because</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2015-1"/>
+
+<explanation>
+		<text>If people are waiting to use a pedestrian crossing, slow down and be prepared to stop. Don’t wave them across the road since another driver may not have seen them, not have seen your signal and may not be able to stop safely.</text>
+		<voice id="AB2015-2"/>
+	</explanation>
+
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>there may be another vehicle coming</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they may not be looking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>it is safer for you to carry on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>they may not be ready to cross</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+	
+</QF>

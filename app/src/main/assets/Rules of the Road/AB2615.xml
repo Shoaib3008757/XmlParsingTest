@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2615" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s7</xref>
+		<text>You meet an obstruction on your side of the road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2615-1"/>
+	<explanation>
+		<text>Take care if you have to pass a parked vehicle on your side of the road. Give way to oncoming traffic if there isn’t enough room for you both to continue safely.</text>
+		<voice id="AB2615-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>carry on, you have priority</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>give way to oncoming traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wave oncoming vehicles through</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>accelerate to get past first</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2378" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p113, KYTS p129</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2378.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2378-1"/>
+	<explanation>
+		<text>Yellow and black temporary signs may be used to inform you of roadworks or lane restrictions. Look well ahead. If you have to change lanes, do so in good time.</text>
+		<voice id="AB2378-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>The right-hand lane ahead is narrow</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right-hand lane for buses only</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Right-hand lane for turning right</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>The right-hand lane is closed</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

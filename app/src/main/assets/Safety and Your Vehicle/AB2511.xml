@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2511" topic="Safety and Your Vehicle" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>Catalytic converters are fitted to make the</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2511-1"/>
+	<explanation>
+		<text>Harmful gases in the exhaust system pollute the atmosphere. These gases are reduced by up to 90% if a catalytic converter is fitted. Cleaner air benefits everyone, especially people who live or work near congested roads.</text>
+		<voice id="AB2511-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>engine produce more power</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>exhaust system easier to replace</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>engine run quietly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>exhaust fumes cleaner</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

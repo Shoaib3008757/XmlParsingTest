@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1206" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>HC r145</xref>
+		<text>You may drive over a footpath</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1206-1"/>
+	<explanation>
+		<text>It is against the law to drive on or over a footpath, except to gain access to a property. If you need to cross a pavement, watch for pedestrians in both directions.</text>
+		<voice id="BB1206-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>to overtake slow-moving traffic</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>when the pavement is very wide</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>if no pedestrians are near</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>to get into a property</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1181" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s12, HC r251</xref>
+		<text>You have to park on the road in fog. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1181-1"/>
+	<explanation>
+		<text>If you have to park your vehicle in foggy conditions it’s important that it can be seen by other road users. Try to find a place to park off the road. If this isn’t possible leave it facing in the same direction as the traffic. Make sure that your lights are clean and that you leave your sidelights on.</text>
+		<voice id="BB1181-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>leave sidelights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave dipped headlights and fog lights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave dipped headlights on</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>leave main beam headlights on</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

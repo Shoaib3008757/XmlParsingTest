@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2886" topic="Road and Traffic Signs" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC p107, KYTS p32</xref>
+		<text>What does this sign mean?</text>
+		<graphic>AB2886.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2886-1"/>
+	<explanation>
+		<text>Buses and cycles can travel in this lane. In this case they will flow in the same direction as other traffic. If it’s busy they may be passing you on the left, so watch out for them. Times on the sign will show its hours of operation. No times shown, or no sign at all, means it’s 24 hours. In some areas other vehicles, such as taxis and motorcycles, are allowed to use bus lanes. The sign will show these.</text>
+		<voice id="AB2886-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>With-flow bus and cycle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Contraflow bus and cycle lane</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No buses and cycles allowed</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>No waiting for buses and cycles</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

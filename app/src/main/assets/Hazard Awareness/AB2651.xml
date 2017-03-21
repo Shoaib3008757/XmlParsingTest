@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2651" topic="Hazard Awareness" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s6, HC r176</xref>
+		<text>You are approaching crossroads. The traffic lights have failed. What should you do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2651-1"/>
+	<explanation>
+		<text>When approaching a junction where the traffic lights have failed, you should proceed with caution. Treat the situation as an unmarked junction and be prepared to stop.</text>
+		<voice id="AB2651-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Brake and stop only for large vehicles</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Brake sharply to a stop before looking</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Be prepared to brake sharply to a stop</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Be prepared to stop for any traffic</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

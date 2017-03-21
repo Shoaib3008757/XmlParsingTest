@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2264" topic="Rules of the Road" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>KYTS p54</xref>
+		<text>What is the meaning of this sign?</text>
+		<graphic>AB2264.png</graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2264-1"/>
+	<explanation>
+		<text>This sign indicates that there are waiting restrictions. It is normally accompanied by details of when restrictions are in force. Details of most signs which are in common use are shown in The Highway Code and a more comprehensive selection is available in Know Your Traffic Signs.</text>
+		<voice id="AB2264-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>No entry</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Waiting restrictions</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>National speed limit</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>School crossing patrol</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

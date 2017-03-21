@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1638" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s10, HC r169</xref>
+		<text>You are driving a slow-moving vehicle on a narrow winding road. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1638-1"/>
+	<explanation>
+		<text>Try not to hold up a queue of traffic. Other road users may become impatient and this could lead to reckless actions. If you’re driving a slow-moving vehicle and the road is narrow, look for a safe place to pull in. DON’T wave other traffic past since this could be dangerous if you or they haven’t seen an oncoming vehicle.</text>
+		<voice id="BB1638-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>keep well out to stop vehicles overtaking dangerously</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>wave following vehicles past you if you think they can overtake quickly</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>pull in safely when you can, to let following vehicles overtake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>give a left signal when it is safe for vehicles to overtake you</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

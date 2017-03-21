@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1473" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s11</xref>
+		<text>You are on a well-lit motorway at night. You must</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1473-1"/>
+	<explanation>
+		<text>If you’re driving on a motorway at night or in poor visibility, you must always use your headlights, even if the road is well-lit. The other road users in front must be able to see you in their mirrors.</text>
+		<voice id="BB1473-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>use only your sidelights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>always use your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>always use rear fog lights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use headlights only in bad weather</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

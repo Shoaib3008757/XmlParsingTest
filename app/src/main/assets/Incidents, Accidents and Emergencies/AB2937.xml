@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="AB2937" topic="Incidents, Accidents and Emergencies" category="C&amp;M" ni_exempt="no">
+	<question>
+		<xref>DES s16, HC p131</xref>
+		<text>After a collision someone is unconscious in their vehicle. When should you call the emergency services?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="AB2937-1"/>
+	<explanation>
+		<text>It is important to make sure that emergency services arrive on the scene as soon as possible. When a person is unconscious, they could have serious injuries that are not immediately obvious.</text>
+		<voice id="AB2937-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Only as a last resort</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>As soon as possible</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>After you have woken them up</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>After checking for broken bones</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

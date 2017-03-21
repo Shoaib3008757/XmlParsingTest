@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1637" topic="Attitude" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s13, HC r115</xref>
+		<text>You are driving at night on an unlit road behind another vehicle. You should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1637-1"/>
+	<explanation>
+		<text>If you follow another vehicle with your headlights on full beam they could dazzle the driver. Leave a safe distance and ensure that the light from your dipped beam falls short of the vehicle in front.</text>
+		<voice id="BB1637-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>flash your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>use dipped beam headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>switch off your headlights</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>use full beam headlights</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

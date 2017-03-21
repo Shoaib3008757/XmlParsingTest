@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1508" topic="Safety and Your Vehicle" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s17</xref>
+		<text>You service your own vehicle. How should you get rid of the old engine oil?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1508-1"/>
+	<explanation>
+		<text>It is illegal to pour engine oil down any drain. Oil is a pollutant and harmful to wildlife. Dispose of it safely at an authorised site.</text>
+		<voice id="BB1508-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="yes">
+			<text>Take it to a local authority site</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Pour it down a drain</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Tip it into a hole in the ground</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Put it into your dustbin</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

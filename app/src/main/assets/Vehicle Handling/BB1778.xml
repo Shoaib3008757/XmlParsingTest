@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1778" topic="Vehicle Handling" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s5, HC r119</xref>
+		<text>You are braking on a wet road. Your vehicle begins to skid. It does not have anti-lock brakes. What is the FIRST thing you should do?</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1778-1"/>
+	<explanation>
+		<text>If the skid has been caused by braking too hard for the conditions, release the brake. You may then need to reapply and release the brake again. You may need to do this a number of times. This will allow the wheels to turn and so limit the skid. Skids are much easier to get into than they are to get out of. Prevention is better than cure. Stay alert to the road and weather conditions. Drive so that you can stop within the distance you can see to be clear.</text>
+		<voice id="BB1778-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>Quickly pull up the handbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>Release the footbrake</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Push harder on the brake pedal</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>Gently use the accelerator</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>

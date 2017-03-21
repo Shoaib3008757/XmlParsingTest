@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QF id="BB1225" topic="Rules of the Road" category="Car" ni_exempt="no">
+	<question>
+		<xref>DES s8</xref>
+		<text>While driving, you intend to turn left into a minor road. On the approach you should</text>
+		<graphic></graphic>
+		<prompt>Mark one answer</prompt>
+		<voice id="BB1225-1"/>
+	<explanation>
+		<text>Don’t swing out into the centre of the road in order to make the turn. This could endanger oncoming traffic and may cause other road users to misunderstand your intentions.</text>
+		<voice id="BB1225-2"/>
+	</explanation>
+	</question>
+	<answers>
+		<answer correct="no">
+			<text>keep just left of the middle of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>keep in the middle of the road</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="no">
+			<text>swing out wide just before turning</text>
+			<graphic></graphic>
+		</answer>
+		<answer correct="yes">
+			<text>keep well to the left of the road</text>
+			<graphic></graphic>
+		</answer>
+	</answers>
+
+</QF>
